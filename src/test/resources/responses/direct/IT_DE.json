@@ -1,0 +1,1221 @@
+{
+  "search_id": "c3bbf990-9630-4c02-90d0-b9deb917b5cb",
+  "currency": "EUR",
+  "fx_rate": 1,
+  "data": [
+    {
+      "id": "07f0244a512f00009e350628_0",
+      "flyFrom": "MXP",
+      "flyTo": "DTM",
+      "cityFrom": "Milan",
+      "cityCodeFrom": "MIL",
+      "cityTo": "Dortmund",
+      "cityCodeTo": "DTM",
+      "countryFrom": {
+        "code": "IT",
+        "name": "Italy"
+      },
+      "countryTo": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "local_departure": "2028-11-26T11:20:00.000Z",
+      "utc_departure": "2028-11-26T10:20:00.000Z",
+      "local_arrival": "2028-11-26T12:55:00.000Z",
+      "utc_arrival": "2028-11-26T11:55:00.000Z",
+      "nightsInDest": null,
+      "quality": 31.666666984558105,
+      "distance": 660.55,
+      "duration": {
+        "departure": 5700,
+        "return": 0,
+        "total": 5700
+      },
+      "price": 19,
+      "conversion": {
+        "EUR": 19
+      },
+      "fare": {
+        "adults": 19,
+        "children": 0,
+        "infants": 0
+      },
+      "bags_price": {
+        "1": 39.5,
+        "2": 79
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 39.5,
+          "2": 79
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "W4"
+      ],
+      "route": [
+        {
+          "id": "07f0244a512f00009e350628_0",
+          "combination_id": "07f0244a512f00009e350628",
+          "flyFrom": "MXP",
+          "flyTo": "DTM",
+          "cityFrom": "Milan",
+          "cityCodeFrom": "MIL",
+          "cityTo": "Dortmund",
+          "cityCodeTo": "DTM",
+          "local_departure": "2028-11-26T11:20:00.000Z",
+          "utc_departure": "2028-11-26T10:20:00.000Z",
+          "local_arrival": "2028-11-26T12:55:00.000Z",
+          "utc_arrival": "2028-11-26T11:55:00.000Z",
+          "airline": "W4",
+          "flight_no": 6397,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HAm6XEQds1zkmKz5QOaR-MDziTPqb9CJDcSmLk-xJLQYl7H45FO-uXdehCDW2tgLA4hme5VuYTWvy3NTbZNSppM1WF9FAzM2HYMNj_lFdqRxAmuCNjO6146mJNaGcaCwOEpaIvYrsPAPCDSRvlpSd9014PsCCojqRwuOUIPGRA1Xy6b2gwoRty1yJD3z6Kc-mMcWjl9fP1ANAfMONdLKaq8Xpx-ASvt-vUsMgmHOFZO_l0BqBYTkHXUQGhZWEj4RqtdkZ1c6OLnB44929QIOi_IEtV7mMjsouKzyFbSl7MvSSRp5ZSAiQTEaYi8atz8ZidNGVlPfrXkJQcD18GR6C_UIeu2-e9lNdB9vnGOyr2T-eqjRtrzJFRsQaLgKRCdNSwSZeJBvjAB2sD4z1An7TscgP2FWcCxn8rDkKvsBaxrftdDoxedEvwOPBYSP25kWJfrgUbHi1Bj4hHTO483WutcLuFP7dJog2dlep-lkvS2441tjAcXGc-Va8qISBCF-e3M6rFe4adqdUgZUsGalLaIK9r99DevwpZFOEk4ph9HSX2oT-8x2v5zrEHXLexlSAPF2prIsRZnotQARc0i_X8wMPRe8kOdrnfcm4JAcYQm11kc6M-Ly5gAcPAMJQS3vwHrnuSlAplizDvdG3IVCppJkw8MCnh-l7IG-u_wIb0SRDILkBLT7eYMHUluHZoSb6gTQVVPjJ7LSLQDKSg1F4NVBBD4Xdbi6AW7va6nFhxyzhZdYrBFEf61OQegD_-t4YecDNqmVlfaJwuXT4iKL2DF_6pVwnX3HJBMZy6QVbB1ya4USPflyAzlQUUiTOeu50MglgdEZF7a-HuBDw6znjw112Goken7xBTTRMb3MESuk=",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=07f0244a512f00009e350628_0&from=MXP&lang=en&passengers=1&to=DTM&booking_token=HAm6XEQds1zkmKz5QOaR-MDziTPqb9CJDcSmLk-xJLQYl7H45FO-uXdehCDW2tgLA4hme5VuYTWvy3NTbZNSppM1WF9FAzM2HYMNj_lFdqRxAmuCNjO6146mJNaGcaCwOEpaIvYrsPAPCDSRvlpSd9014PsCCojqRwuOUIPGRA1Xy6b2gwoRty1yJD3z6Kc-mMcWjl9fP1ANAfMONdLKaq8Xpx-ASvt-vUsMgmHOFZO_l0BqBYTkHXUQGhZWEj4RqtdkZ1c6OLnB44929QIOi_IEtV7mMjsouKzyFbSl7MvSSRp5ZSAiQTEaYi8atz8ZidNGVlPfrXkJQcD18GR6C_UIeu2-e9lNdB9vnGOyr2T-eqjRtrzJFRsQaLgKRCdNSwSZeJBvjAB2sD4z1An7TscgP2FWcCxn8rDkKvsBaxrftdDoxedEvwOPBYSP25kWJfrgUbHi1Bj4hHTO483WutcLuFP7dJog2dlep-lkvS2441tjAcXGc-Va8qISBCF-e3M6rFe4adqdUgZUsGalLaIK9r99DevwpZFOEk4ph9HSX2oT-8x2v5zrEHXLexlSAPF2prIsRZnotQARc0i_X8wMPRe8kOdrnfcm4JAcYQm11kc6M-Ly5gAcPAMJQS3vwHrnuSlAplizDvdG3IVCppJkw8MCnh-l7IG-u_wIb0SRDILkBLT7eYMHUluHZoSb6gTQVVPjJ7LSLQDKSg1F4NVBBD4Xdbi6AW7va6nFhxyzhZdYrBFEf61OQegD_-t4YecDNqmVlfaJwuXT4iKL2DF_6pVwnX3HJBMZy6QVbB1ya4USPflyAzlQUUiTOeu50MglgdEZF7a-HuBDw6znjw112Goken7xBTTRMb3MESuk=",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "07f0244a51330000e2506361_0",
+      "flyFrom": "MXP",
+      "flyTo": "DTM",
+      "cityFrom": "Milan",
+      "cityCodeFrom": "MIL",
+      "cityTo": "Dortmund",
+      "cityCodeTo": "DTM",
+      "countryFrom": {
+        "code": "IT",
+        "name": "Italy"
+      },
+      "countryTo": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "local_departure": "2028-11-30T11:20:00.000Z",
+      "utc_departure": "2028-11-30T10:20:00.000Z",
+      "local_arrival": "2028-11-30T12:55:00.000Z",
+      "utc_arrival": "2028-11-30T11:55:00.000Z",
+      "nightsInDest": null,
+      "quality": 31.666666984558105,
+      "distance": 660.55,
+      "duration": {
+        "departure": 5700,
+        "return": 0,
+        "total": 5700
+      },
+      "price": 19,
+      "conversion": {
+        "EUR": 19
+      },
+      "fare": {
+        "adults": 19,
+        "children": 0,
+        "infants": 0
+      },
+      "bags_price": {
+        "1": 39.5,
+        "2": 79
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 39.5,
+          "2": 79
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": 3
+      },
+      "airlines": [
+        "W4"
+      ],
+      "route": [
+        {
+          "id": "07f0244a51330000e2506361_0",
+          "combination_id": "07f0244a51330000e2506361",
+          "flyFrom": "MXP",
+          "flyTo": "DTM",
+          "cityFrom": "Milan",
+          "cityCodeFrom": "MIL",
+          "cityTo": "Dortmund",
+          "cityCodeTo": "DTM",
+          "local_departure": "2028-11-30T11:20:00.000Z",
+          "utc_departure": "2028-11-30T10:20:00.000Z",
+          "local_arrival": "2028-11-30T12:55:00.000Z",
+          "utc_arrival": "2028-11-30T11:55:00.000Z",
+          "airline": "W4",
+          "flight_no": 6397,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HrNocLf2qx3se6HruDrQ4uD9zrlENrpFwcL0bxr6MLe-VQWbxiHX8Sh6a-s5SG-21eCKxbuX8ISyUtn5K1ME1WoAuHfXMPHz4_1LxTZKr3bSojE5W-SrOTOdJRiCTqmGabZ9lazySpVklutVGjqxsMYUpW0KI4MIUtulPpvvXn508CjAgYmUXnS8bxlCy5ZMVvDgr-m-Dks9ekXdjKLHYJFfrd40SnmnGBsjM2kxlznytdXLPdb74Mx9NCbYUeqzELxLEqpX7sPP57k8HFjLBMxUZGSmnVRxg3eBkima_AkdYWq3SULM5TILvp3VIy59OcdxMje01rZvH94DZi2CaqqQN8OuCcoEEBzbjd_HqwWpyL4wZld3GAW5vzKFSMlCaHncOXRXuaUeGBgaiCZLgLK2JYPFI1V_qDK36VuQibPo5vDWUGstgeaNdla9p-FOcH53PKCgEkUUt5kH69PoGYOskhqA9m_Dav6ML1iUKo4qjH7uG8OoFJLtPE6nwY7yK3a9hrgwoSqcWQ3vy3dEDiP5z9c3NiHApw3HwfIbu8lUEsaXbSU6bCchLHn_IsQihqikH0mbjLoz4m0v2L1dW0dYVFZB3cTF4Du3i4ReWIPJ_PTZ61dEhvCbYcYw6Qx8siyfPj3B2wRHyxsT3bLeQGkTtgndlCbFfHDgaV6kneZcr47XP9zPO_iTeHkoWkzSdouaAfImfci7jAyZKdC6qrUFXKwdwwbyRQd_6Q6JXVrXJdNCxJGoXewNcafvPeAcyKYNjzmYZgSulpFNYmKq1eQLZnPDsvUpbJtJPWO7pOthkDziVIo-Or28S6zuYoEtEpkFV_SaXqVdmSU2Zi-3-kwslw0RAZpzTEhXOGPyCV64=",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=07f0244a51330000e2506361_0&from=MXP&lang=en&passengers=1&to=DTM&booking_token=HrNocLf2qx3se6HruDrQ4uD9zrlENrpFwcL0bxr6MLe-VQWbxiHX8Sh6a-s5SG-21eCKxbuX8ISyUtn5K1ME1WoAuHfXMPHz4_1LxTZKr3bSojE5W-SrOTOdJRiCTqmGabZ9lazySpVklutVGjqxsMYUpW0KI4MIUtulPpvvXn508CjAgYmUXnS8bxlCy5ZMVvDgr-m-Dks9ekXdjKLHYJFfrd40SnmnGBsjM2kxlznytdXLPdb74Mx9NCbYUeqzELxLEqpX7sPP57k8HFjLBMxUZGSmnVRxg3eBkima_AkdYWq3SULM5TILvp3VIy59OcdxMje01rZvH94DZi2CaqqQN8OuCcoEEBzbjd_HqwWpyL4wZld3GAW5vzKFSMlCaHncOXRXuaUeGBgaiCZLgLK2JYPFI1V_qDK36VuQibPo5vDWUGstgeaNdla9p-FOcH53PKCgEkUUt5kH69PoGYOskhqA9m_Dav6ML1iUKo4qjH7uG8OoFJLtPE6nwY7yK3a9hrgwoSqcWQ3vy3dEDiP5z9c3NiHApw3HwfIbu8lUEsaXbSU6bCchLHn_IsQihqikH0mbjLoz4m0v2L1dW0dYVFZB3cTF4Du3i4ReWIPJ_PTZ61dEhvCbYcYw6Qx8siyfPj3B2wRHyxsT3bLeQGkTtgndlCbFfHDgaV6kneZcr47XP9zPO_iTeHkoWkzSdouaAfImfci7jAyZKdC6qrUFXKwdwwbyRQd_6Q6JXVrXJdNCxJGoXewNcafvPeAcyKYNjzmYZgSulpFNYmKq1eQLZnPDsvUpbJtJPWO7pOthkDziVIo-Or28S6zuYoEtEpkFV_SaXqVdmSU2Zi-3-kwslw0RAZpzTEhXOGPyCV64=",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "07f0244a512a00009cdf77c8_0",
+      "flyFrom": "MXP",
+      "flyTo": "DTM",
+      "cityFrom": "Milan",
+      "cityCodeFrom": "MIL",
+      "cityTo": "Dortmund",
+      "cityCodeTo": "DTM",
+      "countryFrom": {
+        "code": "IT",
+        "name": "Italy"
+      },
+      "countryTo": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "local_departure": "2028-11-21T11:20:00.000Z",
+      "utc_departure": "2028-11-21T10:20:00.000Z",
+      "local_arrival": "2028-11-21T12:55:00.000Z",
+      "utc_arrival": "2028-11-21T11:55:00.000Z",
+      "nightsInDest": null,
+      "quality": 31.666666984558105,
+      "distance": 660.55,
+      "duration": {
+        "departure": 5700,
+        "return": 0,
+        "total": 5700
+      },
+      "price": 19,
+      "conversion": {
+        "EUR": 19
+      },
+      "fare": {
+        "adults": 19,
+        "children": 0,
+        "infants": 0
+      },
+      "bags_price": {
+        "1": 39.5,
+        "2": 79
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 39.5,
+          "2": 79
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "W4"
+      ],
+      "route": [
+        {
+          "id": "07f0244a512a00009cdf77c8_0",
+          "combination_id": "07f0244a512a00009cdf77c8",
+          "flyFrom": "MXP",
+          "flyTo": "DTM",
+          "cityFrom": "Milan",
+          "cityCodeFrom": "MIL",
+          "cityTo": "Dortmund",
+          "cityCodeTo": "DTM",
+          "local_departure": "2028-11-21T11:20:00.000Z",
+          "utc_departure": "2028-11-21T10:20:00.000Z",
+          "local_arrival": "2028-11-21T12:55:00.000Z",
+          "utc_arrival": "2028-11-21T11:55:00.000Z",
+          "airline": "W4",
+          "flight_no": 6397,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "H4FUXnRf9OLbV5oczsNSfUUvUqVuLKuyJw5QNnLIwcLQulfvDjMfIYmHmE1GVsZBOrWILhhXgZ8TTlnS8geYlBiEsujWxFcDKG3c8PRqqJxWu6Bga2KrkRHNu4Yy-Smm8KHhPAznH66rPoULJdXxRZSb6vvQs0aEwWuxLhpaOxKXAxc9WNTw3v8RuI_Pd7g1KGWWWrweVUnTqJTJTUw0bOicFPt2ery5BKYFhTrXZR_ZVbM8xOAOKeujZCCp-wlzpnUfSGKQrSpeBN2ob9ui2s6SQKNLvsKHfUOAVIAhuH3bjdzOstEYIi3v4-WwHjVzDR55qddubDA3e4FidjU5cea_HTDYrXdFhGbkeCSX70-UEeXmRe13XLAkIbkqJREHECQq8C5MWQGxjxIygPXXeto-lbeY4_hli2KkCcplQYHGMPBy7Nv9dfiE_Q6rr-AtK9cfKi71OP9XqM9kiygqXIajWhZI5m6l2jfgfHto5nd153SlDpne1VJkWw4CMzai71c7kxak1Ywvab9mTqSqDBof5YDEFXnI4ojqvVf3lTBHyxv9bgW_l49vA07fZqzlt6ytjHjVTvMrJAlUtRl5hU09afNf6bcm2mUiCmBf6fL98QZy8t4zyu8hVNN0nOLI020c4CWCnFIPuPF35_kh_V17YIQxDSNtUisKlFJS8rt5ugfcVkc5VjEIe2LJxMJmI1aWwJYwSlGq4IwNqDJs4rwHEBZgfNtR3iEqOeDYo5wGrEujx52Kpf01wQQjZQ-OgzwiCF6IKwFgAj1HMDrsTqtuugZJjTpolD8_3UNyE39TTkSfRPx3yODw_pM0bBOyl1sOxUqemhiJy5-RGL9jSRE33AMWncb4XCE06v4tlehQdlNjH8ytLF4BRIL7XdRbm",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=07f0244a512a00009cdf77c8_0&from=MXP&lang=en&passengers=1&to=DTM&booking_token=H4FUXnRf9OLbV5oczsNSfUUvUqVuLKuyJw5QNnLIwcLQulfvDjMfIYmHmE1GVsZBOrWILhhXgZ8TTlnS8geYlBiEsujWxFcDKG3c8PRqqJxWu6Bga2KrkRHNu4Yy-Smm8KHhPAznH66rPoULJdXxRZSb6vvQs0aEwWuxLhpaOxKXAxc9WNTw3v8RuI_Pd7g1KGWWWrweVUnTqJTJTUw0bOicFPt2ery5BKYFhTrXZR_ZVbM8xOAOKeujZCCp-wlzpnUfSGKQrSpeBN2ob9ui2s6SQKNLvsKHfUOAVIAhuH3bjdzOstEYIi3v4-WwHjVzDR55qddubDA3e4FidjU5cea_HTDYrXdFhGbkeCSX70-UEeXmRe13XLAkIbkqJREHECQq8C5MWQGxjxIygPXXeto-lbeY4_hli2KkCcplQYHGMPBy7Nv9dfiE_Q6rr-AtK9cfKi71OP9XqM9kiygqXIajWhZI5m6l2jfgfHto5nd153SlDpne1VJkWw4CMzai71c7kxak1Ywvab9mTqSqDBof5YDEFXnI4ojqvVf3lTBHyxv9bgW_l49vA07fZqzlt6ytjHjVTvMrJAlUtRl5hU09afNf6bcm2mUiCmBf6fL98QZy8t4zyu8hVNN0nOLI020c4CWCnFIPuPF35_kh_V17YIQxDSNtUisKlFJS8rt5ugfcVkc5VjEIe2LJxMJmI1aWwJYwSlGq4IwNqDJs4rwHEBZgfNtR3iEqOeDYo5wGrEujx52Kpf01wQQjZQ-OgzwiCF6IKwFgAj1HMDrsTqtuugZJjTpolD8_3UNyE39TTkSfRPx3yODw_pM0bBOyl1sOxUqemhiJy5-RGL9jSRE33AMWncb4XCE06v4tlehQdlNjH8ytLF4BRIL7XdRbm",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "0f0c0042511600003f44d795_0",
+      "flyFrom": "FCO",
+      "flyTo": "BER",
+      "cityFrom": "Rome",
+      "cityCodeFrom": "ROM",
+      "cityTo": "Berlin",
+      "cityCodeTo": "BER",
+      "countryFrom": {
+        "code": "IT",
+        "name": "Italy"
+      },
+      "countryTo": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "local_departure": "2028-11-01T09:50:00.000Z",
+      "utc_departure": "2028-11-01T08:50:00.000Z",
+      "local_arrival": "2028-11-01T12:05:00.000Z",
+      "utc_arrival": "2028-11-01T11:05:00.000Z",
+      "nightsInDest": null,
+      "quality": 71,
+      "distance": 1180.09,
+      "duration": {
+        "departure": 8100,
+        "return": 0,
+        "total": 8100
+      },
+      "price": 53,
+      "conversion": {
+        "EUR": 53
+      },
+      "fare": {
+        "adults": 53,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 10,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 253,
+            "itinerary_price_remaining": 53,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 85,
+        "2": 170
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 85,
+          "2": 170
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 126,
+        "hand_height": 45,
+        "hand_length": 56,
+        "hand_weight": 15,
+        "hand_width": 25,
+        "hold_dimensions_sum": 275,
+        "hold_height": 90,
+        "hold_length": 135,
+        "hold_weight": 15,
+        "hold_width": 50,
+        "personal_item_dimensions_sum": 101,
+        "personal_item_height": 36,
+        "personal_item_length": 45,
+        "personal_item_weight": 15,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "U2"
+      ],
+      "route": [
+        {
+          "id": "0f0c0042511600003f44d795_0",
+          "combination_id": "0f0c0042511600003f44d795",
+          "flyFrom": "FCO",
+          "flyTo": "BER",
+          "cityFrom": "Rome",
+          "cityCodeFrom": "ROM",
+          "cityTo": "Berlin",
+          "cityCodeTo": "BER",
+          "local_departure": "2028-11-01T09:50:00.000Z",
+          "utc_departure": "2028-11-01T08:50:00.000Z",
+          "local_arrival": "2028-11-01T12:05:00.000Z",
+          "utc_arrival": "2028-11-01T11:05:00.000Z",
+          "airline": "U2",
+          "flight_no": 5082,
+          "operating_carrier": "U2",
+          "operating_flight_no": "5082",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "Y",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "Hg6i8B2xpEZMbuVhRvlYNg0f6kFaWzoaYEQ9Q5lVZl9ev1MRrlgNo5_PINAbrcxV7GzMduZh0ExSHgkOtN3wlib2zsTWaJIe2X8zl6PZooc88scItRvuX8ynHdg-vE5jMPyRFu-tkI_RUmZ2qPDy28pEMf4e8MmNs_SfFWeqqAf7pib3Fxr8zJHxUhYkYIqq4qlMih7raII2W7CvZlyNVksjW12tX0ctcKIeUVHKlHcGJ8kxnp988LT2-H2-fXPPwg2jiI_OBKY7ATYdpFY43nH9bH3_z666Rd59AU2BwK5AvsO8p-gRbHmE0e-XVetrft4icXg2faUiQRWo0aWtI3U6-7Dm36wsUFG646UYLQeR6ehd9HwKhCzlhd7TtmLPukSuM0JmKqmGtkKepASpcUX8lyk6Plis348j2gzZFfu1Mu3mmDsrWBgNBNyxHCNKWZwFINnKdUATRIVMEM0nPON7dHpUcYjqIruqnCQPrxhSBuAVtT7ag0aAie3sw8e_Zpf9fKhTfEiDYknfsn5UAgy27vHVmeKJjn3vNnB5zXp6zeOhTYHATU1IeRisu5GeRelwl_9EHj5C74pTL_4-teaRJgOiG1Hi46FqKDgjg-TkNBqJouVe_z6mqFS5GzO8vry6xJQVN-OP5YU2N76sjUL-Ud3gXlo8nKx597YlEr9qzn2DpNMF2oQ209IIX3cX0J_v1NA4u4UV4wZYuOKJ2zX_6Ui1fbbrLq4Sqx9D2kKlkET2dTvQSiYCz397pPkMY99dENk5bDVoYCPnZ_QbL4sB--4JrGfcZYT2R4FOcHlxBbUjPjdAZYvo4qDXuXeksu7RGb2zs6Zz9gECAO5_zO5Ss-1cTO21oxCVr38zwCwBq5f3-FhsxTgqTWCPOTgrRvKp4U0mP6jSkqnsG-WXZgTAyWw6JW8yz_8Nrvj0rdqPVosZYiZyU7grtummvwtKDiWEaWtBgsYVkvGp0bgJmIA==",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=0f0c0042511600003f44d795_0&from=FCO&lang=en&passengers=1&to=BER&booking_token=Hg6i8B2xpEZMbuVhRvlYNg0f6kFaWzoaYEQ9Q5lVZl9ev1MRrlgNo5_PINAbrcxV7GzMduZh0ExSHgkOtN3wlib2zsTWaJIe2X8zl6PZooc88scItRvuX8ynHdg-vE5jMPyRFu-tkI_RUmZ2qPDy28pEMf4e8MmNs_SfFWeqqAf7pib3Fxr8zJHxUhYkYIqq4qlMih7raII2W7CvZlyNVksjW12tX0ctcKIeUVHKlHcGJ8kxnp988LT2-H2-fXPPwg2jiI_OBKY7ATYdpFY43nH9bH3_z666Rd59AU2BwK5AvsO8p-gRbHmE0e-XVetrft4icXg2faUiQRWo0aWtI3U6-7Dm36wsUFG646UYLQeR6ehd9HwKhCzlhd7TtmLPukSuM0JmKqmGtkKepASpcUX8lyk6Plis348j2gzZFfu1Mu3mmDsrWBgNBNyxHCNKWZwFINnKdUATRIVMEM0nPON7dHpUcYjqIruqnCQPrxhSBuAVtT7ag0aAie3sw8e_Zpf9fKhTfEiDYknfsn5UAgy27vHVmeKJjn3vNnB5zXp6zeOhTYHATU1IeRisu5GeRelwl_9EHj5C74pTL_4-teaRJgOiG1Hi46FqKDgjg-TkNBqJouVe_z6mqFS5GzO8vry6xJQVN-OP5YU2N76sjUL-Ud3gXlo8nKx597YlEr9qzn2DpNMF2oQ209IIX3cX0J_v1NA4u4UV4wZYuOKJ2zX_6Ui1fbbrLq4Sqx9D2kKlkET2dTvQSiYCz397pPkMY99dENk5bDVoYCPnZ_QbL4sB--4JrGfcZYT2R4FOcHlxBbUjPjdAZYvo4qDXuXeksu7RGb2zs6Zz9gECAO5_zO5Ss-1cTO21oxCVr38zwCwBq5f3-FhsxTgqTWCPOTgrRvKp4U0mP6jSkqnsG-WXZgTAyWw6JW8yz_8Nrvj0rdqPVosZYiZyU7grtummvwtKDiWEaWtBgsYVkvGp0bgJmIA==",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "0f0c17885116000046e1833f_0",
+      "flyFrom": "FCO",
+      "flyTo": "HAM",
+      "cityFrom": "Rome",
+      "cityCodeFrom": "ROM",
+      "cityTo": "Hamburg",
+      "cityCodeTo": "HAM",
+      "countryFrom": {
+        "code": "IT",
+        "name": "Italy"
+      },
+      "countryTo": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "local_departure": "2028-11-01T17:15:00.000Z",
+      "utc_departure": "2028-11-01T16:15:00.000Z",
+      "local_arrival": "2028-11-01T19:45:00.000Z",
+      "utc_arrival": "2028-11-01T18:45:00.000Z",
+      "nightsInDest": null,
+      "quality": 83,
+      "distance": 1327.48,
+      "duration": {
+        "departure": 9000,
+        "return": 0,
+        "total": 9000
+      },
+      "price": 63,
+      "conversion": {
+        "EUR": 63
+      },
+      "fare": {
+        "adults": 63,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 10,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 263,
+            "itinerary_price_remaining": 63,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 90.933003,
+        "2": 181.866006
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 90.933003,
+          "2": 181.866006
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 126,
+        "hand_height": 45,
+        "hand_length": 56,
+        "hand_weight": 15,
+        "hand_width": 25,
+        "hold_dimensions_sum": 275,
+        "hold_height": 90,
+        "hold_length": 135,
+        "hold_weight": 15,
+        "hold_width": 50,
+        "personal_item_dimensions_sum": 101,
+        "personal_item_height": 36,
+        "personal_item_length": 45,
+        "personal_item_weight": 15,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "U2"
+      ],
+      "route": [
+        {
+          "id": "0f0c17885116000046e1833f_0",
+          "combination_id": "0f0c17885116000046e1833f",
+          "flyFrom": "FCO",
+          "flyTo": "HAM",
+          "cityFrom": "Rome",
+          "cityCodeFrom": "ROM",
+          "cityTo": "Hamburg",
+          "cityCodeTo": "HAM",
+          "local_departure": "2028-11-01T17:15:00.000Z",
+          "utc_departure": "2028-11-01T16:15:00.000Z",
+          "local_arrival": "2028-11-01T19:45:00.000Z",
+          "utc_arrival": "2028-11-01T18:45:00.000Z",
+          "airline": "U2",
+          "flight_no": 6101,
+          "operating_carrier": "U2",
+          "operating_flight_no": "6101",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "Y",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "H3JJ52aETEwvu-7bZssg0luf8qpURGOeAIFfFbpDs5kUms2k1Ue4sXaCKvdWE4pcTFcT-iL7u_aeOPtnIWyENjkR0ITVI_kCCJnNvVzB3acPSbtdjRbUHOy_N9h1cpWgzLP27Jb-C112Sh1FSZbnqDMQF4rkjbffWx-bKZLfL8cPeNAOB_cp1AoD6-fn5r6ALwP8x6817dqF33RhOc1vqL30gup9_8lxXxS8h-QPW3misZKgoZe8SlMGYEQBQHqnDoHOeY32GMThApJLNftfNrXAqffFPQQbHL4PaLVRzOyQAPBM3XkgRC5O1gw8_g1mmBX_unMmLQxoVMseWWAgoLZVCNM5i7A85b0053ngivqbyiFha1_Kj9e5jJuw0yVjuijNWLKG7tPd0XibBToApUflwvq_i17L_yrMTxeaA4i_FGCVQKmlXlVQUX3ToECuESj4isdXXcRuMNL5Ce7UE_8lzKrgCTv1-OZVBkjsDxnIg2lcGAbDMbR8_smTNdISOwyFtA1SUw7TcYmXiesXVWBhYTRwNmAtpRL_dcnaiNsHFuKOwEKN9nbQ6yV7QqkPn6cZoNd473MwMaBIjLmWB8Zifo12b8NXfR3iczlgtUOhjpB0gO0_KxdJ399iaw7AYq9OQSEYJdRmOBn8vuo4fxNV_jw8tF7tnhDcnn5gFJPx1sQDZs1lh26-rhUoLi0xoIxT1oiYnK0g0qBszzqeqmGh1X6TFZo4faTBs-bvGiaM6jSLD46CCdvueYpce1CMs-FsVvjNn-L4fb8fpA7AwdMoPA8geXrLHmRJUUE4j33GUbNozqb6GVhNQBzbNHsNmT9SaUX-beoxrLlMasIAqyQCQmEH0XCWdxBu3uKocBx31neFAOR9faV6ZsqhyvOPDALPLEUzZ06mrdxseBqqjvu0QuYkv3kXbORRn3i3p7dajyh-b2Zx9u44tzfv6bgHuAqWeGiEsU75MQKOCWpv0cjAiyji5RO9tztE18xZEa_4=",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=0f0c17885116000046e1833f_0&from=FCO&lang=en&passengers=1&to=HAM&booking_token=H3JJ52aETEwvu-7bZssg0luf8qpURGOeAIFfFbpDs5kUms2k1Ue4sXaCKvdWE4pcTFcT-iL7u_aeOPtnIWyENjkR0ITVI_kCCJnNvVzB3acPSbtdjRbUHOy_N9h1cpWgzLP27Jb-C112Sh1FSZbnqDMQF4rkjbffWx-bKZLfL8cPeNAOB_cp1AoD6-fn5r6ALwP8x6817dqF33RhOc1vqL30gup9_8lxXxS8h-QPW3misZKgoZe8SlMGYEQBQHqnDoHOeY32GMThApJLNftfNrXAqffFPQQbHL4PaLVRzOyQAPBM3XkgRC5O1gw8_g1mmBX_unMmLQxoVMseWWAgoLZVCNM5i7A85b0053ngivqbyiFha1_Kj9e5jJuw0yVjuijNWLKG7tPd0XibBToApUflwvq_i17L_yrMTxeaA4i_FGCVQKmlXlVQUX3ToECuESj4isdXXcRuMNL5Ce7UE_8lzKrgCTv1-OZVBkjsDxnIg2lcGAbDMbR8_smTNdISOwyFtA1SUw7TcYmXiesXVWBhYTRwNmAtpRL_dcnaiNsHFuKOwEKN9nbQ6yV7QqkPn6cZoNd473MwMaBIjLmWB8Zifo12b8NXfR3iczlgtUOhjpB0gO0_KxdJ399iaw7AYq9OQSEYJdRmOBn8vuo4fxNV_jw8tF7tnhDcnn5gFJPx1sQDZs1lh26-rhUoLi0xoIxT1oiYnK0g0qBszzqeqmGh1X6TFZo4faTBs-bvGiaM6jSLD46CCdvueYpce1CMs-FsVvjNn-L4fb8fpA7AwdMoPA8geXrLHmRJUUE4j33GUbNozqb6GVhNQBzbNHsNmT9SaUX-beoxrLlMasIAqyQCQmEH0XCWdxBu3uKocBx31neFAOR9faV6ZsqhyvOPDALPLEUzZ06mrdxseBqqjvu0QuYkv3kXbORRn3i3p7dajyh-b2Zx9u44tzfv6bgHuAqWeGiEsU75MQKOCWpv0cjAiyji5RO9tztE18xZEa_4=",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "0f0c1729511600004c272822_0",
+      "flyFrom": "FCO",
+      "flyTo": "FRA",
+      "cityFrom": "Rome",
+      "cityCodeFrom": "ROM",
+      "cityTo": "Frankfurt",
+      "cityCodeTo": "FRA",
+      "countryFrom": {
+        "code": "IT",
+        "name": "Italy"
+      },
+      "countryTo": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "local_departure": "2028-11-01T06:40:00.000Z",
+      "utc_departure": "2028-11-01T05:40:00.000Z",
+      "local_arrival": "2028-11-01T08:40:00.000Z",
+      "utc_arrival": "2028-11-01T07:40:00.000Z",
+      "nightsInDest": null,
+      "quality": 83,
+      "distance": 959.18,
+      "duration": {
+        "departure": 7200,
+        "return": 0,
+        "total": 7200
+      },
+      "price": 67,
+      "conversion": {
+        "EUR": 67
+      },
+      "fare": {
+        "adults": 67,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 10,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 267,
+            "itinerary_price_remaining": 67,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 85,
+        "2": 170
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 85,
+          "2": 170
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 126,
+        "hand_height": 45,
+        "hand_length": 56,
+        "hand_weight": 15,
+        "hand_width": 25,
+        "hold_dimensions_sum": 275,
+        "hold_height": 90,
+        "hold_length": 135,
+        "hold_weight": 15,
+        "hold_width": 50,
+        "personal_item_dimensions_sum": 101,
+        "personal_item_height": 36,
+        "personal_item_length": 45,
+        "personal_item_weight": 15,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "U2"
+      ],
+      "route": [
+        {
+          "id": "0f0c1729511600004c272822_0",
+          "combination_id": "0f0c1729511600004c272822",
+          "flyFrom": "FCO",
+          "flyTo": "FRA",
+          "cityFrom": "Rome",
+          "cityCodeFrom": "ROM",
+          "cityTo": "Frankfurt",
+          "cityCodeTo": "FRA",
+          "local_departure": "2028-11-01T06:40:00.000Z",
+          "utc_departure": "2028-11-01T05:40:00.000Z",
+          "local_arrival": "2028-11-01T08:40:00.000Z",
+          "utc_arrival": "2028-11-01T07:40:00.000Z",
+          "airline": "U2",
+          "flight_no": 2993,
+          "operating_carrier": "U2",
+          "operating_flight_no": "2993",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "Y",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "Hh9e1WzKFVNgqvU7KnkmizDjqKx0nKBv7f7FYzZluJxNPGQyEDk1DNQNvE-UihVwL_Hx-i52mOJE4B0FPhp0o0JBVvkufDZ7AhexYQFGJlq62alkpRb2wOUWVBHJHt_UYpN8qM5TTwJN_MQoaYZLNQZs18KXNCPHOt7L0xbSNQ8IM6sGd2sxs21T2yU4XaThpb488DdbxvbTXJYIUFXrWo9k-CjpGhyaqEYKwDFaN-mL9gOql-m61-CREmtohI2tHUkM_s98MucLiyTJJWhOKhwDmKh0KwGjHLZK0mUCGKoAQikuT6hligYk_K2dwpZLwuGPHPJUw_OZSdsi6vygWAAV_N-RX7nMXEFfgFZbQDYbqrUCdMaB8QZvOt6DxUfByF5cQwhdCxeUzrBAtNXjIIvskofZWLGU0IqQqT8b6ZOgkKuKMJlg7QfSeJz6Q5rgFoGPK09BFigy9w_JXdfEmoyNEN47nDxCu81SrGF36Z2voukcmM7EG0n6-bOEqlU6tWK_XrQPm0rsGMi5rOZD_z1WagRgi7UYWso2YbCdYoW7fTx7Y5BXzZPcj5ZYc78FsuDH2btRBtrgr85w38igEXwE7ObkOGZDxyCBFIN7xAPrW9bIvIyTw7ItCFfF7xuTa-uiRhN1jYqzlXWSSa0ExG4ItZ3ifSC7SzAqfWmNqrviZk0t0JI1qtf4syChF6Q9u7icjSBDNK46d21sgVWxuzXS2ynWrZ-IxohMm1S1vCsJNkRTV3WZnXEBnfNjMhPOzGc1feJyXKaatNQV4583r3cpZPROSnOqqAilvfntawzoGtLLyS7TUhsRuWMKThIUS9QumKIwsjPvP4uqsI_7A1K7OTqxBiMZJiC5dh4MTpnwx7rLWN35sKnwN6DQaBeCFP4LvaWJ-UkSnGe5MsBKG-1i-OV4q2-8ZLkdET1bv9PWPfNG9hMxt9UJxPsnc-Fy4DLhUdNvuPr_Hn6f-7V0f-wN72RRreS3KKhmGxnhpmd0=",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=0f0c1729511600004c272822_0&from=FCO&lang=en&passengers=1&to=FRA&booking_token=Hh9e1WzKFVNgqvU7KnkmizDjqKx0nKBv7f7FYzZluJxNPGQyEDk1DNQNvE-UihVwL_Hx-i52mOJE4B0FPhp0o0JBVvkufDZ7AhexYQFGJlq62alkpRb2wOUWVBHJHt_UYpN8qM5TTwJN_MQoaYZLNQZs18KXNCPHOt7L0xbSNQ8IM6sGd2sxs21T2yU4XaThpb488DdbxvbTXJYIUFXrWo9k-CjpGhyaqEYKwDFaN-mL9gOql-m61-CREmtohI2tHUkM_s98MucLiyTJJWhOKhwDmKh0KwGjHLZK0mUCGKoAQikuT6hligYk_K2dwpZLwuGPHPJUw_OZSdsi6vygWAAV_N-RX7nMXEFfgFZbQDYbqrUCdMaB8QZvOt6DxUfByF5cQwhdCxeUzrBAtNXjIIvskofZWLGU0IqQqT8b6ZOgkKuKMJlg7QfSeJz6Q5rgFoGPK09BFigy9w_JXdfEmoyNEN47nDxCu81SrGF36Z2voukcmM7EG0n6-bOEqlU6tWK_XrQPm0rsGMi5rOZD_z1WagRgi7UYWso2YbCdYoW7fTx7Y5BXzZPcj5ZYc78FsuDH2btRBtrgr85w38igEXwE7ObkOGZDxyCBFIN7xAPrW9bIvIyTw7ItCFfF7xuTa-uiRhN1jYqzlXWSSa0ExG4ItZ3ifSC7SzAqfWmNqrviZk0t0JI1qtf4syChF6Q9u7icjSBDNK46d21sgVWxuzXS2ynWrZ-IxohMm1S1vCsJNkRTV3WZnXEBnfNjMhPOzGc1feJyXKaatNQV4583r3cpZPROSnOqqAilvfntawzoGtLLyS7TUhsRuWMKThIUS9QumKIwsjPvP4uqsI_7A1K7OTqxBiMZJiC5dh4MTpnwx7rLWN35sKnwN6DQaBeCFP4LvaWJ-UkSnGe5MsBKG-1i-OV4q2-8ZLkdET1bv9PWPfNG9hMxt9UJxPsnc-Fy4DLhUdNvuPr_Hn6f-7V0f-wN72RRreS3KKhmGxnhpmd0=",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "0f0c1dde511600002af4690b_0|0f0c1dde511600002af4690b_1",
+      "flyFrom": "FCO",
+      "flyTo": "MUC",
+      "cityFrom": "Rome",
+      "cityCodeFrom": "ROM",
+      "cityTo": "Munich",
+      "cityCodeTo": "MUC",
+      "countryFrom": {
+        "code": "IT",
+        "name": "Italy"
+      },
+      "countryTo": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "local_departure": "2028-11-01T17:15:00.000Z",
+      "utc_departure": "2028-11-01T16:15:00.000Z",
+      "local_arrival": "2028-11-01T20:40:00.000Z",
+      "utc_arrival": "2028-11-01T19:40:00.000Z",
+      "nightsInDest": null,
+      "quality": 204.3333339691162,
+      "distance": 730.41,
+      "duration": {
+        "departure": 12300,
+        "return": 0,
+        "total": 12300
+      },
+      "price": 157,
+      "conversion": {
+        "EUR": 157
+      },
+      "fare": {
+        "adults": 157,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 15.7,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 357,
+            "itinerary_price_remaining": 157,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 120
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 120
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 113,
+        "hand_height": 35,
+        "hand_length": 55,
+        "hand_weight": 8,
+        "hand_width": 23,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 23,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 85,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 3,
+        "personal_item_width": 15
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "LH"
+      ],
+      "route": [
+        {
+          "id": "0f0c1dde511600002af4690b_0",
+          "combination_id": "0f0c1dde511600002af4690b",
+          "flyFrom": "FCO",
+          "flyTo": "TRN",
+          "cityFrom": "Rome",
+          "cityCodeFrom": "ROM",
+          "cityTo": "Turin",
+          "cityCodeTo": "TRN",
+          "local_departure": "2028-11-01T17:15:00.000Z",
+          "utc_departure": "2028-11-01T16:15:00.000Z",
+          "local_arrival": "2028-11-01T18:30:00.000Z",
+          "utc_arrival": "2028-11-01T17:30:00.000Z",
+          "airline": "LH",
+          "flight_no": 5162,
+          "operating_carrier": "AZ",
+          "operating_flight_no": "1435",
+          "fare_basis": "L10LGTX9",
+          "fare_category": "M",
+          "fare_classes": "L",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        },
+        {
+          "id": "0f0c1dde511600002af4690b_1",
+          "combination_id": "0f0c1dde511600002af4690b",
+          "flyFrom": "TRN",
+          "flyTo": "MUC",
+          "cityFrom": "Turin",
+          "cityCodeFrom": "TRN",
+          "cityTo": "Munich",
+          "cityCodeTo": "MUC",
+          "local_departure": "2028-11-01T19:35:00.000Z",
+          "utc_departure": "2028-11-01T18:35:00.000Z",
+          "local_arrival": "2028-11-01T20:40:00.000Z",
+          "utc_arrival": "2028-11-01T19:40:00.000Z",
+          "airline": "LH",
+          "flight_no": 9475,
+          "operating_carrier": "EN",
+          "operating_flight_no": "2167",
+          "fare_basis": "L10LGTX9",
+          "fare_category": "M",
+          "fare_classes": "L",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "H_3-zOVCbEWAFpYRhk4SlWScmE6C2guNqe9k5mpTtDkvV2_POCSmbeSabHVeS-QB2BMdbRVOnZQiKojPdMRNRONQ1lEOqhpDsvAv6Q1JD-Yk-08xgtl9xnUqxOnb_uAfiBZq8fM0z0flWJUxD9UrZMzpt8tOj-2mwbUVY6TfdTW32B7FxnOHJgPu9AIm_WHtWiJzdl5SvbF2CBLQ9bmDKNvEp2RDCh197RGmFrfhYYg9xibw8dAuLCl559bgiGm1Qhaw_i8fu3jAEpWuhw4RqNL9X5-7PIT5GV1Ulv2zEU30zMUWv1kVH4hm_kvuFWNWgjIu79xu7ZmYYxvHWVwXTzhhl4P8FFAws0FfqWpHkL8Qg53uVx0Kpu8gSr1-xGislYUg-rjUFx0aNXql4avc8MblIiNSDYPGn-9-V5_7At8T-ThB0il9C0yoEdcwP89jb6TT11xJtZoiNSKNuKBdoPSJWTGO9cz5ZCDy5il8xEsPo7aZlEWCO2nlaS1sLdcjoF3zMASf2VaSj4h65GBy05OgcGJTxnyTMkNhsi8C8F2OXq_V6Qv0Ubseu15H6KHtvHny8egwwvQZt45WrxYxNNJXBnDuVziw2diny8bD2zQnnmlZPSYRyY27zeTB1B2YKPAAX-Ox3Vb0hNdabtzBAgbW5yTv3LMjwJL2N56yGkdrFwbOyYVeyi9BER-A_6OOkq64u73oauxQnPlPkQrpwUAXoSFGG0wjdbGye3YF2_gff93tFWs7LUQcSbfmtWQj1jMBfGhOXNBocH_6teZZ3_1AJRAuFZthEMbzJ9K3S038tK5SrwidU1pi6syxWE9SK-IkDlPEa0LrDD7ZPWYvCu2kKf2ETPP6ysN3PZ9G0A7nQFQeb9UFR9kNc1PGMNykVLuKvICFADq_UAF0quJwpLKb9t4Cv55fga_3UBKqZg7XjVI15HCDM_qCPehpRRMVdSYxebjiXPttHZmVXL0ouLrzoHdHVUMcTXhT0C2vQYQ6u9xSW77Sk_IK9vjQp0yQww0MCrLxCrJVRBv_EeFWpK0iSYLSnTttljOPkUrhIof9-un-LKMlvNFTyxdaKYAY5Pvwyq_Mc0KsQRUKC5H1xvW_EgosJnL-1qLglO4Yg7AU=",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=0f0c1dde511600002af4690b_0%7C0f0c1dde511600002af4690b_1&from=FCO&lang=en&passengers=1&to=MUC&booking_token=H_3-zOVCbEWAFpYRhk4SlWScmE6C2guNqe9k5mpTtDkvV2_POCSmbeSabHVeS-QB2BMdbRVOnZQiKojPdMRNRONQ1lEOqhpDsvAv6Q1JD-Yk-08xgtl9xnUqxOnb_uAfiBZq8fM0z0flWJUxD9UrZMzpt8tOj-2mwbUVY6TfdTW32B7FxnOHJgPu9AIm_WHtWiJzdl5SvbF2CBLQ9bmDKNvEp2RDCh197RGmFrfhYYg9xibw8dAuLCl559bgiGm1Qhaw_i8fu3jAEpWuhw4RqNL9X5-7PIT5GV1Ulv2zEU30zMUWv1kVH4hm_kvuFWNWgjIu79xu7ZmYYxvHWVwXTzhhl4P8FFAws0FfqWpHkL8Qg53uVx0Kpu8gSr1-xGislYUg-rjUFx0aNXql4avc8MblIiNSDYPGn-9-V5_7At8T-ThB0il9C0yoEdcwP89jb6TT11xJtZoiNSKNuKBdoPSJWTGO9cz5ZCDy5il8xEsPo7aZlEWCO2nlaS1sLdcjoF3zMASf2VaSj4h65GBy05OgcGJTxnyTMkNhsi8C8F2OXq_V6Qv0Ubseu15H6KHtvHny8egwwvQZt45WrxYxNNJXBnDuVziw2diny8bD2zQnnmlZPSYRyY27zeTB1B2YKPAAX-Ox3Vb0hNdabtzBAgbW5yTv3LMjwJL2N56yGkdrFwbOyYVeyi9BER-A_6OOkq64u73oauxQnPlPkQrpwUAXoSFGG0wjdbGye3YF2_gff93tFWs7LUQcSbfmtWQj1jMBfGhOXNBocH_6teZZ3_1AJRAuFZthEMbzJ9K3S038tK5SrwidU1pi6syxWE9SK-IkDlPEa0LrDD7ZPWYvCu2kKf2ETPP6ysN3PZ9G0A7nQFQeb9UFR9kNc1PGMNykVLuKvICFADq_UAF0quJwpLKb9t4Cv55fga_3UBKqZg7XjVI15HCDM_qCPehpRRMVdSYxebjiXPttHZmVXL0ouLrzoHdHVUMcTXhT0C2vQYQ6u9xSW77Sk_IK9vjQp0yQww0MCrLxCrJVRBv_EeFWpK0iSYLSnTttljOPkUrhIof9-un-LKMlvNFTyxdaKYAY5Pvwyq_Mc0KsQRUKC5H1xvW_EgosJnL-1qLglO4Yg7AU=",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "0f0c1dde51160000e4a7fae0_0",
+      "flyFrom": "FCO",
+      "flyTo": "MUC",
+      "cityFrom": "Rome",
+      "cityCodeFrom": "ROM",
+      "cityTo": "Munich",
+      "cityCodeTo": "MUC",
+      "countryFrom": {
+        "code": "IT",
+        "name": "Italy"
+      },
+      "countryTo": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "local_departure": "2028-11-01T07:05:00.000Z",
+      "utc_departure": "2028-11-01T06:05:00.000Z",
+      "local_arrival": "2028-11-01T08:35:00.000Z",
+      "utc_arrival": "2028-11-01T07:35:00.000Z",
+      "nightsInDest": null,
+      "quality": 187,
+      "distance": 730.41,
+      "duration": {
+        "departure": 5400,
+        "return": 0,
+        "total": 5400
+      },
+      "price": 175,
+      "conversion": {
+        "EUR": 175
+      },
+      "fare": {
+        "adults": 175,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 17.5,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 375,
+            "itinerary_price_remaining": 175,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 51,
+        "2": 156
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 51,
+          "2": 156
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 8,
+        "hand_width": 23,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 23,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 85,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 4,
+        "personal_item_width": 15
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "LH"
+      ],
+      "route": [
+        {
+          "id": "0f0c1dde51160000e4a7fae0_0",
+          "combination_id": "0f0c1dde51160000e4a7fae0",
+          "flyFrom": "FCO",
+          "flyTo": "MUC",
+          "cityFrom": "Rome",
+          "cityCodeFrom": "ROM",
+          "cityTo": "Munich",
+          "cityCodeTo": "MUC",
+          "local_departure": "2028-11-01T07:05:00.000Z",
+          "utc_departure": "2028-11-01T06:05:00.000Z",
+          "local_arrival": "2028-11-01T08:35:00.000Z",
+          "utc_arrival": "2028-11-01T07:35:00.000Z",
+          "airline": "LH",
+          "flight_no": 1873,
+          "operating_carrier": "LH",
+          "operating_flight_no": "1873",
+          "fare_basis": "SEULGTX9",
+          "fare_category": "M",
+          "fare_classes": "S",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "H69WIHUhfDREGjH4zsPHqsCqIoaisij-JkaYojYGSgUwTmBSUBXTwc2j0pXuyzz9Dfxcpuy5VYgFa6dW2E9Gyx_a5hQ1ed0sEIKDodWBMotIMlorzzBlMFuCnoMGi-3aWLYK6Ba_npsk8QA-kWXIDohsRsZ7o388i7qp1aC7qS97Stj8LVaFGxCns7iaCUm8eQqj0Z5BEOBml1HOYbm1KP4AidpdVr-UvfJ-5ipRNVi_FE0DGWouaVPF0yi07Pe2hBvazaaczTk4kS3vliRWH7yYypPNqRz_5d5Fxa5cY0tRe2om1W9QOQjMlBW_NsekAFl2i9gkCFEH9YsKr9PmQ5Cyr9vg_zjfUE1NjMamDWRszpph_9AaASia3R5an6hv7jtCjGv5Ne2U3Xz3neh-ig7G9JdfCQD4TjK9XMPK41f7YUEg7-lVvIYCH-fBfN6yWc20SeSVeCsanQiGeOR3QtEr84WoMSrZcuHCZwqtT3Rdq8MEpxxAsg9Pr2XV5ioX2g36vpB-Ly6IwERsMv1RdhRNtjpCrBNcR0hZrQ2yOF_uEugTvKC9h_yaiWt76Mxof63bWVZKtn7Jyy_aS8YMu2taNLhO-GFs1frhXfEnVa-agSUJq6EuXTLtqhoJP0IzLwDgRrciKguVwOvfjWeAEw5oSqqDf9cWX5_LgkXD5cRkWu9H-nQ3KkkGdj24AUrPD_PFHFilScIN6UWRakOOdH9yxFNT0EpBe9w0WAbB0bsUAkPryMh8Y_dj7UohoK4jNjGs0_h7ppqtyGLJxNf9SlitMTcXCylqvtRJUXkmOBYNor0QpZW-WeAWfJjZS2FX25kWJDid8UgMDp6lAPiRKgyribuxKfHB33IDKWD3nUjKT_3ezOKHb-IUJD7R3FdO7oNvD-xBMpcqxpirPf_VNhzYEz6P6anTYki7IbY5JRedp7HZR5fex4-wpMI2CnUMAeh3ijgBH_nOaV5ITzcwy5N4m1usjVPmTreI9sQl7ePO0wosAEguYFKeKsbUhUSEhZ0rn2Bs-fm19GTkoDofaSczyWoeh-A_fF8Yb7LsvMccKNXzSo4SbPeeVqg6FSS_a5bAbg8XDtG8EmtMUF7Cpgg==",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=0f0c1dde51160000e4a7fae0_0&from=FCO&lang=en&passengers=1&to=MUC&booking_token=H69WIHUhfDREGjH4zsPHqsCqIoaisij-JkaYojYGSgUwTmBSUBXTwc2j0pXuyzz9Dfxcpuy5VYgFa6dW2E9Gyx_a5hQ1ed0sEIKDodWBMotIMlorzzBlMFuCnoMGi-3aWLYK6Ba_npsk8QA-kWXIDohsRsZ7o388i7qp1aC7qS97Stj8LVaFGxCns7iaCUm8eQqj0Z5BEOBml1HOYbm1KP4AidpdVr-UvfJ-5ipRNVi_FE0DGWouaVPF0yi07Pe2hBvazaaczTk4kS3vliRWH7yYypPNqRz_5d5Fxa5cY0tRe2om1W9QOQjMlBW_NsekAFl2i9gkCFEH9YsKr9PmQ5Cyr9vg_zjfUE1NjMamDWRszpph_9AaASia3R5an6hv7jtCjGv5Ne2U3Xz3neh-ig7G9JdfCQD4TjK9XMPK41f7YUEg7-lVvIYCH-fBfN6yWc20SeSVeCsanQiGeOR3QtEr84WoMSrZcuHCZwqtT3Rdq8MEpxxAsg9Pr2XV5ioX2g36vpB-Ly6IwERsMv1RdhRNtjpCrBNcR0hZrQ2yOF_uEugTvKC9h_yaiWt76Mxof63bWVZKtn7Jyy_aS8YMu2taNLhO-GFs1frhXfEnVa-agSUJq6EuXTLtqhoJP0IzLwDgRrciKguVwOvfjWeAEw5oSqqDf9cWX5_LgkXD5cRkWu9H-nQ3KkkGdj24AUrPD_PFHFilScIN6UWRakOOdH9yxFNT0EpBe9w0WAbB0bsUAkPryMh8Y_dj7UohoK4jNjGs0_h7ppqtyGLJxNf9SlitMTcXCylqvtRJUXkmOBYNor0QpZW-WeAWfJjZS2FX25kWJDid8UgMDp6lAPiRKgyribuxKfHB33IDKWD3nUjKT_3ezOKHb-IUJD7R3FdO7oNvD-xBMpcqxpirPf_VNhzYEz6P6anTYki7IbY5JRedp7HZR5fex4-wpMI2CnUMAeh3ijgBH_nOaV5ITzcwy5N4m1usjVPmTreI9sQl7ePO0wosAEguYFKeKsbUhUSEhZ0rn2Bs-fm19GTkoDofaSczyWoeh-A_fF8Yb7LsvMccKNXzSo4SbPeeVqg6FSS_a5bAbg8XDtG8EmtMUF7Cpgg==",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "0f0c1729511600005a6171b7_0",
+      "flyFrom": "FCO",
+      "flyTo": "FRA",
+      "cityFrom": "Rome",
+      "cityCodeFrom": "ROM",
+      "cityTo": "Frankfurt",
+      "cityCodeTo": "FRA",
+      "countryFrom": {
+        "code": "IT",
+        "name": "Italy"
+      },
+      "countryTo": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "local_departure": "2028-11-01T07:05:00.000Z",
+      "utc_departure": "2028-11-01T06:05:00.000Z",
+      "local_arrival": "2028-11-01T09:00:00.000Z",
+      "utc_arrival": "2028-11-01T08:00:00.000Z",
+      "nightsInDest": null,
+      "quality": 213.3333330154419,
+      "distance": 959.18,
+      "duration": {
+        "departure": 6900,
+        "return": 0,
+        "total": 6900
+      },
+      "price": 198,
+      "conversion": {
+        "EUR": 198
+      },
+      "fare": {
+        "adults": 198,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 19.8,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 398,
+            "itinerary_price_remaining": 198,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 51,
+        "2": 156
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 51,
+          "2": 156
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 8,
+        "hand_width": 23,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 23,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 85,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 4,
+        "personal_item_width": 15
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "LH"
+      ],
+      "route": [
+        {
+          "id": "0f0c1729511600005a6171b7_0",
+          "combination_id": "0f0c1729511600005a6171b7",
+          "flyFrom": "FCO",
+          "flyTo": "FRA",
+          "cityFrom": "Rome",
+          "cityCodeFrom": "ROM",
+          "cityTo": "Frankfurt",
+          "cityCodeTo": "FRA",
+          "local_departure": "2028-11-01T07:05:00.000Z",
+          "utc_departure": "2028-11-01T06:05:00.000Z",
+          "local_arrival": "2028-11-01T09:00:00.000Z",
+          "utc_arrival": "2028-11-01T08:00:00.000Z",
+          "airline": "LH",
+          "flight_no": 241,
+          "operating_carrier": "LH",
+          "operating_flight_no": "241",
+          "fare_basis": "SEULGTX9",
+          "fare_category": "M",
+          "fare_classes": "S",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HmRsBm06nLVdV46qoOHK1BinUqjbQTomzp_ZRd1oKs0M6MEFOJUPLiGVSaOyXVKw_t8n4fnaVQxe1VpewtXw7n61q-xw88l8qk1bebtlJxdAEDhmx8RhSZ1d4x8VXwNjBiQvfVqeJAIwUF60m2T4nEVlPpB_3iaN5UodaplkRLp1HKux7vhIr6hmn177FX_nyITvZPrrYuWWHOproGOJ8aYVkcAcAt-UzwBLwjAHJTdYWSWDKVyQuuavTxW0cIW195Q91BB3MHUWLn8vojfRmDhtTjsyUoEYcmkNWk7M5knGks6ezZHg-xPdLdh7DGT-cE01DMW95ea-NrVkww84o-N9F0klvLtBHD_I5tONcLblm43JR67QHE0RayT4EtiGBL7w2d80KNmjduNLomQ8v6RVGcj94-l0rxIowGbccOzQkZiMFCN21uI0pxfS8PZOIARQ5UQWCBkFYqsqVSKrubFt8AphSiFVukEXOLqEdKmwnlL2jQHF6aZdG3z5yJsw_CwD8dgUlSjSUv7j_KoJhvm9ZB6AcgNOAz_RigBpIJLl8iwyh3ZCZq2xRVrfcRUMEshzrwYnNHO9EDppOKXCpgiBAfY-TXSDLyrJFzdpMIpEXBKOsxaPvl1vlPNNu3RW0r8o_eMBi3bP1yB0rISlYWVEIpVSPN3GJEwL7SLL_nARaIqxo21qCQsniPvmC8UscqWdIwOyzdDs9Kl7g7kZIf5ScEEi9ega0aEk_TsQZBddHg0P7XiEFBdGPE8y_QExYaQ9Mq0KKXztlgW5KAs9ncYwQpEyf-KoNaj6SNLrWgIJSsLY5DFs_5Oi9_kHSenp36vkA1lX2zSDuoqs6bz6KAJFMCdf58D1cYc6l2oabr7-MqmLO5S31u9EM_DDOBzwy6KoChdJ-jfaD7nrO8atN9SsEphay552ZzXdcEp_Ga_93zAlZeocaoV21OZcyCEv_NAC849S4Oci76_JF32eBUup40CfFSNnhWwP159dSk-7RoHsqp5_57KLSM9OafGfuyOv0dLDQO8rfqdQ5E2ly8Slah-m0gpsDOfp8ACOkkPrTlCVeSTgU8ZLQlc38JR4t",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=0f0c1729511600005a6171b7_0&from=FCO&lang=en&passengers=1&to=FRA&booking_token=HmRsBm06nLVdV46qoOHK1BinUqjbQTomzp_ZRd1oKs0M6MEFOJUPLiGVSaOyXVKw_t8n4fnaVQxe1VpewtXw7n61q-xw88l8qk1bebtlJxdAEDhmx8RhSZ1d4x8VXwNjBiQvfVqeJAIwUF60m2T4nEVlPpB_3iaN5UodaplkRLp1HKux7vhIr6hmn177FX_nyITvZPrrYuWWHOproGOJ8aYVkcAcAt-UzwBLwjAHJTdYWSWDKVyQuuavTxW0cIW195Q91BB3MHUWLn8vojfRmDhtTjsyUoEYcmkNWk7M5knGks6ezZHg-xPdLdh7DGT-cE01DMW95ea-NrVkww84o-N9F0klvLtBHD_I5tONcLblm43JR67QHE0RayT4EtiGBL7w2d80KNmjduNLomQ8v6RVGcj94-l0rxIowGbccOzQkZiMFCN21uI0pxfS8PZOIARQ5UQWCBkFYqsqVSKrubFt8AphSiFVukEXOLqEdKmwnlL2jQHF6aZdG3z5yJsw_CwD8dgUlSjSUv7j_KoJhvm9ZB6AcgNOAz_RigBpIJLl8iwyh3ZCZq2xRVrfcRUMEshzrwYnNHO9EDppOKXCpgiBAfY-TXSDLyrJFzdpMIpEXBKOsxaPvl1vlPNNu3RW0r8o_eMBi3bP1yB0rISlYWVEIpVSPN3GJEwL7SLL_nARaIqxo21qCQsniPvmC8UscqWdIwOyzdDs9Kl7g7kZIf5ScEEi9ega0aEk_TsQZBddHg0P7XiEFBdGPE8y_QExYaQ9Mq0KKXztlgW5KAs9ncYwQpEyf-KoNaj6SNLrWgIJSsLY5DFs_5Oi9_kHSenp36vkA1lX2zSDuoqs6bz6KAJFMCdf58D1cYc6l2oabr7-MqmLO5S31u9EM_DDOBzwy6KoChdJ-jfaD7nrO8atN9SsEphay552ZzXdcEp_Ga_93zAlZeocaoV21OZcyCEv_NAC849S4Oci76_JF32eBUup40CfFSNnhWwP159dSk-7RoHsqp5_57KLSM9OafGfuyOv0dLDQO8rfqdQ5E2ly8Slah-m0gpsDOfp8ACOkkPrTlCVeSTgU8ZLQlc38JR4t",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "0f0c1dde511600000aa99bcc_0",
+      "flyFrom": "FCO",
+      "flyTo": "MUC",
+      "cityFrom": "Rome",
+      "cityCodeFrom": "ROM",
+      "cityTo": "Munich",
+      "cityCodeTo": "MUC",
+      "countryFrom": {
+        "code": "IT",
+        "name": "Italy"
+      },
+      "countryTo": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "local_departure": "2028-11-01T18:50:00.000Z",
+      "utc_departure": "2028-11-01T17:50:00.000Z",
+      "local_arrival": "2028-11-01T20:20:00.000Z",
+      "utc_arrival": "2028-11-01T19:20:00.000Z",
+      "nightsInDest": null,
+      "quality": 254,
+      "distance": 730.41,
+      "duration": {
+        "departure": 5400,
+        "return": 0,
+        "total": 5400
+      },
+      "price": 242,
+      "conversion": {
+        "EUR": 242
+      },
+      "fare": {
+        "adults": 242,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 24.2,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 442,
+            "itinerary_price_remaining": 242,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 51,
+        "2": 156
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 51,
+          "2": 156
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 8,
+        "hand_width": 23,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 23,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 85,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 4,
+        "personal_item_width": 15
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "LH"
+      ],
+      "route": [
+        {
+          "id": "0f0c1dde511600000aa99bcc_0",
+          "combination_id": "0f0c1dde511600000aa99bcc",
+          "flyFrom": "FCO",
+          "flyTo": "MUC",
+          "cityFrom": "Rome",
+          "cityCodeFrom": "ROM",
+          "cityTo": "Munich",
+          "cityCodeTo": "MUC",
+          "local_departure": "2028-11-01T18:50:00.000Z",
+          "utc_departure": "2028-11-01T17:50:00.000Z",
+          "local_arrival": "2028-11-01T20:20:00.000Z",
+          "utc_arrival": "2028-11-01T19:20:00.000Z",
+          "airline": "LH",
+          "flight_no": 1871,
+          "operating_carrier": "LH",
+          "operating_flight_no": "1871",
+          "fare_basis": "VEULGTX9",
+          "fare_category": "M",
+          "fare_classes": "V",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HPn9OhoKZATEP1XJ35oCO1Xwo3H6Ps2iNfgnuuzFPA0Uh7XccTeTee9GghcjrhRWn8fNY-Mj3bLHhZCrNOL_EOFN9kJBwwQ_KISVjwF5HUrjJ-yMQkZoABd94RoqDIl-nvoY1aFN8G-4oGsQxMFBjwzQBvJqGBdWaewFBPrEhG4iqzkD25AoPv4o7RsFGK4zoNR2LyfiPZp1DkLoD4S_zCU3apk8dvStgK_vY-ZGnMBVlxLzAZQpIRVQBIi-IwNZTEUTUA-iULmHW8K2aA8tjt6GAxTFmSo6hL3gRYJZ9zx84UwHeXuc4TS59J0fetCI6PxuyOWPt6uqzZhXAKA-bRrd6dI-_largj_gIPgUJbCvkh5wV3aqiG8pgRM0qItOueYEefwuNN5QbCdLSNdVU44zpGo0Vm1KviyqovONzMrPE67v4Q01MYO4Q2sZ-927kTOcdoEzTj-_4H4Hj0O_UiZOb1aZTA2yJ3zgXTYXZIZI_0odidJ5FgBcSsX58lW81gZWPz1Zo6Nn0u1fC3GyDU5TI7pigpQElGWejChHfDPeRzuu4Odj4NhZJyht2YbgDY6cYmA9BTo6zTEbDgbmTERCG4x8LblJHYiJONUI0LJMIqtVVt0RLAFJqI3qNQCkKrr0SFW0_bRdAFs4mfLqheKZM4a3VCvHOW-RkCgMcwL6rdPu-SntvF8h4gcYTlbj72nl7-mw8wXZxqdnEzzjHTNEVY74CCmn6bl7sBukFFeyT7GkqtnmvMs_Zh6sawDm4JxpHTEUG8BFFLGn8quY5W3ccHuWLx_3wEp27OKezNQofthp_BS2tJDUCxA_rr1FXNXyi5GgpMSHrRMREzeCVFHk5eFqwAVhWvrmfzE0IPE7KtIRysunh3LlxtgFwgWV9aK60EP-o7czVcY_60OvrBiXQoJDBaakrvyTwW-HkT3WgJa5U9p66x_025dKKp6tEIwDpS4J_bT-RUHgbpHogFEuYDVT4SuW08AbVEIjg_D08G6XvkdFMvgQh5REBpG_DRyD9G8IZNQI2AQPoMALYhqOFOSeKq8ikSf7ZZ4kRlixrRaaLQBPImz_kEpJsHu6k",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=0f0c1dde511600000aa99bcc_0&from=FCO&lang=en&passengers=1&to=MUC&booking_token=HPn9OhoKZATEP1XJ35oCO1Xwo3H6Ps2iNfgnuuzFPA0Uh7XccTeTee9GghcjrhRWn8fNY-Mj3bLHhZCrNOL_EOFN9kJBwwQ_KISVjwF5HUrjJ-yMQkZoABd94RoqDIl-nvoY1aFN8G-4oGsQxMFBjwzQBvJqGBdWaewFBPrEhG4iqzkD25AoPv4o7RsFGK4zoNR2LyfiPZp1DkLoD4S_zCU3apk8dvStgK_vY-ZGnMBVlxLzAZQpIRVQBIi-IwNZTEUTUA-iULmHW8K2aA8tjt6GAxTFmSo6hL3gRYJZ9zx84UwHeXuc4TS59J0fetCI6PxuyOWPt6uqzZhXAKA-bRrd6dI-_largj_gIPgUJbCvkh5wV3aqiG8pgRM0qItOueYEefwuNN5QbCdLSNdVU44zpGo0Vm1KviyqovONzMrPE67v4Q01MYO4Q2sZ-927kTOcdoEzTj-_4H4Hj0O_UiZOb1aZTA2yJ3zgXTYXZIZI_0odidJ5FgBcSsX58lW81gZWPz1Zo6Nn0u1fC3GyDU5TI7pigpQElGWejChHfDPeRzuu4Odj4NhZJyht2YbgDY6cYmA9BTo6zTEbDgbmTERCG4x8LblJHYiJONUI0LJMIqtVVt0RLAFJqI3qNQCkKrr0SFW0_bRdAFs4mfLqheKZM4a3VCvHOW-RkCgMcwL6rdPu-SntvF8h4gcYTlbj72nl7-mw8wXZxqdnEzzjHTNEVY74CCmn6bl7sBukFFeyT7GkqtnmvMs_Zh6sawDm4JxpHTEUG8BFFLGn8quY5W3ccHuWLx_3wEp27OKezNQofthp_BS2tJDUCxA_rr1FXNXyi5GgpMSHrRMREzeCVFHk5eFqwAVhWvrmfzE0IPE7KtIRysunh3LlxtgFwgWV9aK60EP-o7czVcY_60OvrBiXQoJDBaakrvyTwW-HkT3WgJa5U9p66x_025dKKp6tEIwDpS4J_bT-RUHgbpHogFEuYDVT4SuW08AbVEIjg_D08G6XvkdFMvgQh5REBpG_DRyD9G8IZNQI2AQPoMALYhqOFOSeKq8ikSf7ZZ4kRlixrRaaLQBPImz_kEpJsHu6k",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    }
+  ],
+  "_results": 10
+}

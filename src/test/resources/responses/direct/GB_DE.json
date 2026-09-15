@@ -1,0 +1,1140 @@
+{
+  "search_id": "160e3122-64d5-4ca5-8a99-7a7a163be587",
+  "currency": "EUR",
+  "fx_rate": 1,
+  "data": [
+    {
+      "id": "18ff244a511c0000747c3f9f_0",
+      "flyFrom": "LTN",
+      "flyTo": "DTM",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "Dortmund",
+      "cityCodeTo": "DTM",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "local_departure": "2028-11-07T12:30:00.000Z",
+      "utc_departure": "2028-11-07T12:30:00.000Z",
+      "local_arrival": "2028-11-07T14:50:00.000Z",
+      "utc_arrival": "2028-11-07T13:50:00.000Z",
+      "nightsInDest": null,
+      "quality": 30.666666984558105,
+      "distance": 551.8,
+      "duration": {
+        "departure": 4800,
+        "return": 0,
+        "total": 4800
+      },
+      "price": 20,
+      "conversion": {
+        "EUR": 20
+      },
+      "fare": {
+        "adults": 20,
+        "children": 0,
+        "infants": 0
+      },
+      "bags_price": {
+        "1": 48.019072,
+        "2": 96.038144
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 48.019072,
+          "2": 96.038144
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "W9"
+      ],
+      "route": [
+        {
+          "id": "18ff244a511c0000747c3f9f_0",
+          "combination_id": "18ff244a511c0000747c3f9f",
+          "flyFrom": "LTN",
+          "flyTo": "DTM",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Dortmund",
+          "cityCodeTo": "DTM",
+          "local_departure": "2028-11-07T12:30:00.000Z",
+          "utc_departure": "2028-11-07T12:30:00.000Z",
+          "local_arrival": "2028-11-07T14:50:00.000Z",
+          "utc_arrival": "2028-11-07T13:50:00.000Z",
+          "airline": "W9",
+          "flight_no": 5463,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HU3Q6v2sP20jn6ouFizW-dm_01AabF90yIlL8IpxKNjkyQKVmnGyEdLUIwdEP1JDAhGnVD-p-V6OooZMpK_MumfzohvwwrdQqAgTi5OICUEEHmrlBl6vWWpFNMjUaq9dGDzqyuMSsXGettFjuat95qM4DKUnffum4Nbtv5PvZvgDliXXWfMealyhh_kwaTJ9R-4zmxOvI5rt5cbCNdDFHDA1UGbHETmEbYWOqDzfdIs1SYq2SxpMYWUxu3B_KtUNYrE9E2VnRk3glmF_H5dP2hGmttPx1Y4BUaIIJUGtWs_bIe5qCCZN--OcXdOvORRVdBN_DsGB0UQ_EycTvK9WGDX9FE81E9v0cRrgKzR1NDLnFTkQhI8MZB78_0mN2r-Lii-1EkR3vQU-7OlCVyCo_Ps3cI39rSbYqJbjC2riZN5_OQNb7LXrWLdAAQBa8949v1HZO-sUcwA7VKMp21qGdM2qCDTz1p1B84NKKUYc7gZKE_wWn7_94G-MOymd-x-6i6xVo03MgTwJ-zR-613LPxbIgPDBJSZxzKQoLaSVkTbxSSBWjZgH9xefdVj1WVR_TUpi4Ri6CxwyPh4mZj4533GZ6gApMdlt0ExDD1bmSRQ6obJq0Y__vVKACRuuZ0QnOZFbrAJWPzi2iLkGX_RGZXQjSRAvSkUL2n7SEjY2A8ovL3g9RKYVIxFBW_VzIvreuOlrf3_xBLF1d3PkW6-MBua1phHlwaU5ePguSEs1IU4fo-Nb2gOEgzGeiPdkj7VQORskDqrtkhivhkJBzKE_hOi4xbZPGfDwqDOhqjw0s7CVEQbijPr5JU0QKysu32SXvJNZoZADf6NeOPoDQqq0QJHdPpdBF50F_WfAqU9Za8FGqydUVvJjq9GpqSdyFEUUb",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=18ff244a511c0000747c3f9f_0&from=LTN&lang=en&passengers=1&to=DTM&booking_token=HU3Q6v2sP20jn6ouFizW-dm_01AabF90yIlL8IpxKNjkyQKVmnGyEdLUIwdEP1JDAhGnVD-p-V6OooZMpK_MumfzohvwwrdQqAgTi5OICUEEHmrlBl6vWWpFNMjUaq9dGDzqyuMSsXGettFjuat95qM4DKUnffum4Nbtv5PvZvgDliXXWfMealyhh_kwaTJ9R-4zmxOvI5rt5cbCNdDFHDA1UGbHETmEbYWOqDzfdIs1SYq2SxpMYWUxu3B_KtUNYrE9E2VnRk3glmF_H5dP2hGmttPx1Y4BUaIIJUGtWs_bIe5qCCZN--OcXdOvORRVdBN_DsGB0UQ_EycTvK9WGDX9FE81E9v0cRrgKzR1NDLnFTkQhI8MZB78_0mN2r-Lii-1EkR3vQU-7OlCVyCo_Ps3cI39rSbYqJbjC2riZN5_OQNb7LXrWLdAAQBa8949v1HZO-sUcwA7VKMp21qGdM2qCDTz1p1B84NKKUYc7gZKE_wWn7_94G-MOymd-x-6i6xVo03MgTwJ-zR-613LPxbIgPDBJSZxzKQoLaSVkTbxSSBWjZgH9xefdVj1WVR_TUpi4Ri6CxwyPh4mZj4533GZ6gApMdlt0ExDD1bmSRQ6obJq0Y__vVKACRuuZ0QnOZFbrAJWPzi2iLkGX_RGZXQjSRAvSkUL2n7SEjY2A8ovL3g9RKYVIxFBW_VzIvreuOlrf3_xBLF1d3PkW6-MBua1phHlwaU5ePguSEs1IU4fo-Nb2gOEgzGeiPdkj7VQORskDqrtkhivhkJBzKE_hOi4xbZPGfDwqDOhqjw0s7CVEQbijPr5JU0QKysu32SXvJNZoZADf6NeOPoDQqq0QJHdPpdBF50F_WfAqU9Za8FGqydUVvJjq9GpqSdyFEUUb",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "18ff244a51220000d0ca5e24_0",
+      "flyFrom": "LTN",
+      "flyTo": "DTM",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "Dortmund",
+      "cityCodeTo": "DTM",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "local_departure": "2028-11-13T12:30:00.000Z",
+      "utc_departure": "2028-11-13T12:30:00.000Z",
+      "local_arrival": "2028-11-13T14:50:00.000Z",
+      "utc_arrival": "2028-11-13T13:50:00.000Z",
+      "nightsInDest": null,
+      "quality": 30.666666984558105,
+      "distance": 551.8,
+      "duration": {
+        "departure": 4800,
+        "return": 0,
+        "total": 4800
+      },
+      "price": 20,
+      "conversion": {
+        "EUR": 20
+      },
+      "fare": {
+        "adults": 20,
+        "children": 0,
+        "infants": 0
+      },
+      "bags_price": {
+        "1": 48.019072,
+        "2": 96.038144
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 48.019072,
+          "2": 96.038144
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "W9"
+      ],
+      "route": [
+        {
+          "id": "18ff244a51220000d0ca5e24_0",
+          "combination_id": "18ff244a51220000d0ca5e24",
+          "flyFrom": "LTN",
+          "flyTo": "DTM",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Dortmund",
+          "cityCodeTo": "DTM",
+          "local_departure": "2028-11-13T12:30:00.000Z",
+          "utc_departure": "2028-11-13T12:30:00.000Z",
+          "local_arrival": "2028-11-13T14:50:00.000Z",
+          "utc_arrival": "2028-11-13T13:50:00.000Z",
+          "airline": "W9",
+          "flight_no": 5463,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HPE8_DM2vWIfgBvGp8qZtCvhIcF0F15RHeRay5Nzy_r-_ojv1EVUXmCbDOwIwubpy07ihVsXjpipcNzCiYvx8ooBOuxki8meJ7yD7aJLxTmEv-UQcHF_Jkxzw-yZARBES3pQvaoO0jmgQx-RmhaYk32uoG7oEGaGWX41N2H3OVZLXi1c_1h0UKZIB6BPqgqRZHR--XjA8x7dv8k7LJ2GcmVLw4AVeO9F5IflshPfTHBSeEnbwtFK89uhzKxhU1cSThj-G5OGKiDikstHs1JJUlPlXUGDOz_Nwf_giCdCh6eBoE5j4bFovhOQlaYti512sTeCWbgMMN-mck21WVMLHTsJwJG9kZqsN6zX9iuoNRP_A13ZJt1lZ7b5DGHPKS-pUBSqDsB_OqBqk3DzdDihj09DmxAu7DQwD4go52yQrkdP1jL1KbxScPKjv7FfvuYgZ5rtYE9yO48z4fcyT2IVqT1vwQSGTT-muivvk9D4euiuNH8Cm6oO0xNQiCcqrWyCSmN9qWpX90602rOB8jRkGKdnsDKB6YCVi6S7Q6oWhR2j69BUDABnLbiUFjJ_c-MlGzM3qCywziOQukKjPKzMlWUA7maV6utjpLfS5n8Nv_3hspVSqIXVn_psrTz51abLpJFE0Y4VwD9AEKueulIScQJLkWq87S5SzzkdGaVY9fBUnn9vBoNJ1V-4i17hadgi85b5RGvDQOhjp2QkYCzYjAf5bfulgGlD8rGMrJ7rVfijk29N1TuQACfRe4Dscc_dumdWmGJo8J-m-W9HWJA1JVN4xS4eiAOxzOhdUnqgsvdzjt5gr0EGVoGTDn9wC12V-BIbvr-od1E4yYurnUfPaVtaD9pGPMaBa1WXwkMio7dPyzDjy7rngmW2NJILsxeiTyuk_VdPnhKEH0ZKUGLNXIA==",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=18ff244a51220000d0ca5e24_0&from=LTN&lang=en&passengers=1&to=DTM&booking_token=HPE8_DM2vWIfgBvGp8qZtCvhIcF0F15RHeRay5Nzy_r-_ojv1EVUXmCbDOwIwubpy07ihVsXjpipcNzCiYvx8ooBOuxki8meJ7yD7aJLxTmEv-UQcHF_Jkxzw-yZARBES3pQvaoO0jmgQx-RmhaYk32uoG7oEGaGWX41N2H3OVZLXi1c_1h0UKZIB6BPqgqRZHR--XjA8x7dv8k7LJ2GcmVLw4AVeO9F5IflshPfTHBSeEnbwtFK89uhzKxhU1cSThj-G5OGKiDikstHs1JJUlPlXUGDOz_Nwf_giCdCh6eBoE5j4bFovhOQlaYti512sTeCWbgMMN-mck21WVMLHTsJwJG9kZqsN6zX9iuoNRP_A13ZJt1lZ7b5DGHPKS-pUBSqDsB_OqBqk3DzdDihj09DmxAu7DQwD4go52yQrkdP1jL1KbxScPKjv7FfvuYgZ5rtYE9yO48z4fcyT2IVqT1vwQSGTT-muivvk9D4euiuNH8Cm6oO0xNQiCcqrWyCSmN9qWpX90602rOB8jRkGKdnsDKB6YCVi6S7Q6oWhR2j69BUDABnLbiUFjJ_c-MlGzM3qCywziOQukKjPKzMlWUA7maV6utjpLfS5n8Nv_3hspVSqIXVn_psrTz51abLpJFE0Y4VwD9AEKueulIScQJLkWq87S5SzzkdGaVY9fBUnn9vBoNJ1V-4i17hadgi85b5RGvDQOhjp2QkYCzYjAf5bfulgGlD8rGMrJ7rVfijk29N1TuQACfRe4Dscc_dumdWmGJo8J-m-W9HWJA1JVN4xS4eiAOxzOhdUnqgsvdzjt5gr0EGVoGTDn9wC12V-BIbvr-od1E4yYurnUfPaVtaD9pGPMaBa1WXwkMio7dPyzDjy7rngmW2NJILsxeiTyuk_VdPnhKEH0ZKUGLNXIA==",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "18ff244a512a0000dc3daff5_0",
+      "flyFrom": "LTN",
+      "flyTo": "DTM",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "Dortmund",
+      "cityCodeTo": "DTM",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "local_departure": "2028-11-21T12:30:00.000Z",
+      "utc_departure": "2028-11-21T12:30:00.000Z",
+      "local_arrival": "2028-11-21T14:50:00.000Z",
+      "utc_arrival": "2028-11-21T13:50:00.000Z",
+      "nightsInDest": null,
+      "quality": 30.666666984558105,
+      "distance": 551.8,
+      "duration": {
+        "departure": 4800,
+        "return": 0,
+        "total": 4800
+      },
+      "price": 20,
+      "conversion": {
+        "EUR": 20
+      },
+      "fare": {
+        "adults": 20,
+        "children": 0,
+        "infants": 0
+      },
+      "bags_price": {
+        "1": 36.671188,
+        "2": 73.342376
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 36.671188,
+          "2": 73.342376
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": 2
+      },
+      "airlines": [
+        "W9"
+      ],
+      "route": [
+        {
+          "id": "18ff244a512a0000dc3daff5_0",
+          "combination_id": "18ff244a512a0000dc3daff5",
+          "flyFrom": "LTN",
+          "flyTo": "DTM",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Dortmund",
+          "cityCodeTo": "DTM",
+          "local_departure": "2028-11-21T12:30:00.000Z",
+          "utc_departure": "2028-11-21T12:30:00.000Z",
+          "local_arrival": "2028-11-21T14:50:00.000Z",
+          "utc_arrival": "2028-11-21T13:50:00.000Z",
+          "airline": "W9",
+          "flight_no": 5463,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HhPAMdQyzujJ2Zyjt5WES5pZFP0VxZ2nq0YB0O_g5MckLbKumQT96iT4vlZ9ar0gw7XlrSGEEuBu-aTLf3KdCmRpXq3gI9a9DyL5GAUw84L-i-EpDnVl38QxCgEGlj1C4xiB08rGz1RtHIyBsTdRlsSk8bsLf6eAWN1Iq3LlHFV3oYt5bInEmDSPpJ7v4-iGDEVtMkKbo4sO0sBB99t12NTtN8v6WbrMqOOZTs_sGdrs3OW7SwWrMpPlNDFKK3quhK8zU6L35f9CvY8po7OY69gU9RVs4DDXAQwl6X0sqH0T6pmHQCaHNv9HK_kiKO45_R5A3MNkI4POBt5UvZLyi1nDr1NindhHosBNzuVTLsCfF598p01WMBD3YbM2pDXxGLbG9gec6PmnMAsYlQna2j8FNF9T-_DxJlEC2AVRaYg3pf_pJjwqAKWmfi2vFs8As-LSl11SUq7_NcpknYodE_Gtw_dzjqYZDRSKsbRZ8YpLtLvEqMjQDvQpoplYrru6zlgAQt3L5AT4hclHOrjs85JoUggoSow41FwSLwjTiKFlwpuFF8BLVZX8VNcn30LSDKfVFdKddzhL7DUVMb-8TQ0tNzTmnFWSRIYCSGZLOfrA7yjM1VNesUQjypgRvBTtWA_kALyN_VAZAOB6VgG5ez7pkD2s8GUamG1yDxjn8QTR4fNNtqcewMwqcU279giJZHosMXYR03sAhlVjxm8cpg4KVJNNykJM3iBRKausC3GsZwETpGioN2SqxSzlHdOHhpbI0DhHKRNN52UGoqO6A9t6pmfQrBTUHMK54NSFsdehYfZMGqPXyVaHbrPg-ugEmA_sR8mLulB7YwfJf6TSvrf18ImZ3flKUOmnL_lO3O9MYFaEQXkKKq18CN96CTdG_",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=18ff244a512a0000dc3daff5_0&from=LTN&lang=en&passengers=1&to=DTM&booking_token=HhPAMdQyzujJ2Zyjt5WES5pZFP0VxZ2nq0YB0O_g5MckLbKumQT96iT4vlZ9ar0gw7XlrSGEEuBu-aTLf3KdCmRpXq3gI9a9DyL5GAUw84L-i-EpDnVl38QxCgEGlj1C4xiB08rGz1RtHIyBsTdRlsSk8bsLf6eAWN1Iq3LlHFV3oYt5bInEmDSPpJ7v4-iGDEVtMkKbo4sO0sBB99t12NTtN8v6WbrMqOOZTs_sGdrs3OW7SwWrMpPlNDFKK3quhK8zU6L35f9CvY8po7OY69gU9RVs4DDXAQwl6X0sqH0T6pmHQCaHNv9HK_kiKO45_R5A3MNkI4POBt5UvZLyi1nDr1NindhHosBNzuVTLsCfF598p01WMBD3YbM2pDXxGLbG9gec6PmnMAsYlQna2j8FNF9T-_DxJlEC2AVRaYg3pf_pJjwqAKWmfi2vFs8As-LSl11SUq7_NcpknYodE_Gtw_dzjqYZDRSKsbRZ8YpLtLvEqMjQDvQpoplYrru6zlgAQt3L5AT4hclHOrjs85JoUggoSow41FwSLwjTiKFlwpuFF8BLVZX8VNcn30LSDKfVFdKddzhL7DUVMb-8TQ0tNzTmnFWSRIYCSGZLOfrA7yjM1VNesUQjypgRvBTtWA_kALyN_VAZAOB6VgG5ez7pkD2s8GUamG1yDxjn8QTR4fNNtqcewMwqcU279giJZHosMXYR03sAhlVjxm8cpg4KVJNNykJM3iBRKausC3GsZwETpGioN2SqxSzlHdOHhpbI0DhHKRNN52UGoqO6A9t6pmfQrBTUHMK54NSFsdehYfZMGqPXyVaHbrPg-ugEmA_sR8mLulB7YwfJf6TSvrf18ImZ3flKUOmnL_lO3O9MYFaEQXkKKq18CN96CTdG_",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "18ff244a5121000076964e7f_0",
+      "flyFrom": "LTN",
+      "flyTo": "DTM",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "Dortmund",
+      "cityCodeTo": "DTM",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "local_departure": "2028-11-12T12:30:00.000Z",
+      "utc_departure": "2028-11-12T12:30:00.000Z",
+      "local_arrival": "2028-11-12T14:50:00.000Z",
+      "utc_arrival": "2028-11-12T13:50:00.000Z",
+      "nightsInDest": null,
+      "quality": 30.666666984558105,
+      "distance": 551.8,
+      "duration": {
+        "departure": 4800,
+        "return": 0,
+        "total": 4800
+      },
+      "price": 20,
+      "conversion": {
+        "EUR": 20
+      },
+      "fare": {
+        "adults": 20,
+        "children": 0,
+        "infants": 0
+      },
+      "bags_price": {
+        "1": 48.019072,
+        "2": 96.038144
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 48.019072,
+          "2": 96.038144
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "W9"
+      ],
+      "route": [
+        {
+          "id": "18ff244a5121000076964e7f_0",
+          "combination_id": "18ff244a5121000076964e7f",
+          "flyFrom": "LTN",
+          "flyTo": "DTM",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Dortmund",
+          "cityCodeTo": "DTM",
+          "local_departure": "2028-11-12T12:30:00.000Z",
+          "utc_departure": "2028-11-12T12:30:00.000Z",
+          "local_arrival": "2028-11-12T14:50:00.000Z",
+          "utc_arrival": "2028-11-12T13:50:00.000Z",
+          "airline": "W9",
+          "flight_no": 5463,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HvdqNrDdPNdIpgRnijcSsty1XHo3d2AQAwlQWyjPxClHTDD83UvZ7iP800XpgTfAQPFMTX4FPw-w2aDTBgiqF9yT0x2Qk4ySsDZpn_APPbnwVbKSsk2_31_GtRWP0oDEwOaF5KWC7wiiiM766A-9dAWExR5LwDnC5zTagLRnf_GTTQFfAvNdO6M5kG1a9-hJfmX5IWBVx5Cm3QuYYT7P3JQYlbTYCKbR9oBoOxHelCAVrldGiwRQJLugB2lQI29ivlOiV51hKnCM9Yqf3gwUu2Dj6ppkXN4CYRjdh85-6eEU116fCASL1p_vxjxr8bqclmLX_spKe9z9DYOyEXdQOl3ETR1aEGfFrWqAz4rpqrxRTnbiOqRWHPccbvkO3N2nVsxUndi464lGO33nxSTLNEmZazR_NO7Yi8nJ6E6wJ7n_eBy2fEh7whVIPXCYWzgtFf-MJVMryI0HXkZOaQoWXz6G2MjpKhRJ_Ynh_pdgbviS3GvDhesQ-vSi9Jzl-tds2M_Zz3xy3RKcDsr4vNEH0hTuzGReU3JWCR8d0D-AQ4lexKsTktm7oqJz0smWx2CWJR7I_RlmGD4Xbb1KGsltZhLdad76itGZIUgjSJpgLKOxB0myniKPox0bOgsq0qxqgs5DTNf_Hrg1ff6fhoZfy8g_NTmoYHVa5_lCHAj6pjkevJ_-YKTHXv-Siy_x8xnnYmQCYG_Qs5L8fg2PAaNThdlFXcsD8gWI0Wl2GC1yX95H0o4A6XMRaM61ftAY4alRGD8yd6SIQNwQGj2DRoMAOsh2Kxt5ejKr05E4c6kkOAG1JqE8jqBLh3ZGU9dJkFTEVQcN4syLH-n2WneWlDXMXCWoPDkNTxBv5Ng7MWg1q9Cwnfd5Z_894jtRrn3jS72Xb",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=18ff244a5121000076964e7f_0&from=LTN&lang=en&passengers=1&to=DTM&booking_token=HvdqNrDdPNdIpgRnijcSsty1XHo3d2AQAwlQWyjPxClHTDD83UvZ7iP800XpgTfAQPFMTX4FPw-w2aDTBgiqF9yT0x2Qk4ySsDZpn_APPbnwVbKSsk2_31_GtRWP0oDEwOaF5KWC7wiiiM766A-9dAWExR5LwDnC5zTagLRnf_GTTQFfAvNdO6M5kG1a9-hJfmX5IWBVx5Cm3QuYYT7P3JQYlbTYCKbR9oBoOxHelCAVrldGiwRQJLugB2lQI29ivlOiV51hKnCM9Yqf3gwUu2Dj6ppkXN4CYRjdh85-6eEU116fCASL1p_vxjxr8bqclmLX_spKe9z9DYOyEXdQOl3ETR1aEGfFrWqAz4rpqrxRTnbiOqRWHPccbvkO3N2nVsxUndi464lGO33nxSTLNEmZazR_NO7Yi8nJ6E6wJ7n_eBy2fEh7whVIPXCYWzgtFf-MJVMryI0HXkZOaQoWXz6G2MjpKhRJ_Ynh_pdgbviS3GvDhesQ-vSi9Jzl-tds2M_Zz3xy3RKcDsr4vNEH0hTuzGReU3JWCR8d0D-AQ4lexKsTktm7oqJz0smWx2CWJR7I_RlmGD4Xbb1KGsltZhLdad76itGZIUgjSJpgLKOxB0myniKPox0bOgsq0qxqgs5DTNf_Hrg1ff6fhoZfy8g_NTmoYHVa5_lCHAj6pjkevJ_-YKTHXv-Siy_x8xnnYmQCYG_Qs5L8fg2PAaNThdlFXcsD8gWI0Wl2GC1yX95H0o4A6XMRaM61ftAY4alRGD8yd6SIQNwQGj2DRoMAOsh2Kxt5ejKr05E4c6kkOAG1JqE8jqBLh3ZGU9dJkFTEVQcN4syLH-n2WneWlDXMXCWoPDkNTxBv5Ng7MWg1q9Cwnfd5Z_894jtRrn3jS72Xb",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "18ff244a511a00009b2351b5_0",
+      "flyFrom": "LTN",
+      "flyTo": "DTM",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "Dortmund",
+      "cityCodeTo": "DTM",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "local_departure": "2028-11-05T12:30:00.000Z",
+      "utc_departure": "2028-11-05T12:30:00.000Z",
+      "local_arrival": "2028-11-05T14:50:00.000Z",
+      "utc_arrival": "2028-11-05T13:50:00.000Z",
+      "nightsInDest": null,
+      "quality": 35.666666984558105,
+      "distance": 551.8,
+      "duration": {
+        "departure": 4800,
+        "return": 0,
+        "total": 4800
+      },
+      "price": 25,
+      "conversion": {
+        "EUR": 25
+      },
+      "fare": {
+        "adults": 25,
+        "children": 0,
+        "infants": 0
+      },
+      "bags_price": {
+        "1": 48.019072,
+        "2": 96.038144
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 48.019072,
+          "2": 96.038144
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "W9"
+      ],
+      "route": [
+        {
+          "id": "18ff244a511a00009b2351b5_0",
+          "combination_id": "18ff244a511a00009b2351b5",
+          "flyFrom": "LTN",
+          "flyTo": "DTM",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Dortmund",
+          "cityCodeTo": "DTM",
+          "local_departure": "2028-11-05T12:30:00.000Z",
+          "utc_departure": "2028-11-05T12:30:00.000Z",
+          "local_arrival": "2028-11-05T14:50:00.000Z",
+          "utc_arrival": "2028-11-05T13:50:00.000Z",
+          "airline": "W9",
+          "flight_no": 5463,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "H8czRtWu5rvefe0uvy4h2VovgLtRNt7pcVZMZmGDOauJT-J4H73oML4w8Ff23A2N6lGzwQ9vHHDRwaveUh9yy1ZA2qgCAyQQnV3Ioko_mmPKthD1POJyKPtdbg5mNAwk5eoxbcePgPAlyI3kypRI3G-LkjfignajNWgitCPUAzVUKBr1q5uepn6H5D7lPIb-XT9vRE0kzGaJ1_69Xfcf9NgwT35yNFZzZ9OYVmppnBXYHInwUwY-VmDkecjQY9KYAXKc-TAMw1EhNQMocQoAVqrnYXIG8dwjW288aGrxbPBwhDOqXvj1sS6uWpePEEQWTlaaLn9zwfpkDwzEscdkhF_Q6Z_kJM-7kw8Dx-0zy7w1fhdZcFfvui08hXaQs7M3YI0GZ1r9AzjF9V8ykj_FJjVMp6uevI7bu-Zw9Chs_3b6q16s8R912xpkHQZh1aUXKl4QJ3XVEidACYG7EF5BuRNd3d4CF1tSd7Wlvn2r-dQj8A0IBPE6brf4Z6T7Icg7jiz-qdf16AEM_xHgd8OopAhk1F0iL9nCUPQ5SGoPEzeCZde9ISgjOzbHltftH7ljZ22LnXCz8Wsyl-P4vi4sg51vR1x3c7MWBt4S0DT2okMxPldEXENWcVVbdJGQ1di74qwTl7wC3CfmbBNfRBGPeqaVC0i_BHtfdHX9X3tM82mZ3xxhYVppSg7MAvvROuBH2vuaVOxbx_-e4iDstm6zLPQKPZleNl4GAuxS1nx-oklLvfvVrkKPfN8-2WbMRAEwuiVkXsozFgczmTFDuwSExvpmSyWuzBakBNqivM8Dp3xCKrQYJfX-FwI4ZqBdbI3J8hHs2O1-K2t8To8o7p1w7Do9vXI0GR2VQFwzCjNx2f-l1Ay1VJmTX-za3NKXbqzTROoukv-dYb0maYvNxk0xCXQ==",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=18ff244a511a00009b2351b5_0&from=LTN&lang=en&passengers=1&to=DTM&booking_token=H8czRtWu5rvefe0uvy4h2VovgLtRNt7pcVZMZmGDOauJT-J4H73oML4w8Ff23A2N6lGzwQ9vHHDRwaveUh9yy1ZA2qgCAyQQnV3Ioko_mmPKthD1POJyKPtdbg5mNAwk5eoxbcePgPAlyI3kypRI3G-LkjfignajNWgitCPUAzVUKBr1q5uepn6H5D7lPIb-XT9vRE0kzGaJ1_69Xfcf9NgwT35yNFZzZ9OYVmppnBXYHInwUwY-VmDkecjQY9KYAXKc-TAMw1EhNQMocQoAVqrnYXIG8dwjW288aGrxbPBwhDOqXvj1sS6uWpePEEQWTlaaLn9zwfpkDwzEscdkhF_Q6Z_kJM-7kw8Dx-0zy7w1fhdZcFfvui08hXaQs7M3YI0GZ1r9AzjF9V8ykj_FJjVMp6uevI7bu-Zw9Chs_3b6q16s8R912xpkHQZh1aUXKl4QJ3XVEidACYG7EF5BuRNd3d4CF1tSd7Wlvn2r-dQj8A0IBPE6brf4Z6T7Icg7jiz-qdf16AEM_xHgd8OopAhk1F0iL9nCUPQ5SGoPEzeCZde9ISgjOzbHltftH7ljZ22LnXCz8Wsyl-P4vi4sg51vR1x3c7MWBt4S0DT2okMxPldEXENWcVVbdJGQ1di74qwTl7wC3CfmbBNfRBGPeqaVC0i_BHtfdHX9X3tM82mZ3xxhYVppSg7MAvvROuBH2vuaVOxbx_-e4iDstm6zLPQKPZleNl4GAuxS1nx-oklLvfvVrkKPfN8-2WbMRAEwuiVkXsozFgczmTFDuwSExvpmSyWuzBakBNqivM8Dp3xCKrQYJfX-FwI4ZqBdbI3J8hHs2O1-K2t8To8o7p1w7Do9vXI0GR2VQFwzCjNx2f-l1Ay1VJmTX-za3NKXbqzTROoukv-dYb0maYvNxk0xCXQ==",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "18ff244a512800007bae1b26_0",
+      "flyFrom": "LTN",
+      "flyTo": "DTM",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "Dortmund",
+      "cityCodeTo": "DTM",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "local_departure": "2028-11-19T12:30:00.000Z",
+      "utc_departure": "2028-11-19T12:30:00.000Z",
+      "local_arrival": "2028-11-19T14:50:00.000Z",
+      "utc_arrival": "2028-11-19T13:50:00.000Z",
+      "nightsInDest": null,
+      "quality": 35.666666984558105,
+      "distance": 551.8,
+      "duration": {
+        "departure": 4800,
+        "return": 0,
+        "total": 4800
+      },
+      "price": 25,
+      "conversion": {
+        "EUR": 25
+      },
+      "fare": {
+        "adults": 25,
+        "children": 0,
+        "infants": 0
+      },
+      "bags_price": {
+        "1": 36.671188,
+        "2": 73.342376
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 36.671188,
+          "2": 73.342376
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "W9"
+      ],
+      "route": [
+        {
+          "id": "18ff244a512800007bae1b26_0",
+          "combination_id": "18ff244a512800007bae1b26",
+          "flyFrom": "LTN",
+          "flyTo": "DTM",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Dortmund",
+          "cityCodeTo": "DTM",
+          "local_departure": "2028-11-19T12:30:00.000Z",
+          "utc_departure": "2028-11-19T12:30:00.000Z",
+          "local_arrival": "2028-11-19T14:50:00.000Z",
+          "utc_arrival": "2028-11-19T13:50:00.000Z",
+          "airline": "W9",
+          "flight_no": 5463,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "H7FtxV7GX6bq71HTOoJ0uDHZlP1cUI7pVukNr8asQvVi4v4JvRXLPBJ7zXkDxJe-Z7zk3vctSWwEqzTnVJ5wnJOnIxmWiNgY6rMzz8GUMCX8Yz6WL8UX5Xmk3H0dxPzPbCkkD4fmP0kkSlMtQIqM8h7qXzta9bxjibW5khhO-df0X6GVLiYTCQ3UVMO3H3TQKsPMhzsxhD97RJ2d1umF-IoUr33Z-btCYOFKp6nD2ASMN5ESEqjfYXpnoQtKmuiXhHsYPGwytkWCqfg0RQoAEt3EmmU7v8_vujES_BsB-_Lv6Ji5ObuZB5jHLyXwKidqz6ZN9fLCITYcDFZh_PTU3INL3S0ZWVLX0hFDvDDldFoDD_XJByyydsLsyhlwZVV7GXujxVHg8FekQ89wVixvIRQbjo_3tXpTmcbZVB5KqQc5IiMvLZjMZ0sG3wQA0D-cqBkIkhRCnZkz0W3iN3KT6E9u4WOjQPMGpt4FhgLzs7wVaisMnjZzhzdRQ4p8CfKm_kFn8KSwAOJKqRZXj0ZqCht1Pt09h5XU0i_BgmvtaoKfS2RLPeqrlrQxiWlI4CzHZShfhbEogigIgQmd-EDwrWO7b06G0EdJsuIN-ivv3XVgfgecQUEKALUh_ZP8XI9_nVMdV9WexRgku7b5frl2yEX4AwrmFWc--fnoH6nBd320coOfpV_F7Iy55ba4HrovarEaroUd9RVWMha7Ld1qXpZLTHWhgzyS2D7T4vBAqsshpmwMs6Dph67oWckcEdsvn9E1fDcGTV4RBeRAsbGGCf8LRyXbuRhiuty1ZKeoMqpHfXWxgEcZMTkrT6slSpmYH4qyX7kSGTU44ZGVIqm7V2rXCAvchCrU1h0TSaME68ounaUZVQ55BeK9HR4XJ4ATy0rcBswkt7xNwvFcLho-1NQ==",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=18ff244a512800007bae1b26_0&from=LTN&lang=en&passengers=1&to=DTM&booking_token=H7FtxV7GX6bq71HTOoJ0uDHZlP1cUI7pVukNr8asQvVi4v4JvRXLPBJ7zXkDxJe-Z7zk3vctSWwEqzTnVJ5wnJOnIxmWiNgY6rMzz8GUMCX8Yz6WL8UX5Xmk3H0dxPzPbCkkD4fmP0kkSlMtQIqM8h7qXzta9bxjibW5khhO-df0X6GVLiYTCQ3UVMO3H3TQKsPMhzsxhD97RJ2d1umF-IoUr33Z-btCYOFKp6nD2ASMN5ESEqjfYXpnoQtKmuiXhHsYPGwytkWCqfg0RQoAEt3EmmU7v8_vujES_BsB-_Lv6Ji5ObuZB5jHLyXwKidqz6ZN9fLCITYcDFZh_PTU3INL3S0ZWVLX0hFDvDDldFoDD_XJByyydsLsyhlwZVV7GXujxVHg8FekQ89wVixvIRQbjo_3tXpTmcbZVB5KqQc5IiMvLZjMZ0sG3wQA0D-cqBkIkhRCnZkz0W3iN3KT6E9u4WOjQPMGpt4FhgLzs7wVaisMnjZzhzdRQ4p8CfKm_kFn8KSwAOJKqRZXj0ZqCht1Pt09h5XU0i_BgmvtaoKfS2RLPeqrlrQxiWlI4CzHZShfhbEogigIgQmd-EDwrWO7b06G0EdJsuIN-ivv3XVgfgecQUEKALUh_ZP8XI9_nVMdV9WexRgku7b5frl2yEX4AwrmFWc--fnoH6nBd320coOfpV_F7Iy55ba4HrovarEaroUd9RVWMha7Ld1qXpZLTHWhgzyS2D7T4vBAqsshpmwMs6Dph67oWckcEdsvn9E1fDcGTV4RBeRAsbGGCf8LRyXbuRhiuty1ZKeoMqpHfXWxgEcZMTkrT6slSpmYH4qyX7kSGTU44ZGVIqm7V2rXCAvchCrU1h0TSaME68ounaUZVQ55BeK9HR4XJ4ATy0rcBswkt7xNwvFcLho-1NQ==",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "18ff244a51230000c0617ec8_0",
+      "flyFrom": "LTN",
+      "flyTo": "DTM",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "Dortmund",
+      "cityCodeTo": "DTM",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "local_departure": "2028-11-14T12:30:00.000Z",
+      "utc_departure": "2028-11-14T12:30:00.000Z",
+      "local_arrival": "2028-11-14T14:50:00.000Z",
+      "utc_arrival": "2028-11-14T13:50:00.000Z",
+      "nightsInDest": null,
+      "quality": 36.666666984558105,
+      "distance": 551.8,
+      "duration": {
+        "departure": 4800,
+        "return": 0,
+        "total": 4800
+      },
+      "price": 26,
+      "conversion": {
+        "EUR": 26
+      },
+      "fare": {
+        "adults": 26,
+        "children": 0,
+        "infants": 0
+      },
+      "bags_price": {
+        "1": 48.019072,
+        "2": 96.038144
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 48.019072,
+          "2": 96.038144
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "W9"
+      ],
+      "route": [
+        {
+          "id": "18ff244a51230000c0617ec8_0",
+          "combination_id": "18ff244a51230000c0617ec8",
+          "flyFrom": "LTN",
+          "flyTo": "DTM",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Dortmund",
+          "cityCodeTo": "DTM",
+          "local_departure": "2028-11-14T12:30:00.000Z",
+          "utc_departure": "2028-11-14T12:30:00.000Z",
+          "local_arrival": "2028-11-14T14:50:00.000Z",
+          "utc_arrival": "2028-11-14T13:50:00.000Z",
+          "airline": "W9",
+          "flight_no": 5463,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HRvXY26qJfdd1UQr_Li_pzyq7dwsO91DQckia5arGEim8MuA73NVv0-Zrhg1I_JIccTHG9-fp7UPNRyz36sEy3FjIF2W0n8SHy54Ja7NdR5DkpiLCSUIoCCWFfkalQFn4gLSYLwoSIWFESSaESvPsgVYTD3vsWx5uFXVAzo1oZiGkAUkdZtKZ41SJzYyZEZH7Fm_k0IlAjSTcKCYJcb0C_1FVPcf--3SHAHbaccNlSn5N5rUdRU2CVKBxJaRpxewgey-fnhVjQo8LZ1Xu5iN1zcWCNs4v4Dt0WbYuAzxGPrftLp9M0HKQxwBKHo3eiGp0_Y3REX9OyKNIbE2NgA2QiO_RZka35IjxQGi5BM2qu3DibY1gZycakQqoCRgS0HbTqYUsccznREC6OBzH4Q3_gPr6C0TZtOvVNa5WRvZXuHuFjev-hUPjk5r7mQhJQOF4m8AAABAkQPfS44GKkkDhOLvrdMh91zTwRykKfOv54irzRS7xaMOOJRCXWsoSsw-BOJmOvY183qoUPBnErswvnTUkhRCMCEzWRdPBgOHDKVXf47iSy8B9sHEkvhoecLGSe3hjeIQsvYicEAEBf42etND3pqqsOzLkxoORaXy-kjEmAnr_7zP_10k6J0lcs2zRmorVSCBm5Y2C2EZkhNQOz0kYC-n2K04zH1TnphwJGbh4LNiwaj3IQO8fsXO6r3LtYdQoZ18pbmJcKLQYbuYAaVahch85h7Bim-WCBK0lZCfvBgnu2XTSk0eP_fwVJGrmLkv-bRz6gSZUeW1W4UZ5YzkDHyGsPMI_ii056JUSquG07f6T6LNE4Tngukj1UzIhDYuVcnDKZgFbp0XxJxCqyq5bkMgq2bQrAYV0_1LeM2yjlDkryiPgkjxjvDTI7RTZjn7KlhixMGptBHyLpojqyQ==",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=18ff244a51230000c0617ec8_0&from=LTN&lang=en&passengers=1&to=DTM&booking_token=HRvXY26qJfdd1UQr_Li_pzyq7dwsO91DQckia5arGEim8MuA73NVv0-Zrhg1I_JIccTHG9-fp7UPNRyz36sEy3FjIF2W0n8SHy54Ja7NdR5DkpiLCSUIoCCWFfkalQFn4gLSYLwoSIWFESSaESvPsgVYTD3vsWx5uFXVAzo1oZiGkAUkdZtKZ41SJzYyZEZH7Fm_k0IlAjSTcKCYJcb0C_1FVPcf--3SHAHbaccNlSn5N5rUdRU2CVKBxJaRpxewgey-fnhVjQo8LZ1Xu5iN1zcWCNs4v4Dt0WbYuAzxGPrftLp9M0HKQxwBKHo3eiGp0_Y3REX9OyKNIbE2NgA2QiO_RZka35IjxQGi5BM2qu3DibY1gZycakQqoCRgS0HbTqYUsccznREC6OBzH4Q3_gPr6C0TZtOvVNa5WRvZXuHuFjev-hUPjk5r7mQhJQOF4m8AAABAkQPfS44GKkkDhOLvrdMh91zTwRykKfOv54irzRS7xaMOOJRCXWsoSsw-BOJmOvY183qoUPBnErswvnTUkhRCMCEzWRdPBgOHDKVXf47iSy8B9sHEkvhoecLGSe3hjeIQsvYicEAEBf42etND3pqqsOzLkxoORaXy-kjEmAnr_7zP_10k6J0lcs2zRmorVSCBm5Y2C2EZkhNQOz0kYC-n2K04zH1TnphwJGbh4LNiwaj3IQO8fsXO6r3LtYdQoZ18pbmJcKLQYbuYAaVahch85h7Bim-WCBK0lZCfvBgnu2XTSk0eP_fwVJGrmLkv-bRz6gSZUeW1W4UZ5YzkDHyGsPMI_ii056JUSquG07f6T6LNE4Tngukj1UzIhDYuVcnDKZgFbp0XxJxCqyq5bkMgq2bQrAYV0_1LeM2yjlDkryiPgkjxjvDTI7RTZjn7KlhixMGptBHyLpojqyQ==",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "18ff244a511e00006655390b_0",
+      "flyFrom": "LTN",
+      "flyTo": "DTM",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "Dortmund",
+      "cityCodeTo": "DTM",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "local_departure": "2028-11-09T12:30:00.000Z",
+      "utc_departure": "2028-11-09T12:30:00.000Z",
+      "local_arrival": "2028-11-09T14:50:00.000Z",
+      "utc_arrival": "2028-11-09T13:50:00.000Z",
+      "nightsInDest": null,
+      "quality": 42.666666984558105,
+      "distance": 551.8,
+      "duration": {
+        "departure": 4800,
+        "return": 0,
+        "total": 4800
+      },
+      "price": 32,
+      "conversion": {
+        "EUR": 32
+      },
+      "fare": {
+        "adults": 32,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 10,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 232,
+            "itinerary_price_remaining": 32,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 48.019072,
+        "2": 96.038144
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 48.019072,
+          "2": 96.038144
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "W9"
+      ],
+      "route": [
+        {
+          "id": "18ff244a511e00006655390b_0",
+          "combination_id": "18ff244a511e00006655390b",
+          "flyFrom": "LTN",
+          "flyTo": "DTM",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Dortmund",
+          "cityCodeTo": "DTM",
+          "local_departure": "2028-11-09T12:30:00.000Z",
+          "utc_departure": "2028-11-09T12:30:00.000Z",
+          "local_arrival": "2028-11-09T14:50:00.000Z",
+          "utc_arrival": "2028-11-09T13:50:00.000Z",
+          "airline": "W9",
+          "flight_no": 5463,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "O",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "H9PykDdWG3voKub1aFv8dOFbjfksKXq70mWITMMDwcAfY-vRb7iwkhLG_ILPrAumMZQxNqQaweJpfbH3JCToqV6B1FDYZzYXy0EQZmkjtx00vVunSt6-SuZcjwgwqL_lSp7Nuxky43npGw3_3zZbtxlg_dH40T5aEEHsvzCsEKSnNho3LSSPQ9hcF24h8hNv5ykaJizQ-yyLI84YtMXGluOOwzhd6Xt7CLh35S-u160-REIs5VWF5JA6Z7z3YvB39-U7VM_N9s2yagLTHgxkPBmIs6AGi0Hiticrzt1q2ey2jAtXLMFoItgtVv5w9XzeM0HOSmRCr_NDKRf-LkX4QMGUQzDRQ9NEsk51W4Ka_xxyEoxqlaCs2qsfYW7ZTXEe72cqupAm9I2jsNzxit6Uy3pMrhN_whXqPVCZsiL_ABRxlbmN1NEqR0wsmFlS4jW0SJTuPAgPDK0vOAtCl-hvk0r0xU_q7SF8YF0OtisPMVf9IHnxspXPjg2uWRNtvcjM9SWZTKiZWeFP4tlcgFkujWn85iTybIVEhlraWMaUYw2WdrT0WaLeOMbpVwo1nuxtyJ1Bo-UoExDyL0Q2xYrXrzASr8ShT40RepGQXCdSYB9pTy12SWpco5Lh91wTMeFLSZXvCc4kj5bI63gaWuo8pwvvdaeXON6aJ3r9OgQ2FcwZqL0JP6cVGr2WrhulW8tD5tFSMwmL_u3JFF8iy7lQGXBgkkysk1Bp7O7hdjRwdyCC2E4I-JZZqQuVRODVo-n0EJetee2q-Njk8hv-5KDu0l9RjwwRI5v9Eub5nrsJHqyPbeyKYN3rXHSetvp4oeVm4dGy7y0ZcYhHfz6STVdd1vnEwSEnVcNG2K-HXnxvsvXJBL2TeNzZr8-IhcAqBswlblF8ZY6a4HkxonMTzG_BZOMgS1U35ANqXleO2CCEgwlU=",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=18ff244a511e00006655390b_0&from=LTN&lang=en&passengers=1&to=DTM&booking_token=H9PykDdWG3voKub1aFv8dOFbjfksKXq70mWITMMDwcAfY-vRb7iwkhLG_ILPrAumMZQxNqQaweJpfbH3JCToqV6B1FDYZzYXy0EQZmkjtx00vVunSt6-SuZcjwgwqL_lSp7Nuxky43npGw3_3zZbtxlg_dH40T5aEEHsvzCsEKSnNho3LSSPQ9hcF24h8hNv5ykaJizQ-yyLI84YtMXGluOOwzhd6Xt7CLh35S-u160-REIs5VWF5JA6Z7z3YvB39-U7VM_N9s2yagLTHgxkPBmIs6AGi0Hiticrzt1q2ey2jAtXLMFoItgtVv5w9XzeM0HOSmRCr_NDKRf-LkX4QMGUQzDRQ9NEsk51W4Ka_xxyEoxqlaCs2qsfYW7ZTXEe72cqupAm9I2jsNzxit6Uy3pMrhN_whXqPVCZsiL_ABRxlbmN1NEqR0wsmFlS4jW0SJTuPAgPDK0vOAtCl-hvk0r0xU_q7SF8YF0OtisPMVf9IHnxspXPjg2uWRNtvcjM9SWZTKiZWeFP4tlcgFkujWn85iTybIVEhlraWMaUYw2WdrT0WaLeOMbpVwo1nuxtyJ1Bo-UoExDyL0Q2xYrXrzASr8ShT40RepGQXCdSYB9pTy12SWpco5Lh91wTMeFLSZXvCc4kj5bI63gaWuo8pwvvdaeXON6aJ3r9OgQ2FcwZqL0JP6cVGr2WrhulW8tD5tFSMwmL_u3JFF8iy7lQGXBgkkysk1Bp7O7hdjRwdyCC2E4I-JZZqQuVRODVo-n0EJetee2q-Njk8hv-5KDu0l9RjwwRI5v9Eub5nrsJHqyPbeyKYN3rXHSetvp4oeVm4dGy7y0ZcYhHfz6STVdd1vnEwSEnVcNG2K-HXnxvsvXJBL2TeNzZr8-IhcAqBswlblF8ZY6a4HkxonMTzG_BZOMgS1U35ANqXleO2CCEgwlU=",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "18ff244a512500000218bf80_0",
+      "flyFrom": "LTN",
+      "flyTo": "DTM",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "Dortmund",
+      "cityCodeTo": "DTM",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "local_departure": "2028-11-16T12:30:00.000Z",
+      "utc_departure": "2028-11-16T12:30:00.000Z",
+      "local_arrival": "2028-11-16T14:50:00.000Z",
+      "utc_arrival": "2028-11-16T13:50:00.000Z",
+      "nightsInDest": null,
+      "quality": 43.666666984558105,
+      "distance": 551.8,
+      "duration": {
+        "departure": 4800,
+        "return": 0,
+        "total": 4800
+      },
+      "price": 33,
+      "conversion": {
+        "EUR": 33
+      },
+      "fare": {
+        "adults": 33,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 10,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 233,
+            "itinerary_price_remaining": 33,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 36.671188,
+        "2": 73.342376
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 36.671188,
+          "2": 73.342376
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": 6
+      },
+      "airlines": [
+        "W9"
+      ],
+      "route": [
+        {
+          "id": "18ff244a512500000218bf80_0",
+          "combination_id": "18ff244a512500000218bf80",
+          "flyFrom": "LTN",
+          "flyTo": "DTM",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Dortmund",
+          "cityCodeTo": "DTM",
+          "local_departure": "2028-11-16T12:30:00.000Z",
+          "utc_departure": "2028-11-16T12:30:00.000Z",
+          "local_arrival": "2028-11-16T14:50:00.000Z",
+          "utc_arrival": "2028-11-16T13:50:00.000Z",
+          "airline": "W9",
+          "flight_no": 5463,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "H4K8yIjChCxX8HzW5lQ6m65dkMtxR-C-_yYU0MY2-u-ALdjs78ZQDSp_Rmknv00wCHyhrMARgPajvfjYEL70cwAe6wwRAxH1Kw3ZWKYsB24UsVty6HmenkVc9lEPJHc2UNvKKUGEW8OtEQ1_Ct4T2WTtCNzA5snmYiJa7XK0JVpGyYP1JvfKfnbeamlKRIRSI9Yh9weK9wBhXBofz5LkPnAEgk6Cv7J1dkv3hPGzOPQ64d_60d7E8yo4Op7eGDAAiPhvOBxV9hvaixmx0g_u7HwdAme-MVIemzkpXnVQS-ACuoaYJ4St603i4NW6yK4ZXqj2G-XR0hIlSm_pQuMu0_1AddEFDukq7Jhksr70WrXJs2lqwLipZGDG3pzqpKcGatCjxhS6tRVLBYFlwK5Wg0-8ce1319feL6oBPikWGIa9cctJgHC6wJXJLe78l1tJ9AO-jJn3hh7sCqVU8BPCxSXr4TL5XL2pD5sPl458F0UElpA4qkfjz08shP4W7qZyNO9SIYTGNO7997qOg3u3lPse3WYdjRgLbqWuPRgQMonPcCJpbd-HlxmX2-ylEqZPZydCaj6WpXG_VSzZ7nCA56AIqAtF6JNzMD3-ggThvZa_3fdNGxdtFaFO5w_7fOSthF1K6rY0jMUrcprAsLECinoPkrvrkpPqXUgTZRVr2pj7vmrTReC0wp0dUdxS7zoeR4v8MOHrrJx5T4CkBWC-m7xXujs0ST9Nx0ubhy0S-8HNLxTTCadQYOcOVTFAcwNMCWAszeHbD5HRHsFk5vo8-0bZJYsL5jORMcj6A0kHKNe97sajpaUFA4XMgsE7y5QzAR_ZVxDnOmhOcwjbkgHue4sTiO_hkT2WzZrd_DXyRhWd5_9-b6iPur0UEwH5t0YbgDFkVOF33ffRH0IgwVCyv6gVEzN8RuIEBtuozVnRWZLY=",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=18ff244a512500000218bf80_0&from=LTN&lang=en&passengers=1&to=DTM&booking_token=H4K8yIjChCxX8HzW5lQ6m65dkMtxR-C-_yYU0MY2-u-ALdjs78ZQDSp_Rmknv00wCHyhrMARgPajvfjYEL70cwAe6wwRAxH1Kw3ZWKYsB24UsVty6HmenkVc9lEPJHc2UNvKKUGEW8OtEQ1_Ct4T2WTtCNzA5snmYiJa7XK0JVpGyYP1JvfKfnbeamlKRIRSI9Yh9weK9wBhXBofz5LkPnAEgk6Cv7J1dkv3hPGzOPQ64d_60d7E8yo4Op7eGDAAiPhvOBxV9hvaixmx0g_u7HwdAme-MVIemzkpXnVQS-ACuoaYJ4St603i4NW6yK4ZXqj2G-XR0hIlSm_pQuMu0_1AddEFDukq7Jhksr70WrXJs2lqwLipZGDG3pzqpKcGatCjxhS6tRVLBYFlwK5Wg0-8ce1319feL6oBPikWGIa9cctJgHC6wJXJLe78l1tJ9AO-jJn3hh7sCqVU8BPCxSXr4TL5XL2pD5sPl458F0UElpA4qkfjz08shP4W7qZyNO9SIYTGNO7997qOg3u3lPse3WYdjRgLbqWuPRgQMonPcCJpbd-HlxmX2-ylEqZPZydCaj6WpXG_VSzZ7nCA56AIqAtF6JNzMD3-ggThvZa_3fdNGxdtFaFO5w_7fOSthF1K6rY0jMUrcprAsLECinoPkrvrkpPqXUgTZRVr2pj7vmrTReC0wp0dUdxS7zoeR4v8MOHrrJx5T4CkBWC-m7xXujs0ST9Nx0ubhy0S-8HNLxTTCadQYOcOVTFAcwNMCWAszeHbD5HRHsFk5vo8-0bZJYsL5jORMcj6A0kHKNe97sajpaUFA4XMgsE7y5QzAR_ZVxDnOmhOcwjbkgHue4sTiO_hkT2WzZrd_DXyRhWd5_9-b6iPur0UEwH5t0YbgDFkVOF33ffRH0IgwVCyv6gVEzN8RuIEBtuozVnRWZLY=",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "18ff244a5129000052bf9bdc_0",
+      "flyFrom": "LTN",
+      "flyTo": "DTM",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "Dortmund",
+      "cityCodeTo": "DTM",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "local_departure": "2028-11-20T12:30:00.000Z",
+      "utc_departure": "2028-11-20T12:30:00.000Z",
+      "local_arrival": "2028-11-20T14:50:00.000Z",
+      "utc_arrival": "2028-11-20T13:50:00.000Z",
+      "nightsInDest": null,
+      "quality": 43.666666984558105,
+      "distance": 551.8,
+      "duration": {
+        "departure": 4800,
+        "return": 0,
+        "total": 4800
+      },
+      "price": 33,
+      "conversion": {
+        "EUR": 33
+      },
+      "fare": {
+        "adults": 33,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 10,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 233,
+            "itinerary_price_remaining": 33,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 36.671188,
+        "2": 73.342376
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 36.671188,
+          "2": 73.342376
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": 4
+      },
+      "airlines": [
+        "W9"
+      ],
+      "route": [
+        {
+          "id": "18ff244a5129000052bf9bdc_0",
+          "combination_id": "18ff244a5129000052bf9bdc",
+          "flyFrom": "LTN",
+          "flyTo": "DTM",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Dortmund",
+          "cityCodeTo": "DTM",
+          "local_departure": "2028-11-20T12:30:00.000Z",
+          "utc_departure": "2028-11-20T12:30:00.000Z",
+          "local_arrival": "2028-11-20T14:50:00.000Z",
+          "utc_arrival": "2028-11-20T13:50:00.000Z",
+          "airline": "W9",
+          "flight_no": 5463,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "H70XQXSrpnXX5pGQFb6F2-SYhAdOyXm8l2cWPIoPW-HFU4DdEf7Bb3vYPk2HeMEwDfTkEySvitfuSp0NhbtPbESRsFxPaDYeniijI7v3bWHfoGCdaUv0m-ZojFEKhNdLmTidzO1gRM7vXcYsbJBoHpgGOUUymwm0JEfSiwmxpTNnEz1BnH6GVuwn2CTVvvfuc2u3Up_ddy9ACemai1Fe1ziriTnhZ834JzBr7oGN9xDmE_TcfL8aLePM-BPieYKW5gBmUFzcfs_0wWpba8CBmffzqcZ6BBZCSF8PHllsgNmqKHEHD3OkR-_g5696QzLhHghVX7FpSZZORUgx8mg62ZGxOa2GlBYqTmpaQIG6evbWe-ytdu0OZI2u5C166xQZA_efbGcGBL-J4W5rCInAJJL2zMoGREZhZabczycETbP7wLsybJHT1c0NG66o-npUN0-qtZdsTXw2R4qv93VxczfM1cHFq_g3gdwrmRBtdfjho8ZjZ2T1SrlvrZlsk5-jHiWrC4AcmDwn7pUUUiN0ABsgyXaBsesBPQZmDrJrwtx_vtEHSZVMzJDaY1H4q8mLZ-CjIYfhICAKp8shXeGSasLK7LyD9T24Er-HHDDgEpQbwI7sjud2i083AO9ultuj7Kx7qekVQrIdt9VHEVr1b1MR5rnB4s_lIwk6A-yQGnngd6Erk4rWbmRHgq2qkDjK1N_xE9OMSFdj5cl7TY09qLAebTiZhfsu30C0b7hdWo4zGkYm_8kDw0VddGuOSZAqs23f5X4krZh3bchiBOn3a6nt8MgA0QTthqzS8sb-P-Zah_sqm3_N44Wp5P1rstRQDbNvc7JM8G8jdSs8u-6BBFzS5xVEo0A5IGnEbcaQBjMurcv7oqJ3ohH4ILkpPxW-575zlaKVXhtsLCLNYcVzXbg6WTNf8q4WfiOMX_JcnZOk=",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=18ff244a5129000052bf9bdc_0&from=LTN&lang=en&passengers=1&to=DTM&booking_token=H70XQXSrpnXX5pGQFb6F2-SYhAdOyXm8l2cWPIoPW-HFU4DdEf7Bb3vYPk2HeMEwDfTkEySvitfuSp0NhbtPbESRsFxPaDYeniijI7v3bWHfoGCdaUv0m-ZojFEKhNdLmTidzO1gRM7vXcYsbJBoHpgGOUUymwm0JEfSiwmxpTNnEz1BnH6GVuwn2CTVvvfuc2u3Up_ddy9ACemai1Fe1ziriTnhZ834JzBr7oGN9xDmE_TcfL8aLePM-BPieYKW5gBmUFzcfs_0wWpba8CBmffzqcZ6BBZCSF8PHllsgNmqKHEHD3OkR-_g5696QzLhHghVX7FpSZZORUgx8mg62ZGxOa2GlBYqTmpaQIG6evbWe-ytdu0OZI2u5C166xQZA_efbGcGBL-J4W5rCInAJJL2zMoGREZhZabczycETbP7wLsybJHT1c0NG66o-npUN0-qtZdsTXw2R4qv93VxczfM1cHFq_g3gdwrmRBtdfjho8ZjZ2T1SrlvrZlsk5-jHiWrC4AcmDwn7pUUUiN0ABsgyXaBsesBPQZmDrJrwtx_vtEHSZVMzJDaY1H4q8mLZ-CjIYfhICAKp8shXeGSasLK7LyD9T24Er-HHDDgEpQbwI7sjud2i083AO9ultuj7Kx7qekVQrIdt9VHEVr1b1MR5rnB4s_lIwk6A-yQGnngd6Erk4rWbmRHgq2qkDjK1N_xE9OMSFdj5cl7TY09qLAebTiZhfsu30C0b7hdWo4zGkYm_8kDw0VddGuOSZAqs23f5X4krZh3bchiBOn3a6nt8MgA0QTthqzS8sb-P-Zah_sqm3_N44Wp5P1rstRQDbNvc7JM8G8jdSs8u-6BBFzS5xVEo0A5IGnEbcaQBjMurcv7oqJ3ohH4ILkpPxW-575zlaKVXhtsLCLNYcVzXbg6WTNf8q4WfiOMX_JcnZOk=",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    }
+  ],
+  "_results": 10
+}

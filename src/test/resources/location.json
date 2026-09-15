@@ -1,0 +1,921 @@
+{
+  "locations": [
+    {
+      "id": "PRG",
+      "int_id": 5212,
+      "airport_int_id": 5212,
+      "active": true,
+      "code": "PRG",
+      "icao": "LKPR",
+      "name": "Václav Havel Airport Prague",
+      "slug": "vaclav-havel-airport-prague-prague-czechia",
+      "slug_en": "vaclav-havel-airport-prague-prague-czechia",
+      "alternative_names": [
+        "Letiště Václava Havla Praha",
+        "Ruzyne",
+        "Prague (Vaclav Havel)"
+      ],
+      "rank": 101,
+      "global_rank_dst": 11,
+      "dst_popularity_score": 3808607.0,
+      "timezone": "Europe/Prague",
+      "city": {
+        "id": "prague_cz",
+        "name": "Prague",
+        "code": "PRG",
+        "slug": "prague-czechia",
+        "region": {
+          "id": "central-europe",
+          "name": "Central Europe",
+          "slug": "central-europe"
+        },
+        "subdivision": null,
+        "nearby_country": null,
+        "country": {
+          "id": "CZ",
+          "name": "Czechia",
+          "slug": "czechia",
+          "code": "CZ"
+        },
+        "continent": {
+          "id": "europe",
+          "name": "Europe",
+          "slug": "europe",
+          "code": "EU"
+        },
+        "autonomous_territory": null
+      },
+      "location": {
+        "lat": 50.100833,
+        "lon": 14.26
+      },
+      "alternative_departure_points": [
+        {
+          "id": "PRG",
+          "distance": 0.0,
+          "duration": 0
+        }
+      ],
+      "tags": [
+        {
+          "tag": "sightseeing",
+          "month_to": -1,
+          "month_from": -1
+        },
+        {
+          "tag": "nightlife",
+          "month_to": -1,
+          "month_from": -1
+        }
+      ],
+      "providers": [
+        1028,
+        1096,
+        1157,
+        1175,
+        1227,
+        1229,
+        1282,
+        1283,
+        1294,
+        1329
+      ],
+      "special": [
+        {
+          "id": "charles-bridge_poi",
+          "name": "Charles Bridge",
+          "slug": "charles-bridge"
+        },
+        {
+          "id": "karlstejn-castle_poi",
+          "name": "Karlstejn Castle",
+          "slug": "karlstejn-castle"
+        },
+        {
+          "id": "old-town-square-prague_poi",
+          "name": "Old Town Square, Prague",
+          "slug": "old-town-square"
+        },
+        {
+          "id": "prague-castle_poi",
+          "name": "Prague Castle",
+          "slug": "prague-castle"
+        },
+        {
+          "id": "sedlec-ossuary_poi",
+          "name": "Sedlec Ossuary",
+          "slug": "sedlec-ossuary"
+        },
+        {
+          "id": "zwinger_poi",
+          "name": "Zwinger",
+          "slug": "zwinger"
+        }
+      ],
+      "tourist_region": [
+        {
+          "id": "central-bohemia_poi",
+          "name": "Central Bohemia",
+          "slug": "central-bohemia"
+        },
+        {
+          "id": "cerna-hora_poi",
+          "name": "Cerna Hora",
+          "slug": "cerna-hora-sumava"
+        },
+        {
+          "id": "czech-canada_poi",
+          "name": "Czech Canada",
+          "slug": "czech-canada"
+        },
+        {
+          "id": "hradec-kralove_poi",
+          "name": "Hradec Kralove",
+          "slug": "hradec-kralove"
+        },
+        {
+          "id": "jeseniky-mountain_poi",
+          "name": "Jeseniky Mountain",
+          "slug": "jeseniky-mountain"
+        },
+        {
+          "id": "jizera-mountains_poi",
+          "name": "Jizera Mountains",
+          "slug": "jizera-mountains"
+        },
+        {
+          "id": "karlov-pod-pradedem_poi",
+          "name": "Karlov pod Pradedem",
+          "slug": "karlov-pod-pradedem"
+        },
+        {
+          "id": "krkonose_poi",
+          "name": "Krkonose",
+          "slug": "krkonose"
+        },
+        {
+          "id": "liberec-region_poi",
+          "name": "Liberec Region",
+          "slug": "liberec-region"
+        },
+        {
+          "id": "macha-lake_poi",
+          "name": "Macha Lake",
+          "slug": "macha-lake"
+        },
+        {
+          "id": "novohradske-mountains_poi",
+          "name": "Novohradske Mountains",
+          "slug": "novohradske-mountains"
+        },
+        {
+          "id": "orlik-reservoir_poi",
+          "name": "Orlík Reservoir",
+          "slug": "orlik-reservoir"
+        },
+        {
+          "id": "pilsen_poi",
+          "name": "Pilsen",
+          "slug": "pilsen"
+        },
+        {
+          "id": "slapy-reservoir_poi",
+          "name": "Slapy Reservoir",
+          "slug": "slapy-reservoir"
+        },
+        {
+          "id": "south-bohemia_poi",
+          "name": "South Bohemia",
+          "slug": "south-bohemia"
+        },
+        {
+          "id": "sumava-mountains_poi",
+          "name": "Sumava mountains",
+          "slug": "sumava-mountains"
+        },
+        {
+          "id": "toulava_poi",
+          "name": "Toulava",
+          "slug": "toulava"
+        },
+        {
+          "id": "usti-nad-labem_poi",
+          "name": "Usti nad Labem",
+          "slug": "usti-nad-labem"
+        },
+        {
+          "id": "vysocina_poi",
+          "name": "Vysocina",
+          "slug": "vysocina"
+        },
+        {
+          "id": "zelezne-mountains_poi",
+          "name": "Zelezne Mountains",
+          "slug": "zelezne-mountains"
+        }
+      ],
+      "car_rentals": [
+        {
+          "provider_id": 1175,
+          "providers_locations": [
+            "391991"
+          ]
+        }
+      ],
+      "new_ground": false,
+      "routing_priority": 0,
+      "type": "airport"
+    },
+
+    {
+      "id": "prague_cz",
+      "active": true,
+      "name": "Prague",
+      "slug": "prague-czechia",
+      "slug_en": "prague-czechia",
+      "code": "PRG",
+      "alternative_names": [
+        "Praha"
+      ],
+      "rank": 94,
+      "global_rank_dst": 11,
+      "dst_popularity_score": 3808607.0,
+      "timezone": "Europe/Prague",
+      "population": 1165581,
+      "airports": 1,
+      "stations": 0,
+      "hotels": 3492,
+      "bus_stations": 0,
+      "subdivision": null,
+      "autonomous_territory": null,
+      "country": {
+        "id": "CZ",
+        "name": "Czechia",
+        "slug": "czechia",
+        "code": "CZ"
+      },
+      "region": {
+        "id": "central-europe",
+        "name": "Central Europe",
+        "slug": "central-europe"
+      },
+      "continent": {
+        "id": "europe",
+        "name": "Europe",
+        "slug": "europe",
+        "code": "EU"
+      },
+      "nearby_country": null,
+      "location": {
+        "lat": 50.075538,
+        "lon": 14.4378
+      },
+      "tags": [
+        {
+          "tag": "nightlife",
+          "month_to": -1,
+          "month_from": -1
+        },
+        {
+          "tag": "sightseeing",
+          "month_to": -1,
+          "month_from": -1
+        }
+      ],
+      "alternative_departure_points": [
+        {
+          "id": "PED",
+          "distance": 118.73,
+          "duration": 5053.6
+        },
+        {
+          "id": "DRS",
+          "distance": 169.23,
+          "duration": 6899.3
+        },
+        {
+          "id": "PRG",
+          "distance": 17.19,
+          "duration": 1772.9
+        },
+        {
+          "id": "BRQ",
+          "distance": 213.13,
+          "duration": 8368.5
+        },
+        {
+          "id": "LNZ",
+          "distance": 259.88,
+          "duration": 13139.6
+        },
+        {
+          "id": "LEJ",
+          "distance": 269.28,
+          "duration": 10516.7
+        },
+        {
+          "id": "WRO",
+          "distance": 322.33,
+          "duration": 14204.7
+        }
+      ],
+      "providers": [
+        1028,
+        1035,
+        1064,
+        1096,
+        1129,
+        1157,
+        1160,
+        1165,
+        1172,
+        1175,
+        1227,
+        1229,
+        1282,
+        1283,
+        1291,
+        1294,
+        1329
+      ],
+      "car_rentals": [
+        {
+          "provider_id": 1175,
+          "providers_locations": [
+            "4404004",
+            "391991"
+          ]
+        },
+        {
+          "provider_id": 1175,
+          "providers_locations": [
+            "494253",
+            "1994843"
+          ]
+        }
+      ],
+      "type": "city"
+    },
+    {
+      "id": "PV_FR",
+      "active": true,
+      "name": "Provence-Alpes-Côte d'Azur",
+      "slug": "provence-alpes-cote-d-azur-france",
+      "slug_en": "provence-alpes-cote-d-azur-france",
+      "code": "PV",
+      "alternative_names": [
+        "Provence-Alpes-Côte d''Azur"
+      ],
+      "rank": 80,
+      "global_rank_dst": 31,
+      "country": {
+        "id": "FR",
+        "code": "FR",
+        "name": "France",
+        "slug": "france"
+      },
+      "region": {
+        "id": "western-europe",
+        "name": "Western Europe",
+        "slug": "western-europe"
+      },
+      "continent": {
+        "id": "europe",
+        "code": "EU",
+        "name": "Europe",
+        "slug": "europe"
+      },
+      "location": {
+        "lat": 43.935169,
+        "lon": 6.067919
+      },
+      "type": "subdivision"
+    },
+    {
+      "id": "MED",
+      "int_id": 1011,
+      "airport_int_id": 1011,
+      "active": true,
+      "code": "MED",
+      "icao": "OEMA",
+      "name": "Prince Mohammad bin Abdulaziz",
+      "slug": "prince-mohammad-bin-abdulaziz-medina-saudi-arabia",
+      "slug_en": "prince-mohammad-bin-abdulaziz-medina-saudi-arabia",
+      "alternative_names": [
+        "مطار الأمير محمد بن عبد العزيز الدولي"
+      ],
+      "rank": 98,
+      "global_rank_dst": 52,
+      "dst_popularity_score": 899769.0,
+      "timezone": "Asia/Riyadh",
+      "city": {
+        "id": "medina_sa",
+        "name": "Medina",
+        "code": "MED",
+        "slug": "medina-saudi-arabia",
+        "region": {
+          "id": "western-asia",
+          "name": "Western Asia",
+          "slug": "western-asia"
+        },
+        "subdivision": null,
+        "nearby_country": null,
+        "country": {
+          "id": "SA",
+          "name": "Saudi Arabia",
+          "slug": "saudi-arabia",
+          "code": "SA"
+        },
+        "continent": {
+          "id": "asia",
+          "name": "Asia",
+          "slug": "asia",
+          "code": "AS"
+        },
+        "autonomous_territory": null
+      },
+      "location": {
+        "lat": 24.553333,
+        "lon": 39.705
+      },
+      "alternative_departure_points": [],
+      "tags": [
+        {
+          "tag": "sightseeing",
+          "month_to": -1,
+          "month_from": -1
+        }
+      ],
+      "providers": [],
+      "special": [],
+      "tourist_region": [
+        {
+          "id": "al-madinah-al-munnawarah-province_poi",
+          "name": "Al Madinah Al Munnawarah Province",
+          "slug": "al-madinah-al-munnawarah-province"
+        }
+      ],
+      "car_rentals": [],
+      "new_ground": false,
+      "routing_priority": 0,
+      "type": "airport"
+    },
+    {
+      "id": "providence_ri_us",
+      "active": true,
+      "name": "Providence",
+      "slug": "providence-rhode-island-united-states",
+      "slug_en": "providence-rhode-island-united-states",
+      "code": "PVD",
+      "alternative_names": [],
+      "rank": 173,
+      "global_rank_dst": 174,
+      "dst_popularity_score": 74559.0,
+      "timezone": "America/New_York",
+      "population": 178042,
+      "airports": 1,
+      "stations": 0,
+      "hotels": 20,
+      "bus_stations": 0,
+      "subdivision": {
+        "id": "RI_US",
+        "name": "Rhode Island",
+        "slug": "rhode-island-united-states",
+        "code": "RI"
+      },
+      "autonomous_territory": null,
+      "country": {
+        "id": "US",
+        "name": "United States",
+        "slug": "united-states",
+        "code": "US"
+      },
+      "region": {
+        "id": "northern-america",
+        "name": "Northern America",
+        "slug": "northern-america"
+      },
+      "continent": {
+        "id": "north-america",
+        "name": "North America",
+        "slug": "north-america",
+        "code": "NA"
+      },
+      "nearby_country": null,
+      "location": {
+        "lat": 41.823989,
+        "lon": -71.412834
+      },
+      "tags": [
+        {
+          "tag": "nightlife",
+          "month_to": -1,
+          "month_from": -1
+        },
+        {
+          "tag": "sightseeing",
+          "month_to": -1,
+          "month_from": -1
+        }
+      ],
+      "alternative_departure_points": [
+        {
+          "id": "HYA",
+          "distance": 120.8,
+          "duration": 5981.9
+        },
+        {
+          "id": "PVD",
+          "distance": 13.37,
+          "duration": 1024
+        },
+        {
+          "id": "BDL",
+          "distance": 135.03,
+          "duration": 7190.5
+        },
+        {
+          "id": "MHT",
+          "distance": 146.03,
+          "duration": 7412
+        },
+        {
+          "id": "HVN",
+          "distance": 164.4,
+          "duration": 7546.2
+        },
+        {
+          "id": "PSM",
+          "distance": 173.91,
+          "duration": 8656.1
+        },
+        {
+          "id": "PVC",
+          "distance": 196.52,
+          "duration": 10365
+        },
+        {
+          "id": "PWM",
+          "distance": 246.5,
+          "duration": 11238.1
+        },
+        {
+          "id": "HPN",
+          "distance": 250.41,
+          "duration": 11637.5
+        },
+        {
+          "id": "LEB",
+          "distance": 256.08,
+          "duration": 12616.2
+        },
+        {
+          "id": "RUT",
+          "distance": 262.29,
+          "duration": 13941.5
+        },
+        {
+          "id": "SWF",
+          "distance": 279.17,
+          "duration": 13527.9
+        },
+        {
+          "id": "ALB",
+          "distance": 282.84,
+          "duration": 12735.4
+        },
+        {
+          "id": "LGA",
+          "distance": 284.65,
+          "duration": 13440
+        },
+        {
+          "id": "EWB",
+          "distance": 49.27,
+          "duration": 2431.5
+        },
+        {
+          "id": "ORH",
+          "distance": 70.45,
+          "duration": 3279.4
+        },
+        {
+          "id": "BOS",
+          "distance": 83.23,
+          "duration": 4081.9
+        }
+      ],
+      "providers": [
+        1096,
+        1161,
+        1162,
+        1165,
+        1175,
+        1235,
+        1277
+      ],
+      "car_rentals": [
+        {
+          "provider_id": 1175,
+          "providers_locations": [
+            "4109833",
+            "370706",
+            "507698",
+            "4023971",
+            "507573"
+          ]
+        }
+      ],
+      "type": "city"
+    },
+    {
+      "id": "prague-castle_poi",
+      "active": true,
+      "name": "Prague Castle",
+      "code": "prague-castle_poi",
+      "slug": "prague-castle",
+      "slug_en": "prague-castle",
+      "alternative_names": [],
+      "rank": 185,
+      "global_rank_dst": 130,
+      "category": "fortification",
+      "country": {
+        "id": "ZZ",
+        "code": "ZZ",
+        "name": "Unknown Region",
+        "slug": "unknown-region"
+      },
+      "location": {
+        "lat": 50.090811,
+        "lon": 14.400523
+      },
+      "locations_nearby": [
+        {
+          "id": "PRG",
+          "distance": 16.51,
+          "duration": 2717
+        },
+        {
+          "id": "PED",
+          "distance": 124.65,
+          "duration": 5196
+        },
+        {
+          "id": "BRQ",
+          "distance": 218.56,
+          "duration": 8969
+        },
+        {
+          "id": "XYG",
+          "distance": 5.8,
+          "duration": 1063
+        },
+        {
+          "id": "PFL",
+          "distance": 4.64,
+          "duration": 936
+        },
+        {
+          "id": "DRS",
+          "distance": 169.69,
+          "duration": 6748
+        },
+        {
+          "id": "KLV",
+          "distance": 126.29,
+          "duration": 6769
+        },
+        {
+          "id": "XJP",
+          "distance": 122.52,
+          "duration": 4998
+        },
+        {
+          "id": "XIR",
+          "distance": 149.01,
+          "duration": 6306
+        },
+        {
+          "id": "ZIK",
+          "distance": 132.26,
+          "duration": 7198
+        }
+      ],
+      "type": "special"
+    },
+    {
+      "id": "PVD",
+      "int_id": 5921,
+      "airport_int_id": 5921,
+      "active": true,
+      "code": "PVD",
+      "icao": "KPVD",
+      "name": "Rhode Island T. F. Green Int'l Airport",
+      "slug": "t-f-green-providence-rhode-island-united-states",
+      "slug_en": "t-f-green-providence-rhode-island-united-states",
+      "alternative_names": [
+        "Providence T F Green State Apt",
+        "PVD Providence",
+        "United States – Rhode Island T. F. Green",
+        "T. F. Green"
+      ],
+      "rank": 188,
+      "global_rank_dst": 195,
+      "dst_popularity_score": 74559.0,
+      "timezone": "America/New_York",
+      "city": {
+        "id": "providence_ri_us",
+        "name": "Providence",
+        "code": "PVD",
+        "slug": "providence-rhode-island-united-states",
+        "region": {
+          "id": "northern-america",
+          "name": "Northern America",
+          "slug": "northern-america"
+        },
+        "subdivision": {
+          "id": "RI_US",
+          "name": "Rhode Island",
+          "slug": "rhode-island-united-states",
+          "code": "RI"
+        },
+        "nearby_country": null,
+        "country": {
+          "id": "US",
+          "name": "United States",
+          "slug": "united-states",
+          "code": "US"
+        },
+        "continent": {
+          "id": "north-america",
+          "name": "North America",
+          "slug": "north-america",
+          "code": "NA"
+        },
+        "autonomous_territory": null
+      },
+      "location": {
+        "lat": 41.725,
+        "lon": -71.425833
+      },
+      "alternative_departure_points": [
+        {
+          "id": "PVD",
+          "distance": 0.0,
+          "duration": 0
+        },
+        {
+          "id": "EWB",
+          "distance": 61.49,
+          "duration": 3212
+        },
+        {
+          "id": "OWD",
+          "distance": 64.49,
+          "duration": 3414
+        }
+      ],
+      "tags": [
+        {
+          "tag": "sightseeing",
+          "month_to": -1,
+          "month_from": -1
+        },
+        {
+          "tag": "nightlife",
+          "month_to": -1,
+          "month_from": -1
+        }
+      ],
+      "providers": [
+        1175,
+        1235,
+        1277
+      ],
+      "special": [
+        {
+          "id": "cape-cod_poi",
+          "name": "Cape Cod",
+          "slug": "cape-cod"
+        }
+      ],
+      "tourist_region": [],
+      "car_rentals": [
+        {
+          "provider_id": 1175,
+          "providers_locations": [
+            "370706",
+            "4109833",
+            "507573",
+            "507698",
+            "4023971"
+          ]
+        }
+      ],
+      "new_ground": false,
+      "routing_priority": 0,
+      "type": "airport"
+    },
+    {
+      "id": "pristina_xk",
+      "active": true,
+      "name": "Pristina",
+      "slug": "pristina-kosovo",
+      "slug_en": "pristina-kosovo",
+      "code": "PRN",
+      "alternative_names": [],
+      "rank": 196,
+      "global_rank_dst": 104,
+      "dst_popularity_score": 456278.0,
+      "timezone": "Europe/Belgrade",
+      "population": 550000,
+      "airports": 1,
+      "stations": 0,
+      "hotels": 0,
+      "bus_stations": 0,
+      "subdivision": null,
+      "autonomous_territory": null,
+      "country": {
+        "id": "XK",
+        "name": "Kosovo",
+        "slug": "kosovo",
+        "code": "XK"
+      },
+      "region": {
+        "id": "southern-europe",
+        "name": "Southern Europe",
+        "slug": "southern-europe"
+      },
+      "continent": {
+        "id": "europe",
+        "name": "Europe",
+        "slug": "europe",
+        "code": "EU"
+      },
+      "nearby_country": null,
+      "location": {
+        "lat": 42.662914,
+        "lon": 21.165503
+      },
+      "tags": [
+        {
+          "tag": "sightseeing",
+          "month_to": -1,
+          "month_from": -1
+        }
+      ],
+      "alternative_departure_points": [
+        {
+          "id": "SKP",
+          "distance": 116.59,
+          "duration": 5599.3
+        },
+        {
+          "id": "INI",
+          "distance": 124.56,
+          "duration": 7707
+        },
+        {
+          "id": "PRN",
+          "distance": 19.26,
+          "duration": 1943.7
+        },
+        {
+          "id": "OHD",
+          "distance": 228.23,
+          "duration": 14379.8
+        },
+        {
+          "id": "TIA",
+          "distance": 238.98,
+          "duration": 11838.4
+        }
+      ],
+      "providers": [
+        1163,
+        1175,
+        1227,
+        1282,
+        1283,
+        1329
+      ],
+      "car_rentals": [
+        {
+          "provider_id": 1175,
+          "providers_locations": [
+            "925408"
+          ]
+        }
+      ],
+      "type": "city"
+    }
+  ],
+  "meta": {
+    "locale": {
+      "code": "en-US",
+      "status": "Locale not specified, using default."
+    }
+  },
+  "last_refresh": 1767769401,
+  "results_retrieved": 8
+}

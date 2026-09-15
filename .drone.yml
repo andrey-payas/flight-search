@@ -1,0 +1,27 @@
+kind: pipeline
+type: docker
+name: default
+
+volumes:
+  - name: gradle-cache
+    path: /root/.gradle
+
+clone:
+  disable: true
+
+steps:
+  - name: deploy
+    image: appleboy/drone-ssh
+    settings:
+      host: 192.168.1.105
+      username: andrii
+      password:
+        from_secret: SSH_PASSWORD
+      port: 22
+      script:
+        - cd /home/andrii/code/air
+        - git pull
+        - ./kill8080.sh
+        - ./gradlew build -x test
+        - nohup /home/andrii/.sdkman/candidates/java/current/bin/java -jar build/libs/air-*-all.jar > app.log 2>&1 &
+        - timeout 60 tail -F app.log | sed '/started and listening on port/q'

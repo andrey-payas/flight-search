@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Prepare Paths</title>
+</head>
+<body class="bg-gray-100">
+
+<div class="max-w-3xl mx-auto p-8">
+
+    <div th:replace="~{fragments/navigation :: navigation}"></div>
+
+    <h1 class="text-3xl font-bold mb-6">
+        Prepare Paths
+    </h1>
+
+    <div class="bg-white rounded-lg shadow p-6 space-y-6">
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+
+            <div>
+                <label class="block text-sm font-medium mb-1">
+                    From Date
+                </label>
+                <select
+                        id="fromDate"
+                        class="w-full border rounded p-2">
+                    <option>Loading...</option>
+                </select>
+            </div>
+
+            <div>
+                <label class="block text-sm font-medium mb-1">
+                    To Date
+                </label>
+                <select
+                        id="toDate"
+                        class="w-full border rounded p-2">
+                    <option>Loading...</option>
+                </select>
+            </div>
+
+            <div>
+                <label class="block text-sm font-medium mb-1">
+                    From
+                </label>
+                <input
+                        id="from"
+                        type="text"
+                        placeholder="e.g. PL or WRO"
+                        class="w-full border rounded p-2">
+            </div>
+
+            <div>
+                <label class="block text-sm font-medium mb-1">
+                    To
+                </label>
+                <input
+                        id="to"
+                        type="text"
+                        placeholder="e.g. CA or YYZ"
+                        class="w-full border rounded p-2">
+            </div>
+
+            <div>
+                <label class="block text-sm font-medium mb-1">
+                    Budget
+                </label>
+                <input
+                        id="budget"
+                        type="number"
+                        min="0"
+                        value="1000"
+                        class="w-full border rounded p-2">
+            </div>
+
+        </div>
+
+        <label class="flex items-center gap-2">
+            <input
+                    id="projectionOnly"
+                    type="checkbox"
+                    class="h-4 w-4">
+            <span>Projection only</span>
+        </label>
+
+        <button
+                onclick="preparePaths()"
+                class="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 rounded">
+            Prepare Paths
+        </button>
+
+    </div>
+
+    <div id="loading" class="hidden mt-6 text-gray-600">
+        Preparing paths...
+    </div>
+
+    <div id="message" class="mt-6"></div>
+
+</div>
+
+<script>
+
+    async function preparePaths() {
+
+        const params = new URLSearchParams();
+
+        params.append("fromDate", document.getElementById("fromDate").value);
+        params.append("toDate", document.getElementById("toDate").value);
+        params.append("from", document.getElementById("from").value);
+        params.append("to", document.getElementById("to").value);
+        params.append("budget", document.getElementById("budget").value);
+        params.append(
+            "projectionOnly",
+            document.getElementById("projectionOnly").checked
+        );
+
+        const loading = document.getElementById("loading");
+        const message = document.getElementById("message");
+
+        loading.classList.remove("hidden");
+        message.innerHTML = "";
+
+        try {
+
+            const response = await fetch("/prepare-paths?" + params.toString(), {
+                method: "GET"
+            });
+
+            loading.classList.add("hidden");
+
+            if (response.ok) {
+                message.innerHTML = `
+                <div class="bg-green-100 border border-green-300 text-green-800 rounded p-4">
+                    Paths prepared successfully.
+                </div>`;
+            } else {
+                message.innerHTML = `
+                <div class="bg-red-100 border border-red-300 text-red-800 rounded p-4">
+                    Request failed (${response.status}).
+                </div>`;
+            }
+
+        } catch (e) {
+
+            loading.classList.add("hidden");
+
+            message.innerHTML = `
+            <div class="bg-red-100 border border-red-300 text-red-800 rounded p-4">
+                ${e.message}
+            </div>`;
+        }
+    }
+
+    async function loadDates() {
+
+        try {
+
+            const response = await fetch("/heuristics/months");
+
+            if (!response.ok) {
+                throw new Error("Failed to load dates");
+            }
+
+            const dates = await response.json();
+
+            const fromSelect = document.getElementById("fromDate");
+            const toSelect = document.getElementById("toDate");
+
+            fromSelect.innerHTML = "";
+            toSelect.innerHTML = "";
+
+            dates.forEach(date => {
+
+                fromSelect.add(new Option(date, date));
+                toSelect.add(new Option(date, date));
+
+            });
+
+            if (dates.length > 0) {
+                fromSelect.value = dates[0];
+                toSelect.value = dates[dates.length - 1];
+            }
+
+        } catch (e) {
+
+            console.error(e);
+
+            document.getElementById("message").innerHTML = `
+            <div class="bg-red-100 border border-red-300 text-red-800 rounded p-4">
+                Failed to load available dates.
+            </div>
+        `;
+        }
+
+    }
+
+    window.addEventListener("DOMContentLoaded", loadDates);
+
+</script>
+
+</body>
+</html>

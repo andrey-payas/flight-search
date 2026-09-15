@@ -1,0 +1,1164 @@
+{
+  "search_id": "1fc231e1-9012-466d-94dc-3dce1a8c7f06",
+  "currency": "EUR",
+  "fx_rate": 1,
+  "data": [
+    {
+      "id": "07df01af51330000157224d2_0",
+      "flyFrom": "TRN",
+      "flyTo": "BCN",
+      "cityFrom": "Turin",
+      "cityCodeFrom": "TRN",
+      "cityTo": "Barcelona",
+      "cityCodeTo": "BCN",
+      "countryFrom": {
+        "code": "IT",
+        "name": "Italy"
+      },
+      "countryTo": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "local_departure": "2028-11-30T19:00:00.000Z",
+      "utc_departure": "2028-11-30T18:00:00.000Z",
+      "local_arrival": "2028-11-30T20:25:00.000Z",
+      "utc_arrival": "2028-11-30T19:25:00.000Z",
+      "nightsInDest": null,
+      "quality": 26.333333015441895,
+      "distance": 626.66,
+      "duration": {
+        "departure": 5100,
+        "return": 0,
+        "total": 5100
+      },
+      "price": 15,
+      "conversion": {
+        "EUR": 15
+      },
+      "fare": {
+        "adults": 15,
+        "children": 0,
+        "infants": 0
+      },
+      "bags_price": {
+        "1": 85
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 85
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 115,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 20,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 15,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "VY"
+      ],
+      "route": [
+        {
+          "id": "07df01af51330000157224d2_0",
+          "combination_id": "07df01af51330000157224d2",
+          "flyFrom": "TRN",
+          "flyTo": "BCN",
+          "cityFrom": "Turin",
+          "cityCodeFrom": "TRN",
+          "cityTo": "Barcelona",
+          "cityCodeTo": "BCN",
+          "local_departure": "2028-11-30T19:00:00.000Z",
+          "utc_departure": "2028-11-30T18:00:00.000Z",
+          "local_arrival": "2028-11-30T20:25:00.000Z",
+          "utc_arrival": "2028-11-30T19:25:00.000Z",
+          "airline": "VY",
+          "flight_no": 6129,
+          "operating_carrier": "VY",
+          "operating_flight_no": "6129",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "D",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "H4aShAm0_JgYj_GcBTYKEFf7NXFg-3Dg2VsKMbdJCr0lHJMznVup8fDDYvIhEsucCkkzhRTg1A-Y1nMAk-qXzJcvHY1lGEPhDptYJiyx19BhJPLTppzptuLfI0V5MKMlhQ163Sg-lCdtP_kCucZs6kobo_whbK5BY2mweGMtXegEro7tVOFMF-p_-mzPAqz3Fp6sz5mYq6JNMYpCtej4Dkv3bqkL_fiQnKNjkekyonvwH-gcHXD1QASYs5zPeTgfj__oSrJ4AFfRIj64UiUagK2P9jQIcucEhhpUsZce2B712EQuCbWdtFqhG4wuJaCWxySIb8W5jmtDMuBwOM7OruvHd_jCMo3I5Pz8Mq9zJrlRVHoTLCk2mj9YNQlLrOEVlyfu_9VA9g1kgcLLV_TMw1Y-l3-Fa_giNNQnxSABxhcJABxuf4wX9VsYG1Gi72EUpHeDGZGskQG3mlujmr2JKgpvfIj0kpzeG2yvzRB0f18WDXoikBmSjjbdR486b3i8_g1TZje7rcnxVaw-OkV1d_YFQgSc6g_ntjj336BYimGpQ0aLGFa5x5yChG-5_Fzi1W_AyGc_g2uyOh8Yt48rjGL7KDyCYXAiZc3HptVP4-36E-njDkN44I3iAne76XNBFgjxo1I1gI6DnI0t0OSkWECtKNMW6JmuWxjH4Og6Sw_JBhd8n1HPVtr6gN2847gvSpcuBjxvE9iK54JV37DIVQu0UDVY4otiothGyT8pup60W5NVnDQ-ZjDeuTlnCQrkOOXfg-dzWN60Du8ph7qe9CveuAl23NBxvbW3x4ggZNSQ0VG65_Xw0P7mp-1sB-WFKQN8hNEJvDqQl_qCf-fbhCiyGNM1UdRW47hdfoy1y_A5PfwmA0ltXqA2gaLER5oDD",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=07df01af51330000157224d2_0&from=TRN&lang=en&passengers=1&to=BCN&booking_token=H4aShAm0_JgYj_GcBTYKEFf7NXFg-3Dg2VsKMbdJCr0lHJMznVup8fDDYvIhEsucCkkzhRTg1A-Y1nMAk-qXzJcvHY1lGEPhDptYJiyx19BhJPLTppzptuLfI0V5MKMlhQ163Sg-lCdtP_kCucZs6kobo_whbK5BY2mweGMtXegEro7tVOFMF-p_-mzPAqz3Fp6sz5mYq6JNMYpCtej4Dkv3bqkL_fiQnKNjkekyonvwH-gcHXD1QASYs5zPeTgfj__oSrJ4AFfRIj64UiUagK2P9jQIcucEhhpUsZce2B712EQuCbWdtFqhG4wuJaCWxySIb8W5jmtDMuBwOM7OruvHd_jCMo3I5Pz8Mq9zJrlRVHoTLCk2mj9YNQlLrOEVlyfu_9VA9g1kgcLLV_TMw1Y-l3-Fa_giNNQnxSABxhcJABxuf4wX9VsYG1Gi72EUpHeDGZGskQG3mlujmr2JKgpvfIj0kpzeG2yvzRB0f18WDXoikBmSjjbdR486b3i8_g1TZje7rcnxVaw-OkV1d_YFQgSc6g_ntjj336BYimGpQ0aLGFa5x5yChG-5_Fzi1W_AyGc_g2uyOh8Yt48rjGL7KDyCYXAiZc3HptVP4-36E-njDkN44I3iAne76XNBFgjxo1I1gI6DnI0t0OSkWECtKNMW6JmuWxjH4Og6Sw_JBhd8n1HPVtr6gN2847gvSpcuBjxvE9iK54JV37DIVQu0UDVY4otiothGyT8pup60W5NVnDQ-ZjDeuTlnCQrkOOXfg-dzWN60Du8ph7qe9CveuAl23NBxvbW3x4ggZNSQ0VG65_Xw0P7mp-1sB-WFKQN8hNEJvDqQl_qCf-fbhCiyGNM1UdRW47hdfoy1y_A5PfwmA0ltXqA2gaLER5oDD",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "07df01af512d00005f4297bb_0",
+      "flyFrom": "TRN",
+      "flyTo": "BCN",
+      "cityFrom": "Turin",
+      "cityCodeFrom": "TRN",
+      "cityTo": "Barcelona",
+      "cityCodeTo": "BCN",
+      "countryFrom": {
+        "code": "IT",
+        "name": "Italy"
+      },
+      "countryTo": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "local_departure": "2028-11-24T14:55:00.000Z",
+      "utc_departure": "2028-11-24T13:55:00.000Z",
+      "local_arrival": "2028-11-24T16:25:00.000Z",
+      "utc_arrival": "2028-11-24T15:25:00.000Z",
+      "nightsInDest": null,
+      "quality": 28,
+      "distance": 626.66,
+      "duration": {
+        "departure": 5400,
+        "return": 0,
+        "total": 5400
+      },
+      "price": 16,
+      "conversion": {
+        "EUR": 16
+      },
+      "fare": {
+        "adults": 16,
+        "children": 0,
+        "infants": 0
+      },
+      "bags_price": {
+        "1": 85
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 85
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 115,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 20,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 15,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": 9
+      },
+      "airlines": [
+        "VY"
+      ],
+      "route": [
+        {
+          "id": "07df01af512d00005f4297bb_0",
+          "combination_id": "07df01af512d00005f4297bb",
+          "flyFrom": "TRN",
+          "flyTo": "BCN",
+          "cityFrom": "Turin",
+          "cityCodeFrom": "TRN",
+          "cityTo": "Barcelona",
+          "cityCodeTo": "BCN",
+          "local_departure": "2028-11-24T14:55:00.000Z",
+          "utc_departure": "2028-11-24T13:55:00.000Z",
+          "local_arrival": "2028-11-24T16:25:00.000Z",
+          "utc_arrival": "2028-11-24T15:25:00.000Z",
+          "airline": "VY",
+          "flight_no": 6129,
+          "operating_carrier": "VY",
+          "operating_flight_no": "6129",
+          "fare_basis": "DLBHCVY",
+          "fare_category": "M",
+          "fare_classes": "",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HKDq61XIjmfOcGyQCgyWCQj8_zBHxb9jm2frOot2zl2BflsVDYc7OYkCbiv4iGOyVrKSy2371iN1v6YNhV_khxume2XtaR8iaD0ZIjPwVujd9detO_VwJ4LCcQhsf20eaYEZfjbS3zhziGqEbGCII3pmmN-HMczM2aYsxq5TQ8V7yusggvdWKzNfRLu1tSY6fL2EVZCAeWFpvdlJU6pTYFGwiR1Q3YIBntoI7zeaIMa15YKdZSdRSEu1IE0VIUU6PG0YUAprx1y5tTnS8ge3xtHnGKdUW1bnNfLHKDgrpyaBObajkwofjWBc7FuVN4K4wVFzRfq3uC7FqDqj7OmHJo_vMlj5dFhPOUIOKjivuBN8ojLDVMOJ_Klrmrb2xMA6N3H2KvFmDDYwr4Zb_9OjZgAu3mcBgBaRMRa3MeeLITubsyNnWYyC9BH3WNFrq7jUSEQSRvYBR5oorriXcMgCMNpy8dGJbOnD8dH1hN1JeIDCxLYnAK50QdoTA8FXh9pmN4XGtenJ7vH3rX6fukzsgoVzc1zG2123qZ3qEbrQ_RvNzuAh3GzQsrdibG9IF7tzCW1e9nAr0BYVy0AYOkh2hZ83SCp3GEGyCVRWr5X8xzB0tWg1tfu_SooDwH7CRjdHxUoKWGcOfHq5qoIl-RwkbNOBS-6OjduFA4ZUa4jzWIlQ-je0fsCDnP3-Wv-wbP4wpA25gs--PgLLvld8E1MobKuboZq_qkqKlayk6tsAjlf0jaSktkZBJk-BTzotONJb6En-F-GD8yhtxMK_v_YuwOLlyBTyPwSCIUS589nhU2dWSucJh094jPHUeH_qvBZqAhsoJhfB69n32x3aTbQtXUupfgDbVBK9wP14meI-4hhfEXsWslje7o-8lUWIF_GcdnHklweYKdPSbGAq-8i6c_A==",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=07df01af512d00005f4297bb_0&from=TRN&lang=en&passengers=1&to=BCN&booking_token=HKDq61XIjmfOcGyQCgyWCQj8_zBHxb9jm2frOot2zl2BflsVDYc7OYkCbiv4iGOyVrKSy2371iN1v6YNhV_khxume2XtaR8iaD0ZIjPwVujd9detO_VwJ4LCcQhsf20eaYEZfjbS3zhziGqEbGCII3pmmN-HMczM2aYsxq5TQ8V7yusggvdWKzNfRLu1tSY6fL2EVZCAeWFpvdlJU6pTYFGwiR1Q3YIBntoI7zeaIMa15YKdZSdRSEu1IE0VIUU6PG0YUAprx1y5tTnS8ge3xtHnGKdUW1bnNfLHKDgrpyaBObajkwofjWBc7FuVN4K4wVFzRfq3uC7FqDqj7OmHJo_vMlj5dFhPOUIOKjivuBN8ojLDVMOJ_Klrmrb2xMA6N3H2KvFmDDYwr4Zb_9OjZgAu3mcBgBaRMRa3MeeLITubsyNnWYyC9BH3WNFrq7jUSEQSRvYBR5oorriXcMgCMNpy8dGJbOnD8dH1hN1JeIDCxLYnAK50QdoTA8FXh9pmN4XGtenJ7vH3rX6fukzsgoVzc1zG2123qZ3qEbrQ_RvNzuAh3GzQsrdibG9IF7tzCW1e9nAr0BYVy0AYOkh2hZ83SCp3GEGyCVRWr5X8xzB0tWg1tfu_SooDwH7CRjdHxUoKWGcOfHq5qoIl-RwkbNOBS-6OjduFA4ZUa4jzWIlQ-je0fsCDnP3-Wv-wbP4wpA25gs--PgLLvld8E1MobKuboZq_qkqKlayk6tsAjlf0jaSktkZBJk-BTzotONJb6En-F-GD8yhtxMK_v_YuwOLlyBTyPwSCIUS589nhU2dWSucJh094jPHUeH_qvBZqAhsoJhfB69n32x3aTbQtXUupfgDbVBK9wP14meI-4hhfEXsWslje7o-8lUWIF_GcdnHklweYKdPSbGAq-8i6c_A==",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "0f0c0a22511600002c060e6b_0",
+      "flyFrom": "FCO",
+      "flyTo": "MAD",
+      "cityFrom": "Rome",
+      "cityCodeFrom": "ROM",
+      "cityTo": "Madrid",
+      "cityCodeTo": "MAD",
+      "countryFrom": {
+        "code": "IT",
+        "name": "Italy"
+      },
+      "countryTo": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "local_departure": "2028-11-01T06:00:00.000Z",
+      "utc_departure": "2028-11-01T05:00:00.000Z",
+      "local_arrival": "2028-11-01T08:40:00.000Z",
+      "utc_arrival": "2028-11-01T07:40:00.000Z",
+      "nightsInDest": null,
+      "quality": 49.33333396911621,
+      "distance": 1330.97,
+      "duration": {
+        "departure": 9600,
+        "return": 0,
+        "total": 9600
+      },
+      "price": 28,
+      "conversion": {
+        "EUR": 28
+      },
+      "fare": {
+        "adults": 28,
+        "children": 0,
+        "infants": 0
+      },
+      "bags_price": {
+        "1": 59.15,
+        "2": 118.3
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 59.15,
+          "2": 118.3
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "W4"
+      ],
+      "route": [
+        {
+          "id": "0f0c0a22511600002c060e6b_0",
+          "combination_id": "0f0c0a22511600002c060e6b",
+          "flyFrom": "FCO",
+          "flyTo": "MAD",
+          "cityFrom": "Rome",
+          "cityCodeFrom": "ROM",
+          "cityTo": "Madrid",
+          "cityCodeTo": "MAD",
+          "local_departure": "2028-11-01T06:00:00.000Z",
+          "utc_departure": "2028-11-01T05:00:00.000Z",
+          "local_arrival": "2028-11-01T08:40:00.000Z",
+          "utc_arrival": "2028-11-01T07:40:00.000Z",
+          "airline": "W4",
+          "flight_no": 6011,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "R",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HkinDVlsKNS9Xu0gY6b2-uaDF2VOzQE7c5icuzX73rMUgAZNW9ZN093AUhBIl0giBhMnv6MfldOiCeTWfs4TmBou0X0r6cYKIYLjeisOzC1vYPqc3wF7QzqOfXjd3tghr6EC_v1iI_xzAgm29MFhNzilTXfZIxVJ8YUA7XdQxs7W3PE0tOioEvVZSHlodW9vgZJzcy8M4pWIdMd9lTZ5RKcQutrEIj7KkK4wBkB1rj48QGwxDMdyyTk8ImbdZkJdFsqC0QwYua2eeBGtDzFWW2twdIH0o1XdBtrIiq44rKQvCla3m6P5uOer3e0YK6mSQt_SmBLE8_AneqV3lFzHoi3KWBoS894Y8ANRUMuhY7i7LzReUs1pkpIixiiI6vNf35W07BawaJQch693x1-w5dptuhzaBE0ENfuUoBxUh612XnVE1wwLMzo8x3EGL4HkY4hN4cH4Q5QqGWnKBuYqS5xPXYS5OnkZsW725v1cqTfDqmlEr5b8qZ6b2QI3JoDiHTQDrbpO0mCilkoDRKu6l3MhnqgL2vl0xLdvSRzCEMJD89Jr2baLL9ffxSC7jARoLmKuPQvggGqqOZKJXT-lIgMMbV8AfMfjueUAwrld6E764gnKZExMP3AvOKpKElHqMzbKi2ps_yTJoZ4KbU1Uj1iIXymD4aaYfmrpGIbguz6QTXTDdsU1J2ex2IrlMJeIMSWg8GlDKCIL09Ns1PeZ5x7tol5rFT64PngW1POUmJuhjLmbUCpAeoI-BL6OVSPLnCM6qXNsQBa7LEYWMpWVRgctN6SQAxhTwI0zwDT9wNxcbWan0dPLo2Jb_9k-7JiID5CfEUeJUozU0ClUgYEpzoti3070RYCBo6GPTyqy0yASYD8AI_p1XjjUO50k_NCt1BwlAtI-wu6me0h2N4TS9sLAMtYPZEl8lvJrN_he5pww=",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=0f0c0a22511600002c060e6b_0&from=FCO&lang=en&passengers=1&to=MAD&booking_token=HkinDVlsKNS9Xu0gY6b2-uaDF2VOzQE7c5icuzX73rMUgAZNW9ZN093AUhBIl0giBhMnv6MfldOiCeTWfs4TmBou0X0r6cYKIYLjeisOzC1vYPqc3wF7QzqOfXjd3tghr6EC_v1iI_xzAgm29MFhNzilTXfZIxVJ8YUA7XdQxs7W3PE0tOioEvVZSHlodW9vgZJzcy8M4pWIdMd9lTZ5RKcQutrEIj7KkK4wBkB1rj48QGwxDMdyyTk8ImbdZkJdFsqC0QwYua2eeBGtDzFWW2twdIH0o1XdBtrIiq44rKQvCla3m6P5uOer3e0YK6mSQt_SmBLE8_AneqV3lFzHoi3KWBoS894Y8ANRUMuhY7i7LzReUs1pkpIixiiI6vNf35W07BawaJQch693x1-w5dptuhzaBE0ENfuUoBxUh612XnVE1wwLMzo8x3EGL4HkY4hN4cH4Q5QqGWnKBuYqS5xPXYS5OnkZsW725v1cqTfDqmlEr5b8qZ6b2QI3JoDiHTQDrbpO0mCilkoDRKu6l3MhnqgL2vl0xLdvSRzCEMJD89Jr2baLL9ffxSC7jARoLmKuPQvggGqqOZKJXT-lIgMMbV8AfMfjueUAwrld6E764gnKZExMP3AvOKpKElHqMzbKi2ps_yTJoZ4KbU1Uj1iIXymD4aaYfmrpGIbguz6QTXTDdsU1J2ex2IrlMJeIMSWg8GlDKCIL09Ns1PeZ5x7tol5rFT64PngW1POUmJuhjLmbUCpAeoI-BL6OVSPLnCM6qXNsQBa7LEYWMpWVRgctN6SQAxhTwI0zwDT9wNxcbWan0dPLo2Jb_9k-7JiID5CfEUeJUozU0ClUgYEpzoti3070RYCBo6GPTyqy0yASYD8AI_p1XjjUO50k_NCt1BwlAtI-wu6me0h2N4TS9sLAMtYPZEl8lvJrN_he5pww=",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "0f0c141451160000d131da2e_0",
+      "flyFrom": "FCO",
+      "flyTo": "AGP",
+      "cityFrom": "Rome",
+      "cityCodeFrom": "ROM",
+      "cityTo": "Málaga",
+      "cityCodeTo": "AGP",
+      "countryFrom": {
+        "code": "IT",
+        "name": "Italy"
+      },
+      "countryTo": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "local_departure": "2028-11-01T06:40:00.000Z",
+      "utc_departure": "2028-11-01T05:40:00.000Z",
+      "local_arrival": "2028-11-01T09:25:00.000Z",
+      "utc_arrival": "2028-11-01T08:25:00.000Z",
+      "nightsInDest": null,
+      "quality": 50,
+      "distance": 1548.58,
+      "duration": {
+        "departure": 9900,
+        "return": 0,
+        "total": 9900
+      },
+      "price": 28,
+      "conversion": {
+        "EUR": 28
+      },
+      "fare": {
+        "adults": 28,
+        "children": 0,
+        "infants": 0
+      },
+      "bags_price": {
+        "1": 35.5,
+        "2": 71
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 35.5,
+          "2": 71
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "W4"
+      ],
+      "route": [
+        {
+          "id": "0f0c141451160000d131da2e_0",
+          "combination_id": "0f0c141451160000d131da2e",
+          "flyFrom": "FCO",
+          "flyTo": "AGP",
+          "cityFrom": "Rome",
+          "cityCodeFrom": "ROM",
+          "cityTo": "Málaga",
+          "cityCodeTo": "AGP",
+          "local_departure": "2028-11-01T06:40:00.000Z",
+          "utc_departure": "2028-11-01T05:40:00.000Z",
+          "local_arrival": "2028-11-01T09:25:00.000Z",
+          "utc_arrival": "2028-11-01T08:25:00.000Z",
+          "airline": "W4",
+          "flight_no": 6025,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "R",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HbYUuGeVF8zGlI9f9apSSGJ0UozRqcl9facwl4OazJHyyuWhNSLxPBPqsNbgivWpNhSQ5gnQ5ypE9_4c6L8hh12tgIBOddVUovCulunT72EDIcLMk_s8GOvV6WvAdDFUaizRkEjy7GiGyO_3zCwL2iaaBaOzbqx0HH3SNjSmRwnU4sjl-FguT1g6S9YZWxQQSpZ5OIiLMIiLYWn5SkpGXwX2T4ctmj21EYmgGgkV3Ob-g1xm81P-J0LA4ROXapOb_8bpPewOHaRJatnYvSV4ZFYFO4o8ZBLiETu7Zf8U-JJbT7oqAv3vYu6ngpva1NxiR5yC1JSsC9kpU4DBMStMS0Bcfw4nlZ-m_zqltsS7RoAR1gfR-XKRRvbOchnq2UQs8pk2mjZqW2ipIxbbixPvIm9S-iFBNCTSrzSVQfzBGR02sVYfFp8IkpjQvrWrTtnSX5nq-q8QDHAP_shwIKIMJ1OQwNk6lPr4cnzJWEJrJ_QTrm--8lnsJc3RBzAxGKCFr4K-JB4A1BbCPnifADbuvZKbWozCqVcglvF2RVBgGddUfTQ8g3LKBWecrb5OorARZfVV8lFsZsfwPuTl_yWsceRYxND9UD_3qLYvCu0y080Ioz2NQzxIr93O2RqpgkS9kK9QPbCIg0iAlJ9KHMxhNfoD7bSYF-4rcKDqaOQxrYSbRlivcp6Me4otNGJf8-alW3Rz68j2Vvphav_Gl4zHyKBRSuq2hFM6PPsiH5F8-6my-LyPAmDhKQdnvKFD5755Ih1q0lWbN8wax9SNFl1mUoFXAVZYmoZcEfiRIYctXD8bUeUaBTj16ilm4SlmMmk7QaFxTpzeZ4TvlphE_MNTaN1h0vhRjNEZvatgy7_gzhBAuz6Rpq0YcZ-l2rjmavFHA-Svz-i5XoX878oHZifnPim5byrVOnpOHi2QSZJL4gWU=",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=0f0c141451160000d131da2e_0&from=FCO&lang=en&passengers=1&to=AGP&booking_token=HbYUuGeVF8zGlI9f9apSSGJ0UozRqcl9facwl4OazJHyyuWhNSLxPBPqsNbgivWpNhSQ5gnQ5ypE9_4c6L8hh12tgIBOddVUovCulunT72EDIcLMk_s8GOvV6WvAdDFUaizRkEjy7GiGyO_3zCwL2iaaBaOzbqx0HH3SNjSmRwnU4sjl-FguT1g6S9YZWxQQSpZ5OIiLMIiLYWn5SkpGXwX2T4ctmj21EYmgGgkV3Ob-g1xm81P-J0LA4ROXapOb_8bpPewOHaRJatnYvSV4ZFYFO4o8ZBLiETu7Zf8U-JJbT7oqAv3vYu6ngpva1NxiR5yC1JSsC9kpU4DBMStMS0Bcfw4nlZ-m_zqltsS7RoAR1gfR-XKRRvbOchnq2UQs8pk2mjZqW2ipIxbbixPvIm9S-iFBNCTSrzSVQfzBGR02sVYfFp8IkpjQvrWrTtnSX5nq-q8QDHAP_shwIKIMJ1OQwNk6lPr4cnzJWEJrJ_QTrm--8lnsJc3RBzAxGKCFr4K-JB4A1BbCPnifADbuvZKbWozCqVcglvF2RVBgGddUfTQ8g3LKBWecrb5OorARZfVV8lFsZsfwPuTl_yWsceRYxND9UD_3qLYvCu0y080Ioz2NQzxIr93O2RqpgkS9kK9QPbCIg0iAlJ9KHMxhNfoD7bSYF-4rcKDqaOQxrYSbRlivcp6Me4otNGJf8-alW3Rz68j2Vvphav_Gl4zHyKBRSuq2hFM6PPsiH5F8-6my-LyPAmDhKQdnvKFD5755Ih1q0lWbN8wax9SNFl1mUoFXAVZYmoZcEfiRIYctXD8bUeUaBTj16ilm4SlmMmk7QaFxTpzeZ4TvlphE_MNTaN1h0vhRjNEZvatgy7_gzhBAuz6Rpq0YcZ-l2rjmavFHA-Svz-i5XoX878oHZifnPim5byrVOnpOHi2QSZJL4gWU=",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "0f0c04b8511600005ee2420f_0",
+      "flyFrom": "FCO",
+      "flyTo": "SVQ",
+      "cityFrom": "Rome",
+      "cityCodeFrom": "ROM",
+      "cityTo": "Seville",
+      "cityCodeTo": "SVQ",
+      "countryFrom": {
+        "code": "IT",
+        "name": "Italy"
+      },
+      "countryTo": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "local_departure": "2028-11-01T06:00:00.000Z",
+      "utc_departure": "2028-11-01T05:00:00.000Z",
+      "local_arrival": "2028-11-01T08:50:00.000Z",
+      "utc_arrival": "2028-11-01T07:50:00.000Z",
+      "nightsInDest": null,
+      "quality": 50.66666603088379,
+      "distance": 1626.11,
+      "duration": {
+        "departure": 10200,
+        "return": 0,
+        "total": 10200
+      },
+      "price": 28,
+      "conversion": {
+        "EUR": 28
+      },
+      "fare": {
+        "adults": 28,
+        "children": 0,
+        "infants": 0
+      },
+      "bags_price": {
+        "1": 35.5,
+        "2": 71
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 35.5,
+          "2": 71
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "W4"
+      ],
+      "route": [
+        {
+          "id": "0f0c04b8511600005ee2420f_0",
+          "combination_id": "0f0c04b8511600005ee2420f",
+          "flyFrom": "FCO",
+          "flyTo": "SVQ",
+          "cityFrom": "Rome",
+          "cityCodeFrom": "ROM",
+          "cityTo": "Seville",
+          "cityCodeTo": "SVQ",
+          "local_departure": "2028-11-01T06:00:00.000Z",
+          "utc_departure": "2028-11-01T05:00:00.000Z",
+          "local_arrival": "2028-11-01T08:50:00.000Z",
+          "utc_arrival": "2028-11-01T07:50:00.000Z",
+          "airline": "W4",
+          "flight_no": 6023,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "R",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HY5q4unFVAFXGdoGGqU_aQIueRnuwlKqiwZs90D2Khxt-3pPdY4q7sk9kCWaKUHzGeQmopitgTWu7hkd8kxiLpjDDx2W3aazDqDo0Bm2VAQg9byAYAZENzw36252j3NYiN0cAWpgMjsvQKKYh0ecL0jN389pPxIQhD0I_zKFaKt0jUY-8MJEKDcM3kN5KEeGH_PVSjyMTo6ABdhf6umOMx5GEyMEMYgdeFBZXu4-DQe35A_oi6tTdLghXZsRYbqKeG61pzwDnnP5Gu7RFieAd3Zbmp8buPIObeCSXqLJQb9bKs7D7JeMAtUJhR85ACVsLuyvLnlhWmVOsRxNEGgEnd_ALWPKgp2FLj0BQwjwUkTPv_D1Ekj4O_aW1aGs12H5j8jr7cTdmRGYXH-yWh7wspzeEkRv8BYbYcCl46OoEpUmBFjnxQJYATyYnmOD_jBd0xJM-r6XET0kT7M7guUrOFlTGfVVu_MfQQVCnZmKmMHARPRyQaKvsScCzVf-LnLpVaVBZm0OEbxuLdwbmpmGKDBwr01kV4LY8gi4XjbdYYM7-BfrhXHY4b3Bf_wca5WKr_K5-4Co5fjF-bfMSCHItwyJyIAXMq1Jhx5JQ4PN_cG49Nwtuj5QbQRb-91d8QsBhroLQ4SHQdJtYkNEPF7sxvvDn0wvmaZxS_mgeJcwiRMKPRTSrwWitLCsFcptf3fxjvvERgdYLBwTJ1p5QiS11M3TRI9F8jUgmJPYRzKk1zLSYVIdeZWxcl3OYvcggZQobrmA8SJ-Bc6oLWsS7icFBvhmhAUI8tHtPtQatmJ8hUDFrmmbUszTSGZIicnPSatHLmeuu9HqE1ggSB4MTC98LhQxXao9_q2crxlzR3d5ouAqqBvOhELup5H3Abqb77dKgV2ryvp_tM2IxXGQpQt_LUYowfiCHj-Bw5P7cnNaIVuGfJgXFaO2vJwscUUgNRbAN",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=0f0c04b8511600005ee2420f_0&from=FCO&lang=en&passengers=1&to=SVQ&booking_token=HY5q4unFVAFXGdoGGqU_aQIueRnuwlKqiwZs90D2Khxt-3pPdY4q7sk9kCWaKUHzGeQmopitgTWu7hkd8kxiLpjDDx2W3aazDqDo0Bm2VAQg9byAYAZENzw36252j3NYiN0cAWpgMjsvQKKYh0ecL0jN389pPxIQhD0I_zKFaKt0jUY-8MJEKDcM3kN5KEeGH_PVSjyMTo6ABdhf6umOMx5GEyMEMYgdeFBZXu4-DQe35A_oi6tTdLghXZsRYbqKeG61pzwDnnP5Gu7RFieAd3Zbmp8buPIObeCSXqLJQb9bKs7D7JeMAtUJhR85ACVsLuyvLnlhWmVOsRxNEGgEnd_ALWPKgp2FLj0BQwjwUkTPv_D1Ekj4O_aW1aGs12H5j8jr7cTdmRGYXH-yWh7wspzeEkRv8BYbYcCl46OoEpUmBFjnxQJYATyYnmOD_jBd0xJM-r6XET0kT7M7guUrOFlTGfVVu_MfQQVCnZmKmMHARPRyQaKvsScCzVf-LnLpVaVBZm0OEbxuLdwbmpmGKDBwr01kV4LY8gi4XjbdYYM7-BfrhXHY4b3Bf_wca5WKr_K5-4Co5fjF-bfMSCHItwyJyIAXMq1Jhx5JQ4PN_cG49Nwtuj5QbQRb-91d8QsBhroLQ4SHQdJtYkNEPF7sxvvDn0wvmaZxS_mgeJcwiRMKPRTSrwWitLCsFcptf3fxjvvERgdYLBwTJ1p5QiS11M3TRI9F8jUgmJPYRzKk1zLSYVIdeZWxcl3OYvcggZQobrmA8SJ-Bc6oLWsS7icFBvhmhAUI8tHtPtQatmJ8hUDFrmmbUszTSGZIicnPSatHLmeuu9HqE1ggSB4MTC98LhQxXao9_q2crxlzR3d5ouAqqBvOhELup5H3Abqb77dKgV2ryvp_tM2IxXGQpQt_LUYowfiCHj-Bw5P7cnNaIVuGfJgXFaO2vJwscUUgNRbAN",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "0f0c24a05116000044d1d170_0",
+      "flyFrom": "FCO",
+      "flyTo": "ALC",
+      "cityFrom": "Rome",
+      "cityCodeFrom": "ROM",
+      "cityTo": "Alicante",
+      "cityCodeTo": "ALC",
+      "countryFrom": {
+        "code": "IT",
+        "name": "Italy"
+      },
+      "countryTo": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "local_departure": "2028-11-01T12:50:00.000Z",
+      "utc_departure": "2028-11-01T11:50:00.000Z",
+      "local_arrival": "2028-11-01T15:10:00.000Z",
+      "utc_arrival": "2028-11-01T14:10:00.000Z",
+      "nightsInDest": null,
+      "quality": 49.66666603088379,
+      "distance": 1157.4,
+      "duration": {
+        "departure": 8400,
+        "return": 0,
+        "total": 8400
+      },
+      "price": 31,
+      "conversion": {
+        "EUR": 31
+      },
+      "fare": {
+        "adults": 31,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 10,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 231,
+            "itinerary_price_remaining": 31,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 40.5,
+        "2": 81
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 40.5,
+          "2": 81
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "W4"
+      ],
+      "route": [
+        {
+          "id": "0f0c24a05116000044d1d170_0",
+          "combination_id": "0f0c24a05116000044d1d170",
+          "flyFrom": "FCO",
+          "flyTo": "ALC",
+          "cityFrom": "Rome",
+          "cityCodeFrom": "ROM",
+          "cityTo": "Alicante",
+          "cityCodeTo": "ALC",
+          "local_departure": "2028-11-01T12:50:00.000Z",
+          "utc_departure": "2028-11-01T11:50:00.000Z",
+          "local_arrival": "2028-11-01T15:10:00.000Z",
+          "utc_arrival": "2028-11-01T14:10:00.000Z",
+          "airline": "W4",
+          "flight_no": 6197,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "R",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HR1QyhJQg0qLQe6zQIz6HYD9V8TgIZVch_WB_Pr6ElKD6bx3KhnfWfN58I7L60adb9T-WL51VXWjQAsvgQuIxR6Kd7YEzYiAuuLzsLdWWMDZNCy6Mk06F0DBex18AOl9_mSyi4tHfyIyhPzn8E0Rb09ob7xuN0FDx7V-gD3AnEYuirJA9KLhP6PTuIW5QmhRJa9SF5CdvI9LyLOer3r2E7wGaAoC1vD_U9go7we_7urVFdRtiDaTRofQgzahZ1kR9YbmlMaSxias8zSd85BwS3-k46yv8O-z3WAEybeTY2ZbDFtA7XBjSVIydkN_3y2TWPxWycAl09jhMhc6M0IVcPDoWef0lDrL5jtUS3MFayDOs7kQ5fqO3LTfO0hMvzjqBcRM6h2jhB6SrB_OG1mU8WEI1zA2oS97OAx8Dx-pnjH_gdBKPoeSquMwgBpMJcl1wkzYY9uhQvhNva5_o4fuNhoKgiygXBmDd1tQM7VewRhrY4PbmerplOZj_cG1A6vcGv1d7eJsai98wyUlszwVW1hGG3BUWuyS3-4U-TalhyharqZfMcME_GVAIjSw-YUIGn4H4tqIrhz0VjSdKX4nLI2Esn123NSqkq8u-gLdXekorQKaiS7Rze3T4uDTS6Wo1xoblJclNO2CSe1ohEwN4TEHznk9jVlDc_vsgGDpozKWGn4Ogde-jG3qb0Lu9AHfb4zUR8xaeCOhMCvNni_ELl2X5nQlTsA7qSXck_MebB5qe7h-W180P2PRyscLhjLEo58NeBled85JrEmP5LXgofTzPHbfopWCn-Birik_fQg_MrhFLURRT9oImJWYoMJPHKWgimQiAW9tYW-fLigzm3UWHFM-3ZBxIZyTBXKyoWi-NJJ2ij9KYNQ6sQLKI5QIvF3Ka7zWjyJoTLtHfLyNRLUpaKvmVigcW6czfRjKnUAHMscU7bsJ2pSUefqPSVEMW",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=0f0c24a05116000044d1d170_0&from=FCO&lang=en&passengers=1&to=ALC&booking_token=HR1QyhJQg0qLQe6zQIz6HYD9V8TgIZVch_WB_Pr6ElKD6bx3KhnfWfN58I7L60adb9T-WL51VXWjQAsvgQuIxR6Kd7YEzYiAuuLzsLdWWMDZNCy6Mk06F0DBex18AOl9_mSyi4tHfyIyhPzn8E0Rb09ob7xuN0FDx7V-gD3AnEYuirJA9KLhP6PTuIW5QmhRJa9SF5CdvI9LyLOer3r2E7wGaAoC1vD_U9go7we_7urVFdRtiDaTRofQgzahZ1kR9YbmlMaSxias8zSd85BwS3-k46yv8O-z3WAEybeTY2ZbDFtA7XBjSVIydkN_3y2TWPxWycAl09jhMhc6M0IVcPDoWef0lDrL5jtUS3MFayDOs7kQ5fqO3LTfO0hMvzjqBcRM6h2jhB6SrB_OG1mU8WEI1zA2oS97OAx8Dx-pnjH_gdBKPoeSquMwgBpMJcl1wkzYY9uhQvhNva5_o4fuNhoKgiygXBmDd1tQM7VewRhrY4PbmerplOZj_cG1A6vcGv1d7eJsai98wyUlszwVW1hGG3BUWuyS3-4U-TalhyharqZfMcME_GVAIjSw-YUIGn4H4tqIrhz0VjSdKX4nLI2Esn123NSqkq8u-gLdXekorQKaiS7Rze3T4uDTS6Wo1xoblJclNO2CSe1ohEwN4TEHznk9jVlDc_vsgGDpozKWGn4Ogde-jG3qb0Lu9AHfb4zUR8xaeCOhMCvNni_ELl2X5nQlTsA7qSXck_MebB5qe7h-W180P2PRyscLhjLEo58NeBled85JrEmP5LXgofTzPHbfopWCn-Birik_fQg_MrhFLURRT9oImJWYoMJPHKWgimQiAW9tYW-fLigzm3UWHFM-3ZBxIZyTBXKyoWi-NJJ2ij9KYNQ6sQLKI5QIvF3Ka7zWjyJoTLtHfLyNRLUpaKvmVigcW6czfRjKnUAHMscU7bsJ2pSUefqPSVEMW",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "0f0c01af511600006b1e705b_0",
+      "flyFrom": "FCO",
+      "flyTo": "BCN",
+      "cityFrom": "Rome",
+      "cityCodeFrom": "ROM",
+      "cityTo": "Barcelona",
+      "cityCodeTo": "BCN",
+      "countryFrom": {
+        "code": "IT",
+        "name": "Italy"
+      },
+      "countryTo": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "local_departure": "2028-11-01T07:25:00.000Z",
+      "utc_departure": "2028-11-01T06:25:00.000Z",
+      "local_arrival": "2028-11-01T09:15:00.000Z",
+      "utc_arrival": "2028-11-01T08:15:00.000Z",
+      "nightsInDest": null,
+      "quality": 49.666666984558105,
+      "distance": 847.84,
+      "duration": {
+        "departure": 6600,
+        "return": 0,
+        "total": 6600
+      },
+      "price": 35,
+      "conversion": {
+        "EUR": 35
+      },
+      "fare": {
+        "adults": 35,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 10,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 235,
+            "itinerary_price_remaining": 35,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 35.5,
+        "2": 71
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 35.5,
+          "2": 71
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": 1
+      },
+      "airlines": [
+        "W4"
+      ],
+      "route": [
+        {
+          "id": "0f0c01af511600006b1e705b_0",
+          "combination_id": "0f0c01af511600006b1e705b",
+          "flyFrom": "FCO",
+          "flyTo": "BCN",
+          "cityFrom": "Rome",
+          "cityCodeFrom": "ROM",
+          "cityTo": "Barcelona",
+          "cityCodeTo": "BCN",
+          "local_departure": "2028-11-01T07:25:00.000Z",
+          "utc_departure": "2028-11-01T06:25:00.000Z",
+          "local_arrival": "2028-11-01T09:15:00.000Z",
+          "utc_arrival": "2028-11-01T08:15:00.000Z",
+          "airline": "W4",
+          "flight_no": 6017,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HrThy87M3uB1L3YnRwD77WyMlWpeoTZ5SXo3ivIb8Duau8_g61d957FKDyLPH3alTZzowo7iLkfgc114GUhl6WEFzHkakgzGHz3fT5Nj2jsnBcqDdK2LPdC2xNjCdJ4qDaMh6psf_UtcUUlLiwrMKCX8WdayngYu8FYd56fyDhTv6YEBbKhGrTIJRnb7u-YH_vHTe-RYLysOJr1JTN5iBDNvJeP8RFWnhoW7-5j57TWnFoaosdec4RBGRiTieGGkSdf-zMFYuZZtTlWgLuYs5BWbOZEZGk_k9VUMzj8vFpJkBnz0JvmG8KZmsHNwnvEP2QPS5bKanSLwxmvB7fnbm1ypVq2xaNmI6Eyeb1ig7SoaoNtxH6pvNwMRh_4Nij8W6QvfKUdLl-NFHB3oDKjESJZQDxG6tSvaCgT-V4GFjegSYuszs6HcKjvLgpeB1A8OQfe37PynBFRvE2hCqFlzOC4frNCGs2a24jvKSrKCCa0vnYWlXgFupeMvBxuK52hpfSkKQu7qRkMbqSdMNMcVi2OArCauzCCF6CzWIjXr5FGgBUOYRa-5zv0DJeIDWnQYtBNzw-w9JayoIx5blGnMKxZaFA43M_P2zlGtwNTGebCBmPYyZinmVwIYCR4NFUu1Q4S6pQ0-TMu0MUGPkSoGY6jJP4O3zCczXvoeSRzOsrFhn7VWZR07ofxuS8Fw5Cu23QfWYG_H0qihZ5eLkvxJ0RdiWT5VInAuwe91M94aMBaL70VwFEI8g9OhW_CimmQl6M_BQEMpvvMB891XEwSMapiOTaHADL1VWlYK4k5LckiyuXIFVVSwCRthySoslMnAHSNR09WJsaFrHFtqfKAwV2Cn_5-yIgpFhrwNmqzpSTNQj5yujUjL3uB0hB4C7inp6ytPxTF5V3TS5oeqA9n-eee1fh7Jz8zm0vRJFU5b2TKgspnUEuX8jzKAelK-gamgt",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=0f0c01af511600006b1e705b_0&from=FCO&lang=en&passengers=1&to=BCN&booking_token=HrThy87M3uB1L3YnRwD77WyMlWpeoTZ5SXo3ivIb8Duau8_g61d957FKDyLPH3alTZzowo7iLkfgc114GUhl6WEFzHkakgzGHz3fT5Nj2jsnBcqDdK2LPdC2xNjCdJ4qDaMh6psf_UtcUUlLiwrMKCX8WdayngYu8FYd56fyDhTv6YEBbKhGrTIJRnb7u-YH_vHTe-RYLysOJr1JTN5iBDNvJeP8RFWnhoW7-5j57TWnFoaosdec4RBGRiTieGGkSdf-zMFYuZZtTlWgLuYs5BWbOZEZGk_k9VUMzj8vFpJkBnz0JvmG8KZmsHNwnvEP2QPS5bKanSLwxmvB7fnbm1ypVq2xaNmI6Eyeb1ig7SoaoNtxH6pvNwMRh_4Nij8W6QvfKUdLl-NFHB3oDKjESJZQDxG6tSvaCgT-V4GFjegSYuszs6HcKjvLgpeB1A8OQfe37PynBFRvE2hCqFlzOC4frNCGs2a24jvKSrKCCa0vnYWlXgFupeMvBxuK52hpfSkKQu7qRkMbqSdMNMcVi2OArCauzCCF6CzWIjXr5FGgBUOYRa-5zv0DJeIDWnQYtBNzw-w9JayoIx5blGnMKxZaFA43M_P2zlGtwNTGebCBmPYyZinmVwIYCR4NFUu1Q4S6pQ0-TMu0MUGPkSoGY6jJP4O3zCczXvoeSRzOsrFhn7VWZR07ofxuS8Fw5Cu23QfWYG_H0qihZ5eLkvxJ0RdiWT5VInAuwe91M94aMBaL70VwFEI8g9OhW_CimmQl6M_BQEMpvvMB891XEwSMapiOTaHADL1VWlYK4k5LckiyuXIFVVSwCRthySoslMnAHSNR09WJsaFrHFtqfKAwV2Cn_5-yIgpFhrwNmqzpSTNQj5yujUjL3uB0hB4C7inp6ytPxTF5V3TS5oeqA9n-eee1fh7Jz8zm0vRJFU5b2TKgspnUEuX8jzKAelK-gamgt",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "0f0c01af51160000a95086ad_0",
+      "flyFrom": "FCO",
+      "flyTo": "BCN",
+      "cityFrom": "Rome",
+      "cityCodeFrom": "ROM",
+      "cityTo": "Barcelona",
+      "cityCodeTo": "BCN",
+      "countryFrom": {
+        "code": "IT",
+        "name": "Italy"
+      },
+      "countryTo": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "local_departure": "2028-11-01T12:40:00.000Z",
+      "utc_departure": "2028-11-01T11:40:00.000Z",
+      "local_arrival": "2028-11-01T14:30:00.000Z",
+      "utc_arrival": "2028-11-01T13:30:00.000Z",
+      "nightsInDest": null,
+      "quality": 58.666666984558105,
+      "distance": 847.84,
+      "duration": {
+        "departure": 6600,
+        "return": 0,
+        "total": 6600
+      },
+      "price": 44,
+      "conversion": {
+        "EUR": 44
+      },
+      "fare": {
+        "adults": 44,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 10,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 244,
+            "itinerary_price_remaining": 44,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 38.5,
+        "2": 77
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 38.5,
+          "2": 77
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "W4"
+      ],
+      "route": [
+        {
+          "id": "0f0c01af51160000a95086ad_0",
+          "combination_id": "0f0c01af51160000a95086ad",
+          "flyFrom": "FCO",
+          "flyTo": "BCN",
+          "cityFrom": "Rome",
+          "cityCodeFrom": "ROM",
+          "cityTo": "Barcelona",
+          "cityCodeTo": "BCN",
+          "local_departure": "2028-11-01T12:40:00.000Z",
+          "utc_departure": "2028-11-01T11:40:00.000Z",
+          "local_arrival": "2028-11-01T14:30:00.000Z",
+          "utc_arrival": "2028-11-01T13:30:00.000Z",
+          "airline": "W4",
+          "flight_no": 6021,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "O",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HALntptmZNAfvYSnTX-R6fiuYwQsGfV_oq7ImDbB4IR2MJoj3astReuPhjrT9m4JbliZTKBv38mk_UynGpZJ2v2XPkF_h23_QN2jPv6Kq3KbkSpq7oasn13tFMIrWSeEZYa0VsHjqRc3HjUv4SvrUwCEJGDpds_OtWB13AttFSmWNnMZz7HEfjze4D9md9TNDumhEvD-Cjfo-Y4RzuzHmwY7mkesXp2TQX8XvoQIRFKEeC78ShzMZLieP4aA_af2Zs7bdJw4ZIzd5D3aU5AjusGp6mGAzlAp7dsK-fm6xABH4ODPuPJjiMIgHyqVjOkTULgNX5AEdisxGyrCrxxyMNYflFwU_gSkMinTs5n1Zl3GbjFHGpqpaatOnt9dWKCVyY30XQqzuIcEVslOFcJXA8aBpebr_B7uW4z2-oOdG788Vf8TFMbkyQrEFb4MqhCJSOo4Mwkkr2Qk8IyYaa2G9nwMFK3X3xREkUQ3LKJLBkpzktkyZz0m5IY9zJIjM0oI_HNIZZ7IMcGkW9GBTgeBWipP4SuUJPtPvGPmGaP96wpCHpkf7WwUKlln_Nqvt13-5ydM1ne6h2Rg0GEDUs9G4hJ7iKyDYzTjKhfJlNCYOZRf2qHhx2JzB4fZCPZfbKBhRoV2isPrPn-gL-Dj-B0Ix5B1Ce11j-vnzu8LpYf9Jd-zaSvBEUP8ltWoFeZ4_BrGJtXGPGXgAdreKr0nuDGBfxGu5LPYIJapbP-8w-i4bkeQQhektUo_G2WuYJHjuOusH0Taw-aEqt6_4OJIRVyrUFoG_IWASigaBw1hEAL8f25B5HOtMXQRsUqcDi0XQLEj8xk2TGzYlnOatX1h1ShMqCqvscj8KRVD6sbOccf66zcPsrHVyssojxUs66IJygOioXS3PGDbMn7Qw7GD_Bh0eWIp0MEhcm-_3-Oa4MECBGutlw79rgqN10mx_6YJ7tIB5",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=0f0c01af51160000a95086ad_0&from=FCO&lang=en&passengers=1&to=BCN&booking_token=HALntptmZNAfvYSnTX-R6fiuYwQsGfV_oq7ImDbB4IR2MJoj3astReuPhjrT9m4JbliZTKBv38mk_UynGpZJ2v2XPkF_h23_QN2jPv6Kq3KbkSpq7oasn13tFMIrWSeEZYa0VsHjqRc3HjUv4SvrUwCEJGDpds_OtWB13AttFSmWNnMZz7HEfjze4D9md9TNDumhEvD-Cjfo-Y4RzuzHmwY7mkesXp2TQX8XvoQIRFKEeC78ShzMZLieP4aA_af2Zs7bdJw4ZIzd5D3aU5AjusGp6mGAzlAp7dsK-fm6xABH4ODPuPJjiMIgHyqVjOkTULgNX5AEdisxGyrCrxxyMNYflFwU_gSkMinTs5n1Zl3GbjFHGpqpaatOnt9dWKCVyY30XQqzuIcEVslOFcJXA8aBpebr_B7uW4z2-oOdG788Vf8TFMbkyQrEFb4MqhCJSOo4Mwkkr2Qk8IyYaa2G9nwMFK3X3xREkUQ3LKJLBkpzktkyZz0m5IY9zJIjM0oI_HNIZZ7IMcGkW9GBTgeBWipP4SuUJPtPvGPmGaP96wpCHpkf7WwUKlln_Nqvt13-5ydM1ne6h2Rg0GEDUs9G4hJ7iKyDYzTjKhfJlNCYOZRf2qHhx2JzB4fZCPZfbKBhRoV2isPrPn-gL-Dj-B0Ix5B1Ce11j-vnzu8LpYf9Jd-zaSvBEUP8ltWoFeZ4_BrGJtXGPGXgAdreKr0nuDGBfxGu5LPYIJapbP-8w-i4bkeQQhektUo_G2WuYJHjuOusH0Taw-aEqt6_4OJIRVyrUFoG_IWASigaBw1hEAL8f25B5HOtMXQRsUqcDi0XQLEj8xk2TGzYlnOatX1h1ShMqCqvscj8KRVD6sbOccf66zcPsrHVyssojxUs66IJygOioXS3PGDbMn7Qw7GD_Bh0eWIp0MEhcm-_3-Oa4MECBGutlw79rgqN10mx_6YJ7tIB5",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "0f0c01af511600003f5da7d4_0",
+      "flyFrom": "FCO",
+      "flyTo": "BCN",
+      "cityFrom": "Rome",
+      "cityCodeFrom": "ROM",
+      "cityTo": "Barcelona",
+      "cityCodeTo": "BCN",
+      "countryFrom": {
+        "code": "IT",
+        "name": "Italy"
+      },
+      "countryTo": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "local_departure": "2028-11-01T09:40:00.000Z",
+      "utc_departure": "2028-11-01T08:40:00.000Z",
+      "local_arrival": "2028-11-01T11:30:00.000Z",
+      "utc_arrival": "2028-11-01T10:30:00.000Z",
+      "nightsInDest": null,
+      "quality": 88.6666669845581,
+      "distance": 847.84,
+      "duration": {
+        "departure": 6600,
+        "return": 0,
+        "total": 6600
+      },
+      "price": 74,
+      "conversion": {
+        "EUR": 74
+      },
+      "fare": {
+        "adults": 74,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 10,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 274,
+            "itinerary_price_remaining": 74,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 47.6,
+        "2": 95.2
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 47.6,
+          "2": 95.2
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 121,
+        "hand_height": 40,
+        "hand_length": 56,
+        "hand_weight": 10,
+        "hand_width": 25,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 15,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 85,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 3,
+        "personal_item_width": 15
+      },
+      "availability": {
+        "seats": 4
+      },
+      "airlines": [
+        "IB"
+      ],
+      "route": [
+        {
+          "id": "0f0c01af511600003f5da7d4_0",
+          "combination_id": "0f0c01af511600003f5da7d4",
+          "flyFrom": "FCO",
+          "flyTo": "BCN",
+          "cityFrom": "Rome",
+          "cityCodeFrom": "ROM",
+          "cityTo": "Barcelona",
+          "cityCodeTo": "BCN",
+          "local_departure": "2028-11-01T09:40:00.000Z",
+          "utc_departure": "2028-11-01T08:40:00.000Z",
+          "local_arrival": "2028-11-01T11:30:00.000Z",
+          "utc_arrival": "2028-11-01T10:30:00.000Z",
+          "airline": "IB",
+          "flight_no": 5331,
+          "operating_carrier": "VY",
+          "operating_flight_no": "6001",
+          "fare_basis": "QOHMVY",
+          "fare_category": "M",
+          "fare_classes": "Q",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HnRQSUwmZcTJYIW4Pkl2hfLHuJWt6RY1xyVhtSsS0td-udxJmWdHOEXtUbn0z5xkIXc4GfBTkznxAvLblx_yZDWI6lwnNpdjDOHoUrLnexvdcmfEDSItUQk71cm17ayjQr-lmB18XPDzyPijv2sW5AYM9Sq1yBm4ywJHN0G9MIUqGSFCKSewp3PSBIvgZ1fJlSxSIxYek6h1x25GiQvXKJAjCmVUFlIQt0cJ2a5Gf_CZAOa4tNwmKu3cq_CBFHjU31wtCI3Jd2IcMEC0aW_4lv5xUreYROTJM27rqBJ5Kzscg84kz2QnLxeawq4f-Jbpc4kPl_VqSzr43ACPDoWSviEZ9A2UYzfOx8n9xumyiMvQhCbp1YEKZE4JpMYZOXQKihPu73zYue73zzqtmMWec0mbj-KNDCqtAu5JrC0Zn8yHSk3fXoDgQDwOQ-sBVfkgqXQ1uXcMy7iH-7BU_7nh4fiZFAt4P7Kq2Si37fSNPnI_zuBlsJaJSE7Gl5Xm1Xbn1YxUvgaXfzOfa3jNI8vYZFPJqVBoVzXD6MuhCIAvmA_OJZw_6smc2Wyml0_sG7ly2fuAAUVEpfQNTIKEhODETIPF7AXaV0FNGiKi-Ws4L2G3_NaEBfuDUfVaZt0x2UfCHGN_9KjBki_iFmkakQ722Du7q1g4wqrLcEuZJxmKhRoFyvlkhh-StIwcaze2yRNY1S2jSIsh45zT0XlvCHExxeMISwK5_aXKSyleqAMMtMGF_gNiCImgOvhcZaaHOY7FvQ2FEZg1mz788YFTxjGgGYE6LDizm7MnICKsJ2Y80Ax0OpbRBYXbPczucvhuZyRPUDaUmMnWqIfF7xLhAIgVmu8g6_R6GSYiAlBWj-Ekxjc8-Mcbcrrx7pOPkl46qw0kFQ65COGUASxIue-4i39fANb8OjdmDAUy2g-5TbHbTIOumau2Nj9yqt-UpPDU4aH5lbW5_mUOU0E8gPgvs9F-W5fKU41sgeezzpLo-jyoTs7Y=",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=0f0c01af511600003f5da7d4_0&from=FCO&lang=en&passengers=1&to=BCN&booking_token=HnRQSUwmZcTJYIW4Pkl2hfLHuJWt6RY1xyVhtSsS0td-udxJmWdHOEXtUbn0z5xkIXc4GfBTkznxAvLblx_yZDWI6lwnNpdjDOHoUrLnexvdcmfEDSItUQk71cm17ayjQr-lmB18XPDzyPijv2sW5AYM9Sq1yBm4ywJHN0G9MIUqGSFCKSewp3PSBIvgZ1fJlSxSIxYek6h1x25GiQvXKJAjCmVUFlIQt0cJ2a5Gf_CZAOa4tNwmKu3cq_CBFHjU31wtCI3Jd2IcMEC0aW_4lv5xUreYROTJM27rqBJ5Kzscg84kz2QnLxeawq4f-Jbpc4kPl_VqSzr43ACPDoWSviEZ9A2UYzfOx8n9xumyiMvQhCbp1YEKZE4JpMYZOXQKihPu73zYue73zzqtmMWec0mbj-KNDCqtAu5JrC0Zn8yHSk3fXoDgQDwOQ-sBVfkgqXQ1uXcMy7iH-7BU_7nh4fiZFAt4P7Kq2Si37fSNPnI_zuBlsJaJSE7Gl5Xm1Xbn1YxUvgaXfzOfa3jNI8vYZFPJqVBoVzXD6MuhCIAvmA_OJZw_6smc2Wyml0_sG7ly2fuAAUVEpfQNTIKEhODETIPF7AXaV0FNGiKi-Ws4L2G3_NaEBfuDUfVaZt0x2UfCHGN_9KjBki_iFmkakQ722Du7q1g4wqrLcEuZJxmKhRoFyvlkhh-StIwcaze2yRNY1S2jSIsh45zT0XlvCHExxeMISwK5_aXKSyleqAMMtMGF_gNiCImgOvhcZaaHOY7FvQ2FEZg1mz788YFTxjGgGYE6LDizm7MnICKsJ2Y80Ax0OpbRBYXbPczucvhuZyRPUDaUmMnWqIfF7xLhAIgVmu8g6_R6GSYiAlBWj-Ekxjc8-Mcbcrrx7pOPkl46qw0kFQ65COGUASxIue-4i39fANb8OjdmDAUy2g-5TbHbTIOumau2Nj9yqt-UpPDU4aH5lbW5_mUOU0E8gPgvs9F-W5fKU41sgeezzpLo-jyoTs7Y=",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "0f0c01af51160000b236ab20_0",
+      "flyFrom": "FCO",
+      "flyTo": "BCN",
+      "cityFrom": "Rome",
+      "cityCodeFrom": "ROM",
+      "cityTo": "Barcelona",
+      "cityCodeTo": "BCN",
+      "countryFrom": {
+        "code": "IT",
+        "name": "Italy"
+      },
+      "countryTo": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "local_departure": "2028-11-01T23:35:00.000Z",
+      "utc_departure": "2028-11-01T22:35:00.000Z",
+      "local_arrival": "2028-11-02T01:25:00.000Z",
+      "utc_arrival": "2028-11-02T00:25:00.000Z",
+      "nightsInDest": null,
+      "quality": 88.6666669845581,
+      "distance": 847.84,
+      "duration": {
+        "departure": 6600,
+        "return": 0,
+        "total": 6600
+      },
+      "price": 74,
+      "conversion": {
+        "EUR": 74
+      },
+      "fare": {
+        "adults": 74,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 10,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 274,
+            "itinerary_price_remaining": 74,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 47.6,
+        "2": 95.2
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 47.6,
+          "2": 95.2
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 121,
+        "hand_height": 40,
+        "hand_length": 56,
+        "hand_weight": 10,
+        "hand_width": 25,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 15,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 85,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 3,
+        "personal_item_width": 15
+      },
+      "availability": {
+        "seats": 4
+      },
+      "airlines": [
+        "IB"
+      ],
+      "route": [
+        {
+          "id": "0f0c01af51160000b236ab20_0",
+          "combination_id": "0f0c01af51160000b236ab20",
+          "flyFrom": "FCO",
+          "flyTo": "BCN",
+          "cityFrom": "Rome",
+          "cityCodeFrom": "ROM",
+          "cityTo": "Barcelona",
+          "cityCodeTo": "BCN",
+          "local_departure": "2028-11-01T23:35:00.000Z",
+          "utc_departure": "2028-11-01T22:35:00.000Z",
+          "local_arrival": "2028-11-02T01:25:00.000Z",
+          "utc_arrival": "2028-11-02T00:25:00.000Z",
+          "airline": "IB",
+          "flight_no": 5773,
+          "operating_carrier": "VY",
+          "operating_flight_no": "6021",
+          "fare_basis": "QOHVYM",
+          "fare_category": "M",
+          "fare_classes": "Q",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "Ho5OssqYk2At-dsciLEvDk2xFZtkHyCVokxTWvAupZHTaO4tsCKxTZK6ydwZ8EmDXTCJxiRF3Oh3SvDawpijJJPU198iSosU_w7qYLfc8P7asWp1D1FQja1x3tb5MNDDEDPsEU4rP3lYCEgM4NN8QUt-qpMhTsCi5vuIdxqRCdXf-g-nNMLO7rIcLp8XC79sclMuUUhpVwUj3tOsRmaSBiezN3WEdr_sfIZbNBSZ3YrPdXcT5XoJSfpczSKUaGmt31Ee7CwVU8Uzv_aYkAMEhoVF5EXuXelXqDYoAqtrpjwLmoBg0xZHEEp_jgNC9toqEa0OE8FufldCyiECf7SZVB-nXfxzF2MxXm3dAQSGVvAipupqCmCT8ZL8Z0RA5d8Gax38auXcJv1jZSTDJiZ9FJ6nbHlA02uCL5nH7Tgt7DU3McTwXpaTzOTWmFvSqxUWTUuCINndJkXMAu93Zosd9Rd7AUGtsdtI_BD5wAtuxbcu6Tlf8_4zL0RgzL-eL6pYvLdy_w-DLGdr2gwtSkDaxx8_FBJNUJuj4E32yWcw_EvTPZP--CokLCKzflqXDWMKdxeg3KaTFO5dye_34S3TCQB9LfuAe3in7mhprfLfd0XQRY6QHPuLVHbpuF8LReRqt3p3_n-PX3EWQXDdJ-GWcyz43e1jokkyE9Trixow8s7V3-PpCH6bXVdUzHIwsqvBS3srpcang0MffI3B2GRie3VLzGnEFOFc5PCDcn480BLJ40VtB9powtIsmeMJplusq0IOQVKOwu5hs_7moN6_QlK_S2AeAzOUHYXEvJLb6l41kY6p6WwWd8GUVa60Jzl7-ZIVm9ZfNrpzDdLuWWIH89qv0BZAY4FT6U47KR7q2TKs7CCxJT0GN58lA_4uOjkJlHcIGKxOd7TA7xD1cC6g_RmKvmbZ8ulkYgRyEbz1PLR-bZlY5nB1-CeDzBD9f_xy6i57QFj2kRVdkHqGWuW0kYw==",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=0f0c01af51160000b236ab20_0&from=FCO&lang=en&passengers=1&to=BCN&booking_token=Ho5OssqYk2At-dsciLEvDk2xFZtkHyCVokxTWvAupZHTaO4tsCKxTZK6ydwZ8EmDXTCJxiRF3Oh3SvDawpijJJPU198iSosU_w7qYLfc8P7asWp1D1FQja1x3tb5MNDDEDPsEU4rP3lYCEgM4NN8QUt-qpMhTsCi5vuIdxqRCdXf-g-nNMLO7rIcLp8XC79sclMuUUhpVwUj3tOsRmaSBiezN3WEdr_sfIZbNBSZ3YrPdXcT5XoJSfpczSKUaGmt31Ee7CwVU8Uzv_aYkAMEhoVF5EXuXelXqDYoAqtrpjwLmoBg0xZHEEp_jgNC9toqEa0OE8FufldCyiECf7SZVB-nXfxzF2MxXm3dAQSGVvAipupqCmCT8ZL8Z0RA5d8Gax38auXcJv1jZSTDJiZ9FJ6nbHlA02uCL5nH7Tgt7DU3McTwXpaTzOTWmFvSqxUWTUuCINndJkXMAu93Zosd9Rd7AUGtsdtI_BD5wAtuxbcu6Tlf8_4zL0RgzL-eL6pYvLdy_w-DLGdr2gwtSkDaxx8_FBJNUJuj4E32yWcw_EvTPZP--CokLCKzflqXDWMKdxeg3KaTFO5dye_34S3TCQB9LfuAe3in7mhprfLfd0XQRY6QHPuLVHbpuF8LReRqt3p3_n-PX3EWQXDdJ-GWcyz43e1jokkyE9Trixow8s7V3-PpCH6bXVdUzHIwsqvBS3srpcang0MffI3B2GRie3VLzGnEFOFc5PCDcn480BLJ40VtB9powtIsmeMJplusq0IOQVKOwu5hs_7moN6_QlK_S2AeAzOUHYXEvJLb6l41kY6p6WwWd8GUVa60Jzl7-ZIVm9ZfNrpzDdLuWWIH89qv0BZAY4FT6U47KR7q2TKs7CCxJT0GN58lA_4uOjkJlHcIGKxOd7TA7xD1cC6g_RmKvmbZ8ulkYgRyEbz1PLR-bZlY5nB1-CeDzBD9f_xy6i57QFj2kRVdkHqGWuW0kYw==",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    }
+  ],
+  "_results": 10
+}

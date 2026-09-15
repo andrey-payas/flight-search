@@ -1,0 +1,83 @@
+services:
+  neo4j-dev:
+    image: neo4j:2025-enterprise
+    container_name: neo4j-dev
+    environment:
+      NEO4J_ACCEPT_LICENSE_AGREEMENT: yes
+      NEO4J_AUTH: neo4j/password
+      NEO4J_PLUGINS: '["graph-data-science", "apoc"]'
+    ports:
+      - "7476:7474"
+      - "7689:7687"
+    volumes:
+      - neo4j_dev_data:/data
+
+  neo4j-test:
+    image: neo4j:2025-enterprise
+    container_name: neo4j-test
+    environment:
+      NEO4J_ACCEPT_LICENSE_AGREEMENT: yes
+      NEO4J_AUTH: neo4j/password
+    ports:
+      - "7475:7474"
+      - "7688:7687"
+    volumes:
+      - neo4j_test_data:/data
+
+  gitea:
+    image: gitea/gitea:latest
+    container_name: gitea
+    environment:
+      USER_UID: 1000
+      USER_GID: 1000
+      GITEA__database__DB_TYPE: sqlite3
+      GITEA__webhook__ALLOWED_HOST_LIST: 192.168.1.105
+    ports:
+      - "3000:3000"  # Web UI
+      - "222:22"     # SSH
+    volumes:
+      - gitea_data:/data
+    restart: always
+
+
+  drone-server:
+    image: drone/drone:2
+    container_name: drone-server
+    ports:
+      - "8282:80"   # Drone web UI
+    environment:
+      - DRONE_GITEA_SERVER=http://192.168.1.105:3000
+      - DRONE_GITEA_CLIENT_ID=5ddfde89-2abe-4567-a0d5-588e1b2e726c
+      - DRONE_GITEA_CLIENT_SECRET=gto_pwo3u2x4m3ja5gflau2y6seuozsdq3zeulnum2umxk3a76bqhvvq
+      - DRONE_GITEA_WEBHOOK_SECRET=
+      - DRONE_WEBHOOK_SECRET=
+      - DRONE_RPC_SECRET=secret
+      - DRONE_SERVER_HOST=192.168.1.105:8282
+      - DRONE_SERVER_PROTO=http
+    depends_on:
+      - gitea
+    volumes:
+      - /var/lib/drone:/data
+    restart: always
+
+  drone-runner-docker:
+    image: drone/drone-runner-docker:1
+    container_name: drone-runner-docker
+    depends_on:
+      - drone-server
+    environment:
+      - DRONE_RPC_PROTO=http
+      - DRONE_RPC_HOST=192.168.1.105:8282
+      - DRONE_RPC_SECRET=secret
+      - DRONE_RUNNER_CAPACITY=2
+      - DRONE_RUNNER_NAME=docker-runner
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    restart: always
+
+
+volumes:
+  neo4j_dev_data:
+  neo4j_test_data:
+  gitea_data:
+

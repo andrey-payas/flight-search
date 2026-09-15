@@ -1,0 +1,1098 @@
+{
+  "search_id": "879a92eb-fa29-4f89-a218-89c7c0ef41b0",
+  "currency": "EUR",
+  "fx_rate": 1,
+  "data": [
+    {
+      "id": "18ff24a05130000031440b4e_0",
+      "flyFrom": "LTN",
+      "flyTo": "ALC",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "Alicante",
+      "cityCodeTo": "ALC",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "local_departure": "2028-11-27T16:30:00.000Z",
+      "utc_departure": "2028-11-27T16:30:00.000Z",
+      "local_arrival": "2028-11-27T20:10:00.000Z",
+      "utc_arrival": "2028-11-27T19:10:00.000Z",
+      "nightsInDest": null,
+      "quality": 40.33333396911621,
+      "distance": 1513.18,
+      "duration": {
+        "departure": 9600,
+        "return": 0,
+        "total": 9600
+      },
+      "price": 19,
+      "conversion": {
+        "EUR": 19
+      },
+      "fare": {
+        "adults": 19,
+        "children": 0,
+        "infants": 0
+      },
+      "bags_price": {
+        "1": 54.803527,
+        "2": 109.607054
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 54.803527,
+          "2": 109.607054
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "W9"
+      ],
+      "route": [
+        {
+          "id": "18ff24a05130000031440b4e_0",
+          "combination_id": "18ff24a05130000031440b4e",
+          "flyFrom": "LTN",
+          "flyTo": "ALC",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Alicante",
+          "cityCodeTo": "ALC",
+          "local_departure": "2028-11-27T16:30:00.000Z",
+          "utc_departure": "2028-11-27T16:30:00.000Z",
+          "local_arrival": "2028-11-27T20:10:00.000Z",
+          "utc_arrival": "2028-11-27T19:10:00.000Z",
+          "airline": "W9",
+          "flight_no": 5385,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "S",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HU9DxJfsmK-yrhjc6jNjiAztKrHTRp-H5iwGXcqFHn2TIjBHIVq6kszYgN4qmmrYCKrzXMjIOCnGrXMmf5Dpn045l3dVna-wSrG-3Fc9CloMiMCCIbgkJEXQEix3Bkds2PnQ-IQ08zh2cMjKLdYlMb-OrC_VjxxDK6fvLyA3JxclrRizyMB0QJf0tn1eqauXQHHPoSEBMrBpWQyDuNQyjBFdZgxgIaGtlxUCDUEhHDOnyKLZAbQ4IVcSkoFAs6zJPuF_TKOjO6G422gLc7MztjrgYqywUgR1oFECgiQzb1WfXCEFTJ6XlQ2KmGJU5c03s5onlEetg3xPfwS8lJVEjy5VUlIPbAKxn1mvZcPLB7QCcCmR3_O6xYY35Y8ktnMXcniRQ8tGvbDfyd9glsumxvXrZ1dh-tm3ywg5MetREI8Bb45KbIWRK_GrGKsgyLWr1vb4fxhPhC0qna3P_sEFB7IWhipeq_04E93dAmZZ0_oanbpBAw4HrDW9N_uSnVJW-IWo3NJke5AONnTq-NesbKUWRb0uubClZYDrBDwlEavVdJ9MTQlry7rMbzylJCjZrHGbXSPymdS8u4qEW2o6sPWRuRwfEz0JMOZxCOJY2-xjWYTZ6rqPi9stGjpuHxtaDokt5uUQYkhdQe1mobJWE_l99sz5G1VjBmnkX-GLX2F_s3q4GnmFh-2tnJHBCVKrjSZsazB2XiXKsCq9fBTFmBzrXr_w0jxh3eqgC6d4e61qeqAAvDXwNRqlXM3tEIUoEcVmuoEZm_qNnv9Fb6Iu6rjJmT0ehhZBTCERYT1m34KBHwHVFgvRqBlKOb9XGcdpd-Pa9MCP0Bi1Y-o_ByJTOjD91DAp-dO5BY9pmL9vueJPSYY3uRxzcOvLAqUXnD_BvWBzGsnfpuIas_asJQh3u3w==",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=18ff24a05130000031440b4e_0&from=LTN&lang=en&passengers=1&to=ALC&booking_token=HU9DxJfsmK-yrhjc6jNjiAztKrHTRp-H5iwGXcqFHn2TIjBHIVq6kszYgN4qmmrYCKrzXMjIOCnGrXMmf5Dpn045l3dVna-wSrG-3Fc9CloMiMCCIbgkJEXQEix3Bkds2PnQ-IQ08zh2cMjKLdYlMb-OrC_VjxxDK6fvLyA3JxclrRizyMB0QJf0tn1eqauXQHHPoSEBMrBpWQyDuNQyjBFdZgxgIaGtlxUCDUEhHDOnyKLZAbQ4IVcSkoFAs6zJPuF_TKOjO6G422gLc7MztjrgYqywUgR1oFECgiQzb1WfXCEFTJ6XlQ2KmGJU5c03s5onlEetg3xPfwS8lJVEjy5VUlIPbAKxn1mvZcPLB7QCcCmR3_O6xYY35Y8ktnMXcniRQ8tGvbDfyd9glsumxvXrZ1dh-tm3ywg5MetREI8Bb45KbIWRK_GrGKsgyLWr1vb4fxhPhC0qna3P_sEFB7IWhipeq_04E93dAmZZ0_oanbpBAw4HrDW9N_uSnVJW-IWo3NJke5AONnTq-NesbKUWRb0uubClZYDrBDwlEavVdJ9MTQlry7rMbzylJCjZrHGbXSPymdS8u4qEW2o6sPWRuRwfEz0JMOZxCOJY2-xjWYTZ6rqPi9stGjpuHxtaDokt5uUQYkhdQe1mobJWE_l99sz5G1VjBmnkX-GLX2F_s3q4GnmFh-2tnJHBCVKrjSZsazB2XiXKsCq9fBTFmBzrXr_w0jxh3eqgC6d4e61qeqAAvDXwNRqlXM3tEIUoEcVmuoEZm_qNnv9Fb6Iu6rjJmT0ehhZBTCERYT1m34KBHwHVFgvRqBlKOb9XGcdpd-Pa9MCP0Bi1Y-o_ByJTOjD91DAp-dO5BY9pmL9vueJPSYY3uRxzcOvLAqUXnD_BvWBzGsnfpuIas_asJQh3u3w==",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "18ff24a0512b0000445ceb49_0",
+      "flyFrom": "LTN",
+      "flyTo": "ALC",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "Alicante",
+      "cityCodeTo": "ALC",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "local_departure": "2028-11-22T16:30:00.000Z",
+      "utc_departure": "2028-11-22T16:30:00.000Z",
+      "local_arrival": "2028-11-22T20:10:00.000Z",
+      "utc_arrival": "2028-11-22T19:10:00.000Z",
+      "nightsInDest": null,
+      "quality": 40.33333396911621,
+      "distance": 1513.18,
+      "duration": {
+        "departure": 9600,
+        "return": 0,
+        "total": 9600
+      },
+      "price": 19,
+      "conversion": {
+        "EUR": 19
+      },
+      "fare": {
+        "adults": 19,
+        "children": 0,
+        "infants": 0
+      },
+      "bags_price": {
+        "1": 54.803527,
+        "2": 109.607054
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 54.803527,
+          "2": 109.607054
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "W9"
+      ],
+      "route": [
+        {
+          "id": "18ff24a0512b0000445ceb49_0",
+          "combination_id": "18ff24a0512b0000445ceb49",
+          "flyFrom": "LTN",
+          "flyTo": "ALC",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Alicante",
+          "cityCodeTo": "ALC",
+          "local_departure": "2028-11-22T16:30:00.000Z",
+          "utc_departure": "2028-11-22T16:30:00.000Z",
+          "local_arrival": "2028-11-22T20:10:00.000Z",
+          "utc_arrival": "2028-11-22T19:10:00.000Z",
+          "airline": "W9",
+          "flight_no": 5385,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "S",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "Hs5b85MNAyskiwRGUyWIhAUW1xn68wXyI9Dhm5TS-7xjxcyoCBMWJzoOaT3DBjGdUIel4LOL5oyXcBTGEL2XoVAnPFxpS70yx1riGrx9hhlt83U4ScZMp_CWf_MU9NAeJ9ieHfncSu4wxgoo_yczfKQlxvoksPZcCRMESt8Tf8RIE14Pyw66J_mYC699Dh92TLuH8zkc11z8kSfZixV3NmE7OA5pU0ml7Lc64qg93Hb4IpgSQ7hJESUzFHIVssvc0_vNExOnMoJFQX-aL4HAMgUAUezJimmCjMd6uBIeqAtQKhsTKaz8BkHAceoW68l7ew04YYKJeUwS-D1VDNCXzbnP2fbaHSFeHr7Q5eWxjymLSxIHXFwCaQJ5uXq-6Vg7Jvs3VxJ6QJpdxEDl8TsJ5OT7WoGDnt83eHRkgSXWhLTEx4wBW-NJcBDBt0KLOzU22YWTmpvQmZr9HiEVXtht8fSDb4gxKnHAurb2d67Oin6wF5NpPQJiVUVKqSruXUfEcuYwd0eEfuVJ75GgcGq1TO3UyJ1Pf6Qqu6s4i5c3qiTlQ472Xw_J8uVCBMKACNt6qgfd7A4Wj9i8CT9jwypTjx4KCcD3BPRChVulY6vn5HNEFmihOnYLPllcR45EG7z4_My9RER4cdUJrdjFTRQop-aC01-2z97MSbuUxqn9guIjjgawTys8Qb7_VAb3jC8bXLBFje2Xv1YB_2Q7UXYWlp-jrb1K4Cras37Pi3hwF538rwr4Sxov_mnfi5WJQqBtUXuXpAmeO8CDD1aDJICEvrSCETCwK_cXP_7iYjwoaT050Y0eWyYQdXFpczwWwquyn1-sKhutPPzmIhk5PvIdiUrEhBaeC2RWu3CBKfTmDgoBzvamRwGKjxwGnSF92aM3nIFTv6bsZUGC0ZjFnZR26kw==",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=18ff24a0512b0000445ceb49_0&from=LTN&lang=en&passengers=1&to=ALC&booking_token=Hs5b85MNAyskiwRGUyWIhAUW1xn68wXyI9Dhm5TS-7xjxcyoCBMWJzoOaT3DBjGdUIel4LOL5oyXcBTGEL2XoVAnPFxpS70yx1riGrx9hhlt83U4ScZMp_CWf_MU9NAeJ9ieHfncSu4wxgoo_yczfKQlxvoksPZcCRMESt8Tf8RIE14Pyw66J_mYC699Dh92TLuH8zkc11z8kSfZixV3NmE7OA5pU0ml7Lc64qg93Hb4IpgSQ7hJESUzFHIVssvc0_vNExOnMoJFQX-aL4HAMgUAUezJimmCjMd6uBIeqAtQKhsTKaz8BkHAceoW68l7ew04YYKJeUwS-D1VDNCXzbnP2fbaHSFeHr7Q5eWxjymLSxIHXFwCaQJ5uXq-6Vg7Jvs3VxJ6QJpdxEDl8TsJ5OT7WoGDnt83eHRkgSXWhLTEx4wBW-NJcBDBt0KLOzU22YWTmpvQmZr9HiEVXtht8fSDb4gxKnHAurb2d67Oin6wF5NpPQJiVUVKqSruXUfEcuYwd0eEfuVJ75GgcGq1TO3UyJ1Pf6Qqu6s4i5c3qiTlQ472Xw_J8uVCBMKACNt6qgfd7A4Wj9i8CT9jwypTjx4KCcD3BPRChVulY6vn5HNEFmihOnYLPllcR45EG7z4_My9RER4cdUJrdjFTRQop-aC01-2z97MSbuUxqn9guIjjgawTys8Qb7_VAb3jC8bXLBFje2Xv1YB_2Q7UXYWlp-jrb1K4Cras37Pi3hwF538rwr4Sxov_mnfi5WJQqBtUXuXpAmeO8CDD1aDJICEvrSCETCwK_cXP_7iYjwoaT050Y0eWyYQdXFpczwWwquyn1-sKhutPPzmIhk5PvIdiUrEhBaeC2RWu3CBKfTmDgoBzvamRwGKjxwGnSF92aM3nIFTv6bsZUGC0ZjFnZR26kw==",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "22f51414512d00004dba9813_0",
+      "flyFrom": "LGW",
+      "flyTo": "AGP",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "Málaga",
+      "cityCodeTo": "AGP",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "local_departure": "2028-11-24T06:20:00.000Z",
+      "utc_departure": "2028-11-24T06:20:00.000Z",
+      "local_arrival": "2028-11-24T10:15:00.000Z",
+      "utc_arrival": "2028-11-24T09:15:00.000Z",
+      "nightsInDest": null,
+      "quality": 42.33333396911621,
+      "distance": 1647.03,
+      "duration": {
+        "departure": 10500,
+        "return": 0,
+        "total": 10500
+      },
+      "price": 19,
+      "conversion": {
+        "EUR": 19
+      },
+      "fare": {
+        "adults": 19,
+        "children": 0,
+        "infants": 0
+      },
+      "bags_price": {
+        "1": 44.400166,
+        "2": 88.800332
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 44.400166,
+          "2": 88.800332
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "W9"
+      ],
+      "route": [
+        {
+          "id": "22f51414512d00004dba9813_0",
+          "combination_id": "22f51414512d00004dba9813",
+          "flyFrom": "LGW",
+          "flyTo": "AGP",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Málaga",
+          "cityCodeTo": "AGP",
+          "local_departure": "2028-11-24T06:20:00.000Z",
+          "utc_departure": "2028-11-24T06:20:00.000Z",
+          "local_arrival": "2028-11-24T10:15:00.000Z",
+          "utc_arrival": "2028-11-24T09:15:00.000Z",
+          "airline": "W9",
+          "flight_no": 5723,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "S",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HmS29-7hoyYayfcaPC6XrCCdqMj6xSKWaPrv8rmg-6qCmefflrYHDImZXe4J5euDfeMNtZyPRpuFemOM7C1Ajt2ZB29jpdlyZQ4pPjR-C5e6qr0lVrZpIHud5LXbU1pqTQyFV6MxoT11HefLnECXJ6oHAbWHbBHs9YqoKxxT_vUDD2Ewk2VgPDaCsbXeynihAzuLijmtyXKArd9jWumH98oxjet5mwDgoFT70s36wCCIka57V1ggLwPxymxC26I7y1fx2_dGjr3n5CqcqQdY9x2QsVLbBmIWV2h4Fo7kPOyzLc1Fn16uFJyG4G90jUe8EaIJXULIW4VKJQVxt8VqSXqz7Q2beKbE7m30HDMdrh_9jtLtv4lKIaXmWy6yASiTbCPNe9bwW5n8il7SlsHJfeCmbCbWx5bD-dW_LGoT3qhcQ0IxgtaSl8gDGhUx2hbuJ1wNo1vSveP15dRfED0_NgCnyiKCfBg0TprhPjZ-heRUZM1o8ohmywWDHAh21EqFH_SnoSmE90dtPQFwdMEwmGBdkIP3zymvLfTaUUXc3axAJKOghukHR-kOmKvuyXQqsTHGgfF1TGmSUsC6AEYFnPnLoSb-sk2QLXgUU8U4sOHgxkrFf7c7tNqEHvPw6NRQz_5N-nLYMjh6Tf1Zg8mIMowlgOZhRAsJy1uTBW66RPQDdmgH_UKc2Yno0glfwqL8S1hOjF_nGVgH7GiM0iMSdHqj6WOy-Zko0jL4fYoyQhRn_s3ZQ5J1jZMGyCOSxu5BFu9ZMupCMfJPKtv-h9a_wWwhiaxtFBobvo6mO26zcCccjDkxPQhjD7fGWU2v-7mFt-SPYuw2ZrNjT8HxkKo8Tbpmc5HAK_RHliVP_oAaWPRXkB_0k5Jbo87D_kHqOoDMa",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=22f51414512d00004dba9813_0&from=LGW&lang=en&passengers=1&to=AGP&booking_token=HmS29-7hoyYayfcaPC6XrCCdqMj6xSKWaPrv8rmg-6qCmefflrYHDImZXe4J5euDfeMNtZyPRpuFemOM7C1Ajt2ZB29jpdlyZQ4pPjR-C5e6qr0lVrZpIHud5LXbU1pqTQyFV6MxoT11HefLnECXJ6oHAbWHbBHs9YqoKxxT_vUDD2Ewk2VgPDaCsbXeynihAzuLijmtyXKArd9jWumH98oxjet5mwDgoFT70s36wCCIka57V1ggLwPxymxC26I7y1fx2_dGjr3n5CqcqQdY9x2QsVLbBmIWV2h4Fo7kPOyzLc1Fn16uFJyG4G90jUe8EaIJXULIW4VKJQVxt8VqSXqz7Q2beKbE7m30HDMdrh_9jtLtv4lKIaXmWy6yASiTbCPNe9bwW5n8il7SlsHJfeCmbCbWx5bD-dW_LGoT3qhcQ0IxgtaSl8gDGhUx2hbuJ1wNo1vSveP15dRfED0_NgCnyiKCfBg0TprhPjZ-heRUZM1o8ohmywWDHAh21EqFH_SnoSmE90dtPQFwdMEwmGBdkIP3zymvLfTaUUXc3axAJKOghukHR-kOmKvuyXQqsTHGgfF1TGmSUsC6AEYFnPnLoSb-sk2QLXgUU8U4sOHgxkrFf7c7tNqEHvPw6NRQz_5N-nLYMjh6Tf1Zg8mIMowlgOZhRAsJy1uTBW66RPQDdmgH_UKc2Yno0glfwqL8S1hOjF_nGVgH7GiM0iMSdHqj6WOy-Zko0jL4fYoyQhRn_s3ZQ5J1jZMGyCOSxu5BFu9ZMupCMfJPKtv-h9a_wWwhiaxtFBobvo6mO26zcCccjDkxPQhjD7fGWU2v-7mFt-SPYuw2ZrNjT8HxkKo8Tbpmc5HAK_RHliVP_oAaWPRXkB_0k5Jbo87D_kHqOoDMa",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "22f5141451310000c3f73c7e_0",
+      "flyFrom": "LGW",
+      "flyTo": "AGP",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "Málaga",
+      "cityCodeTo": "AGP",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "local_departure": "2028-11-28T06:20:00.000Z",
+      "utc_departure": "2028-11-28T06:20:00.000Z",
+      "local_arrival": "2028-11-28T10:15:00.000Z",
+      "utc_arrival": "2028-11-28T09:15:00.000Z",
+      "nightsInDest": null,
+      "quality": 42.33333396911621,
+      "distance": 1647.03,
+      "duration": {
+        "departure": 10500,
+        "return": 0,
+        "total": 10500
+      },
+      "price": 19,
+      "conversion": {
+        "EUR": 19
+      },
+      "fare": {
+        "adults": 19,
+        "children": 0,
+        "infants": 0
+      },
+      "bags_price": {
+        "1": 36.916368,
+        "2": 73.832736
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 36.916368,
+          "2": 73.832736
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "W9"
+      ],
+      "route": [
+        {
+          "id": "22f5141451310000c3f73c7e_0",
+          "combination_id": "22f5141451310000c3f73c7e",
+          "flyFrom": "LGW",
+          "flyTo": "AGP",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Málaga",
+          "cityCodeTo": "AGP",
+          "local_departure": "2028-11-28T06:20:00.000Z",
+          "utc_departure": "2028-11-28T06:20:00.000Z",
+          "local_arrival": "2028-11-28T10:15:00.000Z",
+          "utc_arrival": "2028-11-28T09:15:00.000Z",
+          "airline": "W9",
+          "flight_no": 5723,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "S",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HLaTw7RThvmAJs0V56ByeY5UXn1Ge7vZ3-ZhBEoebR_meIiuTukgkKvzbPu3CnWzlDsQpIUYutegTZ_cbLDKCPZEZyf7Zt6-ajUqnKggt7i14ESDHfdQhxrrmU8hK_9lw4iqv527djpl7ZKB6c5Lq_rb9kX4ztEBgE9gn_ajJQjj0pq7VigHU1e8Mkc10xyVEZFXQ-ch7JDaTArpohqX8XsxpXeV5F7fxVCLfWEWfihGJMQ0yRp5zKtZK_IjlK2wNexIoD0-6bpMky0YmzATQy9p2tuZyPRS6lztisNwSAq3ZDYXvpKYjQUPqhfR16h-mSTIREstyF_DS6zVlG-UeB26q6Ymf1-gwOq7MB7trJJmLGyxmoKFRkpoB-gLZKw7Q9KU3V2W9CtYLUT4e1KZfH3fJJ5v0Pay4xxME1T1SBEhbV_O9x1sr-Qm-sZur8SrG34qhG5U_FtNNx4bKVENwhok3uJaKpUnoOk-yE3As7A_25iv0i-J96CV7OTFjNjShjwd4LBi9urt5AZsX35aFolDCo4KpLz41LQ83BClRTwNWwrjrvRghsmhqGMft9YSWcpzJEP4nG-8q-nulDW7JyoMCV7PRpoQqKYxqtnyoeIEUXpmtuiC-A-whJLGi2_TOeO70DAgLhAxDmpBWx1jwl0ft-fRFPq1w9tKGwXX6QXxlrinKniwxsrS5cLuzzmeApQLHgZvcf-ghQqE6cSZyIF3kl-7U2MS2vilkJ1fNztD2nDIqsntN20Ct7pJS27RuV6b-oN3MpqN_unOWBL5lEwCgMmIWRb5yDBrqGzuspiFJ2gunL909dAmdev0lui2XWtgJs6CZe448tfGGm0YF_aF_0jEB2gIbKw-Wv1zd8LPgTqisnnqS1ntEBmmNtB_hu0QhfjZq8-UmqSHY8DVmxA==",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=22f5141451310000c3f73c7e_0&from=LGW&lang=en&passengers=1&to=AGP&booking_token=HLaTw7RThvmAJs0V56ByeY5UXn1Ge7vZ3-ZhBEoebR_meIiuTukgkKvzbPu3CnWzlDsQpIUYutegTZ_cbLDKCPZEZyf7Zt6-ajUqnKggt7i14ESDHfdQhxrrmU8hK_9lw4iqv527djpl7ZKB6c5Lq_rb9kX4ztEBgE9gn_ajJQjj0pq7VigHU1e8Mkc10xyVEZFXQ-ch7JDaTArpohqX8XsxpXeV5F7fxVCLfWEWfihGJMQ0yRp5zKtZK_IjlK2wNexIoD0-6bpMky0YmzATQy9p2tuZyPRS6lztisNwSAq3ZDYXvpKYjQUPqhfR16h-mSTIREstyF_DS6zVlG-UeB26q6Ymf1-gwOq7MB7trJJmLGyxmoKFRkpoB-gLZKw7Q9KU3V2W9CtYLUT4e1KZfH3fJJ5v0Pay4xxME1T1SBEhbV_O9x1sr-Qm-sZur8SrG34qhG5U_FtNNx4bKVENwhok3uJaKpUnoOk-yE3As7A_25iv0i-J96CV7OTFjNjShjwd4LBi9urt5AZsX35aFolDCo4KpLz41LQ83BClRTwNWwrjrvRghsmhqGMft9YSWcpzJEP4nG-8q-nulDW7JyoMCV7PRpoQqKYxqtnyoeIEUXpmtuiC-A-whJLGi2_TOeO70DAgLhAxDmpBWx1jwl0ft-fRFPq1w9tKGwXX6QXxlrinKniwxsrS5cLuzzmeApQLHgZvcf-ghQqE6cSZyIF3kl-7U2MS2vilkJ1fNztD2nDIqsntN20Ct7pJS27RuV6b-oN3MpqN_unOWBL5lEwCgMmIWRb5yDBrqGzuspiFJ2gunL909dAmdev0lui2XWtgJs6CZe448tfGGm0YF_aF_0jEB2gIbKw-Wv1zd8LPgTqisnnqS1ntEBmmNtB_hu0QhfjZq8-UmqSHY8DVmxA==",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "22f51414512c00006b2c3947_0",
+      "flyFrom": "LGW",
+      "flyTo": "AGP",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "Málaga",
+      "cityCodeTo": "AGP",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "local_departure": "2028-11-23T06:20:00.000Z",
+      "utc_departure": "2028-11-23T06:20:00.000Z",
+      "local_arrival": "2028-11-23T10:15:00.000Z",
+      "utc_arrival": "2028-11-23T09:15:00.000Z",
+      "nightsInDest": null,
+      "quality": 42.33333396911621,
+      "distance": 1647.03,
+      "duration": {
+        "departure": 10500,
+        "return": 0,
+        "total": 10500
+      },
+      "price": 19,
+      "conversion": {
+        "EUR": 19
+      },
+      "fare": {
+        "adults": 19,
+        "children": 0,
+        "infants": 0
+      },
+      "bags_price": {
+        "1": 44.400166,
+        "2": 88.800332
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 44.400166,
+          "2": 88.800332
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "W9"
+      ],
+      "route": [
+        {
+          "id": "22f51414512c00006b2c3947_0",
+          "combination_id": "22f51414512c00006b2c3947",
+          "flyFrom": "LGW",
+          "flyTo": "AGP",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Málaga",
+          "cityCodeTo": "AGP",
+          "local_departure": "2028-11-23T06:20:00.000Z",
+          "utc_departure": "2028-11-23T06:20:00.000Z",
+          "local_arrival": "2028-11-23T10:15:00.000Z",
+          "utc_arrival": "2028-11-23T09:15:00.000Z",
+          "airline": "W9",
+          "flight_no": 5723,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "S",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HLjsYnAm-NfIe8k586ngsmYxI9gEM9mQQL2Jx0QStcCxZHYnUgDktQnm1CleetrF86CMppzvvPSOpn_20ff9ZXqtYVVqnGxwjibNpqIpiAfuFDGK4PIlP1IpUXxFYicB2z0hdrFXeigvRn7bfSwMb9GpsieOU7QmUKafwLMkrrQoe3b3-AfYRO4G8jUVY3b_QffN5oTt6NUgbH4PPSt1WqaSQ6umtrbf81pus8Rze7ZxQzgUr6aj2fZt-eD44HwXnEBOfcSpsnXHEtHp5i2bxHlVkZvS4ZF1ln6X84o2M-2c-7rxTCcQ7duYAtkvwM7qPmfBox9F9UYr4_xHyOxDc3pwTgNP1Qg-G-Vs6fpPeFF0VhgYQLCFJJUFTwMGUlGFQvnZDtpXNg9BH5WgfRGr2ZA-XIQOLx5sTy-1ZDzmTGtcVaLr_eQ4THtnZTOkMCQVO-efVqVTCsa8xIVXjVLaruAc6t0uHGK0JJiQ2q34dmu6W4JCND8E5lnqrYFG8Ctm4PjmCNatb-M9nju_K2ELWj2LTHUg6GHXa5BmpkHzrIGXDpjRbcFUc1eObq5tXEL7g3yW4tvqsJwdldMYPCHWWVc_ZEKxjb0C0EJldMDn74uk5wjyW6TWuEDbvtbOe9RPGzhVHHbJ2bRd1AUpq4-0afyb9yn2Kv74EpjVd3Xa5GfpBBnKO7uAWOQ-EvJUiB3O6OMjJEUpEluQUv1EG8d9LcbNCV3iq0EYo2wUs-0XMlgEQnzwFXe_G8DWcTCaAE8mVRFxT6t5dqTKnyDVwtnIuZgPnuYlZ1i-6JflmLsur6dwFhfg_5E7hBor2Gjtt5lLrEcZfTVp4E8Hrx6GyuLrxIsRG3CC-OrHgv7vrT_JFw9EZVKZkFWWiLtbUzmXOxpfVwP8mxpgWzVAgSgzMrsvfQw==",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=22f51414512c00006b2c3947_0&from=LGW&lang=en&passengers=1&to=AGP&booking_token=HLjsYnAm-NfIe8k586ngsmYxI9gEM9mQQL2Jx0QStcCxZHYnUgDktQnm1CleetrF86CMppzvvPSOpn_20ff9ZXqtYVVqnGxwjibNpqIpiAfuFDGK4PIlP1IpUXxFYicB2z0hdrFXeigvRn7bfSwMb9GpsieOU7QmUKafwLMkrrQoe3b3-AfYRO4G8jUVY3b_QffN5oTt6NUgbH4PPSt1WqaSQ6umtrbf81pus8Rze7ZxQzgUr6aj2fZt-eD44HwXnEBOfcSpsnXHEtHp5i2bxHlVkZvS4ZF1ln6X84o2M-2c-7rxTCcQ7duYAtkvwM7qPmfBox9F9UYr4_xHyOxDc3pwTgNP1Qg-G-Vs6fpPeFF0VhgYQLCFJJUFTwMGUlGFQvnZDtpXNg9BH5WgfRGr2ZA-XIQOLx5sTy-1ZDzmTGtcVaLr_eQ4THtnZTOkMCQVO-efVqVTCsa8xIVXjVLaruAc6t0uHGK0JJiQ2q34dmu6W4JCND8E5lnqrYFG8Ctm4PjmCNatb-M9nju_K2ELWj2LTHUg6GHXa5BmpkHzrIGXDpjRbcFUc1eObq5tXEL7g3yW4tvqsJwdldMYPCHWWVc_ZEKxjb0C0EJldMDn74uk5wjyW6TWuEDbvtbOe9RPGzhVHHbJ2bRd1AUpq4-0afyb9yn2Kv74EpjVd3Xa5GfpBBnKO7uAWOQ-EvJUiB3O6OMjJEUpEluQUv1EG8d9LcbNCV3iq0EYo2wUs-0XMlgEQnzwFXe_G8DWcTCaAE8mVRFxT6t5dqTKnyDVwtnIuZgPnuYlZ1i-6JflmLsur6dwFhfg_5E7hBor2Gjtt5lLrEcZfTVp4E8Hrx6GyuLrxIsRG3CC-OrHgv7vrT_JFw9EZVKZkFWWiLtbUzmXOxpfVwP8mxpgWzVAgSgzMrsvfQw==",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "22f5141451330000078a2b7a_0",
+      "flyFrom": "LGW",
+      "flyTo": "AGP",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "Málaga",
+      "cityCodeTo": "AGP",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "local_departure": "2028-11-30T06:20:00.000Z",
+      "utc_departure": "2028-11-30T06:20:00.000Z",
+      "local_arrival": "2028-11-30T10:15:00.000Z",
+      "utc_arrival": "2028-11-30T09:15:00.000Z",
+      "nightsInDest": null,
+      "quality": 42.33333396911621,
+      "distance": 1647.03,
+      "duration": {
+        "departure": 10500,
+        "return": 0,
+        "total": 10500
+      },
+      "price": 19,
+      "conversion": {
+        "EUR": 19
+      },
+      "fare": {
+        "adults": 19,
+        "children": 0,
+        "infants": 0
+      },
+      "bags_price": {
+        "1": 36.916368,
+        "2": 73.832736
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 36.916368,
+          "2": 73.832736
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "W9"
+      ],
+      "route": [
+        {
+          "id": "22f5141451330000078a2b7a_0",
+          "combination_id": "22f5141451330000078a2b7a",
+          "flyFrom": "LGW",
+          "flyTo": "AGP",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Málaga",
+          "cityCodeTo": "AGP",
+          "local_departure": "2028-11-30T06:20:00.000Z",
+          "utc_departure": "2028-11-30T06:20:00.000Z",
+          "local_arrival": "2028-11-30T10:15:00.000Z",
+          "utc_arrival": "2028-11-30T09:15:00.000Z",
+          "airline": "W9",
+          "flight_no": 5723,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "S",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HTCiloMZ6nstSVaJn0k7pimSPITOFpcz62WpKQZH_grXkUJyBpaNL7QH3nPDBZR4oJNMFYD3uWbhQkK99ooFMZD5Uai3znlEXWUBYQgIGu42Jsmamym2l4qs3ApNU3VkrZvY9yca_Tco4KIz1VyhyKWetCRjHtyl_JRxGlCfye1bf6cpxJKT-2JCmkXNsvrwPaGfYmP1utmH7Hv2DKCDyDw6sBnWbzA1yHJ0KCmdq8V7yAwIBz3e_RlzutOTmphi50Nw2TQwGykMWNMqwwyu_-KLzhFovKQNdWo8uMWVNGilut7b6NfcVPZEQJ_y69D7a59r6q4XyV4Rc1JVwfFU9_uRu_glNYbVhZjJkgtBe9UCSmu2bCPXJ0no4k6IEKSF6RPb0qiRUuO5V4bE4gu0VyZk9KDRQTC9ycI7F8cIirFAAqtevBcjzF4RQXtqDicdHTzyiovrlN603y9VZF83nhErFSxxwITad6IvE6EcyH5-JQkPr2b0k5iiRURuJlqVDpyZJWrwzhkFAXzHDplE1S8Vd9l774ZDSmLEG7vIAWMnRY3k7vXzq3FmzflTff41hlPmlfaLjqo4C3q-XcvA-y5lnwrxecw4tkusEQmWpP0Yk7UVwCiWdn0do6yqangIP-lrSWgolOFcRA5WY1pFYzsnyjEv1Kco4hyUeTz_sIPr7SYK1459aOGHSsF4QKcbUok_PbwJlBG4lSTOPNmco4wkFCXBS2c2PSTtf5aeNctouUwiGAJtU4AvULTB23Q5k7qTVpfvhmM3Lae3K3QYQ_XhMykQBxV10P7f3ac_TJveUKYH3hMTvcf5J6yxRcH_RbG3zvz_H7nptyoW9QZf7eaobMh4Dn0t43eLPfP3nMzRV_cGX_IdOUDz77j_UsRwi08DqWYNe0LV1-tTw0OMD7w==",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=22f5141451330000078a2b7a_0&from=LGW&lang=en&passengers=1&to=AGP&booking_token=HTCiloMZ6nstSVaJn0k7pimSPITOFpcz62WpKQZH_grXkUJyBpaNL7QH3nPDBZR4oJNMFYD3uWbhQkK99ooFMZD5Uai3znlEXWUBYQgIGu42Jsmamym2l4qs3ApNU3VkrZvY9yca_Tco4KIz1VyhyKWetCRjHtyl_JRxGlCfye1bf6cpxJKT-2JCmkXNsvrwPaGfYmP1utmH7Hv2DKCDyDw6sBnWbzA1yHJ0KCmdq8V7yAwIBz3e_RlzutOTmphi50Nw2TQwGykMWNMqwwyu_-KLzhFovKQNdWo8uMWVNGilut7b6NfcVPZEQJ_y69D7a59r6q4XyV4Rc1JVwfFU9_uRu_glNYbVhZjJkgtBe9UCSmu2bCPXJ0no4k6IEKSF6RPb0qiRUuO5V4bE4gu0VyZk9KDRQTC9ycI7F8cIirFAAqtevBcjzF4RQXtqDicdHTzyiovrlN603y9VZF83nhErFSxxwITad6IvE6EcyH5-JQkPr2b0k5iiRURuJlqVDpyZJWrwzhkFAXzHDplE1S8Vd9l774ZDSmLEG7vIAWMnRY3k7vXzq3FmzflTff41hlPmlfaLjqo4C3q-XcvA-y5lnwrxecw4tkusEQmWpP0Yk7UVwCiWdn0do6yqangIP-lrSWgolOFcRA5WY1pFYzsnyjEv1Kco4hyUeTz_sIPr7SYK1459aOGHSsF4QKcbUok_PbwJlBG4lSTOPNmco4wkFCXBS2c2PSTtf5aeNctouUwiGAJtU4AvULTB23Q5k7qTVpfvhmM3Lae3K3QYQ_XhMykQBxV10P7f3ac_TJveUKYH3hMTvcf5J6yxRcH_RbG3zvz_H7nptyoW9QZf7eaobMh4Dn0t43eLPfP3nMzRV_cGX_IdOUDz77j_UsRwi08DqWYNe0LV1-tTw0OMD7w==",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "22f514145132000030e8074b_0",
+      "flyFrom": "LGW",
+      "flyTo": "AGP",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "Málaga",
+      "cityCodeTo": "AGP",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "local_departure": "2028-11-29T06:20:00.000Z",
+      "utc_departure": "2028-11-29T06:20:00.000Z",
+      "local_arrival": "2028-11-29T10:15:00.000Z",
+      "utc_arrival": "2028-11-29T09:15:00.000Z",
+      "nightsInDest": null,
+      "quality": 42.33333396911621,
+      "distance": 1647.03,
+      "duration": {
+        "departure": 10500,
+        "return": 0,
+        "total": 10500
+      },
+      "price": 19,
+      "conversion": {
+        "EUR": 19
+      },
+      "fare": {
+        "adults": 19,
+        "children": 0,
+        "infants": 0
+      },
+      "bags_price": {
+        "1": 36.916368,
+        "2": 73.832736
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 36.916368,
+          "2": 73.832736
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "W9"
+      ],
+      "route": [
+        {
+          "id": "22f514145132000030e8074b_0",
+          "combination_id": "22f514145132000030e8074b",
+          "flyFrom": "LGW",
+          "flyTo": "AGP",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Málaga",
+          "cityCodeTo": "AGP",
+          "local_departure": "2028-11-29T06:20:00.000Z",
+          "utc_departure": "2028-11-29T06:20:00.000Z",
+          "local_arrival": "2028-11-29T10:15:00.000Z",
+          "utc_arrival": "2028-11-29T09:15:00.000Z",
+          "airline": "W9",
+          "flight_no": 5723,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "S",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HWdBXznTTcjcAs6h1c1ltpTU59rbgGVhPKGS_ehzQoqr3VvZsaAxFstQ6eVXvZUBSZPlY3tEw9DSTNHYSChPibB7Hq2feybWUDMgA1iAklq6TVj1iE4rPQA42NcB7y1OEMa8CPdfR_a6_lEHP27fXNiHeGQY3j27tNOjzyF2h4DSxZCk9u-06GdbN_HUOPKoqiGmIdevKDWA-Z3gHsEcmyjuNn-zmqrhFHAHqXy4ghrm3_AW4TfdVXJFWdxcr5c534Hc3pm0mZULkMTs5hw380Aeun1q7LrBrlsgr3Y1GU9wcEyT9v3_fBuylLK4gYSAG7CVV69gbQmo7Mm6bkjd35MqJ4aS_-OG6dLUNXo0iZWHOxL8xwcdTEi89jHACBT_DOdkII_ICkL48mH8wnOqiFuYmJ6FqiRdVJue0MlridZRX2AyzDhm7F-iopCsewGUXC6pu8GlPX73lQB4vBHJqmEbNeius-PzArJbx5ALYKUmikezUBSj_ebc87wWU3qvR9kudNh8dJEG0VFfc7WJlaEpTIn6uPoEKmuJmdPMAprsNouNMUVsgLCIZoIoU74w5YLEoEpndlwpVhFnQTl_NQx98ef-rcfg9XYV03b1BnEB24EMIi8TxB2pxfpdWpFN0OISY3t_tCaE9Zax6KDg88oyXqH8yQQQb-rwU_SEkl2VhF6cEngJ7D-sjF6TXKFGg-ALrkvRNTzU9RUnXUgXTyiWMl2BdroN7CYoA53a4KUhen6JGOMMyjnhcm2yOMHawAfAgAPJ8JPLYS4gwwvNzECwxH_SlmrbJjxS3YEG-ETRLjWhgD6beJkVzEjvf9zFLKfhnLcNO7mJRQ7w-0cfJZzc3uaiEO1pYPARhCvdzIxwdO-o6xLxLlNrxl3LGjzb3",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=22f514145132000030e8074b_0&from=LGW&lang=en&passengers=1&to=AGP&booking_token=HWdBXznTTcjcAs6h1c1ltpTU59rbgGVhPKGS_ehzQoqr3VvZsaAxFstQ6eVXvZUBSZPlY3tEw9DSTNHYSChPibB7Hq2feybWUDMgA1iAklq6TVj1iE4rPQA42NcB7y1OEMa8CPdfR_a6_lEHP27fXNiHeGQY3j27tNOjzyF2h4DSxZCk9u-06GdbN_HUOPKoqiGmIdevKDWA-Z3gHsEcmyjuNn-zmqrhFHAHqXy4ghrm3_AW4TfdVXJFWdxcr5c534Hc3pm0mZULkMTs5hw380Aeun1q7LrBrlsgr3Y1GU9wcEyT9v3_fBuylLK4gYSAG7CVV69gbQmo7Mm6bkjd35MqJ4aS_-OG6dLUNXo0iZWHOxL8xwcdTEi89jHACBT_DOdkII_ICkL48mH8wnOqiFuYmJ6FqiRdVJue0MlridZRX2AyzDhm7F-iopCsewGUXC6pu8GlPX73lQB4vBHJqmEbNeius-PzArJbx5ALYKUmikezUBSj_ebc87wWU3qvR9kudNh8dJEG0VFfc7WJlaEpTIn6uPoEKmuJmdPMAprsNouNMUVsgLCIZoIoU74w5YLEoEpndlwpVhFnQTl_NQx98ef-rcfg9XYV03b1BnEB24EMIi8TxB2pxfpdWpFN0OISY3t_tCaE9Zax6KDg88oyXqH8yQQQb-rwU_SEkl2VhF6cEngJ7D-sjF6TXKFGg-ALrkvRNTzU9RUnXUgXTyiWMl2BdroN7CYoA53a4KUhen6JGOMMyjnhcm2yOMHawAfAgAPJ8JPLYS4gwwvNzECwxH_SlmrbJjxS3YEG-ETRLjWhgD6beJkVzEjvf9zFLKfhnLcNO7mJRQ7w-0cfJZzc3uaiEO1pYPARhCvdzIxwdO-o6xLxLlNrxl3LGjzb3",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "18ff07d851280000c9baa726_0",
+      "flyFrom": "LTN",
+      "flyTo": "OVD",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "Asturias",
+      "cityCodeTo": "OVD",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "local_departure": "2028-11-19T12:20:00.000Z",
+      "utc_departure": "2028-11-19T12:20:00.000Z",
+      "local_arrival": "2028-11-19T15:15:00.000Z",
+      "utc_arrival": "2028-11-19T14:15:00.000Z",
+      "nightsInDest": null,
+      "quality": 35.333333015441895,
+      "distance": 1017.11,
+      "duration": {
+        "departure": 6900,
+        "return": 0,
+        "total": 6900
+      },
+      "price": 20,
+      "conversion": {
+        "EUR": 20
+      },
+      "fare": {
+        "adults": 20,
+        "children": 0,
+        "infants": 0
+      },
+      "bags_price": {
+        "1": 38.5,
+        "2": 77
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 38.5,
+          "2": 77
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": 9
+      },
+      "airlines": [
+        "W9"
+      ],
+      "route": [
+        {
+          "id": "18ff07d851280000c9baa726_0",
+          "combination_id": "18ff07d851280000c9baa726",
+          "flyFrom": "LTN",
+          "flyTo": "OVD",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Asturias",
+          "cityCodeTo": "OVD",
+          "local_departure": "2028-11-19T12:20:00.000Z",
+          "utc_departure": "2028-11-19T12:20:00.000Z",
+          "local_arrival": "2028-11-19T15:15:00.000Z",
+          "utc_arrival": "2028-11-19T14:15:00.000Z",
+          "airline": "W9",
+          "flight_no": 5356,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "H14_JebcZ1-fldn59rQl1KF5cohvV4OjltzMNpQmZXk3jq-PB9VSOegbsYemA6h1gcze1vq4lq-tw74sXFXghy_Ch8zI9PGi6mwsOM_VArWzTcE5svqCPQKcNtLxkeOPM9L8qbgBIJzGE9PFcrmp76GbPMUBTnab-q6ZtWpUh394WzmFjtiZ51uyI8nxTaeqNSQEC66WTnovlVJCVM3TFmCr3g-FfnBCeHTDi5GX1SLg3h4DrlHZxb2sqKamv0005vZBm9O6jdu602_mDG_G7M7P3VB2eKf3NNNYjYxCpuwHFzu7rfwg7gplt4wTIfgI8rDHU3XDX9AfWy8UBwxx4KnWUZGW-ttnCpGxDW0zV5RS85cxqwWjbghw_CuRVd26iKWMVI4saicytKNZglTJlNSsf1vE9EbBO94Jzy2a2oRCpsnnrwgsVcoX0nfkQOuP2n1g0SptpaneNqwDT-Cl0LaQVGGH04_DDEPi2Bp1g57pUJHVZBiZcXO5OuKZghmiIhkpSytSRdTDfAp1GyLnp5a3MTflX-mpvJp51cbqcpcd8wrcNM6S5loatWFhJYppsjrr6szwr_hzihc_Kfxenuo8pLIi_cIh0VQ1JUgxiK3Q4ZwaRwaRVAcvoZ51AVvuROSn0v98avTlN9ErA2wBBNIgIlA7RSNCxdj3tay2ZP-rUWxCviVx_ENzbVf25YS4HjEK_usiOmJdsgc95YWAS0ao-myZXQbRJgJ04ghrfDgs9-8cf_2ZNxZ01YeFs0GjJH7NjV0Y2_4jsSofu1RpQHlwkLhaEwsC2pyc8P2LOwHkJ5Zbz5EFBdC_mFHrQ67kvxRGiIOkc_c4rnRmQmGSFW1zmYk5toE_up4uuoLua4wc6KpiZZNyCdCrVtsUlRi5k",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=18ff07d851280000c9baa726_0&from=LTN&lang=en&passengers=1&to=OVD&booking_token=H14_JebcZ1-fldn59rQl1KF5cohvV4OjltzMNpQmZXk3jq-PB9VSOegbsYemA6h1gcze1vq4lq-tw74sXFXghy_Ch8zI9PGi6mwsOM_VArWzTcE5svqCPQKcNtLxkeOPM9L8qbgBIJzGE9PFcrmp76GbPMUBTnab-q6ZtWpUh394WzmFjtiZ51uyI8nxTaeqNSQEC66WTnovlVJCVM3TFmCr3g-FfnBCeHTDi5GX1SLg3h4DrlHZxb2sqKamv0005vZBm9O6jdu602_mDG_G7M7P3VB2eKf3NNNYjYxCpuwHFzu7rfwg7gplt4wTIfgI8rDHU3XDX9AfWy8UBwxx4KnWUZGW-ttnCpGxDW0zV5RS85cxqwWjbghw_CuRVd26iKWMVI4saicytKNZglTJlNSsf1vE9EbBO94Jzy2a2oRCpsnnrwgsVcoX0nfkQOuP2n1g0SptpaneNqwDT-Cl0LaQVGGH04_DDEPi2Bp1g57pUJHVZBiZcXO5OuKZghmiIhkpSytSRdTDfAp1GyLnp5a3MTflX-mpvJp51cbqcpcd8wrcNM6S5loatWFhJYppsjrr6szwr_hzihc_Kfxenuo8pLIi_cIh0VQ1JUgxiK3Q4ZwaRwaRVAcvoZ51AVvuROSn0v98avTlN9ErA2wBBNIgIlA7RSNCxdj3tay2ZP-rUWxCviVx_ENzbVf25YS4HjEK_usiOmJdsgc95YWAS0ao-myZXQbRJgJ04ghrfDgs9-8cf_2ZNxZ01YeFs0GjJH7NjV0Y2_4jsSofu1RpQHlwkLhaEwsC2pyc8P2LOwHkJ5Zbz5EFBdC_mFHrQ67kvxRGiIOkc_c4rnRmQmGSFW1zmYk5toE_up4uuoLua4wc6KpiZZNyCdCrVtsUlRi5k",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "18ff07d8512d00005a96b435_0",
+      "flyFrom": "LTN",
+      "flyTo": "OVD",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "Asturias",
+      "cityCodeTo": "OVD",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "local_departure": "2028-11-24T12:20:00.000Z",
+      "utc_departure": "2028-11-24T12:20:00.000Z",
+      "local_arrival": "2028-11-24T15:15:00.000Z",
+      "utc_arrival": "2028-11-24T14:15:00.000Z",
+      "nightsInDest": null,
+      "quality": 35.333333015441895,
+      "distance": 1017.11,
+      "duration": {
+        "departure": 6900,
+        "return": 0,
+        "total": 6900
+      },
+      "price": 20,
+      "conversion": {
+        "EUR": 20
+      },
+      "fare": {
+        "adults": 20,
+        "children": 0,
+        "infants": 0
+      },
+      "bags_price": {
+        "1": 38.5,
+        "2": 77
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 38.5,
+          "2": 77
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "W9"
+      ],
+      "route": [
+        {
+          "id": "18ff07d8512d00005a96b435_0",
+          "combination_id": "18ff07d8512d00005a96b435",
+          "flyFrom": "LTN",
+          "flyTo": "OVD",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Asturias",
+          "cityCodeTo": "OVD",
+          "local_departure": "2028-11-24T12:20:00.000Z",
+          "utc_departure": "2028-11-24T12:20:00.000Z",
+          "local_arrival": "2028-11-24T15:15:00.000Z",
+          "utc_arrival": "2028-11-24T14:15:00.000Z",
+          "airline": "W9",
+          "flight_no": 5356,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HyDdoPUK2wZx8c3rbqmEPHO7H7zd5v-4AGQOuTFMRG8xuAIaUzAe6CYQZGkC4193EqT2mylAZ0S48BTGL6S3hPfg3Sj9CWXikGaGSjOv2f-Ogj1flr1XlPzH3tg6-avxqYfLQwlQKk0bZelUb40lqrelPgTTl_bS_7yLZKDf6_uWluTaaAYEo74-H1LtiC7H5KpzEI3ggkOiixNdkvIrsxkOz6g1YyvlTMfYbgDlkKKuFXAFh2WXaTsAOnuz2yz-Zfh1PqitIE1tCliO21bhYMWtEHRvRGIVwi-NFy0jr3lo0yrUss9I3D1T2bpZ22NQ9t2XxQlZ9acFYNCTvqa6JcwVP_pXLTMhFpxhpUQOoOyafVW5cFXhuXzXOzl8WhoSO86GRMOrGjdVdyKA_50guXhYyacz8nWYpe8--8M85xFuFRUuBC8owLGSk0Dx8fGylyx-JfIrMUyR-6HEw1_IVozC__ZhKD0yneIqfM5vizvg6ralbsg-uBxyj_ZUJwNbKBYWpBbKz_8BvDq9j4mZkOvr_JzulXWNR40sWe2GCKaox28c_iXsC4QGeVIIorX8iKpJ5g_03u2rZR82FRmXZzWKjTg8g8KrSF_PUvlGCff3jGpN5drefz85CBLiNhnMO7AVoJJw-NJc4fmCVkSO0IydRxJjhlEXqkB0X7Z0K-SWkexeXL7ATqLj5L-jesL3ya-lvMw2LEg53APS4k9NXFP2RAQx95QfKnWaNs8xk3S0N-VFV40yFiMEC30b6re4n59CFAyv73hz1GuUoN-X9dp6apMVy0oSC5cblZQaESDKOQH6LjHNhf74HRfzRSLEzxC1CDwPBJtrAnt_JBStdkTrnWp9ra-khq6wT-xMWMd3cuUEsfDomK-V0NbtP_rrQ",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=18ff07d8512d00005a96b435_0&from=LTN&lang=en&passengers=1&to=OVD&booking_token=HyDdoPUK2wZx8c3rbqmEPHO7H7zd5v-4AGQOuTFMRG8xuAIaUzAe6CYQZGkC4193EqT2mylAZ0S48BTGL6S3hPfg3Sj9CWXikGaGSjOv2f-Ogj1flr1XlPzH3tg6-avxqYfLQwlQKk0bZelUb40lqrelPgTTl_bS_7yLZKDf6_uWluTaaAYEo74-H1LtiC7H5KpzEI3ggkOiixNdkvIrsxkOz6g1YyvlTMfYbgDlkKKuFXAFh2WXaTsAOnuz2yz-Zfh1PqitIE1tCliO21bhYMWtEHRvRGIVwi-NFy0jr3lo0yrUss9I3D1T2bpZ22NQ9t2XxQlZ9acFYNCTvqa6JcwVP_pXLTMhFpxhpUQOoOyafVW5cFXhuXzXOzl8WhoSO86GRMOrGjdVdyKA_50guXhYyacz8nWYpe8--8M85xFuFRUuBC8owLGSk0Dx8fGylyx-JfIrMUyR-6HEw1_IVozC__ZhKD0yneIqfM5vizvg6ralbsg-uBxyj_ZUJwNbKBYWpBbKz_8BvDq9j4mZkOvr_JzulXWNR40sWe2GCKaox28c_iXsC4QGeVIIorX8iKpJ5g_03u2rZR82FRmXZzWKjTg8g8KrSF_PUvlGCff3jGpN5drefz85CBLiNhnMO7AVoJJw-NJc4fmCVkSO0IydRxJjhlEXqkB0X7Z0K-SWkexeXL7ATqLj5L-jesL3ya-lvMw2LEg53APS4k9NXFP2RAQx95QfKnWaNs8xk3S0N-VFV40yFiMEC30b6re4n59CFAyv73hz1GuUoN-X9dp6apMVy0oSC5cblZQaESDKOQH6LjHNhf74HRfzRSLEzxC1CDwPBJtrAnt_JBStdkTrnWp9ra-khq6wT-xMWMd3cuUEsfDomK-V0NbtP_rrQ",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "18ff07d8512b0000221b5ae5_0",
+      "flyFrom": "LTN",
+      "flyTo": "OVD",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "Asturias",
+      "cityCodeTo": "OVD",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "local_departure": "2028-11-22T13:55:00.000Z",
+      "utc_departure": "2028-11-22T13:55:00.000Z",
+      "local_arrival": "2028-11-22T16:50:00.000Z",
+      "utc_arrival": "2028-11-22T15:50:00.000Z",
+      "nightsInDest": null,
+      "quality": 35.333333015441895,
+      "distance": 1017.11,
+      "duration": {
+        "departure": 6900,
+        "return": 0,
+        "total": 6900
+      },
+      "price": 20,
+      "conversion": {
+        "EUR": 20
+      },
+      "fare": {
+        "adults": 20,
+        "children": 0,
+        "infants": 0
+      },
+      "bags_price": {
+        "1": 38.5,
+        "2": 77
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 38.5,
+          "2": 77
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": 9
+      },
+      "airlines": [
+        "W9"
+      ],
+      "route": [
+        {
+          "id": "18ff07d8512b0000221b5ae5_0",
+          "combination_id": "18ff07d8512b0000221b5ae5",
+          "flyFrom": "LTN",
+          "flyTo": "OVD",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Asturias",
+          "cityCodeTo": "OVD",
+          "local_departure": "2028-11-22T13:55:00.000Z",
+          "utc_departure": "2028-11-22T13:55:00.000Z",
+          "local_arrival": "2028-11-22T16:50:00.000Z",
+          "utc_arrival": "2028-11-22T15:50:00.000Z",
+          "airline": "W9",
+          "flight_no": 5356,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "H2BGYSChAmXeTUh8THQLSkgRXD4RrYwKWu-xcPcyOnlvDOWYjO-XDA77P9cDt7d0qzgX-RKK-EcXsNrtfh329yn5JWPWMgmehHgTceX4zUARma6L_jL6YA_ILsQfaTC7z1LxFgn8ka7Ga4Eu8H2g0k_-OudZZfZBar2AG12T57w9Jal06Sa1W77K7jXJm04b8rOckxIvW6PiRLZzDIfGcYtBt3auDDdl5g9lWPTbuUZLZ-a3YammpYnBgCQIa93RxAKJtCZNBB0xHuIcxAFhZZiVI2lwr98Cb3s-XH1rqQ5EgZUGEf8PWQEBJDOrop8Zb9rGhsOkDi5E55taNQUKGmtTZYHjOi2X0MfAqHqoxCiHqYFR1ke4tvzlLpPAHugWtOUu75SoZpM_3_tIYs2VJSVdzNTbGLfjTvkN-2aq7GvZfHA_mUa4-684kaE-4nv4ambPCfktQ7zpHb00DGZKbjJmlM8vx_8p2WMTZJ8ZjjANaDQ8JOqLV9UMxt3Pm7LUxwiwbP2Lq1ukK7JEvYV1DbQmZ6PJhpHM1Kf0kyHDNmqJ8oF6-yzJLJfhl7l2hfsOHMoCb_7ROWiEDM5wW76uZJ0OoymZwDiMB4j1IAXRu9sbvrz7s3Gh5ctZho-oNpcCGm9c5HBRTM8HAtKGSP5zT127lAiz503OX6L6dknjmPgiDzeg5rUJIefaoZQzZQJndo4dSHGWfEx-1ktL4wemkAKS-KJgmMxYQpjI5Gm6-r3eauzhm7luWUqPoAz_ucfj-EQ7wMr6loogjOXugH3XP4bS5rmx6qK7JITryrQ6c1b1alycyeCjISwjJkVlcfE70xWFxF-ofY6HwbFnERgX7-8PWo6oob_TtmMQ-Iw9TC-SdwmRJ_4R4EiS6Nol-BtnBOCqLHQhiTqcOl2ZYnFbAhg==",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=18ff07d8512b0000221b5ae5_0&from=LTN&lang=en&passengers=1&to=OVD&booking_token=H2BGYSChAmXeTUh8THQLSkgRXD4RrYwKWu-xcPcyOnlvDOWYjO-XDA77P9cDt7d0qzgX-RKK-EcXsNrtfh329yn5JWPWMgmehHgTceX4zUARma6L_jL6YA_ILsQfaTC7z1LxFgn8ka7Ga4Eu8H2g0k_-OudZZfZBar2AG12T57w9Jal06Sa1W77K7jXJm04b8rOckxIvW6PiRLZzDIfGcYtBt3auDDdl5g9lWPTbuUZLZ-a3YammpYnBgCQIa93RxAKJtCZNBB0xHuIcxAFhZZiVI2lwr98Cb3s-XH1rqQ5EgZUGEf8PWQEBJDOrop8Zb9rGhsOkDi5E55taNQUKGmtTZYHjOi2X0MfAqHqoxCiHqYFR1ke4tvzlLpPAHugWtOUu75SoZpM_3_tIYs2VJSVdzNTbGLfjTvkN-2aq7GvZfHA_mUa4-684kaE-4nv4ambPCfktQ7zpHb00DGZKbjJmlM8vx_8p2WMTZJ8ZjjANaDQ8JOqLV9UMxt3Pm7LUxwiwbP2Lq1ukK7JEvYV1DbQmZ6PJhpHM1Kf0kyHDNmqJ8oF6-yzJLJfhl7l2hfsOHMoCb_7ROWiEDM5wW76uZJ0OoymZwDiMB4j1IAXRu9sbvrz7s3Gh5ctZho-oNpcCGm9c5HBRTM8HAtKGSP5zT127lAiz503OX6L6dknjmPgiDzeg5rUJIefaoZQzZQJndo4dSHGWfEx-1ktL4wemkAKS-KJgmMxYQpjI5Gm6-r3eauzhm7luWUqPoAz_ucfj-EQ7wMr6loogjOXugH3XP4bS5rmx6qK7JITryrQ6c1b1alycyeCjISwjJkVlcfE70xWFxF-ofY6HwbFnERgX7-8PWo6oob_TtmMQ-Iw9TC-SdwmRJ_4R4EiS6Nol-BtnBOCqLHQhiTqcOl2ZYnFbAhg==",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    }
+  ],
+  "_results": 10
+}

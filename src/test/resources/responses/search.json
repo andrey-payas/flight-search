@@ -1,0 +1,1223 @@
+{
+  "search_id": "cc5713d6-dae0-4fc5-ac32-6b86fc72e3db",
+  "currency": "EUR",
+  "fx_rate": 1,
+  "data": [
+    {
+      "id": "17291db850410000a681a61f_0",
+      "flyFrom": "FRA",
+      "flyTo": "SAW",
+      "cityFrom": "Frankfurt",
+      "cityCodeFrom": "FRA",
+      "cityTo": "Istanbul",
+      "cityCodeTo": "IST",
+      "countryFrom": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "countryTo": {
+        "code": "TR",
+        "name": "Turkey"
+      },
+      "local_departure": "2028-11-02T13:35:00.000Z",
+      "utc_departure": "2028-11-02T11:35:00.000Z",
+      "local_arrival": "2028-11-02T17:40:00.000Z",
+      "utc_arrival": "2028-11-02T14:40:00.000Z",
+      "nightsInDest": null,
+      "quality": 110.66666603088379,
+      "distance": 1902.13,
+      "duration": {
+        "departure": 11100,
+        "return": 0,
+        "total": 11100
+      },
+      "price": 86,
+      "conversion": {
+        "EUR": 86
+      },
+      "fare": {
+        "adults": 86,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 10,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 286,
+            "itinerary_price_remaining": 86,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 34
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 8,
+        "hand_width": 23,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 20,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 85,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 4,
+        "personal_item_width": 15
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "VF"
+      ],
+      "route": [
+        {
+          "id": "17291db850410000a681a61f_0",
+          "combination_id": "17291db850410000a681a61f",
+          "flyFrom": "FRA",
+          "flyTo": "SAW",
+          "cityFrom": "Frankfurt",
+          "cityCodeFrom": "FRA",
+          "cityTo": "Istanbul",
+          "cityCodeTo": "IST",
+          "local_departure": "2028-11-02T13:35:00.000Z",
+          "utc_departure": "2028-11-02T11:35:00.000Z",
+          "local_arrival": "2028-11-02T17:40:00.000Z",
+          "utc_arrival": "2028-11-02T14:40:00.000Z",
+          "airline": "VF",
+          "flight_no": 34,
+          "operating_carrier": "VF",
+          "operating_flight_no": "34",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HPBtbNZOeKxg6TC2lwA4GPoEtwPyjdd8_0zQPfoYVwfMItozB2WANA8sMJQaYMljyfhY_8BOkHA2VdriC7KFGJ_9dyZeoqF0LRtNiCftVGRlCAXZaiZgGWw_N3FnOFoTkC5aam1Vt66-jkSv1af5leUwtwGuu-t5ndk9Uk9y8uWq1CzrftrrNXyKMY8u4J4LIkexueNQ6hcqEiSkwwLh6ApkQTzchMbcgYYbcrAwvDVmcBhCqRq7M9ihgBCnTWEqkyCSstSh5bBDfC2hGD8wiDrL8SbuZcaVKDahOmDtCz7eWBOfnUmvJpJ-rQDI19EhS0vrhlkmqG710fWRNXMXBoTywUpC65Hnr0VDs5YEb9ewzhMirC_h5jmWmFtvWB_-nfLBnUUofICLZ4mcTBZElWG8G3Bcl1_e2qhngum0YUtxGqyumu_swaViTL6Zi0Erml5KAXMEut8FAnfttESP2zCMWGpM4wRJwKkwGHhNM1YNhlpClXgXnhmCwNORmfkPKdGtLCYhAQ31PytX--gxSIBYhwwJXrPEOVbPg9qPuqiLyaXw8_GVwt6GMuzSNOkm0M8PgK3I0ls5XfILydD3oNxmc6vRkpqdWSVuB_VwlFPBgPDdvk00s2geE88FG427yLBOE7PTzePC1aEJTb7EI8NK-QiP06iPosUxbJCGqEmNd8y2DezgVPRwwpD54bUqUt1sfsbRt2d15RY6VvckgmHsuFsX3zD771LWOv5z7oek=",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=17291db850410000a681a61f_0&from=FRA&lang=en&passengers=1&to=SAW&booking_token=HPBtbNZOeKxg6TC2lwA4GPoEtwPyjdd8_0zQPfoYVwfMItozB2WANA8sMJQaYMljyfhY_8BOkHA2VdriC7KFGJ_9dyZeoqF0LRtNiCftVGRlCAXZaiZgGWw_N3FnOFoTkC5aam1Vt66-jkSv1af5leUwtwGuu-t5ndk9Uk9y8uWq1CzrftrrNXyKMY8u4J4LIkexueNQ6hcqEiSkwwLh6ApkQTzchMbcgYYbcrAwvDVmcBhCqRq7M9ihgBCnTWEqkyCSstSh5bBDfC2hGD8wiDrL8SbuZcaVKDahOmDtCz7eWBOfnUmvJpJ-rQDI19EhS0vrhlkmqG710fWRNXMXBoTywUpC65Hnr0VDs5YEb9ewzhMirC_h5jmWmFtvWB_-nfLBnUUofICLZ4mcTBZElWG8G3Bcl1_e2qhngum0YUtxGqyumu_swaViTL6Zi0Erml5KAXMEut8FAnfttESP2zCMWGpM4wRJwKkwGHhNM1YNhlpClXgXnhmCwNORmfkPKdGtLCYhAQ31PytX--gxSIBYhwwJXrPEOVbPg9qPuqiLyaXw8_GVwt6GMuzSNOkm0M8PgK3I0ls5XfILydD3oNxmc6vRkpqdWSVuB_VwlFPBgPDdvk00s2geE88FG427yLBOE7PTzePC1aEJTb7EI8NK-QiP06iPosUxbJCGqEmNd8y2DezgVPRwwpD54bUqUt1sfsbRt2d15RY6VvckgmHsuFsX3zD771LWOv5z7oek=&token_module=Mod0.YVCuc4zBRV51f2FRiq78h8jsP7p-fnMWchDePAS3fDHbHgInOrG6YG4MlvF61yVups4_Pup62jYMtI-UFhxs9f-_1ENEbFqWeR0QCuijoqHILtJ-o4YpeaN_mYBDNSVe3a11Nn88BYBT1p6uH2IaDbHqhbsP1XLkmXNFDjfB00HEljF-fxd4dMM3oypwZo3desUwl2J0UzwrK1RL7FxbD5w8TbJrdezjaQZFtnKDhFbEDAV83N52Qg-syCt6A2ygH4ZMs4DqczG_ka4Txsi18kCajccTyx2MOCitYitUZkcE-H4PuXpFW9HO9vChAG3j",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "17291db850410000488fc733_0",
+      "flyFrom": "FRA",
+      "flyTo": "SAW",
+      "cityFrom": "Frankfurt",
+      "cityCodeFrom": "FRA",
+      "cityTo": "Istanbul",
+      "cityCodeTo": "IST",
+      "countryFrom": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "countryTo": {
+        "code": "TR",
+        "name": "Turkey"
+      },
+      "local_departure": "2028-11-02T17:55:00.000Z",
+      "utc_departure": "2028-11-02T15:55:00.000Z",
+      "local_arrival": "2028-11-02T22:00:00.000Z",
+      "utc_arrival": "2028-11-02T19:00:00.000Z",
+      "nightsInDest": null,
+      "quality": 110.66666603088379,
+      "distance": 1902.13,
+      "duration": {
+        "departure": 11100,
+        "return": 0,
+        "total": 11100
+      },
+      "price": 86,
+      "conversion": {
+        "EUR": 86
+      },
+      "fare": {
+        "adults": 86,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 10,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 286,
+            "itinerary_price_remaining": 86,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 34
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 8,
+        "hand_width": 23,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 20,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 85,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 4,
+        "personal_item_width": 15
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "VF"
+      ],
+      "route": [
+        {
+          "id": "17291db850410000488fc733_0",
+          "combination_id": "17291db850410000488fc733",
+          "flyFrom": "FRA",
+          "flyTo": "SAW",
+          "cityFrom": "Frankfurt",
+          "cityCodeFrom": "FRA",
+          "cityTo": "Istanbul",
+          "cityCodeTo": "IST",
+          "local_departure": "2028-11-02T17:55:00.000Z",
+          "utc_departure": "2028-11-02T15:55:00.000Z",
+          "local_arrival": "2028-11-02T22:00:00.000Z",
+          "utc_arrival": "2028-11-02T19:00:00.000Z",
+          "airline": "VF",
+          "flight_no": 36,
+          "operating_carrier": "VF",
+          "operating_flight_no": "36",
+          "fare_basis": "4Y8SOW",
+          "fare_category": "M",
+          "fare_classes": "",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HOx-9JT7I36UMGerWrkEsHvI0PGPyckngGQ-Q7fat4aDdlZQfZN_t640VN0tRtqZPMt2SohkUIfb9A7SXVWaCamDsHvZX0PKbkc9rHdKyUKM8j9y7YprUOstPfEPVTSpmbOwSw9SoZI-GAWTppqQPgD19M48DksJbsNieWmHZ33HtIcNZkQEM04alCKStK9_dUoRoXrsfGpxMEL3We3DMrB7FcEQgcE4WoYgfRWp__gSZB5Ne1HAx9RVykm6c6cbW8Gulk_6Mc8DYptm5vfTgdnjP8d-tofiqJ1JkBBlnTPfPTKobCePcB_VSEQBa4xfhuvDB5IYZ_N_xxhBOIqoU3AvQ1m5mja6y6tIpm6Z-yO2Pei1Z2sRFKTFBT_w9N1h8DZ2fEP0F0t6D3qJ6ur5IKSrSzLrpLCho51h0kI1uDGnudwtfEmDQX_7QJa5P4fUWCqMjmBSGGsQ2ID3vk5MLPgtY0bhcbG8E0-6nDmxEq5_73YQnVhcPfmjs1aQ_OO7QgucipCbw7BBvAx3L4JHPvZgcn1zpws4O6O1N9MxGoN7l6UUo-dyucTU2STRsELxqxYgxqE1PCHfGhC5t501TFdFz9vbV-yip5V9BxR5HRq-AD7ddWcIo8g7RMu1q0POdIhnmupRmexBVGuotYB6BES7-WGv6vPub2dWUUsM1w6kr5FaGVMXzbuUKux48lMQ3hQMiFnIOeEbc6yIg7i4ZLw==",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=17291db850410000488fc733_0&from=FRA&lang=en&passengers=1&to=SAW&booking_token=HOx-9JT7I36UMGerWrkEsHvI0PGPyckngGQ-Q7fat4aDdlZQfZN_t640VN0tRtqZPMt2SohkUIfb9A7SXVWaCamDsHvZX0PKbkc9rHdKyUKM8j9y7YprUOstPfEPVTSpmbOwSw9SoZI-GAWTppqQPgD19M48DksJbsNieWmHZ33HtIcNZkQEM04alCKStK9_dUoRoXrsfGpxMEL3We3DMrB7FcEQgcE4WoYgfRWp__gSZB5Ne1HAx9RVykm6c6cbW8Gulk_6Mc8DYptm5vfTgdnjP8d-tofiqJ1JkBBlnTPfPTKobCePcB_VSEQBa4xfhuvDB5IYZ_N_xxhBOIqoU3AvQ1m5mja6y6tIpm6Z-yO2Pei1Z2sRFKTFBT_w9N1h8DZ2fEP0F0t6D3qJ6ur5IKSrSzLrpLCho51h0kI1uDGnudwtfEmDQX_7QJa5P4fUWCqMjmBSGGsQ2ID3vk5MLPgtY0bhcbG8E0-6nDmxEq5_73YQnVhcPfmjs1aQ_OO7QgucipCbw7BBvAx3L4JHPvZgcn1zpws4O6O1N9MxGoN7l6UUo-dyucTU2STRsELxqxYgxqE1PCHfGhC5t501TFdFz9vbV-yip5V9BxR5HRq-AD7ddWcIo8g7RMu1q0POdIhnmupRmexBVGuotYB6BES7-WGv6vPub2dWUUsM1w6kr5FaGVMXzbuUKux48lMQ3hQMiFnIOeEbc6yIg7i4ZLw==&token_module=Mod0.m_dS_122HDhTTxsY8BrbBuxZnS2qn5jP3vo4I3RHeVdfREApWrCmGjAMwl6g4HfqC2XKH4cleRe1_SFdPSbT-6U3BQC23akzd-OWQdIuYUJTI4e93FznP5eGFnTUdAXhITjHNgvcDZpWXP-uZH29QTHohwIAb_6MWlAU279pgwdW26Je8hwsursRcb6k0UeYYFyep3ovvcK9Ihr8fLozs_Nw6_TaiBFDE-XjQNtSQLaQR9M0LBRR3Mic7dN5tiRPAvbba8NphpsbPzhaHq3L5ADOTsSl1dAxA87kAg6lUuaP6Ea3oItfMCwO0GvdrB4k",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "17291db850400000d8ab7a48_0",
+      "flyFrom": "FRA",
+      "flyTo": "SAW",
+      "cityFrom": "Frankfurt",
+      "cityCodeFrom": "FRA",
+      "cityTo": "Istanbul",
+      "cityCodeTo": "IST",
+      "countryFrom": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "countryTo": {
+        "code": "TR",
+        "name": "Turkey"
+      },
+      "local_departure": "2028-11-01T17:55:00.000Z",
+      "utc_departure": "2028-11-01T15:55:00.000Z",
+      "local_arrival": "2028-11-01T22:00:00.000Z",
+      "utc_arrival": "2028-11-01T19:00:00.000Z",
+      "nightsInDest": null,
+      "quality": 110.66666603088379,
+      "distance": 1902.13,
+      "duration": {
+        "departure": 11100,
+        "return": 0,
+        "total": 11100
+      },
+      "price": 86,
+      "conversion": {
+        "EUR": 86
+      },
+      "fare": {
+        "adults": 86,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 10,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 286,
+            "itinerary_price_remaining": 86,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 34
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 8,
+        "hand_width": 23,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 20,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 85,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 4,
+        "personal_item_width": 15
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "VF"
+      ],
+      "route": [
+        {
+          "id": "17291db850400000d8ab7a48_0",
+          "combination_id": "17291db850400000d8ab7a48",
+          "flyFrom": "FRA",
+          "flyTo": "SAW",
+          "cityFrom": "Frankfurt",
+          "cityCodeFrom": "FRA",
+          "cityTo": "Istanbul",
+          "cityCodeTo": "IST",
+          "local_departure": "2028-11-01T17:55:00.000Z",
+          "utc_departure": "2028-11-01T15:55:00.000Z",
+          "local_arrival": "2028-11-01T22:00:00.000Z",
+          "utc_arrival": "2028-11-01T19:00:00.000Z",
+          "airline": "VF",
+          "flight_no": 36,
+          "operating_carrier": "VF",
+          "operating_flight_no": "36",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HzX_rL9NgwHErYc1MCRzF-NfhqkHSdx00vC_JBwAgdj08uDKrZ9s9uiv3Vt5Fxm_14BFW1JQQ7eQqNcL2GmkVJhSWAM7fOg__MsdRkoZk1TZCrLhUcT-nO-4Pn21wWg7kJ3iGxnglAlYXhIluoO_HP2IwaD6eNBUS4Xr4hxF7wWgiORAL5Ioa35Maz2J-wspctmeGxqTiR2xqycwCFqn_VlzDj3pTHHqw-6tzXKYqpG2kfpaG4X2WN34XAaAm1A7IbmBeniA6cOPg5tOo1HVq9t4ePxc_7wsmZYRqQNBR4hPe08a8MuhhYzo_lYQ9E2Nuc0F8ckqCMRJvhPYmPaEqW6uv2gdjvrbce2tEnTQgWLhltKt5NJnZKb5VJCxBxgZvyNTUosE6FeRYXsRLtA7vyolf7MKLvomOZWRH8oeX5iCXkb64m2hLvSNJh5HSC27d2KLH86ZLkY6QgvzHS2ci1Qgtolvs9Es8r7JN1kZHFXTU0IlCM2sGplN_9CGVgknm0SCEqIIrjHzZKcxwO5FjyC36Bfb4HLtYfQ0aDpV9jbN1V4aHEwyh4Rw08qUEMSiXYUs1XA_lNgwcMaMEIb1rYkKw-UzgHMlfS0nni-Tl_X9Qrmknl6EsXSy1LBV1Qz6E9b9cfSjNJX0kSh0XA0pACa-HgcNBxii6RGYU-oqDSqm6c56Yna_jTGSRl_jeWaCi35Xa9VQa-jMlHawJ5O6vpNEz1vPDE8odWH0hjUXqD_I=",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=17291db850400000d8ab7a48_0&from=FRA&lang=en&passengers=1&to=SAW&booking_token=HzX_rL9NgwHErYc1MCRzF-NfhqkHSdx00vC_JBwAgdj08uDKrZ9s9uiv3Vt5Fxm_14BFW1JQQ7eQqNcL2GmkVJhSWAM7fOg__MsdRkoZk1TZCrLhUcT-nO-4Pn21wWg7kJ3iGxnglAlYXhIluoO_HP2IwaD6eNBUS4Xr4hxF7wWgiORAL5Ioa35Maz2J-wspctmeGxqTiR2xqycwCFqn_VlzDj3pTHHqw-6tzXKYqpG2kfpaG4X2WN34XAaAm1A7IbmBeniA6cOPg5tOo1HVq9t4ePxc_7wsmZYRqQNBR4hPe08a8MuhhYzo_lYQ9E2Nuc0F8ckqCMRJvhPYmPaEqW6uv2gdjvrbce2tEnTQgWLhltKt5NJnZKb5VJCxBxgZvyNTUosE6FeRYXsRLtA7vyolf7MKLvomOZWRH8oeX5iCXkb64m2hLvSNJh5HSC27d2KLH86ZLkY6QgvzHS2ci1Qgtolvs9Es8r7JN1kZHFXTU0IlCM2sGplN_9CGVgknm0SCEqIIrjHzZKcxwO5FjyC36Bfb4HLtYfQ0aDpV9jbN1V4aHEwyh4Rw08qUEMSiXYUs1XA_lNgwcMaMEIb1rYkKw-UzgHMlfS0nni-Tl_X9Qrmknl6EsXSy1LBV1Qz6E9b9cfSjNJX0kSh0XA0pACa-HgcNBxii6RGYU-oqDSqm6c56Yna_jTGSRl_jeWaCi35Xa9VQa-jMlHawJ5O6vpNEz1vPDE8odWH0hjUXqD_I=&token_module=Mod0.6byde79mPexKXDVarWH9_ojoxKq84FsGuH1S8qC99SYYjipPWa-5XMYYKsHLfB_J857Ey4_lugH3S0Ms-CxuYv7UOQRAeesPzfFZZjb_aEzJQzUTnEi7msFmq195LIaVNbIZUes8idXXrDNNZ6WbbTHAeQ6CyCht7vH2_lm1aJYRurLBTtw3TddS7taDt76cFgdRpJF-WlJ8ZuUuR7jvXxuJClGzjEX3_YfxRouuw3xghfsMQ7JyPrdKDuwx0rgrRtZzKuwITwO47qfpb6y_gdex7SVTTm9Di0FOKREn9Vgx5i9lMKPNYncU5hRn5YZyTRTWQ4MRjEOzrTdXYYtuiA==",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "1729170f50400000e8f6f3db_0|1729170f50400000e8f6f3db_1",
+      "flyFrom": "FRA",
+      "flyTo": "IST",
+      "cityFrom": "Frankfurt",
+      "cityCodeFrom": "FRA",
+      "cityTo": "Istanbul",
+      "cityCodeTo": "IST",
+      "countryFrom": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "countryTo": {
+        "code": "TR",
+        "name": "Turkey"
+      },
+      "local_departure": "2028-11-01T20:20:00.000Z",
+      "utc_departure": "2028-11-01T18:20:00.000Z",
+      "local_arrival": "2028-11-02T03:40:00.000Z",
+      "utc_arrival": "2028-11-02T00:40:00.000Z",
+      "nightsInDest": null,
+      "quality": 205.66666793823242,
+      "distance": 1839.41,
+      "duration": {
+        "departure": 22800,
+        "return": 0,
+        "total": 22800
+      },
+      "price": 135,
+      "conversion": {
+        "EUR": 135
+      },
+      "fare": {
+        "adults": 135,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 13.5,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 335,
+            "itinerary_price_remaining": 135,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 76.5
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 8,
+        "hand_width": 23,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 23,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 80,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 4,
+        "personal_item_width": 10
+      },
+      "availability": {
+        "seats": 2
+      },
+      "airlines": [
+        "JU"
+      ],
+      "route": [
+        {
+          "id": "1729170f50400000e8f6f3db_0",
+          "combination_id": "1729170f50400000e8f6f3db",
+          "flyFrom": "FRA",
+          "flyTo": "BEG",
+          "cityFrom": "Frankfurt",
+          "cityCodeFrom": "FRA",
+          "cityTo": "Belgrade",
+          "cityCodeTo": "BEG",
+          "local_departure": "2028-11-01T20:20:00.000Z",
+          "utc_departure": "2028-11-01T18:20:00.000Z",
+          "local_arrival": "2028-11-01T22:20:00.000Z",
+          "utc_arrival": "2028-11-01T20:20:00.000Z",
+          "airline": "JU",
+          "flight_no": 353,
+          "operating_carrier": "JU",
+          "operating_flight_no": "353",
+          "fare_basis": "ENBODE",
+          "fare_category": "M",
+          "fare_classes": "E",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        },
+        {
+          "id": "1729170f50400000e8f6f3db_1",
+          "combination_id": "1729170f50400000e8f6f3db",
+          "flyFrom": "BEG",
+          "flyTo": "IST",
+          "cityFrom": "Belgrade",
+          "cityCodeFrom": "BEG",
+          "cityTo": "Istanbul",
+          "cityCodeTo": "IST",
+          "local_departure": "2028-11-02T00:55:00.000Z",
+          "utc_departure": "2028-11-01T22:55:00.000Z",
+          "local_arrival": "2028-11-02T03:40:00.000Z",
+          "utc_arrival": "2028-11-02T00:40:00.000Z",
+          "airline": "JU",
+          "flight_no": 426,
+          "operating_carrier": "JU",
+          "operating_flight_no": "426",
+          "fare_basis": "ENBODE",
+          "fare_category": "M",
+          "fare_classes": "E",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HjHsbmCM1ON6rVkT3aGTcuahYUcw0G9eFDwl-JAI7iADhqveQzIHUnWKaCrPpYojl8vM6O4KjGOSit2QyKYA7ojNlXPMTaxQnBD1X8ajckKNVQh4Bo1-yg9_xOp6QDb3j1yT_x1kyaKlA6TEWEVebj98iLbIVTfSVh-BF4ns_RpBHp8bQHoMS2qjrWJPU4qaAYFPLXN529Wrt-R6qOsmkBzPG2Q9Ak3D-KQ4rl84tdCjx_KJh5quuASjIJyK_O1YBnLjKM1l0jVhfK7IcPvbVPdqu-HiJptsd9F5J5FcfmwrEZNKYl4xYAZgdb9TrkEhu2scnQgO3W6kFhy3zSErzG8XevuEoo0jFNaACWZ2DAWvedVH7_wLipsmuTCTpErPWZqUPDe8WyLQn7E_J78wFv9JAmcFLd5UmDV4ADPv3YEGNmFWc4f4DiuQ2KMghVjS79MLoTds9nNAdg2cizkMTpaUmyMAntRiEBXDle8SGXN3dk1jc4eStR7oSKfuaYKJqaDSBPfm_JKLEMhraBu7XeoOSJRUwjuEuZ9O-qlirZ3lEQs3rAPV_6p__b3YYG7uM0KIorjlj3TaH276Okk8DGVrcluJThgER0pDHSItoM4nFeQif_JJ2PrcH4r9w7DGLhwvsAu0zE9w_cBlQCYPgihTBvLLVAdCLPIGxSJOs2v_2rUxvM5bS9oJnVRls2Dgrb5HOAiBYRLqfxElH9Lqz5c18FJz4-Zc7t51TlqBQRlQfA3UuYdzh-B_U1hI4H-U-YGWBcnu6JJMJKJE9nWN3fPIVq5YjqqKf922eyiV_l_xHIy23DgBM6KdC-SWHjMwCZXKMpnuV--4yUCgTUD99IGJTL_rRTQXLJBBSLPY9s7E=",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=1729170f50400000e8f6f3db_0%7C1729170f50400000e8f6f3db_1&from=FRA&lang=en&passengers=1&to=IST&booking_token=HjHsbmCM1ON6rVkT3aGTcuahYUcw0G9eFDwl-JAI7iADhqveQzIHUnWKaCrPpYojl8vM6O4KjGOSit2QyKYA7ojNlXPMTaxQnBD1X8ajckKNVQh4Bo1-yg9_xOp6QDb3j1yT_x1kyaKlA6TEWEVebj98iLbIVTfSVh-BF4ns_RpBHp8bQHoMS2qjrWJPU4qaAYFPLXN529Wrt-R6qOsmkBzPG2Q9Ak3D-KQ4rl84tdCjx_KJh5quuASjIJyK_O1YBnLjKM1l0jVhfK7IcPvbVPdqu-HiJptsd9F5J5FcfmwrEZNKYl4xYAZgdb9TrkEhu2scnQgO3W6kFhy3zSErzG8XevuEoo0jFNaACWZ2DAWvedVH7_wLipsmuTCTpErPWZqUPDe8WyLQn7E_J78wFv9JAmcFLd5UmDV4ADPv3YEGNmFWc4f4DiuQ2KMghVjS79MLoTds9nNAdg2cizkMTpaUmyMAntRiEBXDle8SGXN3dk1jc4eStR7oSKfuaYKJqaDSBPfm_JKLEMhraBu7XeoOSJRUwjuEuZ9O-qlirZ3lEQs3rAPV_6p__b3YYG7uM0KIorjlj3TaH276Okk8DGVrcluJThgER0pDHSItoM4nFeQif_JJ2PrcH4r9w7DGLhwvsAu0zE9w_cBlQCYPgihTBvLLVAdCLPIGxSJOs2v_2rUxvM5bS9oJnVRls2Dgrb5HOAiBYRLqfxElH9Lqz5c18FJz4-Zc7t51TlqBQRlQfA3UuYdzh-B_U1hI4H-U-YGWBcnu6JJMJKJE9nWN3fPIVq5YjqqKf922eyiV_l_xHIy23DgBM6KdC-SWHjMwCZXKMpnuV--4yUCgTUD99IGJTL_rRTQXLJBBSLPY9s7E=&token_module=Mod0.VLAYGicTUNeskCeKrRYM-4MpLTdnd6Xh2wgYKSeyTerIuKrN-gmpDM27tjq2NfEc_ECTHq8PIUSogqc1mJiW_bm3P4BMhWSfdYQz3uRN3UVqeAxnLC0MMeHa5_GTQ3jwi61y3PSlVNABkwYTiULs2cumjCYTuo1QkYxDRgUDz119OMj6yao9WJKA-SuXhngOXgeQEJfZOxGlH3gDVgY5vUzmnG0RblkCfryfYEFB1xLHOztcpPDDXbQkTlNOwn0b3HmtKiXNAEWILqNnGmlPqBXDHGFBGhLwcADVNeg9E-7OtQoa3N24vOi_FxN-m4Fssvj_AT3oCfFZWQTqfBurMmoYobuZuIyHB3_1FHeMu-ZVNUe9gr99PfNLpBeM_0IV",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "1729170f50400000eb9d09e1_0|1729170f50400000eb9d09e1_1",
+      "flyFrom": "FRA",
+      "flyTo": "IST",
+      "cityFrom": "Frankfurt",
+      "cityCodeFrom": "FRA",
+      "cityTo": "Istanbul",
+      "cityCodeTo": "IST",
+      "countryFrom": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "countryTo": {
+        "code": "TR",
+        "name": "Turkey"
+      },
+      "local_departure": "2028-11-01T09:50:00.000Z",
+      "utc_departure": "2028-11-01T07:50:00.000Z",
+      "local_arrival": "2028-11-02T03:40:00.000Z",
+      "utc_arrival": "2028-11-02T00:40:00.000Z",
+      "nightsInDest": null,
+      "quality": 289.6666717529297,
+      "distance": 1839.41,
+      "duration": {
+        "departure": 60600,
+        "return": 0,
+        "total": 60600
+      },
+      "price": 135,
+      "conversion": {
+        "EUR": 135
+      },
+      "fare": {
+        "adults": 135,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 13.5,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 335,
+            "itinerary_price_remaining": 135,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 76.5
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 8,
+        "hand_width": 23,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 23,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 80,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 4,
+        "personal_item_width": 10
+      },
+      "availability": {
+        "seats": 2
+      },
+      "airlines": [
+        "JU"
+      ],
+      "route": [
+        {
+          "id": "1729170f50400000eb9d09e1_0",
+          "combination_id": "1729170f50400000eb9d09e1",
+          "flyFrom": "FRA",
+          "flyTo": "BEG",
+          "cityFrom": "Frankfurt",
+          "cityCodeFrom": "FRA",
+          "cityTo": "Belgrade",
+          "cityCodeTo": "BEG",
+          "local_departure": "2028-11-01T09:50:00.000Z",
+          "utc_departure": "2028-11-01T07:50:00.000Z",
+          "local_arrival": "2028-11-01T11:50:00.000Z",
+          "utc_arrival": "2028-11-01T09:50:00.000Z",
+          "airline": "JU",
+          "flight_no": 351,
+          "operating_carrier": "JU",
+          "operating_flight_no": "351",
+          "fare_basis": "ENBODE",
+          "fare_category": "M",
+          "fare_classes": "E",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        },
+        {
+          "id": "1729170f50400000eb9d09e1_1",
+          "combination_id": "1729170f50400000eb9d09e1",
+          "flyFrom": "BEG",
+          "flyTo": "IST",
+          "cityFrom": "Belgrade",
+          "cityCodeFrom": "BEG",
+          "cityTo": "Istanbul",
+          "cityCodeTo": "IST",
+          "local_departure": "2028-11-02T00:55:00.000Z",
+          "utc_departure": "2028-11-01T22:55:00.000Z",
+          "local_arrival": "2028-11-02T03:40:00.000Z",
+          "utc_arrival": "2028-11-02T00:40:00.000Z",
+          "airline": "JU",
+          "flight_no": 426,
+          "operating_carrier": "JU",
+          "operating_flight_no": "426",
+          "fare_basis": "ENBODE",
+          "fare_category": "M",
+          "fare_classes": "E",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HCZmdery54Zz0KjxmnutR4V9Of7Ctb_Uf44xBJpBcfJyvtMpvXMzE1vP44YdtSydsmV_Z6-Tsve36Zah8ZhNImBCe5r93zd5n0aqVxb_LU071kReCuTKYeau0fRMD9YMtUDOiN5sPfehRVuU4Aj51ZNM2YJ-t69y-dmi0HpOfEmRl8uIe1IShFI25CM7YM8NuT4o6WOIh1DygR25YpJCI4Mw9cssvOSrcNbhUHuMqLNdPYFMFRlvu0yNWkzHa6-fMSj3Ryc0l7ID1lxjZ09i5f5sGTVKDz4ccAqWQQSPf2nBJvYa5HOEE9BqFPJxpJsWvgjJcRggsgxptJhwMd7_HISr6Eko97KlUaZO5i858fzwZeZsjaraEYNQauUt3ET03yiEx84ImwquF32tGsQNsZUMSB2RnDkyalkRS5JjzdLp6DBuHJ1hf9RfZgbFeS_WGekFl1vfgfit7Eji9f0TjdBY__GESKrvydQm5gODMdYiozUr7U3c_vIvxI-ZGZfcmEmTBBcS_EjOs70UudbJpQYKWeKqUYNaGWtNqH5iJWHa-vmZf-spLIn2IERhrHL32Jh9OImoRmgX9ZCwzf-XMSG147tMJF3mbbtASBEOQMAttlkovZUf9pLyUh7cbz5V_N25-pznOFhDTQjWG8p_enGXWbmN_JfozeQ4oQm4qsSroWdUGBp6JrI8gHO56qEEQBxQRKCnLwHUo3CYyQiPA-lRAK5LTLocWQvuM5ba1Ibk5jq9IXz3XDyv8_z4pnDwKUtieUqjnOy-ggqMMi1tqf0Gxl6WMllIRn65FBgsDpoUSKWAXhOVb3UXCFgeST59UCexdCaCjOtbQzg9urjgSmQ==",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=1729170f50400000eb9d09e1_0%7C1729170f50400000eb9d09e1_1&from=FRA&lang=en&passengers=1&to=IST&booking_token=HCZmdery54Zz0KjxmnutR4V9Of7Ctb_Uf44xBJpBcfJyvtMpvXMzE1vP44YdtSydsmV_Z6-Tsve36Zah8ZhNImBCe5r93zd5n0aqVxb_LU071kReCuTKYeau0fRMD9YMtUDOiN5sPfehRVuU4Aj51ZNM2YJ-t69y-dmi0HpOfEmRl8uIe1IShFI25CM7YM8NuT4o6WOIh1DygR25YpJCI4Mw9cssvOSrcNbhUHuMqLNdPYFMFRlvu0yNWkzHa6-fMSj3Ryc0l7ID1lxjZ09i5f5sGTVKDz4ccAqWQQSPf2nBJvYa5HOEE9BqFPJxpJsWvgjJcRggsgxptJhwMd7_HISr6Eko97KlUaZO5i858fzwZeZsjaraEYNQauUt3ET03yiEx84ImwquF32tGsQNsZUMSB2RnDkyalkRS5JjzdLp6DBuHJ1hf9RfZgbFeS_WGekFl1vfgfit7Eji9f0TjdBY__GESKrvydQm5gODMdYiozUr7U3c_vIvxI-ZGZfcmEmTBBcS_EjOs70UudbJpQYKWeKqUYNaGWtNqH5iJWHa-vmZf-spLIn2IERhrHL32Jh9OImoRmgX9ZCwzf-XMSG147tMJF3mbbtASBEOQMAttlkovZUf9pLyUh7cbz5V_N25-pznOFhDTQjWG8p_enGXWbmN_JfozeQ4oQm4qsSroWdUGBp6JrI8gHO56qEEQBxQRKCnLwHUo3CYyQiPA-lRAK5LTLocWQvuM5ba1Ibk5jq9IXz3XDyv8_z4pnDwKUtieUqjnOy-ggqMMi1tqf0Gxl6WMllIRn65FBgsDpoUSKWAXhOVb3UXCFgeST59UCexdCaCjOtbQzg9urjgSmQ==&token_module=Mod0.wF4Wua33_UsY7BiqNT3EkiNFBQOB88GPEgH3A5wnwRWdb1Gmvxbtx0AIjpcNA-lm1uRvEvLlysh6AyTBFbXfAzD9WOIeObG2rWqG1FsEpUL3qoqfJyWdIMV4A06adLDbDUi_fsDd7rAWJ_ii9vyBtj5PqY_H_APJD4KLekLMLMQCd11HwGHI80PFBimH6rsqTDbY7x8g2bLG6oUEVLdUUdSzH0CukK0imtVuj93i2KJUrdl_0BlUc23jcZjCeRR8qg6AZibyyuPxU3c-nkl79Oe49-0vgvBXWHCQ1obk-2wroVVmgi6cqrVbn_ZVeMcop5IM_mgO4YhqcybOBsBPWg==",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "1729170f5040000063f251b3_0",
+      "flyFrom": "FRA",
+      "flyTo": "IST",
+      "cityFrom": "Frankfurt",
+      "cityCodeFrom": "FRA",
+      "cityTo": "Istanbul",
+      "cityCodeTo": "IST",
+      "countryFrom": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "countryTo": {
+        "code": "TR",
+        "name": "Turkey"
+      },
+      "local_departure": "2028-11-01T19:00:00.000Z",
+      "utc_departure": "2028-11-01T17:00:00.000Z",
+      "local_arrival": "2028-11-01T23:00:00.000Z",
+      "utc_arrival": "2028-11-01T20:00:00.000Z",
+      "nightsInDest": null,
+      "quality": 187,
+      "distance": 1839.41,
+      "duration": {
+        "departure": 10800,
+        "return": 0,
+        "total": 10800
+      },
+      "price": 163,
+      "conversion": {
+        "EUR": 163
+      },
+      "fare": {
+        "adults": 163,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 16.3,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 363,
+            "itinerary_price_remaining": 163,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 105
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 8,
+        "hand_width": 23,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 20,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 85,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 4,
+        "personal_item_width": 15
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "TK"
+      ],
+      "route": [
+        {
+          "id": "1729170f5040000063f251b3_0",
+          "combination_id": "1729170f5040000063f251b3",
+          "flyFrom": "FRA",
+          "flyTo": "IST",
+          "cityFrom": "Frankfurt",
+          "cityCodeFrom": "FRA",
+          "cityTo": "Istanbul",
+          "cityCodeTo": "IST",
+          "local_departure": "2028-11-01T19:00:00.000Z",
+          "utc_departure": "2028-11-01T17:00:00.000Z",
+          "local_arrival": "2028-11-01T23:00:00.000Z",
+          "utc_arrival": "2028-11-01T20:00:00.000Z",
+          "airline": "TK",
+          "flight_no": 1594,
+          "operating_carrier": "TK",
+          "operating_flight_no": "1594",
+          "fare_basis": "VYCLO",
+          "fare_category": "M",
+          "fare_classes": "V",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "Hk_J_W0lkmgpwcw7rk96-Ed4dZyPaESnjBAZaUlCn0cO2V4ppz44lNc_-_FRlGjmYM6CtFZdEecNigxK0mnvWyizrPwjGmczmm-AKKavMbj7pbKAyjF_2dc9MuD3mZZDdkZItlCCoIJgthCWuEUKRk_aUWTFUA6m76JOzDPXHeKZcuOOrFl7Hk1tyPFaLzoe-WBeVl37VHHVoN8Il-IZkTihsUqr92mq81epmzPIyiyhCsSf4DYIwmr2H9UaF4TWb601rK5IqbNILsJcJRNXl469IlBL0OVntXvjB24SkuQpfD-eNLk3rb8ZTJR2CfXbAamfuW9Uh1zZZCGEBxrs4mjIGP-AKAG7-AhfoCVI9ymlsjC09sKQ2fjJ-qhSFGlq38Ij2efiFLzc1zW0xiis9ek7cC4KGaZOJAT8ionehEW2l5wxM2zMAoVr2Go8p5gbMGL1I-TUn2eSIhz39iLYaOrQ9y9tmljzaDV0Cu9rUXo-enHN7YKthcTf6D_JDjnFzlyjhlBIZH2rvSldIKUv4scx9kyfWMLidv19vpqyMKJh0Ad2VDQlkrGW9j1yOhP5iW69aRL8OgdrLfNEcs95ge3LbD0nanf7FVDwPyev6BsjYIRR078tohOwNCxIdCU14Tm0VrngKxrA_pUeUEDFHUe0MZ34IBRmTlBW8ZEdYgr122KXX1n1lQ8hef_II5Fjysbxbg05tYKBe8i0ffeHZW4DQFr4ZMAreAwr2Q6R_CC48WmKvMGBaQIhCV-dK0z5ZPXEIJMxxlkEtoGEnwYMaFknLMzR6_D4cmA2KmwRpkoxQN6wcNzdP7HsTjdGmdXaQ",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=1729170f5040000063f251b3_0&from=FRA&lang=en&passengers=1&to=IST&booking_token=Hk_J_W0lkmgpwcw7rk96-Ed4dZyPaESnjBAZaUlCn0cO2V4ppz44lNc_-_FRlGjmYM6CtFZdEecNigxK0mnvWyizrPwjGmczmm-AKKavMbj7pbKAyjF_2dc9MuD3mZZDdkZItlCCoIJgthCWuEUKRk_aUWTFUA6m76JOzDPXHeKZcuOOrFl7Hk1tyPFaLzoe-WBeVl37VHHVoN8Il-IZkTihsUqr92mq81epmzPIyiyhCsSf4DYIwmr2H9UaF4TWb601rK5IqbNILsJcJRNXl469IlBL0OVntXvjB24SkuQpfD-eNLk3rb8ZTJR2CfXbAamfuW9Uh1zZZCGEBxrs4mjIGP-AKAG7-AhfoCVI9ymlsjC09sKQ2fjJ-qhSFGlq38Ij2efiFLzc1zW0xiis9ek7cC4KGaZOJAT8ionehEW2l5wxM2zMAoVr2Go8p5gbMGL1I-TUn2eSIhz39iLYaOrQ9y9tmljzaDV0Cu9rUXo-enHN7YKthcTf6D_JDjnFzlyjhlBIZH2rvSldIKUv4scx9kyfWMLidv19vpqyMKJh0Ad2VDQlkrGW9j1yOhP5iW69aRL8OgdrLfNEcs95ge3LbD0nanf7FVDwPyev6BsjYIRR078tohOwNCxIdCU14Tm0VrngKxrA_pUeUEDFHUe0MZ34IBRmTlBW8ZEdYgr122KXX1n1lQ8hef_II5Fjysbxbg05tYKBe8i0ffeHZW4DQFr4ZMAreAwr2Q6R_CC48WmKvMGBaQIhCV-dK0z5ZPXEIJMxxlkEtoGEnwYMaFknLMzR6_D4cmA2KmwRpkoxQN6wcNzdP7HsTjdGmdXaQ&token_module=Mod0.gYGb2NbSpGr2ypShKEi1HNNNdOmJSYH6Q8FVttnQ91rMi1YQmMKQy3RHhkE8QkX4ablhU9tSpqbcRLTTNmtYvQmrZINpJFk7tmDUnJ-1tb0wYLV8JyPpCyRLfGCJR7mf0gNBUSUNHWjFQbzR1NXuYbI1YHyJnDQvQmhVIwTer1yh6LAHbWvy1Sr5ANhnnOj1g3QCgDeYDnBfofyrvUFdfLxa9-O_mncCZO-X9ZLbb-VwJfigEfVmRvuFFStlETePT9EvaK7qcTdm-QMkkrl12p80kKpLT25PoWK-MWZ4RkcAIVD7HT9Cji45DWQJYgtZd1GBvGWVBpl6Fk_88ieT129lonssehaOtMR-Rk8rXIk=",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "1729170f504000008a91f486_0",
+      "flyFrom": "FRA",
+      "flyTo": "IST",
+      "cityFrom": "Frankfurt",
+      "cityCodeFrom": "FRA",
+      "cityTo": "Istanbul",
+      "cityCodeTo": "IST",
+      "countryFrom": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "countryTo": {
+        "code": "TR",
+        "name": "Turkey"
+      },
+      "local_departure": "2028-11-01T15:05:00.000Z",
+      "utc_departure": "2028-11-01T13:05:00.000Z",
+      "local_arrival": "2028-11-01T19:10:00.000Z",
+      "utc_arrival": "2028-11-01T16:10:00.000Z",
+      "nightsInDest": null,
+      "quality": 187.6666660308838,
+      "distance": 1839.41,
+      "duration": {
+        "departure": 11100,
+        "return": 0,
+        "total": 11100
+      },
+      "price": 163,
+      "conversion": {
+        "EUR": 163
+      },
+      "fare": {
+        "adults": 163,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 16.3,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 363,
+            "itinerary_price_remaining": 163,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 105
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 8,
+        "hand_width": 23,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 20,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 85,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 4,
+        "personal_item_width": 15
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "TK"
+      ],
+      "route": [
+        {
+          "id": "1729170f504000008a91f486_0",
+          "combination_id": "1729170f504000008a91f486",
+          "flyFrom": "FRA",
+          "flyTo": "IST",
+          "cityFrom": "Frankfurt",
+          "cityCodeFrom": "FRA",
+          "cityTo": "Istanbul",
+          "cityCodeTo": "IST",
+          "local_departure": "2028-11-01T15:05:00.000Z",
+          "utc_departure": "2028-11-01T13:05:00.000Z",
+          "local_arrival": "2028-11-01T19:10:00.000Z",
+          "utc_arrival": "2028-11-01T16:10:00.000Z",
+          "airline": "TK",
+          "flight_no": 1592,
+          "operating_carrier": "TK",
+          "operating_flight_no": "1592",
+          "fare_basis": "VYCLO",
+          "fare_category": "M",
+          "fare_classes": "V",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HBb9IV7mwZg7vnUBIJCcSVbxZIsfyL46jrAuIIYmEI32A0AJSPt9fFaxHQa-TeEMzoZLWUd8iScpxt6VeBAmBiWt5_prNaLHUUtOHlimgYOlDK67tXLEgtjCGCC85cKT8Oq32uEPe_6pIIbxsRz6878oMF9lPTLEXTY9INYn2LZ4jPKv-5YiHnlDqJUjav01bUzdD9mbadReCanUiSiZnTPgvVyDgifXQ8bgS_9JeQma4tj1d4sA4kILJ0qtHBp25kO59tcHLPuUfvmD_070s7Nf3yIxQ8jBc2or8Gyw0zGPEsGFM-k6RV9olS8x2xei4pYNfBakw-rj0iJv7-ArJ1W9md6p9aigiQcrpJlnRQ8ZBJIEoiANY4SNupLTWF_Y0sK3725HwB2MVtOHucV3b4Jn6p6qHwMUTPUwVnwOaR3tEPRZukZkf5aYvvgtDXdCtDVvByssKnnfWGUoHJcxBZp4Q4NVsqf_WQpwiw4WywPFOf8ybPbDQxWVJFbdhYI5_sW5rqIqDriEW8Q08Y6oZy-1YYwYt1fGOyPLMfmuVbA2eXiJ9NyRwI9olQMpI9vf8fkbPhIedlo9875Xw0oL17o4hU2U8eJuhHoQP-mQJxMA7IchxUMwoPh4I9jeS9iELaedpcHoPCmM9wZZtFtllafz7ffgS6IKX7U0veyB8hPs0UHt2vO2P0oJV5f-pPmDge4NXTMj6aLHJ2xARk8IhQxcYH-ZiZSTtpbocZbQN_kSbW80Ig2ZYUVLnJcIx3VtY0Fp7rtYJUtVv5pi62I5WrbImTsUTOUUgyY0M76Ac-U6oeVaDmvAafT0m4TyK9glz",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=1729170f504000008a91f486_0&from=FRA&lang=en&passengers=1&to=IST&booking_token=HBb9IV7mwZg7vnUBIJCcSVbxZIsfyL46jrAuIIYmEI32A0AJSPt9fFaxHQa-TeEMzoZLWUd8iScpxt6VeBAmBiWt5_prNaLHUUtOHlimgYOlDK67tXLEgtjCGCC85cKT8Oq32uEPe_6pIIbxsRz6878oMF9lPTLEXTY9INYn2LZ4jPKv-5YiHnlDqJUjav01bUzdD9mbadReCanUiSiZnTPgvVyDgifXQ8bgS_9JeQma4tj1d4sA4kILJ0qtHBp25kO59tcHLPuUfvmD_070s7Nf3yIxQ8jBc2or8Gyw0zGPEsGFM-k6RV9olS8x2xei4pYNfBakw-rj0iJv7-ArJ1W9md6p9aigiQcrpJlnRQ8ZBJIEoiANY4SNupLTWF_Y0sK3725HwB2MVtOHucV3b4Jn6p6qHwMUTPUwVnwOaR3tEPRZukZkf5aYvvgtDXdCtDVvByssKnnfWGUoHJcxBZp4Q4NVsqf_WQpwiw4WywPFOf8ybPbDQxWVJFbdhYI5_sW5rqIqDriEW8Q08Y6oZy-1YYwYt1fGOyPLMfmuVbA2eXiJ9NyRwI9olQMpI9vf8fkbPhIedlo9875Xw0oL17o4hU2U8eJuhHoQP-mQJxMA7IchxUMwoPh4I9jeS9iELaedpcHoPCmM9wZZtFtllafz7ffgS6IKX7U0veyB8hPs0UHt2vO2P0oJV5f-pPmDge4NXTMj6aLHJ2xARk8IhQxcYH-ZiZSTtpbocZbQN_kSbW80Ig2ZYUVLnJcIx3VtY0Fp7rtYJUtVv5pi62I5WrbImTsUTOUUgyY0M76Ac-U6oeVaDmvAafT0m4TyK9glz&token_module=Mod0.nhW9wRrnBMm4PWKzYABYjsuyOmuEQDEJakP7d_uVLsO1oe209Zph4J4mCOosfPnRQP8gLerLpbe2ntfj8i4u3IsaBeajm1LD9Y8qYu6z8i_bXITHS-f1CTXjGPqBUm_MOm7Ieh8k-AJ8iWaikTqpFypPyJf0Q1HTOOQG3NYgVQ8azdWib505X7qCV5-6Vy-tN49Bm6de9BgKsmi1wJhedsVbZ3nhDOo72rpxTF3XUjNN1zYTYeDBZPnMO74KKI17YIMx3cIz9_jybpauRQPVtJuVxfK7D5cB01TElkqGEkbFeT6UKBaaskofyiqAyd7JufA6mgwCOl8WgU7NWMVdIuStP75smOlb-j_GZUp4CPM1agZvHwwpW261SWqrF73-",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "172913a2504000009948f333_0",
+      "flyFrom": "FRA",
+      "flyTo": "PMI",
+      "cityFrom": "Frankfurt",
+      "cityCodeFrom": "FRA",
+      "cityTo": "Palma, Majorca",
+      "cityCodeTo": "PMI",
+      "countryFrom": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "countryTo": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "local_departure": "2028-11-01T10:20:00.000Z",
+      "utc_departure": "2028-11-01T08:20:00.000Z",
+      "local_arrival": "2028-11-01T12:25:00.000Z",
+      "utc_arrival": "2028-11-01T10:25:00.000Z",
+      "nightsInDest": null,
+      "quality": 240.6666660308838,
+      "distance": 1253.47,
+      "duration": {
+        "departure": 7500,
+        "return": 0,
+        "total": 7500
+      },
+      "price": 224,
+      "conversion": {
+        "EUR": 224
+      },
+      "fare": {
+        "adults": 224,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 22.4,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 424,
+            "itinerary_price_remaining": 224,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 51,
+        "2": 156
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 8,
+        "hand_width": 23,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 23,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 80,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 4,
+        "personal_item_width": 10
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "LH"
+      ],
+      "route": [
+        {
+          "id": "172913a2504000009948f333_0",
+          "combination_id": "172913a2504000009948f333",
+          "flyFrom": "FRA",
+          "flyTo": "PMI",
+          "cityFrom": "Frankfurt",
+          "cityCodeFrom": "FRA",
+          "cityTo": "Palma, Majorca",
+          "cityCodeTo": "PMI",
+          "local_departure": "2028-11-01T10:20:00.000Z",
+          "utc_departure": "2028-11-01T08:20:00.000Z",
+          "local_arrival": "2028-11-01T12:25:00.000Z",
+          "utc_arrival": "2028-11-01T10:25:00.000Z",
+          "airline": "LH",
+          "flight_no": 4302,
+          "operating_carrier": "4Y",
+          "operating_flight_no": "512",
+          "fare_basis": "V10LGTX9",
+          "fare_category": "M",
+          "fare_classes": "V",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HERjrgp8svLkSTMPhSzSzfC3VZdTyM2ZLZbeMvMQkFxEnv1DithExEOWau3ZcrflYCWk4rh-z1uc8AiET7GfV5JIPWtm9vBdFww09ME06qYZsAnl5QIVoK-e2Bzco1qsuvuI4FcLDVImH8MJf78cuB-SzqEY_ZhQ3hPn-fYZ4NJfp85Ljy0Gqbvkc87dzHYa2GpF9FTaCJtCR6Z3w2bFe5uHhGrEOzy1wURMrId39rQ2lSqA1oNl8tOcHd5dd-nMo12BJo4gM2cXwgxgwc_rrmcaNWIlaha_AAy-9CYjwxOjUcaRpwOXgvZ_7GTdVasCoEyh99bWcv4g6urmC98fPkM-Dg1VtyZfccKpS_lLXuyo4V_ddqJUOUdhtpYenpKxM9MrlhzEBK6uoXwK1cKSfjlvWA4ib-eTHFTx1nebhW0FrgbimcwVCx5DpnMyDCiBBhV2VLb9QZobg61xsGksHDp2GqECsFJD8uiOj_-RhT5YWnNdc24T3Itgjn5A43Z1ukPSzfNiTlTtaupatEpL-PRKj4Qq-Aa-PZhBeXe2eM-o1tJH9CNg0D43f58wkoOYaGENeb2UTvKT-qJBWfBA0v_rZRCF5iLfoSbC-03j05DOVRV05M0bu3yCsWHwz7zF9GjsTnsEjz2d0uujMw4kEcqWdDm5bO6I1lnvCT6ugvoBviIKElWb-Hy27JBLtJKkPXspoZlFNYnAaRIJRHRC63sUpg_VwzMeh9NSzjfXitaWinmUt0Zr2Sj1GML3NTuPDDwzmBgvRBk_MnRs1x7w8iI5nQq1_9IlgDXr3yhr896qaFoabrdF-H6DdPSsGjb_tdW_EPR1GB-LsR1Sh-yAAUECOjgnnY7qWhDe5UHGfiuGVd1nPK4186Yhecmh03EA0",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=172913a2504000009948f333_0&from=FRA&lang=en&passengers=1&to=PMI&booking_token=HERjrgp8svLkSTMPhSzSzfC3VZdTyM2ZLZbeMvMQkFxEnv1DithExEOWau3ZcrflYCWk4rh-z1uc8AiET7GfV5JIPWtm9vBdFww09ME06qYZsAnl5QIVoK-e2Bzco1qsuvuI4FcLDVImH8MJf78cuB-SzqEY_ZhQ3hPn-fYZ4NJfp85Ljy0Gqbvkc87dzHYa2GpF9FTaCJtCR6Z3w2bFe5uHhGrEOzy1wURMrId39rQ2lSqA1oNl8tOcHd5dd-nMo12BJo4gM2cXwgxgwc_rrmcaNWIlaha_AAy-9CYjwxOjUcaRpwOXgvZ_7GTdVasCoEyh99bWcv4g6urmC98fPkM-Dg1VtyZfccKpS_lLXuyo4V_ddqJUOUdhtpYenpKxM9MrlhzEBK6uoXwK1cKSfjlvWA4ib-eTHFTx1nebhW0FrgbimcwVCx5DpnMyDCiBBhV2VLb9QZobg61xsGksHDp2GqECsFJD8uiOj_-RhT5YWnNdc24T3Itgjn5A43Z1ukPSzfNiTlTtaupatEpL-PRKj4Qq-Aa-PZhBeXe2eM-o1tJH9CNg0D43f58wkoOYaGENeb2UTvKT-qJBWfBA0v_rZRCF5iLfoSbC-03j05DOVRV05M0bu3yCsWHwz7zF9GjsTnsEjz2d0uujMw4kEcqWdDm5bO6I1lnvCT6ugvoBviIKElWb-Hy27JBLtJKkPXspoZlFNYnAaRIJRHRC63sUpg_VwzMeh9NSzjfXitaWinmUt0Zr2Sj1GML3NTuPDDwzmBgvRBk_MnRs1x7w8iI5nQq1_9IlgDXr3yhr896qaFoabrdF-H6DdPSsGjb_tdW_EPR1GB-LsR1Sh-yAAUECOjgnnY7qWhDe5UHGfiuGVd1nPK4186Yhecmh03EA0&token_module=Mod0.mZgU9GUPrCaxd_fi2kFajhE0xwID_mN8DJ_IjrJoGx-l6EIBaHc9buveJ5cbpBMFsX3Hfnz-DqSFya5DS8SE4tPtq2OhIBcLGt7Wob2Nfx2SWZqDQSb03_HUSjMVCqIDd82R-Rvcnsix9ITqw40hku35FK5Z2knWwQ2FJ6rOoUms3bBv1qaz6aFHKQTpq7mtlqFEPy3IrmljMXDepJFBlksVmI-kuxfe_EYj9lyJUX3mCLiG_6xOVkHPutncd7SASM-RCjEffVrjBhrOZ4g8QKmOH0dtVK40t8MUw3wjT0kD9UZoGwL1OSunn-WzwzLor85EDVFTIqB6yKjqRoggns9WuN8b74UJZG7HyT_rPr8=",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "172913a2504000006cce05c3_0",
+      "flyFrom": "FRA",
+      "flyTo": "PMI",
+      "cityFrom": "Frankfurt",
+      "cityCodeFrom": "FRA",
+      "cityTo": "Palma, Majorca",
+      "cityCodeTo": "PMI",
+      "countryFrom": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "countryTo": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "local_departure": "2028-11-01T10:20:00.000Z",
+      "utc_departure": "2028-11-01T08:20:00.000Z",
+      "local_arrival": "2028-11-01T12:25:00.000Z",
+      "utc_arrival": "2028-11-01T10:25:00.000Z",
+      "nightsInDest": null,
+      "quality": 240.6666660308838,
+      "distance": 1253.47,
+      "duration": {
+        "departure": 7500,
+        "return": 0,
+        "total": 7500
+      },
+      "price": 224,
+      "conversion": {
+        "EUR": 224
+      },
+      "fare": {
+        "adults": 224,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 22.4,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 424,
+            "itinerary_price_remaining": 224,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 17
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 8,
+        "hand_width": 23,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 23,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 80,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 4,
+        "personal_item_width": 10
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "4Y"
+      ],
+      "route": [
+        {
+          "id": "172913a2504000006cce05c3_0",
+          "combination_id": "172913a2504000006cce05c3",
+          "flyFrom": "FRA",
+          "flyTo": "PMI",
+          "cityFrom": "Frankfurt",
+          "cityCodeFrom": "FRA",
+          "cityTo": "Palma, Majorca",
+          "cityCodeTo": "PMI",
+          "local_departure": "2028-11-01T10:20:00.000Z",
+          "utc_departure": "2028-11-01T08:20:00.000Z",
+          "local_arrival": "2028-11-01T12:25:00.000Z",
+          "utc_arrival": "2028-11-01T10:25:00.000Z",
+          "airline": "4Y",
+          "flight_no": 512,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "V10LGTX9",
+          "fare_category": "M",
+          "fare_classes": "V",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "Hl7RP-NkEHo76JIIZpOBK_r0BzVvVz1UlAni6qN_txTIR3gv3-r1c7IP9VI4mz6o0zbQPkyzrQLKxdhgue0LGAUjbua6k2DQiISoADfXtytJ9yzkdk9dnY3t5Coxs370iASWyCvAmJ3ib69pUFvu86a7Rc2KOqyPJwrGxmt-JDPgVsIFR8KrN_bfXRJRIokWC48xF28Lcx2x_mcYbU5m1WdSGxavUZnxStgCSzp7d9IyEqpXz_91a9E9GsuxDnFltMm65iHMR4yYCGaO2S1Df-j8I9V-2sn61Q2D5itQyWccSzzJj1piVkTgiun760rWbANfeIRrRe9SHP6q6BLHtpGID44JVLQyiESWlUlhyYPDPGCw1gF2ix8aVVGyrEE9JgrkEbxqQONYNl9CUEeHU1MFbECFBq6aIkvrQFAH8g_v1AA6CO4iUOIWCXMMqKzyr14ZQ5_k1k9tIUhxqDmG8LCAgZwMocz6C8qhPjBk_jnzaitWjMdVVYimyycr7PLGEQMr63PIaoUvfu4Yc827aZCcTLUmj5HfWycrFHGUfj4w9vssD8y60H0HQkfQvtvD5An1wH3K-RfB2mszr6WlfkEL95yHNozilrGiQH-MngaT9BNlqyWjKZqpgWPu90mZXq0HW3F6ZLQYmenEylPMTSwWZ3-SSLDPui55btJ9Bkyqi7ObdurDnH9dY7cwW_aswbz-6qy-t6BGAAA5NXrCL7JtZ0VqBt0xFB5ub4F-GeSxJpU3bOSTE4EvjG8IHTJjp-ox4F8Uzhy2dUsXqMU4PbTZ5Bcqz4EKd64XUi4e_UVHCUOFQda1D9YxrvbCi2qRuYLvvcdMAOW5OSqpNIOknWrC3-XjX1eW1abkSTK553J30uOYt6-_bl3Nde0f_-7-3",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=172913a2504000006cce05c3_0&from=FRA&lang=en&passengers=1&to=PMI&booking_token=Hl7RP-NkEHo76JIIZpOBK_r0BzVvVz1UlAni6qN_txTIR3gv3-r1c7IP9VI4mz6o0zbQPkyzrQLKxdhgue0LGAUjbua6k2DQiISoADfXtytJ9yzkdk9dnY3t5Coxs370iASWyCvAmJ3ib69pUFvu86a7Rc2KOqyPJwrGxmt-JDPgVsIFR8KrN_bfXRJRIokWC48xF28Lcx2x_mcYbU5m1WdSGxavUZnxStgCSzp7d9IyEqpXz_91a9E9GsuxDnFltMm65iHMR4yYCGaO2S1Df-j8I9V-2sn61Q2D5itQyWccSzzJj1piVkTgiun760rWbANfeIRrRe9SHP6q6BLHtpGID44JVLQyiESWlUlhyYPDPGCw1gF2ix8aVVGyrEE9JgrkEbxqQONYNl9CUEeHU1MFbECFBq6aIkvrQFAH8g_v1AA6CO4iUOIWCXMMqKzyr14ZQ5_k1k9tIUhxqDmG8LCAgZwMocz6C8qhPjBk_jnzaitWjMdVVYimyycr7PLGEQMr63PIaoUvfu4Yc827aZCcTLUmj5HfWycrFHGUfj4w9vssD8y60H0HQkfQvtvD5An1wH3K-RfB2mszr6WlfkEL95yHNozilrGiQH-MngaT9BNlqyWjKZqpgWPu90mZXq0HW3F6ZLQYmenEylPMTSwWZ3-SSLDPui55btJ9Bkyqi7ObdurDnH9dY7cwW_aswbz-6qy-t6BGAAA5NXrCL7JtZ0VqBt0xFB5ub4F-GeSxJpU3bOSTE4EvjG8IHTJjp-ox4F8Uzhy2dUsXqMU4PbTZ5Bcqz4EKd64XUi4e_UVHCUOFQda1D9YxrvbCi2qRuYLvvcdMAOW5OSqpNIOknWrC3-XjX1eW1abkSTK553J30uOYt6-_bl3Nde0f_-7-3&token_module=Mod0.cAeQMH86XAxzYxniIalrJU64Fqpg96RC85Ok2FGEzFdFncS3Al3NFE99IEcHmm19mDezXVrfYVvR1zlkkNumLZgTs2QrboN2b2Z8aiwRiCrHhfPIASnwtbtb190lbb-Bp_aF6HOgiXw1hs3Pg9rI6NVjlNqGW5tGyM6sf9OW7m_l74WsNSUifF1E8sZLeO09maM2bx2p0oHjikuc_cAjcvN1lyEuCH8m_VKImFKVjESmFk7IQibrrEXqPd0jrNweFAHmKPln4kx98MjMz5fu6tmMYBMH5dGq3gZttv10jeJaihWMSXzTuegu3ntdrZBozeKBEm8xxvvdEmSGyhaN4g==",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "172913a25040000085ada0f6_0",
+      "flyFrom": "FRA",
+      "flyTo": "PMI",
+      "cityFrom": "Frankfurt",
+      "cityCodeFrom": "FRA",
+      "cityTo": "Palma, Majorca",
+      "cityCodeTo": "PMI",
+      "countryFrom": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "countryTo": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "local_departure": "2028-11-01T16:40:00.000Z",
+      "utc_departure": "2028-11-01T14:40:00.000Z",
+      "local_arrival": "2028-11-01T18:45:00.000Z",
+      "utc_arrival": "2028-11-01T16:45:00.000Z",
+      "nightsInDest": null,
+      "quality": 241.6666660308838,
+      "distance": 1253.47,
+      "duration": {
+        "departure": 7500,
+        "return": 0,
+        "total": 7500
+      },
+      "price": 225,
+      "conversion": {
+        "EUR": 225
+      },
+      "fare": {
+        "adults": 225,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 22.5,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 425,
+            "itinerary_price_remaining": 225,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 17
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 8,
+        "hand_width": 23,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 23,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 80,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 4,
+        "personal_item_width": 10
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "4Y"
+      ],
+      "route": [
+        {
+          "id": "172913a25040000085ada0f6_0",
+          "combination_id": "172913a25040000085ada0f6",
+          "flyFrom": "FRA",
+          "flyTo": "PMI",
+          "cityFrom": "Frankfurt",
+          "cityCodeFrom": "FRA",
+          "cityTo": "Palma, Majorca",
+          "cityCodeTo": "PMI",
+          "local_departure": "2028-11-01T16:40:00.000Z",
+          "utc_departure": "2028-11-01T14:40:00.000Z",
+          "local_arrival": "2028-11-01T18:45:00.000Z",
+          "utc_arrival": "2028-11-01T16:45:00.000Z",
+          "airline": "4Y",
+          "flight_no": 514,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "V10LGTX9",
+          "fare_category": "M",
+          "fare_classes": "V",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HtGJLPnUAxccYbVv8ISPcCMg0zIeEr86F5Ett37p3RAghH_fFk3kxHjeq-GM9WF5A7Xjf53BAZ-EFGD3rzODw0JyXUze7AueP8wkvslU47Ou4jkXLyXnEB13Bu9aVYSl6bmUQPjl-6b55_qDIK4cSyjqkatYC0P2kEfBexMOSyqkyPwfMYg2FAkidJxf7KSrEaRHaEmrJgVnlnPY7MVFYag7NVHvRCKX_e9XMWhEUPArJ2ki1MCkxtI4nb7rtKlw3XG8EEdxRMXPxD8i1oAb9pe7iBaLTQs8h2a6smN8E3knJIAUBCbEiQgJy6gotK24Qtt6XahQxMGDwBxlPID5IG9Y8k2vPjjVTEF_0t67PfQsGgdUqzNBPJWwkwtE4JBRXVECrbvugiiEuhWz3vWrfzSaCv0CfLxD3-p25fIECMWlRd38kIrEefcEjlFZtGS7kiFEigtdnwSSA-SHkhfTxlN_vTGSXn3IAH64m0t2F8-Vdc61pMPedN2VvCpW_XRkBnKGG55pWERH5TkzJRRg-rXVtDU_Q4Ua7ecFesfJDKFwqcSLDi35p5gctlF27rk_wbPrjlfNuc-b1JszboPDy13gOAhiiCNnEB134bMYZxufe-D7ZUFS_FSgQudbyp4fZgN8bDVR2SXTgYLh4FTdm1UgjltYyrrnVO6XDGZLrctXjI64IQMbAXbPQWLoe4fMy7A1Mrn5uyhjOxwsU3epnaAtavJS2VO1hC0SOVnZaCek6ImDFkbqJJljWoBJkY23zkEu_zl62is2iB7puZ31_QclURabIM_ASe--cZWgyXfJNy4ptN0eLDG44pYptjBdM5bz5et5ao3qZMtogUf4Fp_ur5bl_03sMOC1zXXoDbMxEVv4Qm00VaWD8aAGZMqHb",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=172913a25040000085ada0f6_0&from=FRA&lang=en&passengers=1&to=PMI&booking_token=HtGJLPnUAxccYbVv8ISPcCMg0zIeEr86F5Ett37p3RAghH_fFk3kxHjeq-GM9WF5A7Xjf53BAZ-EFGD3rzODw0JyXUze7AueP8wkvslU47Ou4jkXLyXnEB13Bu9aVYSl6bmUQPjl-6b55_qDIK4cSyjqkatYC0P2kEfBexMOSyqkyPwfMYg2FAkidJxf7KSrEaRHaEmrJgVnlnPY7MVFYag7NVHvRCKX_e9XMWhEUPArJ2ki1MCkxtI4nb7rtKlw3XG8EEdxRMXPxD8i1oAb9pe7iBaLTQs8h2a6smN8E3knJIAUBCbEiQgJy6gotK24Qtt6XahQxMGDwBxlPID5IG9Y8k2vPjjVTEF_0t67PfQsGgdUqzNBPJWwkwtE4JBRXVECrbvugiiEuhWz3vWrfzSaCv0CfLxD3-p25fIECMWlRd38kIrEefcEjlFZtGS7kiFEigtdnwSSA-SHkhfTxlN_vTGSXn3IAH64m0t2F8-Vdc61pMPedN2VvCpW_XRkBnKGG55pWERH5TkzJRRg-rXVtDU_Q4Ua7ecFesfJDKFwqcSLDi35p5gctlF27rk_wbPrjlfNuc-b1JszboPDy13gOAhiiCNnEB134bMYZxufe-D7ZUFS_FSgQudbyp4fZgN8bDVR2SXTgYLh4FTdm1UgjltYyrrnVO6XDGZLrctXjI64IQMbAXbPQWLoe4fMy7A1Mrn5uyhjOxwsU3epnaAtavJS2VO1hC0SOVnZaCek6ImDFkbqJJljWoBJkY23zkEu_zl62is2iB7puZ31_QclURabIM_ASe--cZWgyXfJNy4ptN0eLDG44pYptjBdM5bz5et5ao3qZMtogUf4Fp_ur5bl_03sMOC1zXXoDbMxEVv4Qm00VaWD8aAGZMqHb&token_module=Mod0.6QLPQ2t8iwV1u_cbx97swDAerDRBSmnLq7ExxCkQzTKL-aAM0j_T_L57C9FIrN2k1DAniUJV0ACR__SpsBdEk5VPQAUaat-DbzWkcFmX8XW8wxbcYHrj-XUf-HGfKO4-ckXhzHt2sTTfjSwl_yP-s_kXjgTwUDdot-wj86zur4rVXnpvpwsop92TYtuBRh9-Krqe8nINSJ4ZMCXM0B5MwMAw_wXARzhe6qjBBb6BRhGDvReKtS2dM93N7Ecf_b0HnqZ-fTVUMgpiSqWgcnqeoVmYI9sefA3Mx45fI3g4urT2hEVEZh_Hk5QJ_bA8fQStp7P9HRzTEHHQse0YleXdqg==",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    }
+  ],
+  "_results": 10
+}

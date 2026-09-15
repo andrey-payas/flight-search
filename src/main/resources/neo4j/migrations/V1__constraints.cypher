@@ -1,0 +1,23 @@
+CREATE CONSTRAINT flight_id_unique IF NOT EXISTS
+FOR (f:Flight)
+REQUIRE f.id IS UNIQUE;
+
+CREATE CONSTRAINT airport_id_unique IF NOT EXISTS
+FOR (f:Airport)
+REQUIRE f.id IS UNIQUE;
+
+CREATE CONSTRAINT route_id_unique IF NOT EXISTS
+FOR (f:Route)
+REQUIRE f.id IS UNIQUE;
+
+CREATE CONSTRAINT country_id_unique IF NOT EXISTS
+FOR (f:Country)
+REQUIRE f.id IS UNIQUE;
+
+CREATE CONSTRAINT country_route_id_unique IF NOT EXISTS
+FOR (f:CountryRoute)
+REQUIRE f.id IS UNIQUE;
+
+CREATE CONSTRAINT leg_id_unique IF NOT EXISTS
+FOR (l:Leg)
+REQUIRE l.id IS UNIQUE;

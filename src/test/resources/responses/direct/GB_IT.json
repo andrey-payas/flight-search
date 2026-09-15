@@ -1,0 +1,1311 @@
+{
+  "search_id": "a262dc4f-050f-463c-b901-1fa2bc731d44",
+  "currency": "EUR",
+  "fx_rate": 1,
+  "data": [
+    {
+      "id": "18ff07f0513100007e83d69b_0",
+      "flyFrom": "LTN",
+      "flyTo": "MXP",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "Milan",
+      "cityCodeTo": "MIL",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "IT",
+        "name": "Italy"
+      },
+      "local_departure": "2028-11-28T15:05:00.000Z",
+      "utc_departure": "2028-11-28T15:05:00.000Z",
+      "local_arrival": "2028-11-28T18:05:00.000Z",
+      "utc_arrival": "2028-11-28T17:05:00.000Z",
+      "nightsInDest": null,
+      "quality": 35,
+      "distance": 962.18,
+      "duration": {
+        "departure": 7200,
+        "return": 0,
+        "total": 7200
+      },
+      "price": 19,
+      "conversion": {
+        "EUR": 19
+      },
+      "fare": {
+        "adults": 19,
+        "children": 0,
+        "infants": 0
+      },
+      "bags_price": {
+        "1": 34.503201,
+        "2": 69.006402
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 34.503201,
+          "2": 69.006402
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "W4"
+      ],
+      "route": [
+        {
+          "id": "18ff07f0513100007e83d69b_0",
+          "combination_id": "18ff07f0513100007e83d69b",
+          "flyFrom": "LTN",
+          "flyTo": "MXP",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Milan",
+          "cityCodeTo": "MIL",
+          "local_departure": "2028-11-28T15:05:00.000Z",
+          "utc_departure": "2028-11-28T15:05:00.000Z",
+          "local_arrival": "2028-11-28T18:05:00.000Z",
+          "utc_arrival": "2028-11-28T17:05:00.000Z",
+          "airline": "W4",
+          "flight_no": 6302,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "Z",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HjSGxd3O2UBV2LSrqX_h-eCvANfLwZsCghtiYSANRWXx9tR1DPJ2jkFuqL-oxBQ4_GxUA-AaeyMiU0e2-mP5YtVx33suZRW9bdSTyB6uJh_WQxTEZEeRFFHpsT4qqgCfMeEABJxX1jYdjyGKckKHRs0wTHdPPFr58vABOvT72P_0zOOoXEK66M_blcI0ZL7IIb0BtCsy1OaJFGcnvthPzEjKlcCsG7rrZ-64QK6owmmDEqVTaiKOpFq0dRcbBsVmla-JVwPwzDNEw8dUymbRcFKANsIhk9jo4z_wgG-fyh4OAkz1U8XJV40OWWgM5uIBxnhPllAe_PtnAVs_7_nNN0wVJ-eV6PBf6wbVx2pU_WDA2TAy-9NdyoUlHzlXrQd_OSckfWH1MSGvI8sMZfI0SEawp2url8KSD82fVKAiMH4yl6bRbQDYLzHrKyv_wORciUoSmFtTMXccP0HyiRyaF6qNnGPsoXT6_QUFUX-4vuLXDCVYpLpnlgDTCM2zxZYKmUJv5OctRQA99nFtJmg0mM5kbGVdxk7ip8JnV_0jaJBXNd7GHplTS4s0L9y5R8PlmHk8yaySdQMYZSp5hswrmom3ZW9GtErhUmthFP30LMIWdc2sw-LYyimqT7bNunjhDF4TpuU6YZ1Mi-csBs4Eo9XAy4DUzTCXmuREjTdHpCzkGLlz5ltMfkuGA9zy_DDA9xq8xCDzvyBa9zAN3LcmXo24XIWCzYYf3AhfZ0aVXPAwm_vMKHWtoxohk-ASFGqaLTkNY7qKwaP-qnqKi8u7Veb7UuOleiSwlm88iGi91p4fS7NgXPs0XuH-A4dNcuHbbMQ2A_F2iuu1GO7_Uf5w9CBFkr9g4EOKcKPKNDoReTJA02r9LBS0u2x5cYGirgirX",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=18ff07f0513100007e83d69b_0&from=LTN&lang=en&passengers=1&to=MXP&booking_token=HjSGxd3O2UBV2LSrqX_h-eCvANfLwZsCghtiYSANRWXx9tR1DPJ2jkFuqL-oxBQ4_GxUA-AaeyMiU0e2-mP5YtVx33suZRW9bdSTyB6uJh_WQxTEZEeRFFHpsT4qqgCfMeEABJxX1jYdjyGKckKHRs0wTHdPPFr58vABOvT72P_0zOOoXEK66M_blcI0ZL7IIb0BtCsy1OaJFGcnvthPzEjKlcCsG7rrZ-64QK6owmmDEqVTaiKOpFq0dRcbBsVmla-JVwPwzDNEw8dUymbRcFKANsIhk9jo4z_wgG-fyh4OAkz1U8XJV40OWWgM5uIBxnhPllAe_PtnAVs_7_nNN0wVJ-eV6PBf6wbVx2pU_WDA2TAy-9NdyoUlHzlXrQd_OSckfWH1MSGvI8sMZfI0SEawp2url8KSD82fVKAiMH4yl6bRbQDYLzHrKyv_wORciUoSmFtTMXccP0HyiRyaF6qNnGPsoXT6_QUFUX-4vuLXDCVYpLpnlgDTCM2zxZYKmUJv5OctRQA99nFtJmg0mM5kbGVdxk7ip8JnV_0jaJBXNd7GHplTS4s0L9y5R8PlmHk8yaySdQMYZSp5hswrmom3ZW9GtErhUmthFP30LMIWdc2sw-LYyimqT7bNunjhDF4TpuU6YZ1Mi-csBs4Eo9XAy4DUzTCXmuREjTdHpCzkGLlz5ltMfkuGA9zy_DDA9xq8xCDzvyBa9zAN3LcmXo24XIWCzYYf3AhfZ0aVXPAwm_vMKHWtoxohk-ASFGqaLTkNY7qKwaP-qnqKi8u7Veb7UuOleiSwlm88iGi91p4fS7NgXPs0XuH-A4dNcuHbbMQ2A_F2iuu1GO7_Uf5w9CBFkr9g4EOKcKPKNDoReTJA02r9LBS0u2x5cYGirgirX",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "18ff07f051330000539d64aa_0",
+      "flyFrom": "LTN",
+      "flyTo": "MXP",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "Milan",
+      "cityCodeTo": "MIL",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "IT",
+        "name": "Italy"
+      },
+      "local_departure": "2028-11-30T20:25:00.000Z",
+      "utc_departure": "2028-11-30T20:25:00.000Z",
+      "local_arrival": "2028-11-30T23:25:00.000Z",
+      "utc_arrival": "2028-11-30T22:25:00.000Z",
+      "nightsInDest": null,
+      "quality": 35,
+      "distance": 962.18,
+      "duration": {
+        "departure": 7200,
+        "return": 0,
+        "total": 7200
+      },
+      "price": 19,
+      "conversion": {
+        "EUR": 19
+      },
+      "fare": {
+        "adults": 19,
+        "children": 0,
+        "infants": 0
+      },
+      "bags_price": {
+        "1": 36.916368,
+        "2": 73.832736
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 36.916368,
+          "2": 73.832736
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "W4"
+      ],
+      "route": [
+        {
+          "id": "18ff07f051330000539d64aa_0",
+          "combination_id": "18ff07f051330000539d64aa",
+          "flyFrom": "LTN",
+          "flyTo": "MXP",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Milan",
+          "cityCodeTo": "MIL",
+          "local_departure": "2028-11-30T20:25:00.000Z",
+          "utc_departure": "2028-11-30T20:25:00.000Z",
+          "local_arrival": "2028-11-30T23:25:00.000Z",
+          "utc_arrival": "2028-11-30T22:25:00.000Z",
+          "airline": "W4",
+          "flight_no": 6304,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "Z",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HcRS1DlY7cBe8jBJ_saYrOZzWQL-akZ6KrPP6mrjiHCf4Rsijs63p4b1CuQsXi78vZheDgtOlSLtoddxr7CFApSebFBOToGPktkdbSKnTV-a8VeW7HVAfEo4MmcotQraOHpGa-Cr40hAW9ia_ukjWNYr1tLYEk2L6YAqn3efzQI43oWeIpAeWvmw1T6B7l8w24nhvJFDUXxi9IibXDcDgnk0OCEEuSJ71OxqdZsNC4wUos_bQmgaY4UZToHW-wpFRWlPyXhTvo8HsedQc_Bk1SZWeSt47qmzRnOL5cZ-IQnRHP6a76481IuSrA3fPNAjCMNrwk_MRdg5HUqVS6AM66UeFGA0-468EMQyshkCsgFQZ8Tx4ATMgDiwl6akS07HjoFpSXRKSYnxWs1HCvsSBPHQ9I6d_HQ0wgjYvVbE6rZROxi8qdyrxIsSyL-WcnN_9Trw6Jp5mAefOV_elR1NZtYTf2JDvpRzILq0nfHIDwfz-bWJw8xTxXVno52u0dAkB3xKKvjh6Nxb4OyikDXoB8I8iVHblxDRiEb-Sytl5-p4_FA3qwQSHoJH4P-nOFk0VCUhjnrc9zR1cSff_t4iyYlEnRwe-v8Rt5mGV4My0gJ7jd7DyjQnWSaqyzpFJhpYZk1oz1wzFB8rct2ZyZeoIE0EiOEBE8u9dn0SqhBxWgirSoU-NPGJ9sK_4xjfFEb3Cezb998k64RiVnR70h_EPQPdW3lBezPlb3OikyQQLwuQem8TgWnYvR3rt1GQOoc8MgvQzGXoqqZdJQreiLBBYC_Y57gfVArlAE55F4dE39Ud2qtfLoU6236iGoyj2ngZM9prJSWNaLUzldQ-BPiGJWmV3wPnoAbPzr05eEVBqaWeg5hgdrdn-dkn62b83dgP0",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=18ff07f051330000539d64aa_0&from=LTN&lang=en&passengers=1&to=MXP&booking_token=HcRS1DlY7cBe8jBJ_saYrOZzWQL-akZ6KrPP6mrjiHCf4Rsijs63p4b1CuQsXi78vZheDgtOlSLtoddxr7CFApSebFBOToGPktkdbSKnTV-a8VeW7HVAfEo4MmcotQraOHpGa-Cr40hAW9ia_ukjWNYr1tLYEk2L6YAqn3efzQI43oWeIpAeWvmw1T6B7l8w24nhvJFDUXxi9IibXDcDgnk0OCEEuSJ71OxqdZsNC4wUos_bQmgaY4UZToHW-wpFRWlPyXhTvo8HsedQc_Bk1SZWeSt47qmzRnOL5cZ-IQnRHP6a76481IuSrA3fPNAjCMNrwk_MRdg5HUqVS6AM66UeFGA0-468EMQyshkCsgFQZ8Tx4ATMgDiwl6akS07HjoFpSXRKSYnxWs1HCvsSBPHQ9I6d_HQ0wgjYvVbE6rZROxi8qdyrxIsSyL-WcnN_9Trw6Jp5mAefOV_elR1NZtYTf2JDvpRzILq0nfHIDwfz-bWJw8xTxXVno52u0dAkB3xKKvjh6Nxb4OyikDXoB8I8iVHblxDRiEb-Sytl5-p4_FA3qwQSHoJH4P-nOFk0VCUhjnrc9zR1cSff_t4iyYlEnRwe-v8Rt5mGV4My0gJ7jd7DyjQnWSaqyzpFJhpYZk1oz1wzFB8rct2ZyZeoIE0EiOEBE8u9dn0SqhBxWgirSoU-NPGJ9sK_4xjfFEb3Cezb998k64RiVnR70h_EPQPdW3lBezPlb3OikyQQLwuQem8TgWnYvR3rt1GQOoc8MgvQzGXoqqZdJQreiLBBYC_Y57gfVArlAE55F4dE39Ud2qtfLoU6236iGoyj2ngZM9prJSWNaLUzldQ-BPiGJWmV3wPnoAbPzr05eEVBqaWeg5hgdrdn-dkn62b83dgP0",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "18ff07f05131000097e073ae_0",
+      "flyFrom": "LTN",
+      "flyTo": "MXP",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "Milan",
+      "cityCodeTo": "MIL",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "IT",
+        "name": "Italy"
+      },
+      "local_departure": "2028-11-28T20:25:00.000Z",
+      "utc_departure": "2028-11-28T20:25:00.000Z",
+      "local_arrival": "2028-11-28T23:25:00.000Z",
+      "utc_arrival": "2028-11-28T22:25:00.000Z",
+      "nightsInDest": null,
+      "quality": 35,
+      "distance": 962.18,
+      "duration": {
+        "departure": 7200,
+        "return": 0,
+        "total": 7200
+      },
+      "price": 19,
+      "conversion": {
+        "EUR": 19
+      },
+      "fare": {
+        "adults": 19,
+        "children": 0,
+        "infants": 0
+      },
+      "bags_price": {
+        "1": 36.916368,
+        "2": 73.832736
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 36.916368,
+          "2": 73.832736
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 23,
+        "hold_dimensions_sum": 439,
+        "hold_height": 149,
+        "hold_length": 171,
+        "hold_weight": 20,
+        "hold_width": 119,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "W4"
+      ],
+      "route": [
+        {
+          "id": "18ff07f05131000097e073ae_0",
+          "combination_id": "18ff07f05131000097e073ae",
+          "flyFrom": "LTN",
+          "flyTo": "MXP",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Milan",
+          "cityCodeTo": "MIL",
+          "local_departure": "2028-11-28T20:25:00.000Z",
+          "utc_departure": "2028-11-28T20:25:00.000Z",
+          "local_arrival": "2028-11-28T23:25:00.000Z",
+          "utc_arrival": "2028-11-28T22:25:00.000Z",
+          "airline": "W4",
+          "flight_no": 6304,
+          "operating_carrier": "",
+          "operating_flight_no": "",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "Z",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HtN4v6wl-A02ph8lgYNxJKIPevSIilhYIjbgqpYebrM9BPmKnUhjn51sOBcdGaoSYjbVW8worhlO5x5fiNVl5oveaZ6amqovBUwKc-Whcto0y8_XFhLyEFck_i6nyZ5mB6eYxSh9BKbmI_3N5tTjz6g9CPqtXAYjD7fcsXUR5dN5CaMr-53rn2KZVKbHlMGDoyWLztOCfyTgaz8UYvhBgyfXxh6cSR0FLiSCZe-xRqBwyV9yJJYTnNBWAYFZ4dmxoOAmhtjFjxmNfcEKcy1My3NCesNmrtCcRzHLTXRqIdGBWb8GE783AEzMExsmcvdknS1gCG9qo_fNN94XBunmJrz_p0D0tuOl30A8YAvtNBi4ZfkQwGEHS-xAD_4RqQs4daIgp3mwpe6vQc7GPuWxLJqeR-OSUYRIuVnryhZ0BJUZCtA7B_Y0-NwuIRKZyXY60N_cpKrBEKvQyfOkMETe-1Cg3uYnOce6hNj6I32G7MNAVkMwqo5bcN4NGXfxvHeWnulW9WDy0bZB7nKXtFh6XEf59yga70Qp5vqkM3EIlEasyT0j0LSH9Mleutj1kkgoxP9uryfLROi7mtYSxdD3TpBzP2kPZgCbMhxWbDCSKFTQS46sLMbFSGt7KZF8v6Urn2_Vu5ImwvqjEKydonyyQsjLCnhxrE3Jj-znuKmN8zcgKvF2Xwg_cpR15eVILAhXKDELSJX2zgJH8qxUbkhxoj39hNB9DZrvG8r_GQktJ-ghqZhoezohI5OiVojjy7QJ88nHy--3c6G0IdhrUgx_KSvB-M7HKBp8lDcqpxDV6Qq-T4OuUYF_bALzhRBiutQqFNjOTc9cssXqZM45rLjY7QrYXgMYstOh0ylcpDDRPckiL6ziBrZNaVEAu4COc7aAF",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=18ff07f05131000097e073ae_0&from=LTN&lang=en&passengers=1&to=MXP&booking_token=HtN4v6wl-A02ph8lgYNxJKIPevSIilhYIjbgqpYebrM9BPmKnUhjn51sOBcdGaoSYjbVW8worhlO5x5fiNVl5oveaZ6amqovBUwKc-Whcto0y8_XFhLyEFck_i6nyZ5mB6eYxSh9BKbmI_3N5tTjz6g9CPqtXAYjD7fcsXUR5dN5CaMr-53rn2KZVKbHlMGDoyWLztOCfyTgaz8UYvhBgyfXxh6cSR0FLiSCZe-xRqBwyV9yJJYTnNBWAYFZ4dmxoOAmhtjFjxmNfcEKcy1My3NCesNmrtCcRzHLTXRqIdGBWb8GE783AEzMExsmcvdknS1gCG9qo_fNN94XBunmJrz_p0D0tuOl30A8YAvtNBi4ZfkQwGEHS-xAD_4RqQs4daIgp3mwpe6vQc7GPuWxLJqeR-OSUYRIuVnryhZ0BJUZCtA7B_Y0-NwuIRKZyXY60N_cpKrBEKvQyfOkMETe-1Cg3uYnOce6hNj6I32G7MNAVkMwqo5bcN4NGXfxvHeWnulW9WDy0bZB7nKXtFh6XEf59yga70Qp5vqkM3EIlEasyT0j0LSH9Mleutj1kkgoxP9uryfLROi7mtYSxdD3TpBzP2kPZgCbMhxWbDCSKFTQS46sLMbFSGt7KZF8v6Urn2_Vu5ImwvqjEKydonyyQsjLCnhxrE3Jj-znuKmN8zcgKvF2Xwg_cpR15eVILAhXKDELSJX2zgJH8qxUbkhxoj39hNB9DZrvG8r_GQktJ-ghqZhoezohI5OiVojjy7QJ88nHy--3c6G0IdhrUgx_KSvB-M7HKBp8lDcqpxDV6Qq-T4OuUYF_bALzhRBiutQqFNjOTc9cssXqZM45rLjY7QrYXgMYstOh0ylcpDDRPckiL6ziBrZNaVEAu4COc7aAF",
+      "facilitated_booking_available": false,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "0f6407f051160000e1a8c403_0|0f6407f051160000e1a8c403_1",
+      "flyFrom": "LHR",
+      "flyTo": "MXP",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "Milan",
+      "cityCodeTo": "MIL",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "IT",
+        "name": "Italy"
+      },
+      "local_departure": "2028-11-01T20:50:00.000Z",
+      "utc_departure": "2028-11-01T20:50:00.000Z",
+      "local_arrival": "2028-11-02T12:25:00.000Z",
+      "utc_arrival": "2028-11-02T11:25:00.000Z",
+      "nightsInDest": null,
+      "quality": 216.66666412353516,
+      "distance": 937.68,
+      "duration": {
+        "departure": 52500,
+        "return": 0,
+        "total": 52500
+      },
+      "price": 80,
+      "conversion": {
+        "EUR": 80
+      },
+      "fare": {
+        "adults": 80,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 10,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 280,
+            "itinerary_price_remaining": 80,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 136
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 136
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 115,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 20,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 15,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": 9
+      },
+      "airlines": [
+        "VY"
+      ],
+      "route": [
+        {
+          "id": "0f6407f051160000e1a8c403_0",
+          "combination_id": "0f6407f051160000e1a8c403",
+          "flyFrom": "LHR",
+          "flyTo": "BCN",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Barcelona",
+          "cityCodeTo": "BCN",
+          "local_departure": "2028-11-01T20:50:00.000Z",
+          "utc_departure": "2028-11-01T20:50:00.000Z",
+          "local_arrival": "2028-11-02T00:05:00.000Z",
+          "utc_arrival": "2028-11-01T23:05:00.000Z",
+          "airline": "VY",
+          "flight_no": 7643,
+          "operating_carrier": "VY",
+          "operating_flight_no": "7643",
+          "fare_basis": "DBAHCVY",
+          "fare_category": "M",
+          "fare_classes": "",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        },
+        {
+          "id": "0f6407f051160000e1a8c403_1",
+          "combination_id": "0f6407f051160000e1a8c403",
+          "flyFrom": "BCN",
+          "flyTo": "MXP",
+          "cityFrom": "Barcelona",
+          "cityCodeFrom": "BCN",
+          "cityTo": "Milan",
+          "cityCodeTo": "MIL",
+          "local_departure": "2028-11-02T10:45:00.000Z",
+          "utc_departure": "2028-11-02T09:45:00.000Z",
+          "local_arrival": "2028-11-02T12:25:00.000Z",
+          "utc_arrival": "2028-11-02T11:25:00.000Z",
+          "airline": "VY",
+          "flight_no": 6042,
+          "operating_carrier": "VY",
+          "operating_flight_no": "6042",
+          "fare_basis": "ZBALCVY",
+          "fare_category": "M",
+          "fare_classes": "",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HiBrensukslZlht3RlD6tw9ak1oYiRZtFdBRYmeNMf9ce6ip3v_T0-PA_pZ_7n79RsdxKbU8wjYjoXjgfKNas6TWoqfli083vKbzLVAC5qH6bxDqUEziMUd1QreWpQ_-kc4E4qZIhCNWwmlObqrwOJl1TkjZVxPzmq_Qi5jIrLxQDaNDsS7clN6-eiACp2cQN8mQr2XQdE-G-QudK1apJ_ddRgyVONlVvUuJLGUbcpA8wNciUI7ol-GnRGgrcyLUEAYG62xPubdOAD-oU_m4tICfM8HCVN274riPjiJ-i31s3agcQkkQoDtV9x6JVJh3SIokW__k7HpLgDB-TSnJWioV9yqfcPzQSHRLbeGtC2tNOnrQuEkWOheV9hAI6Ufra3kcL-jEhdY2lIgPxoaK0sRXL_hfvSk63Z_1vx5PNLBrnjS7KPr7tJL4CsaodkSsUsNE9Egx6lnwk-85kfqEgBjA0ncPE539bHw1so5zjLl67xLElVkgiPZlXQln3j6dPEypb4sDB7t6FR3PVnEZ6uHC-6wTnhAGpj1gPg1fhA6REJiUOvliXiscfpgydZJWHLqCZallAiIldlfBTu366xEeO-Cxl4tw99gbkPnh2xRNFZz8cr1lnk5rFlDYmXD1p6YKO0-eu320NBtLFY2ZqiIPulnm80kWCM5dcMCA9gd82xRd2XDGzOZeXQGMFDVoVeYNAzgrDd9aSTKsaE05dwC5CHzs9mPz-Rw-nwXQMPm-4XhbkgfYjmA9zORYW9p0wy0UqaBY_OPOyAbwb7tUgoBSy2LRJPLOKewsPv99txCCUawtWIRdZS9vuElfW0Hs7eoEDp5uBvd1HHwrvQlxFSQTBk-r4Na5tRY7VGzD_qfzJkoTg35iJmunLgEMSk7N4-4IiTigeR6N38ojqfgtgf2y7oSfML9QppllS1rP9cg523cbP0cvNM2RpXFv05jF7pnfTDWYp02kZPZEEkZUWP383mpozo_geFkeQhgeSKWk=",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=0f6407f051160000e1a8c403_0%7C0f6407f051160000e1a8c403_1&from=LHR&lang=en&passengers=1&to=MXP&booking_token=HiBrensukslZlht3RlD6tw9ak1oYiRZtFdBRYmeNMf9ce6ip3v_T0-PA_pZ_7n79RsdxKbU8wjYjoXjgfKNas6TWoqfli083vKbzLVAC5qH6bxDqUEziMUd1QreWpQ_-kc4E4qZIhCNWwmlObqrwOJl1TkjZVxPzmq_Qi5jIrLxQDaNDsS7clN6-eiACp2cQN8mQr2XQdE-G-QudK1apJ_ddRgyVONlVvUuJLGUbcpA8wNciUI7ol-GnRGgrcyLUEAYG62xPubdOAD-oU_m4tICfM8HCVN274riPjiJ-i31s3agcQkkQoDtV9x6JVJh3SIokW__k7HpLgDB-TSnJWioV9yqfcPzQSHRLbeGtC2tNOnrQuEkWOheV9hAI6Ufra3kcL-jEhdY2lIgPxoaK0sRXL_hfvSk63Z_1vx5PNLBrnjS7KPr7tJL4CsaodkSsUsNE9Egx6lnwk-85kfqEgBjA0ncPE539bHw1so5zjLl67xLElVkgiPZlXQln3j6dPEypb4sDB7t6FR3PVnEZ6uHC-6wTnhAGpj1gPg1fhA6REJiUOvliXiscfpgydZJWHLqCZallAiIldlfBTu366xEeO-Cxl4tw99gbkPnh2xRNFZz8cr1lnk5rFlDYmXD1p6YKO0-eu320NBtLFY2ZqiIPulnm80kWCM5dcMCA9gd82xRd2XDGzOZeXQGMFDVoVeYNAzgrDd9aSTKsaE05dwC5CHzs9mPz-Rw-nwXQMPm-4XhbkgfYjmA9zORYW9p0wy0UqaBY_OPOyAbwb7tUgoBSy2LRJPLOKewsPv99txCCUawtWIRdZS9vuElfW0Hs7eoEDp5uBvd1HHwrvQlxFSQTBk-r4Na5tRY7VGzD_qfzJkoTg35iJmunLgEMSk7N4-4IiTigeR6N38ojqfgtgf2y7oSfML9QppllS1rP9cg523cbP0cvNM2RpXFv05jF7pnfTDWYp02kZPZEEkZUWP383mpozo_geFkeQhgeSKWk=",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "0f640f0c51160000dd339048_0|0f640f0c51160000dd339048_1",
+      "flyFrom": "LHR",
+      "flyTo": "FCO",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "Rome",
+      "cityCodeTo": "ROM",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "IT",
+        "name": "Italy"
+      },
+      "local_departure": "2028-11-01T20:50:00.000Z",
+      "utc_departure": "2028-11-01T20:50:00.000Z",
+      "local_arrival": "2028-11-02T09:00:00.000Z",
+      "utc_arrival": "2028-11-02T08:00:00.000Z",
+      "nightsInDest": null,
+      "quality": 190.33333587646484,
+      "distance": 1446,
+      "duration": {
+        "departure": 40200,
+        "return": 0,
+        "total": 40200
+      },
+      "price": 81,
+      "conversion": {
+        "EUR": 81
+      },
+      "fare": {
+        "adults": 81,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 10,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 281,
+            "itinerary_price_remaining": 81,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 130
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 130
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 115,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 20,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 25,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "VY"
+      ],
+      "route": [
+        {
+          "id": "0f640f0c51160000dd339048_0",
+          "combination_id": "0f640f0c51160000dd339048",
+          "flyFrom": "LHR",
+          "flyTo": "BCN",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Barcelona",
+          "cityCodeTo": "BCN",
+          "local_departure": "2028-11-01T20:50:00.000Z",
+          "utc_departure": "2028-11-01T20:50:00.000Z",
+          "local_arrival": "2028-11-02T00:05:00.000Z",
+          "utc_arrival": "2028-11-01T23:05:00.000Z",
+          "airline": "VY",
+          "flight_no": 7643,
+          "operating_carrier": "VY",
+          "operating_flight_no": "7643",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "D",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        },
+        {
+          "id": "0f640f0c51160000dd339048_1",
+          "combination_id": "0f640f0c51160000dd339048",
+          "flyFrom": "BCN",
+          "flyTo": "FCO",
+          "cityFrom": "Barcelona",
+          "cityCodeFrom": "BCN",
+          "cityTo": "Rome",
+          "cityCodeTo": "ROM",
+          "local_departure": "2028-11-02T07:10:00.000Z",
+          "utc_departure": "2028-11-02T06:10:00.000Z",
+          "local_arrival": "2028-11-02T09:00:00.000Z",
+          "utc_arrival": "2028-11-02T08:00:00.000Z",
+          "airline": "VY",
+          "flight_no": 6000,
+          "operating_carrier": "VY",
+          "operating_flight_no": "6000",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "Q",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HkzAL04EfuVwOcagalOsw7pGM3Wzrsy9d1ozafZ6Oh-djzsPyp4b95HSFDrPIeSwnmRq6YtkYitmo8QhgFsrof2lZLOngG3dHkujYp6svC7KMntPPtHlr6WDr48d-h3bygOVa8Rlf8YRCzrZhELSL-bNUfewvE9hSvBeueA8HL9hW-s65OM2xBrpnUjUA3ZqsAG_ZdZ2O3WQlv3SPcAQqhHQwkRsrn5BjcYyi6xPlPfJyq_4SOminoxBBZfje3UrMyGcB-eVoNLe96yOhx4lFIvzqhzkV5pzVpgQJlPJT4J3RFrfxWiSe2ncl3-5rpHPRsmvnVYzi2RL2nMtf3U1DA9EVIb_d5N-lN8HNcY95TVUBcz33R3OsmWReHRDxi06XJ04Tge02W3vRpaqv6rts0IV9agIAS3n2uQp7wdWYU1M1b8rGR8fF0v4-75bakdyMiZvTUnsifIA1hNi4Rm5hHZaPN77OC1_9pTIC6nSUgy8aZA-STeoP96KRQCN6bk-k-3RzQ6hBAYrwwuSnZM4_0C84gpYOkgfX7qOnny1uiJO6rXTM2h_Up6FakkRStNX0Au5sANGCum_OZtpKbN-pFSF8bRgUF6VuRHDFQOBd0Krs2rbkiI-UNWn7Xie8_U-czESUQ1sQ48Zh4LuRkZMMJZ_EvOPCLw5ewgDjf67x4R_LgLdVb7DM3lgZ6R9AV3_YITl-0aDdiHqSJSZAdSa7E1yXGiTDm3G5vp3ZGSMYNu1aImjzkRoQkhoEHd3hdwMvD_-mIcoXFXw-mkaYT_BZnvIbSzYNcIEkNSCidqFCBLTUC4yC-gqKDnV6-Yn2Jef-1HHVu_EkXN8nh74Dv8kbiQJLlnVooF5FDhZD0z3v5eYJ9B2OxtIkyjw3AH2T76vlllQdZkcIWpLKrbVjg8v6hXdgVFBB_GpzLxO-L1Lv7YL-NSOvnRAVy7WkpSX304JildBc_1JB2zYQJ3tNKnpzRA==",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=0f640f0c51160000dd339048_0%7C0f640f0c51160000dd339048_1&from=LHR&lang=en&passengers=1&to=FCO&booking_token=HkzAL04EfuVwOcagalOsw7pGM3Wzrsy9d1ozafZ6Oh-djzsPyp4b95HSFDrPIeSwnmRq6YtkYitmo8QhgFsrof2lZLOngG3dHkujYp6svC7KMntPPtHlr6WDr48d-h3bygOVa8Rlf8YRCzrZhELSL-bNUfewvE9hSvBeueA8HL9hW-s65OM2xBrpnUjUA3ZqsAG_ZdZ2O3WQlv3SPcAQqhHQwkRsrn5BjcYyi6xPlPfJyq_4SOminoxBBZfje3UrMyGcB-eVoNLe96yOhx4lFIvzqhzkV5pzVpgQJlPJT4J3RFrfxWiSe2ncl3-5rpHPRsmvnVYzi2RL2nMtf3U1DA9EVIb_d5N-lN8HNcY95TVUBcz33R3OsmWReHRDxi06XJ04Tge02W3vRpaqv6rts0IV9agIAS3n2uQp7wdWYU1M1b8rGR8fF0v4-75bakdyMiZvTUnsifIA1hNi4Rm5hHZaPN77OC1_9pTIC6nSUgy8aZA-STeoP96KRQCN6bk-k-3RzQ6hBAYrwwuSnZM4_0C84gpYOkgfX7qOnny1uiJO6rXTM2h_Up6FakkRStNX0Au5sANGCum_OZtpKbN-pFSF8bRgUF6VuRHDFQOBd0Krs2rbkiI-UNWn7Xie8_U-czESUQ1sQ48Zh4LuRkZMMJZ_EvOPCLw5ewgDjf67x4R_LgLdVb7DM3lgZ6R9AV3_YITl-0aDdiHqSJSZAdSa7E1yXGiTDm3G5vp3ZGSMYNu1aImjzkRoQkhoEHd3hdwMvD_-mIcoXFXw-mkaYT_BZnvIbSzYNcIEkNSCidqFCBLTUC4yC-gqKDnV6-Yn2Jef-1HHVu_EkXN8nh74Dv8kbiQJLlnVooF5FDhZD0z3v5eYJ9B2OxtIkyjw3AH2T76vlllQdZkcIWpLKrbVjg8v6hXdgVFBB_GpzLxO-L1Lv7YL-NSOvnRAVy7WkpSX304JildBc_1JB2zYQJ3tNKnpzRA==",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "0f640f0c51160000f140e126_0",
+      "flyFrom": "LHR",
+      "flyTo": "FCO",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "Rome",
+      "cityCodeTo": "ROM",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "IT",
+        "name": "Italy"
+      },
+      "local_departure": "2028-11-01T16:30:00.000Z",
+      "utc_departure": "2028-11-01T16:30:00.000Z",
+      "local_arrival": "2028-11-01T20:10:00.000Z",
+      "utc_arrival": "2028-11-01T19:10:00.000Z",
+      "nightsInDest": null,
+      "quality": 103.33333396911621,
+      "distance": 1446,
+      "duration": {
+        "departure": 9600,
+        "return": 0,
+        "total": 9600
+      },
+      "price": 82,
+      "conversion": {
+        "EUR": 82
+      },
+      "fare": {
+        "adults": 82,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 10,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 282,
+            "itinerary_price_remaining": 82,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 140
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 140
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 115,
+        "hand_height": 35,
+        "hand_length": 55,
+        "hand_weight": 8,
+        "hand_width": 25,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 23,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 101,
+        "personal_item_height": 36,
+        "personal_item_length": 45,
+        "personal_item_weight": 3,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "AZ"
+      ],
+      "route": [
+        {
+          "id": "0f640f0c51160000f140e126_0",
+          "combination_id": "0f640f0c51160000f140e126",
+          "flyFrom": "LHR",
+          "flyTo": "FCO",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Rome",
+          "cityCodeTo": "ROM",
+          "local_departure": "2028-11-01T16:30:00.000Z",
+          "utc_departure": "2028-11-01T16:30:00.000Z",
+          "local_arrival": "2028-11-01T20:10:00.000Z",
+          "utc_arrival": "2028-11-01T19:10:00.000Z",
+          "airline": "AZ",
+          "flight_no": 207,
+          "operating_carrier": "AZ",
+          "operating_flight_no": "207",
+          "fare_basis": "KEULGTX9",
+          "fare_category": "M",
+          "fare_classes": "K",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HLOzQwHo1UIKNylv_NLCTKwdKXATU2fYdzCv6JEh5GmC1LMDqAx9RgDppF-e4_RuYhaU8mnrfJX3DpJHhN2hrlhKlV3G4n6ULfq8jMFcRZkI5MpWDRkiP7XSSP0in7yIMKabqoJAgbyXCw-fCEZZZow0VnveeYuXDzeB8BnKaxYb0y_JSAaaetWaJOJwnqr7FC5dm53f9Rs2TXiJnRiLm42rZNaofqb0Esljott_Js8qxp3kxdV3SpCbjbDfeEiU6qbGopzKNhCDDBwlbBiPFtH-mxhiM36Tl76FOf1dcL4jOjrZ7wmiL1a2PBmZ115GnDJXUFh8xf4FMeH6JdllCb8p2N5pbDMKveQ8D2_oJotL1S682epZFfdjeDaYL0lgpxmYvAdi63fEjEc5GdW5x6qAeofJ7Dp_pwt_hpw7MN8rF_S2Yt9u5kytjcsAmDvsBDd7ZJTNkJljX2DNZYUZ2NsTTUe4BpOROZC4_nDgr26ji6iYqEUldTHb38ELTTy_zkJnwMyC4sEqaRzhUPWbXTptbPMhy0V_n7HdJRYiMUKtXiQZ7ohMui1Ta8PFua78vMNFO4DPe_5nbe9WmND186dtQd-hDjwbgnw_RAyxyMut8whN_aKrILnUlEubm8R8CQw4PpDnGOe1vLn_g7sD6h308KEmG-R4j7r5TfAAehXP_2eAWv7u9jN1vfgYisK79FqZ65pAO_VYrcNogqQGBGCkcPTHS_iHTMSiaeHX-B0oE6AYRqMZqTlDOritqCq_o5e1nG415oVd5whTvtbia92isiQm765Wu3tUYsRqSxP22KKlh6gOSUsC9RuSwacn36zksiH0UEZOceVf2HiiRY_PbFQTvmxnK4EzAsk55wk9N1ZE698_dYzKt5-2JtaJ1iN1Hand2aAzZp4s9rsac6UodJNk_2Yz9RRfGeXSf3EQu9QEOyga0CgSh8daPrcNuEh2yMd1Ii0pjHM4lWMrZVsAKAS9ZqkOtq_7Pk8j6ne8_keeMr_2jmJPrPDAxOqcuRSYv3t7d0WIRxXlOMJpkYuC08-O7ZPoghCzNSe7sHr6AR9V60RNOoNbJ-bZKoFDX",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=0f640f0c51160000f140e126_0&from=LHR&lang=en&passengers=1&to=FCO&booking_token=HLOzQwHo1UIKNylv_NLCTKwdKXATU2fYdzCv6JEh5GmC1LMDqAx9RgDppF-e4_RuYhaU8mnrfJX3DpJHhN2hrlhKlV3G4n6ULfq8jMFcRZkI5MpWDRkiP7XSSP0in7yIMKabqoJAgbyXCw-fCEZZZow0VnveeYuXDzeB8BnKaxYb0y_JSAaaetWaJOJwnqr7FC5dm53f9Rs2TXiJnRiLm42rZNaofqb0Esljott_Js8qxp3kxdV3SpCbjbDfeEiU6qbGopzKNhCDDBwlbBiPFtH-mxhiM36Tl76FOf1dcL4jOjrZ7wmiL1a2PBmZ115GnDJXUFh8xf4FMeH6JdllCb8p2N5pbDMKveQ8D2_oJotL1S682epZFfdjeDaYL0lgpxmYvAdi63fEjEc5GdW5x6qAeofJ7Dp_pwt_hpw7MN8rF_S2Yt9u5kytjcsAmDvsBDd7ZJTNkJljX2DNZYUZ2NsTTUe4BpOROZC4_nDgr26ji6iYqEUldTHb38ELTTy_zkJnwMyC4sEqaRzhUPWbXTptbPMhy0V_n7HdJRYiMUKtXiQZ7ohMui1Ta8PFua78vMNFO4DPe_5nbe9WmND186dtQd-hDjwbgnw_RAyxyMut8whN_aKrILnUlEubm8R8CQw4PpDnGOe1vLn_g7sD6h308KEmG-R4j7r5TfAAehXP_2eAWv7u9jN1vfgYisK79FqZ65pAO_VYrcNogqQGBGCkcPTHS_iHTMSiaeHX-B0oE6AYRqMZqTlDOritqCq_o5e1nG415oVd5whTvtbia92isiQm765Wu3tUYsRqSxP22KKlh6gOSUsC9RuSwacn36zksiH0UEZOceVf2HiiRY_PbFQTvmxnK4EzAsk55wk9N1ZE698_dYzKt5-2JtaJ1iN1Hand2aAzZp4s9rsac6UodJNk_2Yz9RRfGeXSf3EQu9QEOyga0CgSh8daPrcNuEh2yMd1Ii0pjHM4lWMrZVsAKAS9ZqkOtq_7Pk8j6ne8_keeMr_2jmJPrPDAxOqcuRSYv3t7d0WIRxXlOMJpkYuC08-O7ZPoghCzNSe7sHr6AR9V60RNOoNbJ-bZKoFDX",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "0f6407f051160000cdb96223_0|0f6407f051160000cdb96223_1",
+      "flyFrom": "LHR",
+      "flyTo": "MXP",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "Milan",
+      "cityCodeTo": "MIL",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "IT",
+        "name": "Italy"
+      },
+      "local_departure": "2028-11-01T09:55:00.000Z",
+      "utc_departure": "2028-11-01T09:55:00.000Z",
+      "local_arrival": "2028-11-01T16:30:00.000Z",
+      "utc_arrival": "2028-11-01T15:30:00.000Z",
+      "nightsInDest": null,
+      "quality": 157.66666793823242,
+      "distance": 937.68,
+      "duration": {
+        "departure": 20100,
+        "return": 0,
+        "total": 20100
+      },
+      "price": 93,
+      "conversion": {
+        "EUR": 93
+      },
+      "fare": {
+        "adults": 93,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 10,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 293,
+            "itinerary_price_remaining": 93,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 110
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 110
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 115,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 20,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 25,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": 5
+      },
+      "airlines": [
+        "VY"
+      ],
+      "route": [
+        {
+          "id": "0f6407f051160000cdb96223_0",
+          "combination_id": "0f6407f051160000cdb96223",
+          "flyFrom": "LHR",
+          "flyTo": "BCN",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Barcelona",
+          "cityCodeTo": "BCN",
+          "local_departure": "2028-11-01T09:55:00.000Z",
+          "utc_departure": "2028-11-01T09:55:00.000Z",
+          "local_arrival": "2028-11-01T13:10:00.000Z",
+          "utc_arrival": "2028-11-01T12:10:00.000Z",
+          "airline": "VY",
+          "flight_no": 7641,
+          "operating_carrier": "VY",
+          "operating_flight_no": "7641",
+          "fare_basis": "OBAHCVY",
+          "fare_category": "M",
+          "fare_classes": "",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        },
+        {
+          "id": "0f6407f051160000cdb96223_1",
+          "combination_id": "0f6407f051160000cdb96223",
+          "flyFrom": "BCN",
+          "flyTo": "MXP",
+          "cityFrom": "Barcelona",
+          "cityCodeFrom": "BCN",
+          "cityTo": "Milan",
+          "cityCodeTo": "MIL",
+          "local_departure": "2028-11-01T14:55:00.000Z",
+          "utc_departure": "2028-11-01T13:55:00.000Z",
+          "local_arrival": "2028-11-01T16:30:00.000Z",
+          "utc_arrival": "2028-11-01T15:30:00.000Z",
+          "airline": "VY",
+          "flight_no": 6046,
+          "operating_carrier": "VY",
+          "operating_flight_no": "6046",
+          "fare_basis": "ABALCVY",
+          "fare_category": "M",
+          "fare_classes": "",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HmvYSOM65qiYPB_PNa3EwZx682fVAOeYE_RtekGlqN7JpstfEE-jUBeROqygtxylSr5NvFrjyWivjLhIsJbrqk4nW8Jt2tB6VbosJcok2kimyye1NlHkLYYPjLgWCl_2J0Xz2DgiUR5779G_QefYhCHju4CEesyIjn_dCOniYPAqIN8aFYfmvD1rzmGeALY1x700WKEa6X-rfBdkYdec20ZPf2jTVkkdqh4a8dT2GB8Ht4jwSiDFr3bYYRQF4JsalriifLxE-PwBH5keDbVHZum4CMF64QP4s0UpVb0V8ijKEBM14rTRn9zaL84A_HTzOwM4_KjXikyXKEZsLVXzS4CiViiytaMkvnM8n6miFUwWNUxWpURbxjpfeQ9vxklCSS1e9xOgwEg9iAWSPn8mdfuhw354taGqCSxlPBd2HSeVKM_YxDPMfa_YXc9oVr26497xWZBtfu5U-0gAlLfohNBec1Fc1O0STfVzTFBoa0c7YINmtF9wW5fOqzJIKkN5mqkuAoZbr-HEh448plZdiLawVadklutN6w01eNWo98oHZVU4bH7lnKvfDr0nHP-oYRpozU2iJiSdcANKMly6anUsYzvTdKF55EaqnX25cmK0rrm7aV2hRvnYsYZjxLQ1AcwcLh4zNY8S2xsFSFXyJJW_IgtHvwZPdujzwHBybjHUtyLqFU6EJNUY-7xzfVFCQwkFZbH3vxQJH2TjScUAXQ3JWXo_UCzb93Pmbl1rfUrDKBZ90ccZIg7D7qOUI1JHwbgs0YmzlYCBuMvScoSgEzbHHIFkyS_eHwyCdKRuUdOkDKmtqV66C3tCTJzMeOykZWhZnfa4LqsyNnn4EhaCzQKnLD7EGHjlv__95izK5gAF0s81heUiqjv_nzLI5RNMDP0KLzPTopEIMeeY5casivcA9v7jRzoaPZDWioapV2Fb_V-cmQvu9MOScFfHBkPNJbg5rh1OkAnJNLbkrQAnmKBXZDV5-YwCFAjIf_9N8F4w=",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=0f6407f051160000cdb96223_0%7C0f6407f051160000cdb96223_1&from=LHR&lang=en&passengers=1&to=MXP&booking_token=HmvYSOM65qiYPB_PNa3EwZx682fVAOeYE_RtekGlqN7JpstfEE-jUBeROqygtxylSr5NvFrjyWivjLhIsJbrqk4nW8Jt2tB6VbosJcok2kimyye1NlHkLYYPjLgWCl_2J0Xz2DgiUR5779G_QefYhCHju4CEesyIjn_dCOniYPAqIN8aFYfmvD1rzmGeALY1x700WKEa6X-rfBdkYdec20ZPf2jTVkkdqh4a8dT2GB8Ht4jwSiDFr3bYYRQF4JsalriifLxE-PwBH5keDbVHZum4CMF64QP4s0UpVb0V8ijKEBM14rTRn9zaL84A_HTzOwM4_KjXikyXKEZsLVXzS4CiViiytaMkvnM8n6miFUwWNUxWpURbxjpfeQ9vxklCSS1e9xOgwEg9iAWSPn8mdfuhw354taGqCSxlPBd2HSeVKM_YxDPMfa_YXc9oVr26497xWZBtfu5U-0gAlLfohNBec1Fc1O0STfVzTFBoa0c7YINmtF9wW5fOqzJIKkN5mqkuAoZbr-HEh448plZdiLawVadklutN6w01eNWo98oHZVU4bH7lnKvfDr0nHP-oYRpozU2iJiSdcANKMly6anUsYzvTdKF55EaqnX25cmK0rrm7aV2hRvnYsYZjxLQ1AcwcLh4zNY8S2xsFSFXyJJW_IgtHvwZPdujzwHBybjHUtyLqFU6EJNUY-7xzfVFCQwkFZbH3vxQJH2TjScUAXQ3JWXo_UCzb93Pmbl1rfUrDKBZ90ccZIg7D7qOUI1JHwbgs0YmzlYCBuMvScoSgEzbHHIFkyS_eHwyCdKRuUdOkDKmtqV66C3tCTJzMeOykZWhZnfa4LqsyNnn4EhaCzQKnLD7EGHjlv__95izK5gAF0s81heUiqjv_nzLI5RNMDP0KLzPTopEIMeeY5casivcA9v7jRzoaPZDWioapV2Fb_V-cmQvu9MOScFfHBkPNJbg5rh1OkAnJNLbkrQAnmKBXZDV5-YwCFAjIf_9N8F4w=",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "0f640f0c51160000f62d253f_0",
+      "flyFrom": "LHR",
+      "flyTo": "FCO",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "Rome",
+      "cityCodeTo": "ROM",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "IT",
+        "name": "Italy"
+      },
+      "local_departure": "2028-11-01T10:30:00.000Z",
+      "utc_departure": "2028-11-01T10:30:00.000Z",
+      "local_arrival": "2028-11-01T14:10:00.000Z",
+      "utc_arrival": "2028-11-01T13:10:00.000Z",
+      "nightsInDest": null,
+      "quality": 134.3333339691162,
+      "distance": 1446,
+      "duration": {
+        "departure": 9600,
+        "return": 0,
+        "total": 9600
+      },
+      "price": 113,
+      "conversion": {
+        "EUR": 113
+      },
+      "fare": {
+        "adults": 113,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 11.3,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 313,
+            "itinerary_price_remaining": 113,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 140
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 140
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 115,
+        "hand_height": 35,
+        "hand_length": 55,
+        "hand_weight": 8,
+        "hand_width": 25,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 23,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 101,
+        "personal_item_height": 36,
+        "personal_item_length": 45,
+        "personal_item_weight": 3,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "AZ"
+      ],
+      "route": [
+        {
+          "id": "0f640f0c51160000f62d253f_0",
+          "combination_id": "0f640f0c51160000f62d253f",
+          "flyFrom": "LHR",
+          "flyTo": "FCO",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Rome",
+          "cityCodeTo": "ROM",
+          "local_departure": "2028-11-01T10:30:00.000Z",
+          "utc_departure": "2028-11-01T10:30:00.000Z",
+          "local_arrival": "2028-11-01T14:10:00.000Z",
+          "utc_arrival": "2028-11-01T13:10:00.000Z",
+          "airline": "AZ",
+          "flight_no": 203,
+          "operating_carrier": "AZ",
+          "operating_flight_no": "203",
+          "fare_basis": "TEULGTX9",
+          "fare_category": "M",
+          "fare_classes": "T",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HOTO6gHhzRbxCnBt3f7wkxTFjQeUvf1lkyypnHNI5yrr_RIR3k1FsyzYK4Oxs6G6kVZUtYXUug9SWKYtRWnTpfccSqGoPClnstRm82ZAmkd6vac5A7r0tFelj0K1tA_qHvjSYKIciTcVlYZUCDhQgM9ipRmnzJhsi8sCgjccbkCaNuJlEV1GRtLFQ8DOh2cWtvF3Qg0-LRKr92RNYCa3RE7W8R26PlBGrZd6He95KOmL4E7yYhC9Hvd_yHe0YRSa7tgUegfojXQOZylw3AT58ZDhhnv-rRGMIfgh4vIWz7FikA10yeBxlTTFuXygskiVr495JI5SyMPqMJjxuwmhWVCHnVoxFOvBHRSoF8JXzxUiyc0uixmUAuvCxnOCnq7U4FpzAn-ZArm9uNipiHy7X3nvvj4MixQHKytVrym6N5TX6BqpwKxkJIprBU3kHdR8hDAkdY-85-2ZSZStdQKQHqDlwJC5dRWjodRaQQpCBiuzIlVS6K3cQDmQpJZX8i6rWkeo2RbK_ZYwSKpQW8irmwCRDIVFUNsZ9zSiLbxJ-RxDE1gBxRABJX4KIFMeZ_UWW9kNQjTaFOtizgBZqWvLKRVCeNEqXs8miTfxefHhy6Y2mrYWLCHF_BUdFWBHh69vjm00PHeQWURBCmBT5ryA3naQtNkS_9IcNrOtre0MprYLjHJRGVos14lVlnpUF8B5r93Bp8bg-gzlqaUJ46mLrZFqrb7cghP4NfDkbFPOtsOQB9JXYvAD6EtCoLKcrCnbOGcaKJuxtXjbgBlPadtMR0RGi1_Toli0xZtzIi9dWAxZMfNHQ9d_dBGa1k_ZVTwFf3i9q7sN8IxA9kB3Gs9f7NzgF9T1dB_e1UsiCs9TDqXt307JZB4q0nE43cvMmQjEwEP6lHCMsyzfWHMvdCCjjKOs4svK8igUZsxZFAa6y6fduHL2TpLbB_8lNIbidpqnrY3DGNGNoruUJWKAuv8QA6zKvFfy7GDOM9zaO_H6YPGWeP3ZAQnTRM3V1O_Ora_rMzpJCR9u-niF-YnPZF1T8O2Z-puzD0fgbRY-GE9Dak8A=",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=0f640f0c51160000f62d253f_0&from=LHR&lang=en&passengers=1&to=FCO&booking_token=HOTO6gHhzRbxCnBt3f7wkxTFjQeUvf1lkyypnHNI5yrr_RIR3k1FsyzYK4Oxs6G6kVZUtYXUug9SWKYtRWnTpfccSqGoPClnstRm82ZAmkd6vac5A7r0tFelj0K1tA_qHvjSYKIciTcVlYZUCDhQgM9ipRmnzJhsi8sCgjccbkCaNuJlEV1GRtLFQ8DOh2cWtvF3Qg0-LRKr92RNYCa3RE7W8R26PlBGrZd6He95KOmL4E7yYhC9Hvd_yHe0YRSa7tgUegfojXQOZylw3AT58ZDhhnv-rRGMIfgh4vIWz7FikA10yeBxlTTFuXygskiVr495JI5SyMPqMJjxuwmhWVCHnVoxFOvBHRSoF8JXzxUiyc0uixmUAuvCxnOCnq7U4FpzAn-ZArm9uNipiHy7X3nvvj4MixQHKytVrym6N5TX6BqpwKxkJIprBU3kHdR8hDAkdY-85-2ZSZStdQKQHqDlwJC5dRWjodRaQQpCBiuzIlVS6K3cQDmQpJZX8i6rWkeo2RbK_ZYwSKpQW8irmwCRDIVFUNsZ9zSiLbxJ-RxDE1gBxRABJX4KIFMeZ_UWW9kNQjTaFOtizgBZqWvLKRVCeNEqXs8miTfxefHhy6Y2mrYWLCHF_BUdFWBHh69vjm00PHeQWURBCmBT5ryA3naQtNkS_9IcNrOtre0MprYLjHJRGVos14lVlnpUF8B5r93Bp8bg-gzlqaUJ46mLrZFqrb7cghP4NfDkbFPOtsOQB9JXYvAD6EtCoLKcrCnbOGcaKJuxtXjbgBlPadtMR0RGi1_Toli0xZtzIi9dWAxZMfNHQ9d_dBGa1k_ZVTwFf3i9q7sN8IxA9kB3Gs9f7NzgF9T1dB_e1UsiCs9TDqXt307JZB4q0nE43cvMmQjEwEP6lHCMsyzfWHMvdCCjjKOs4svK8igUZsxZFAa6y6fduHL2TpLbB_8lNIbidpqnrY3DGNGNoruUJWKAuv8QA6zKvFfy7GDOM9zaO_H6YPGWeP3ZAQnTRM3V1O_Ora_rMzpJCR9u-niF-YnPZF1T8O2Z-puzD0fgbRY-GE9Dak8A=",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "0f641fb0511600002a079280_0|0f641fb0511600002a079280_1",
+      "flyFrom": "LHR",
+      "flyTo": "VCE",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "Venice",
+      "cityCodeTo": "VCE",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "IT",
+        "name": "Italy"
+      },
+      "local_departure": "2028-11-01T17:50:00.000Z",
+      "utc_departure": "2028-11-01T17:50:00.000Z",
+      "local_arrival": "2028-11-01T22:45:00.000Z",
+      "utc_arrival": "2028-11-01T21:45:00.000Z",
+      "nightsInDest": null,
+      "quality": 200.3333339691162,
+      "distance": 1153.08,
+      "duration": {
+        "departure": 14100,
+        "return": 0,
+        "total": 14100
+      },
+      "price": 149,
+      "conversion": {
+        "EUR": 149
+      },
+      "fare": {
+        "adults": 149,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 14.9,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 349,
+            "itinerary_price_remaining": 149,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 93.5,
+        "2": 288.5
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 93.5,
+          "2": 288.5
+        }
+      },
+      "baglimit": {
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 23,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 85,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 4,
+        "personal_item_width": 15
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "LH"
+      ],
+      "route": [
+        {
+          "id": "0f641fb0511600002a079280_0",
+          "combination_id": "0f641fb0511600002a079280",
+          "flyFrom": "LHR",
+          "flyTo": "MUC",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Munich",
+          "cityCodeTo": "MUC",
+          "local_departure": "2028-11-01T17:50:00.000Z",
+          "utc_departure": "2028-11-01T17:50:00.000Z",
+          "local_arrival": "2028-11-01T20:40:00.000Z",
+          "utc_arrival": "2028-11-01T19:40:00.000Z",
+          "airline": "LH",
+          "flight_no": 4197,
+          "operating_carrier": "VL",
+          "operating_flight_no": "",
+          "fare_basis": "L20LGTU9",
+          "fare_category": "M",
+          "fare_classes": "L",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        },
+        {
+          "id": "0f641fb0511600002a079280_1",
+          "combination_id": "0f641fb0511600002a079280",
+          "flyFrom": "MUC",
+          "flyTo": "VCE",
+          "cityFrom": "Munich",
+          "cityCodeFrom": "MUC",
+          "cityTo": "Venice",
+          "cityCodeTo": "VCE",
+          "local_departure": "2028-11-01T21:45:00.000Z",
+          "utc_departure": "2028-11-01T20:45:00.000Z",
+          "local_arrival": "2028-11-01T22:45:00.000Z",
+          "utc_arrival": "2028-11-01T21:45:00.000Z",
+          "airline": "LH",
+          "flight_no": 9460,
+          "operating_carrier": "EN",
+          "operating_flight_no": "1930",
+          "fare_basis": "L20LGTU9",
+          "fare_category": "M",
+          "fare_classes": "L",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HkrcDJwlWl0bKbr5QpcZXXTe_a68xaEhBaV9Ccy2VD8CIWn-vWeLqX_REwD8QdgUVJDRnDRD_nPP-ONBlFCO9mNEbXNe9GzYtyiMwiRGcJUvc3KS_kGrJ7PzRWeVjmxE9XOPH9iofzUue-ThAS4ZiVikk_08bElsfJnaqc7s8QQc9Lxt0cZnDQBhllqs06zIYbHNL5xvoFJndQqrpeiPW7zNKBbeF2gHuIzPuUbkcgJ41zHkkDH1CnrJ9iuSwH5G4dnGSTiAwLdIdQ31UUyoF-pHdn-yYJlf6scBtDcFoGNpm9T2TxOYVIy0rRWQsx6HMm8slGFVCG_QY3GOuvkrrK0xUwzqGDBcCwZOxJ5rBIzoqmD9TwYes_9LoMcXeSXVDYFXpCMdCjI3JK0UIIJUZsU0HgEv4gYNhjOfVn_rt2b_6HTY0ON8rChQ_5bEfHR3IZKlP7md1pukeTaJ2mRbLBPssnGgn7BEFFtAczmWCVPV6n9gxFoCoMneaj2p38IAaIxihsUmPHQf0rfTIRb5Q044CNX2J4DZoxY1Pc9uulGxYTID2d5Z24lQtIfsENqxSFR_aO0gIBDNsO5dRYbrnt2-IaXvSDzEZxN6yLxjnv1Poyt5fkiXaCuJM5sO3_UACs1pR-iKm3bLh2fGYwOwK5UVJFkOGOq2HgiaM8iawLbhgM22bm3_VEd6o5IcDy0NT1mDdSQNGztaN8XDRz7h4YgKdYNcK7sOEvJs5REBfJ8J2Jr0Gi64frdZnQ5QK2vcWPBgp1sKtdKw6Fd6tvBCcQfOn2YXRPMB3qqQakWLV9ZdihHRR3TiJ_X1HX9kzinulC5d2h_QLWWt5E5wBqCaYwp6d9wjrlXAHVmdiq6cVT_pN7qu-lfv98eL1QQnDhxn_UTmDW_gdH8ncjDIAXjtH_XBNZxTf3TfLBFf7NSEWrB8bFmYVfzJsYGheWnKKdySC6NhR5bxdwfHf5BhAg2Zuv_0uSBNgdVAtLQLAm49XwGLI16YuCGse9GW_Viue8j85Dokh3aFZllstbMhU74yV_9eMecP7HCyMNRAe_dFy9x9pq_WRQxaaPM34zfMoyaM5nTogWDUXzQPeVYloek9bRMcYYh11GhiNPbdpg3y_Ook=",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=0f641fb0511600002a079280_0%7C0f641fb0511600002a079280_1&from=LHR&lang=en&passengers=1&to=VCE&booking_token=HkrcDJwlWl0bKbr5QpcZXXTe_a68xaEhBaV9Ccy2VD8CIWn-vWeLqX_REwD8QdgUVJDRnDRD_nPP-ONBlFCO9mNEbXNe9GzYtyiMwiRGcJUvc3KS_kGrJ7PzRWeVjmxE9XOPH9iofzUue-ThAS4ZiVikk_08bElsfJnaqc7s8QQc9Lxt0cZnDQBhllqs06zIYbHNL5xvoFJndQqrpeiPW7zNKBbeF2gHuIzPuUbkcgJ41zHkkDH1CnrJ9iuSwH5G4dnGSTiAwLdIdQ31UUyoF-pHdn-yYJlf6scBtDcFoGNpm9T2TxOYVIy0rRWQsx6HMm8slGFVCG_QY3GOuvkrrK0xUwzqGDBcCwZOxJ5rBIzoqmD9TwYes_9LoMcXeSXVDYFXpCMdCjI3JK0UIIJUZsU0HgEv4gYNhjOfVn_rt2b_6HTY0ON8rChQ_5bEfHR3IZKlP7md1pukeTaJ2mRbLBPssnGgn7BEFFtAczmWCVPV6n9gxFoCoMneaj2p38IAaIxihsUmPHQf0rfTIRb5Q044CNX2J4DZoxY1Pc9uulGxYTID2d5Z24lQtIfsENqxSFR_aO0gIBDNsO5dRYbrnt2-IaXvSDzEZxN6yLxjnv1Poyt5fkiXaCuJM5sO3_UACs1pR-iKm3bLh2fGYwOwK5UVJFkOGOq2HgiaM8iawLbhgM22bm3_VEd6o5IcDy0NT1mDdSQNGztaN8XDRz7h4YgKdYNcK7sOEvJs5REBfJ8J2Jr0Gi64frdZnQ5QK2vcWPBgp1sKtdKw6Fd6tvBCcQfOn2YXRPMB3qqQakWLV9ZdihHRR3TiJ_X1HX9kzinulC5d2h_QLWWt5E5wBqCaYwp6d9wjrlXAHVmdiq6cVT_pN7qu-lfv98eL1QQnDhxn_UTmDW_gdH8ncjDIAXjtH_XBNZxTf3TfLBFf7NSEWrB8bFmYVfzJsYGheWnKKdySC6NhR5bxdwfHf5BhAg2Zuv_0uSBNgdVAtLQLAm49XwGLI16YuCGse9GW_Viue8j85Dokh3aFZllstbMhU74yV_9eMecP7HCyMNRAe_dFy9x9pq_WRQxaaPM34zfMoyaM5nTogWDUXzQPeVYloek9bRMcYYh11GhiNPbdpg3y_Ook=",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "0f641fb0511600006e889638_0|0f641fb0511600006e889638_1",
+      "flyFrom": "LHR",
+      "flyTo": "VCE",
+      "cityFrom": "London",
+      "cityCodeFrom": "LON",
+      "cityTo": "Venice",
+      "cityCodeTo": "VCE",
+      "countryFrom": {
+        "code": "GB",
+        "name": "United Kingdom"
+      },
+      "countryTo": {
+        "code": "IT",
+        "name": "Italy"
+      },
+      "local_departure": "2028-11-01T09:00:00.000Z",
+      "utc_departure": "2028-11-01T09:00:00.000Z",
+      "local_arrival": "2028-11-01T14:00:00.000Z",
+      "utc_arrival": "2028-11-01T13:00:00.000Z",
+      "nightsInDest": null,
+      "quality": 206,
+      "distance": 1153.08,
+      "duration": {
+        "departure": 14400,
+        "return": 0,
+        "total": 14400
+      },
+      "price": 154,
+      "conversion": {
+        "EUR": 154
+      },
+      "fare": {
+        "adults": 154,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 15.4,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 354,
+            "itinerary_price_remaining": 154,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 114.933792,
+        "2": 331.795639
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 114.933792,
+          "2": 331.795639
+        }
+      },
+      "baglimit": {
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 23,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 85,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 4,
+        "personal_item_width": 15
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "LX"
+      ],
+      "route": [
+        {
+          "id": "0f641fb0511600006e889638_0",
+          "combination_id": "0f641fb0511600006e889638",
+          "flyFrom": "LHR",
+          "flyTo": "ZRH",
+          "cityFrom": "London",
+          "cityCodeFrom": "LON",
+          "cityTo": "Zürich",
+          "cityCodeTo": "ZRH",
+          "local_departure": "2028-11-01T09:00:00.000Z",
+          "utc_departure": "2028-11-01T09:00:00.000Z",
+          "local_arrival": "2028-11-01T11:55:00.000Z",
+          "utc_arrival": "2028-11-01T10:55:00.000Z",
+          "airline": "LX",
+          "flight_no": 317,
+          "operating_carrier": "LX",
+          "operating_flight_no": "317",
+          "fare_basis": "L20LGTU9",
+          "fare_category": "M",
+          "fare_classes": "L",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        },
+        {
+          "id": "0f641fb0511600006e889638_1",
+          "combination_id": "0f641fb0511600006e889638",
+          "flyFrom": "ZRH",
+          "flyTo": "VCE",
+          "cityFrom": "Zürich",
+          "cityCodeFrom": "ZRH",
+          "cityTo": "Venice",
+          "cityCodeTo": "VCE",
+          "local_departure": "2028-11-01T12:55:00.000Z",
+          "utc_departure": "2028-11-01T11:55:00.000Z",
+          "local_arrival": "2028-11-01T14:00:00.000Z",
+          "utc_arrival": "2028-11-01T13:00:00.000Z",
+          "airline": "LX",
+          "flight_no": 1662,
+          "operating_carrier": "WK",
+          "operating_flight_no": "",
+          "fare_basis": "L20LGTU9",
+          "fare_category": "M",
+          "fare_classes": "L",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "Hhf4i6v_6Zlt0SaAo6cdxMIdpDX2ekI7C2gnm0tpeTpT_nx48LcR6DvKG1JaHVFN8pVxrB7oFDus7e29EqMhoWbYkfp2-WmzXfzJ1g2uLoLdItUTV2QeRKd1WMZ7ezP06Bws8voT0eamND4Ce1HwttaKYfmTor7U_eamGDkJ6sYebGkdClyZDYU09gM4CtIAD4czYQ02MeZuRAwcpBwhjVxZDRGctPnjWW7qQI8qUo-iUDWbfF4PsIItivf0cbW4BiFaMztRgUFEhN34WVfWdxg-F6pyn7cIzDaPxy47LIuDM4Df2JdkJTW0epa3vrxYClP89uxAEre4O0_-dcRMvT2muvB0MjJMFTxAWt7BGBeoHcJtQ8FEJVD5RcqbpbYhioudFwhr9e1tTcjwc0ezF7Mlw_1Y2b3GYLuUikRRSGZ76Q-3Z5aXbpLmVD3Una31bKHJQLUlNWBjPioqeEaOUKf-qC8K8ilxeqHVsNqvrQeksTlTik6lClav194ICg1dPhZvZBsfD0PEQITJXcMLePigOlfoP8Dg82nFEUVLHi97yszVh5wamYK6ZqG33cERBdikIZOM1E2-SiAuS8a_GiQPEcjk8sUaJNCPvyB06TyedVSJ-jk14qKLwhvKUQVyFa2dDAgHD9lEvZ30KzxX1uMg6d-_9woJZ1om8dTNdtTNKqv5AHcEgQn14ZKFYg58gJqqkGfCfOtRDuSAHyeDoV4IEhxZq0M4UqxXBTo1M7VhySALT-d1ppL9WOLeIa8uAu-NE0VRMvUaXqYCAzTuXNP0nT_t7HTZDvDPrBvkVl-74TTQdsfuhoeWvMj14kpY2FnbqpnS-_RJeKmsIBIU6gwWTBEOiaGWfy4oVWcU9tjJWrc1Lt4db0fQWjcMIZg6rM4Ze7meZrRygSkGJUSzlX0Waxg1Nu6CvpKl9dd-dOu-bH8-qK8Zh_BMRJacQedXTab8XPWL2QNHWkkIPfeYrU5CdJYouWaBb5LbOwIWsMlaRNBnMx-bONRS7Yp2ymmlqJ_nVtOdyIpk1kgQrQ8qCpEA3kqBqU_59Ko8lc72Spp2aHW8g4VY7r0zUoh4xn41FzWUVx6IkYHLb2Tsyk6eT6A==",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=0f641fb0511600006e889638_0%7C0f641fb0511600006e889638_1&from=LHR&lang=en&passengers=1&to=VCE&booking_token=Hhf4i6v_6Zlt0SaAo6cdxMIdpDX2ekI7C2gnm0tpeTpT_nx48LcR6DvKG1JaHVFN8pVxrB7oFDus7e29EqMhoWbYkfp2-WmzXfzJ1g2uLoLdItUTV2QeRKd1WMZ7ezP06Bws8voT0eamND4Ce1HwttaKYfmTor7U_eamGDkJ6sYebGkdClyZDYU09gM4CtIAD4czYQ02MeZuRAwcpBwhjVxZDRGctPnjWW7qQI8qUo-iUDWbfF4PsIItivf0cbW4BiFaMztRgUFEhN34WVfWdxg-F6pyn7cIzDaPxy47LIuDM4Df2JdkJTW0epa3vrxYClP89uxAEre4O0_-dcRMvT2muvB0MjJMFTxAWt7BGBeoHcJtQ8FEJVD5RcqbpbYhioudFwhr9e1tTcjwc0ezF7Mlw_1Y2b3GYLuUikRRSGZ76Q-3Z5aXbpLmVD3Una31bKHJQLUlNWBjPioqeEaOUKf-qC8K8ilxeqHVsNqvrQeksTlTik6lClav194ICg1dPhZvZBsfD0PEQITJXcMLePigOlfoP8Dg82nFEUVLHi97yszVh5wamYK6ZqG33cERBdikIZOM1E2-SiAuS8a_GiQPEcjk8sUaJNCPvyB06TyedVSJ-jk14qKLwhvKUQVyFa2dDAgHD9lEvZ30KzxX1uMg6d-_9woJZ1om8dTNdtTNKqv5AHcEgQn14ZKFYg58gJqqkGfCfOtRDuSAHyeDoV4IEhxZq0M4UqxXBTo1M7VhySALT-d1ppL9WOLeIa8uAu-NE0VRMvUaXqYCAzTuXNP0nT_t7HTZDvDPrBvkVl-74TTQdsfuhoeWvMj14kpY2FnbqpnS-_RJeKmsIBIU6gwWTBEOiaGWfy4oVWcU9tjJWrc1Lt4db0fQWjcMIZg6rM4Ze7meZrRygSkGJUSzlX0Waxg1Nu6CvpKl9dd-dOu-bH8-qK8Zh_BMRJacQedXTab8XPWL2QNHWkkIPfeYrU5CdJYouWaBb5LbOwIWsMlaRNBnMx-bONRS7Yp2ymmlqJ_nVtOdyIpk1kgQrQ8qCpEA3kqBqU_59Ko8lc72Spp2aHW8g4VY7r0zUoh4xn41FzWUVx6IkYHLb2Tsyk6eT6A==",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    }
+  ],
+  "_results": 10
+}

@@ -1,0 +1,1305 @@
+{
+  "search_id": "c41c5b34-d89b-44ef-b53c-51f09915bee5",
+  "currency": "EUR",
+  "fx_rate": 1,
+  "data": [
+    {
+      "id": "01af1dde5116000071224bbc_0",
+      "flyFrom": "BCN",
+      "flyTo": "MUC",
+      "cityFrom": "Barcelona",
+      "cityCodeFrom": "BCN",
+      "cityTo": "Munich",
+      "cityCodeTo": "MUC",
+      "countryFrom": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "countryTo": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "local_departure": "2028-11-01T06:50:00.000Z",
+      "utc_departure": "2028-11-01T05:50:00.000Z",
+      "local_arrival": "2028-11-01T09:00:00.000Z",
+      "utc_arrival": "2028-11-01T08:00:00.000Z",
+      "nightsInDest": null,
+      "quality": 69.33333396911621,
+      "distance": 1095.88,
+      "duration": {
+        "departure": 7800,
+        "return": 0,
+        "total": 7800
+      },
+      "price": 52,
+      "conversion": {
+        "EUR": 52
+      },
+      "fare": {
+        "adults": 52,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 10,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 252,
+            "itinerary_price_remaining": 52,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 85
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 85
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 115,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 20,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 15,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": 2
+      },
+      "airlines": [
+        "VY"
+      ],
+      "route": [
+        {
+          "id": "01af1dde5116000071224bbc_0",
+          "combination_id": "01af1dde5116000071224bbc",
+          "flyFrom": "BCN",
+          "flyTo": "MUC",
+          "cityFrom": "Barcelona",
+          "cityCodeFrom": "BCN",
+          "cityTo": "Munich",
+          "cityCodeTo": "MUC",
+          "local_departure": "2028-11-01T06:50:00.000Z",
+          "utc_departure": "2028-11-01T05:50:00.000Z",
+          "local_arrival": "2028-11-01T09:00:00.000Z",
+          "utc_arrival": "2028-11-01T08:00:00.000Z",
+          "airline": "VY",
+          "flight_no": 1160,
+          "operating_carrier": "VY",
+          "operating_flight_no": "1160",
+          "fare_basis": "PBAHCVY",
+          "fare_category": "M",
+          "fare_classes": "",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HC2ajURGWIG8jYZeKlYgvJs3JSKnYgGDoqoaq--FRHJcUDLvRBiNCyAf89lE2ZxejPaQBOkKfS_zGHesp51F0DvN80g4d_qlKmN7PQQA04RoNY7vjzZH5xwmUQm_R1FjgMFzOFO4RM0QOeWCI9EVpS6Kyk8hQ2FONJPPkAhH-a_OHT4e3JGer7jEwmRisDZM4IlRN2Sf7nUEwR4IQkm8fscNw09Cau-ck1m8fpLUpgKrBRAgA_raAsJAG7dy8j6OfZ1GWKFcrRUNWkU_E3qZr_RdnJt9Bj1I30tlz9eCAX8t_3P1yn31wgqPqLlCYwgzVqLQwd8a7tN2gqUQBC3irqReu-slK25xxzZp0oXDY1hbsyvIGsSPr58DKzYPHMQDStI_0b26muYwPhUqhEhfCsUt83k7hB-ddABW5y9gJkCoHIL7RkmI8tHtn4xm2THEjtOOXOMHuyyKx_Jez9kNw0lYGARHSh8oUn4YMnBwXyIdhsdG_LJHIdlpghtSgSGEr37bX6XBaRuFvMHVRbqnOKk7PqTanRsQtRTkkNm0etDJtNwlKwZB6LNw8xj1Hc8pVYMNScCBUDt7rt3p0azFIatPwtwwpdPq5Zxw2xtHXyLl4WKqsLm0zDgiBlmpKFeSbTUMlmvAVkvpsDmQBkY_EsDYsialGnJiDqOYUwdvA_7X-vss-ASkCsDO8kZHD63BSyKhGvpsB2pRt7u_VoFQIlM0lNQPFofH9F7qQ1gev3U5menO4-Pi54-hZNyc-1e-bZQ_GHawliII6uQiBZjiAGbln3jIDM2ndrxhGtCmEDUOcrsENn7UJ_WS8QQ6v1Gea1hSAlSKKtowtTGbuDRnGuu2gkMrijHxE1EVdwV-PdsiiYOEMdrbFa-byJhTVeRutd0u3iGjFseX_Ve6RcRrsp6ooRT8CHamcNQQ4PRVROVbFm0J-fSAziLZWgyhJYKsv",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=01af1dde5116000071224bbc_0&from=BCN&lang=en&passengers=1&to=MUC&booking_token=HC2ajURGWIG8jYZeKlYgvJs3JSKnYgGDoqoaq--FRHJcUDLvRBiNCyAf89lE2ZxejPaQBOkKfS_zGHesp51F0DvN80g4d_qlKmN7PQQA04RoNY7vjzZH5xwmUQm_R1FjgMFzOFO4RM0QOeWCI9EVpS6Kyk8hQ2FONJPPkAhH-a_OHT4e3JGer7jEwmRisDZM4IlRN2Sf7nUEwR4IQkm8fscNw09Cau-ck1m8fpLUpgKrBRAgA_raAsJAG7dy8j6OfZ1GWKFcrRUNWkU_E3qZr_RdnJt9Bj1I30tlz9eCAX8t_3P1yn31wgqPqLlCYwgzVqLQwd8a7tN2gqUQBC3irqReu-slK25xxzZp0oXDY1hbsyvIGsSPr58DKzYPHMQDStI_0b26muYwPhUqhEhfCsUt83k7hB-ddABW5y9gJkCoHIL7RkmI8tHtn4xm2THEjtOOXOMHuyyKx_Jez9kNw0lYGARHSh8oUn4YMnBwXyIdhsdG_LJHIdlpghtSgSGEr37bX6XBaRuFvMHVRbqnOKk7PqTanRsQtRTkkNm0etDJtNwlKwZB6LNw8xj1Hc8pVYMNScCBUDt7rt3p0azFIatPwtwwpdPq5Zxw2xtHXyLl4WKqsLm0zDgiBlmpKFeSbTUMlmvAVkvpsDmQBkY_EsDYsialGnJiDqOYUwdvA_7X-vss-ASkCsDO8kZHD63BSyKhGvpsB2pRt7u_VoFQIlM0lNQPFofH9F7qQ1gev3U5menO4-Pi54-hZNyc-1e-bZQ_GHawliII6uQiBZjiAGbln3jIDM2ndrxhGtCmEDUOcrsENn7UJ_WS8QQ6v1Gea1hSAlSKKtowtTGbuDRnGuu2gkMrijHxE1EVdwV-PdsiiYOEMdrbFa-byJhTVeRutd0u3iGjFseX_Ve6RcRrsp6ooRT8CHamcNQQ4PRVROVbFm0J-fSAziLZWgyhJYKsv",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "01af12625116000065e03db5_0|01af12625116000065e03db5_1",
+      "flyFrom": "BCN",
+      "flyTo": "DUS",
+      "cityFrom": "Barcelona",
+      "cityCodeFrom": "BCN",
+      "cityTo": "Düsseldorf",
+      "cityCodeTo": "DUS",
+      "countryFrom": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "countryTo": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "local_departure": "2028-11-01T20:35:00.000Z",
+      "utc_departure": "2028-11-01T19:35:00.000Z",
+      "local_arrival": "2028-11-02T08:45:00.000Z",
+      "utc_arrival": "2028-11-02T07:45:00.000Z",
+      "nightsInDest": null,
+      "quality": 189.33333587646484,
+      "distance": 1168.73,
+      "duration": {
+        "departure": 43800,
+        "return": 0,
+        "total": 43800
+      },
+      "price": 72,
+      "conversion": {
+        "EUR": 72
+      },
+      "fare": {
+        "adults": 72,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 10,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 272,
+            "itinerary_price_remaining": 72,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 76.5
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 76.5
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 8,
+        "hand_width": 23,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 23,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 80,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 4,
+        "personal_item_width": 10
+      },
+      "availability": {
+        "seats": 1
+      },
+      "airlines": [
+        "JU"
+      ],
+      "route": [
+        {
+          "id": "01af12625116000065e03db5_0",
+          "combination_id": "01af12625116000065e03db5",
+          "flyFrom": "BCN",
+          "flyTo": "BEG",
+          "cityFrom": "Barcelona",
+          "cityCodeFrom": "BCN",
+          "cityTo": "Belgrade",
+          "cityCodeTo": "BEG",
+          "local_departure": "2028-11-01T20:35:00.000Z",
+          "utc_departure": "2028-11-01T19:35:00.000Z",
+          "local_arrival": "2028-11-01T23:10:00.000Z",
+          "utc_arrival": "2028-11-01T22:10:00.000Z",
+          "airline": "JU",
+          "flight_no": 585,
+          "operating_carrier": "JU",
+          "operating_flight_no": "585",
+          "fare_basis": "TNB14OES",
+          "fare_category": "M",
+          "fare_classes": "T",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        },
+        {
+          "id": "01af12625116000065e03db5_1",
+          "combination_id": "01af12625116000065e03db5",
+          "flyFrom": "BEG",
+          "flyTo": "DUS",
+          "cityFrom": "Belgrade",
+          "cityCodeFrom": "BEG",
+          "cityTo": "Düsseldorf",
+          "cityCodeTo": "DUS",
+          "local_departure": "2028-11-02T06:30:00.000Z",
+          "utc_departure": "2028-11-02T05:30:00.000Z",
+          "local_arrival": "2028-11-02T08:45:00.000Z",
+          "utc_arrival": "2028-11-02T07:45:00.000Z",
+          "airline": "JU",
+          "flight_no": 360,
+          "operating_carrier": "JU",
+          "operating_flight_no": "360",
+          "fare_basis": "TNB14OES",
+          "fare_category": "M",
+          "fare_classes": "T",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HemEBBh2nzBpPNtFMSxRohKj-ouOy0VvM9w7W1L5_qv97DFc60loT6zo6SbwjFVQdwPM-8QLaA2GNsBy2_UZx9n8sgPFkYF3LFsOHPadh7D46E2FveFk1mqbZX0HiCufdTitOHet2EYykziOLhHiLkgkdMx-ZBSZeVQu5nDXgBE9-cAlSVh-4Yo6tAgjiiHtKBEMsgARLC2a8JF5G4HLIWjA8xhG5epQPOedWqjC-zZ3ukheSnZ1RUS9SZx7YG92DRHrYBTEqaY1QwvV25IgaQ9FKFpdfa690Kx8IUnnCN94XPpkITc178vkAgZwgkmT44rEjhH3OkPqvJ783KmV0AgrOfXBjiw5-te33jVeH4bhnfRH_X-mraIfCeuQZTNVIicpyCWDtdj1utzjRU9znryiwAiF4QNcXO9H5_OVR91hCZUMCE0KcrDdtJB9SMaQu1RF77vJBrx7_8b2kJj73at1hvJUvrgNnwjEpucML2YRdqhGkI0DdBTNsWIgAOj2pjaosZWxYxGxDLJjN-nT5lQvcNtOp0cfVfPtho463SfhE_tJK4IKY4gH1w0ZZJWvY2XbPFB2D3STevTMT1427KHctFLWywfKhJVoFw8wL3PILz9u-PRPYtifNGV0M0vNJ1tjbxAXpS5aBM7_6S2pU9CHzee7HoHe-w2V9tkH26WK_4Zrj94vtUbpNHxOSFvRg6YAvSbKnVS1Ven2OdNzFCH3U4eRaJ7SE7vYfAO-Bgs-h5KmHGdPLbUiZ5OYG2r5LrhavTaZTu4SDG8-jK8SjhuC654nK9kgtecoM1-jDqmZaiPb9bA_OpklcOEk8gKIwJoHAOqHr2BvU4IW_KtalpJijhwzDyq6pQPcs3FYea6DgMNKbfXwmyaZohTpTzjY6Ok2Y3F3OWNgtY0KoePeDt_CX-A3Ph-uu9oVRVWtJOTdsM_O4Lg27RzVg0oxWM8KqeKv5O5yP9mdzCawnqIKxgKXXYtzcHBxfrm64TCwHVC3rCE_eYx7jiqJTKP_ESib0",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=01af12625116000065e03db5_0%7C01af12625116000065e03db5_1&from=BCN&lang=en&passengers=1&to=DUS&booking_token=HemEBBh2nzBpPNtFMSxRohKj-ouOy0VvM9w7W1L5_qv97DFc60loT6zo6SbwjFVQdwPM-8QLaA2GNsBy2_UZx9n8sgPFkYF3LFsOHPadh7D46E2FveFk1mqbZX0HiCufdTitOHet2EYykziOLhHiLkgkdMx-ZBSZeVQu5nDXgBE9-cAlSVh-4Yo6tAgjiiHtKBEMsgARLC2a8JF5G4HLIWjA8xhG5epQPOedWqjC-zZ3ukheSnZ1RUS9SZx7YG92DRHrYBTEqaY1QwvV25IgaQ9FKFpdfa690Kx8IUnnCN94XPpkITc178vkAgZwgkmT44rEjhH3OkPqvJ783KmV0AgrOfXBjiw5-te33jVeH4bhnfRH_X-mraIfCeuQZTNVIicpyCWDtdj1utzjRU9znryiwAiF4QNcXO9H5_OVR91hCZUMCE0KcrDdtJB9SMaQu1RF77vJBrx7_8b2kJj73at1hvJUvrgNnwjEpucML2YRdqhGkI0DdBTNsWIgAOj2pjaosZWxYxGxDLJjN-nT5lQvcNtOp0cfVfPtho463SfhE_tJK4IKY4gH1w0ZZJWvY2XbPFB2D3STevTMT1427KHctFLWywfKhJVoFw8wL3PILz9u-PRPYtifNGV0M0vNJ1tjbxAXpS5aBM7_6S2pU9CHzee7HoHe-w2V9tkH26WK_4Zrj94vtUbpNHxOSFvRg6YAvSbKnVS1Ven2OdNzFCH3U4eRaJ7SE7vYfAO-Bgs-h5KmHGdPLbUiZ5OYG2r5LrhavTaZTu4SDG8-jK8SjhuC654nK9kgtecoM1-jDqmZaiPb9bA_OpklcOEk8gKIwJoHAOqHr2BvU4IW_KtalpJijhwzDyq6pQPcs3FYea6DgMNKbfXwmyaZohTpTzjY6Ok2Y3F3OWNgtY0KoePeDt_CX-A3Ph-uu9oVRVWtJOTdsM_O4Lg27RzVg0oxWM8KqeKv5O5yP9mdzCawnqIKxgKXXYtzcHBxfrm64TCwHVC3rCE_eYx7jiqJTKP_ESib0",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "01af1dde5116000024e20671_0|01af1dde5116000024e20671_1",
+      "flyFrom": "BCN",
+      "flyTo": "MUC",
+      "cityFrom": "Barcelona",
+      "cityCodeFrom": "BCN",
+      "cityTo": "Munich",
+      "cityCodeTo": "MUC",
+      "countryFrom": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "countryTo": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "local_departure": "2028-11-01T20:35:00.000Z",
+      "utc_departure": "2028-11-01T19:35:00.000Z",
+      "local_arrival": "2028-11-02T08:45:00.000Z",
+      "utc_arrival": "2028-11-02T07:45:00.000Z",
+      "nightsInDest": null,
+      "quality": 194.33333587646484,
+      "distance": 1095.88,
+      "duration": {
+        "departure": 43800,
+        "return": 0,
+        "total": 43800
+      },
+      "price": 77,
+      "conversion": {
+        "EUR": 77
+      },
+      "fare": {
+        "adults": 77,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 10,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 277,
+            "itinerary_price_remaining": 77,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 93.5
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 93.5
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 8,
+        "hand_width": 23,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 23,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 80,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 4,
+        "personal_item_width": 10
+      },
+      "availability": {
+        "seats": 1
+      },
+      "airlines": [
+        "JU"
+      ],
+      "route": [
+        {
+          "id": "01af1dde5116000024e20671_0",
+          "combination_id": "01af1dde5116000024e20671",
+          "flyFrom": "BCN",
+          "flyTo": "BEG",
+          "cityFrom": "Barcelona",
+          "cityCodeFrom": "BCN",
+          "cityTo": "Belgrade",
+          "cityCodeTo": "BEG",
+          "local_departure": "2028-11-01T20:35:00.000Z",
+          "utc_departure": "2028-11-01T19:35:00.000Z",
+          "local_arrival": "2028-11-01T23:10:00.000Z",
+          "utc_arrival": "2028-11-01T22:10:00.000Z",
+          "airline": "JU",
+          "flight_no": 585,
+          "operating_carrier": "JU",
+          "operating_flight_no": "585",
+          "fare_basis": "TNB14OES",
+          "fare_category": "M",
+          "fare_classes": "T",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        },
+        {
+          "id": "01af1dde5116000024e20671_1",
+          "combination_id": "01af1dde5116000024e20671",
+          "flyFrom": "BEG",
+          "flyTo": "MUC",
+          "cityFrom": "Belgrade",
+          "cityCodeFrom": "BEG",
+          "cityTo": "Munich",
+          "cityCodeTo": "MUC",
+          "local_departure": "2028-11-02T07:10:00.000Z",
+          "utc_departure": "2028-11-02T06:10:00.000Z",
+          "local_arrival": "2028-11-02T08:45:00.000Z",
+          "utc_arrival": "2028-11-02T07:45:00.000Z",
+          "airline": "JU",
+          "flight_no": 340,
+          "operating_carrier": "JU",
+          "operating_flight_no": "340",
+          "fare_basis": "TNB14OES",
+          "fare_category": "M",
+          "fare_classes": "T",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "H3wXxl-h58sosBC-Z4yQPFAlavKrrSWVV7K26ibFqLRTn7z3oEodlpM7p0nxoNfmdv3yQbxyijw7yONnd9NSALatjmCdYP_3Y8GjJ-JE6I5JJlw_3Yv05kwBnsjA9FDbZgdaTQSB3YjwE2ZYOsuPgTvaBnENlTxflvKp-rEoeOLEwMRc5UVT7rzoviWtaLeYwsiOVfl5V4pKuz8tHrt7ITvE6rXuqQhFjce4xTN6hwG7J76pW-kE3mviW2yBUfzgUTl1PjjSgAYO4mHdtmNGOTCi4__o5yQ3x-Z2xhr0dCxqk4ZDKC-TX845B1tngoUyrii9605qAWX3U0CWurK2bnVeL2C0AeDD4XPg_xj7bABmY46RAPJdeQf5ZXsta9Z_O_xLFSZQ2D5igVP_D1_KABS4ZtQCvYOP534a5YnDbd7EP2FP_t2UBT-ORzK8cyAxbvgsD6asQ0oAc9H8fT15Co_a_Z1_wmyh49jvuVbdFVg4fZ1nSRdfSrEuTPZxqWt-BxcjYZpImqAcP8kcup9X1WobYozZx1tZ3arC28zqhbj0PjUae-uxODtWm3HzGerfDzH-FT-TEegEWUWNi7kjHrzQ0fnZ8sqY5j5dkP5njVYa-yyKTqed_XYGwi1S1ZHlkeeIrfqLvuZf-5TT8WNpuuy9bZndzXjVLvkImAwpmj9rcQlYxPZFe9UIJSBCiFKM6k9C7OfKYUo-Ry1rA6LJvP915K3MpBSV483OwdOb5yZHvr65kuyGVGBzzSgeUvLmQE2jtHQczQ7bkWdMSUeOd4EnB94mgs8-buITl5EwKyeLJ7LekhAxpaYijheIdT4dKfCryD7cH2Ba0z3inzk0X2sljAYl67AtmDEJolQ7kqIALDXud6ZYLPrZiaUfC9uymj8oc3Cm4wSj9v8tk-F9AsbItVvjIB5E5IZug_i8hYhPt_b8HF6pT16raNcw6KRKoCrF-_UsgTj5BCCg5TEMIuBF12NofTHdZ8Wkwiapj0LJoJMtZ5rmMkZDQBFRSP1ME",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=01af1dde5116000024e20671_0%7C01af1dde5116000024e20671_1&from=BCN&lang=en&passengers=1&to=MUC&booking_token=H3wXxl-h58sosBC-Z4yQPFAlavKrrSWVV7K26ibFqLRTn7z3oEodlpM7p0nxoNfmdv3yQbxyijw7yONnd9NSALatjmCdYP_3Y8GjJ-JE6I5JJlw_3Yv05kwBnsjA9FDbZgdaTQSB3YjwE2ZYOsuPgTvaBnENlTxflvKp-rEoeOLEwMRc5UVT7rzoviWtaLeYwsiOVfl5V4pKuz8tHrt7ITvE6rXuqQhFjce4xTN6hwG7J76pW-kE3mviW2yBUfzgUTl1PjjSgAYO4mHdtmNGOTCi4__o5yQ3x-Z2xhr0dCxqk4ZDKC-TX845B1tngoUyrii9605qAWX3U0CWurK2bnVeL2C0AeDD4XPg_xj7bABmY46RAPJdeQf5ZXsta9Z_O_xLFSZQ2D5igVP_D1_KABS4ZtQCvYOP534a5YnDbd7EP2FP_t2UBT-ORzK8cyAxbvgsD6asQ0oAc9H8fT15Co_a_Z1_wmyh49jvuVbdFVg4fZ1nSRdfSrEuTPZxqWt-BxcjYZpImqAcP8kcup9X1WobYozZx1tZ3arC28zqhbj0PjUae-uxODtWm3HzGerfDzH-FT-TEegEWUWNi7kjHrzQ0fnZ8sqY5j5dkP5njVYa-yyKTqed_XYGwi1S1ZHlkeeIrfqLvuZf-5TT8WNpuuy9bZndzXjVLvkImAwpmj9rcQlYxPZFe9UIJSBCiFKM6k9C7OfKYUo-Ry1rA6LJvP915K3MpBSV483OwdOb5yZHvr65kuyGVGBzzSgeUvLmQE2jtHQczQ7bkWdMSUeOd4EnB94mgs8-buITl5EwKyeLJ7LekhAxpaYijheIdT4dKfCryD7cH2Ba0z3inzk0X2sljAYl67AtmDEJolQ7kqIALDXud6ZYLPrZiaUfC9uymj8oc3Cm4wSj9v8tk-F9AsbItVvjIB5E5IZug_i8hYhPt_b8HF6pT16raNcw6KRKoCrF-_UsgTj5BCCg5TEMIuBF12NofTHdZ8Wkwiapj0LJoJMtZ5rmMkZDQBFRSP1ME",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "01af1dde511600004f045fde_0",
+      "flyFrom": "BCN",
+      "flyTo": "MUC",
+      "cityFrom": "Barcelona",
+      "cityCodeFrom": "BCN",
+      "cityTo": "Munich",
+      "cityCodeTo": "MUC",
+      "countryFrom": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "countryTo": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "local_departure": "2028-11-01T06:50:00.000Z",
+      "utc_departure": "2028-11-01T05:50:00.000Z",
+      "local_arrival": "2028-11-01T09:00:00.000Z",
+      "utc_arrival": "2028-11-01T08:00:00.000Z",
+      "nightsInDest": null,
+      "quality": 101.33333396911621,
+      "distance": 1095.88,
+      "duration": {
+        "departure": 7800,
+        "return": 0,
+        "total": 7800
+      },
+      "price": 84,
+      "conversion": {
+        "EUR": 84
+      },
+      "fare": {
+        "adults": 84,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 10,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 284,
+            "itinerary_price_remaining": 84,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 47.6,
+        "2": 95.2
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 47.6,
+          "2": 95.2
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 121,
+        "hand_height": 40,
+        "hand_length": 56,
+        "hand_weight": 10,
+        "hand_width": 25,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 15,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 85,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 3,
+        "personal_item_width": 15
+      },
+      "availability": {
+        "seats": 4
+      },
+      "airlines": [
+        "IB"
+      ],
+      "route": [
+        {
+          "id": "01af1dde511600004f045fde_0",
+          "combination_id": "01af1dde511600004f045fde",
+          "flyFrom": "BCN",
+          "flyTo": "MUC",
+          "cityFrom": "Barcelona",
+          "cityCodeFrom": "BCN",
+          "cityTo": "Munich",
+          "cityCodeTo": "MUC",
+          "local_departure": "2028-11-01T06:50:00.000Z",
+          "utc_departure": "2028-11-01T05:50:00.000Z",
+          "local_arrival": "2028-11-01T09:00:00.000Z",
+          "utc_arrival": "2028-11-01T08:00:00.000Z",
+          "airline": "IB",
+          "flight_no": 5120,
+          "operating_carrier": "VY",
+          "operating_flight_no": "1160",
+          "fare_basis": "OOHVYM",
+          "fare_category": "M",
+          "fare_classes": "O",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HTtFtm13ixaF39Hx-kW8mMdqEMG3eDdsRjKlSh6jijuvyCHNfCCqtt43ad6UgNwzJ5-t3PIcO_79QaL2cmqUgJuPSdXpAccfVzkMt7AEtBPefe_dfxQ4X4fl3CO9MFQw-m1cn3E3BmPy-gnZC39rQeKDaRdx5JPClx9a7sp20xDVAHO62gRpvfwqgLZKeyTh5V1CbKMSuM9mzWNtIcDdevu39SiHYDWLFvZN6NVvUVg7puQGLDI4D7YkLbVl3UOzgV_JFOjDbacNoxIhvqy_BRJS_GJBLAVEuo-ViD7QkahdEzymITRkcyRimwEqV34tX9jvC_mvbPAsKMRSEU0_kr-vJ99xmc2ZL5hFWtfPxbyepy-YcMxOo0v6a2yijw5Oevru7lGupz9g91QU2FevuA49wzyBmWUXcr8BOi-m72ajq_lY40J4FpeXN_rxceHnipgOHOJGEVigdNrzZGk-cipTxi8N1Sfg5q0IwX311KIAI_pMfcOmT2x5wsrQywg_-xj-V-zl9G_wZcUa8uDH77NwK-IWMH0dGG06COFq7KM8fH6t-sA3EpmdeE9L6M0h2-yb-NSGlRhqQ5uB0G2YhET5nOg7nG9IzEXEB3yD0JittYV5GDx6MYNZ0qEci1RhAqdmYi-yaGZh5WPBnQSZ8aXu533nnnJDTy8ZIEVI6lhZM315ELya1Juzjc6C0XOcxa2vng4G-LigtrZP49c6MqzzOKGXwIYd46yrZo5rzA2-ezKJyyqyyqFv6Qs8eZDokr2GJzE3Vrfe-3wfM-MDjfSndfvoXMsRgRhFv6rdDyDQNLZm0rQLYBQzR1z7TWz9aSFK_5oquL5bgW6tZve_7HYKsrw4Qbnt4F0QyCwXuJKOjh_gB_NCe6WJMyoKUXW0EtCKZJ-HKxmJd_bc7OmpDrDXEIr8VoazakeL9tubcycZEeqwIwmLTtCC1n6kif_08dN6_d8Jq19gaCBuAOb0x0w==",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=01af1dde511600004f045fde_0&from=BCN&lang=en&passengers=1&to=MUC&booking_token=HTtFtm13ixaF39Hx-kW8mMdqEMG3eDdsRjKlSh6jijuvyCHNfCCqtt43ad6UgNwzJ5-t3PIcO_79QaL2cmqUgJuPSdXpAccfVzkMt7AEtBPefe_dfxQ4X4fl3CO9MFQw-m1cn3E3BmPy-gnZC39rQeKDaRdx5JPClx9a7sp20xDVAHO62gRpvfwqgLZKeyTh5V1CbKMSuM9mzWNtIcDdevu39SiHYDWLFvZN6NVvUVg7puQGLDI4D7YkLbVl3UOzgV_JFOjDbacNoxIhvqy_BRJS_GJBLAVEuo-ViD7QkahdEzymITRkcyRimwEqV34tX9jvC_mvbPAsKMRSEU0_kr-vJ99xmc2ZL5hFWtfPxbyepy-YcMxOo0v6a2yijw5Oevru7lGupz9g91QU2FevuA49wzyBmWUXcr8BOi-m72ajq_lY40J4FpeXN_rxceHnipgOHOJGEVigdNrzZGk-cipTxi8N1Sfg5q0IwX311KIAI_pMfcOmT2x5wsrQywg_-xj-V-zl9G_wZcUa8uDH77NwK-IWMH0dGG06COFq7KM8fH6t-sA3EpmdeE9L6M0h2-yb-NSGlRhqQ5uB0G2YhET5nOg7nG9IzEXEB3yD0JittYV5GDx6MYNZ0qEci1RhAqdmYi-yaGZh5WPBnQSZ8aXu533nnnJDTy8ZIEVI6lhZM315ELya1Juzjc6C0XOcxa2vng4G-LigtrZP49c6MqzzOKGXwIYd46yrZo5rzA2-ezKJyyqyyqFv6Qs8eZDokr2GJzE3Vrfe-3wfM-MDjfSndfvoXMsRgRhFv6rdDyDQNLZm0rQLYBQzR1z7TWz9aSFK_5oquL5bgW6tZve_7HYKsrw4Qbnt4F0QyCwXuJKOjh_gB_NCe6WJMyoKUXW0EtCKZJ-HKxmJd_bc7OmpDrDXEIr8VoazakeL9tubcycZEeqwIwmLTtCC1n6kif_08dN6_d8Jq19gaCBuAOb0x0w==",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "01af033451160000cf60e86f_0",
+      "flyFrom": "BCN",
+      "flyTo": "STR",
+      "cityFrom": "Barcelona",
+      "cityCodeFrom": "BCN",
+      "cityTo": "Stuttgart",
+      "cityCodeTo": "STR",
+      "countryFrom": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "countryTo": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "local_departure": "2028-11-01T06:30:00.000Z",
+      "utc_departure": "2028-11-01T05:30:00.000Z",
+      "local_arrival": "2028-11-01T08:30:00.000Z",
+      "utc_arrival": "2028-11-01T07:30:00.000Z",
+      "nightsInDest": null,
+      "quality": 130,
+      "distance": 995.8,
+      "duration": {
+        "departure": 7200,
+        "return": 0,
+        "total": 7200
+      },
+      "price": 114,
+      "conversion": {
+        "EUR": 114
+      },
+      "fare": {
+        "adults": 114,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 11.4,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 314,
+            "itinerary_price_remaining": 114,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 85
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 85
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 115,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 20,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 15,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "VY"
+      ],
+      "route": [
+        {
+          "id": "01af033451160000cf60e86f_0",
+          "combination_id": "01af033451160000cf60e86f",
+          "flyFrom": "BCN",
+          "flyTo": "STR",
+          "cityFrom": "Barcelona",
+          "cityCodeFrom": "BCN",
+          "cityTo": "Stuttgart",
+          "cityCodeTo": "STR",
+          "local_departure": "2028-11-01T06:30:00.000Z",
+          "utc_departure": "2028-11-01T05:30:00.000Z",
+          "local_arrival": "2028-11-01T08:30:00.000Z",
+          "utc_arrival": "2028-11-01T07:30:00.000Z",
+          "airline": "VY",
+          "flight_no": 1208,
+          "operating_carrier": "VY",
+          "operating_flight_no": "1208",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "M",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HGMN5IF2SqMM90Y4azZuGRG5p50eYODwLKfSZsD2OwtfztcPYVreI8_5jd1G9ApJ6ELJBkHd9XcugaCiu1zTcv_Spb_9wJplgUjCD3UboIwhJz84FSOJo2lBmgKWYPUYCxnDox3KmgByGKLDdscPRKDq6lmX-_mtoaTNXRggiOkJvebC2ZpzudT6ZcyfoA9OiKUhgu1vB3PkrTw4pLZA-2eMI03ZuukXpfGxarEV4eq7U9dnM5Q2b9la8AxojjOUnTqeOTnq2oH_c428EbjPk5rrgNtZ-CDakAgo30TGmovWEa9-cp3jv1sgdFT64cEvDR1xcUjJ4Tjh1BVFvhziA1TQZCTLvL_f1VLwp9WzwvE-IZcTDaFT7mZsbxs3sJIRBYkGQkD1aeV_F6b6v_kWz4CWJKsVRBeLOiMuyIkuat2MQSS2pCKYVCo2Ta7Z3uxbS0c-0P8NMA3tLmcZAqXQjjvH035-5Zh8llN6X85Uqfyfynlc1JH2JpDKf8CbQohEyHMKHRt3b9VJdOMRFVGdw7QPAzLyiQdP0pEkGWOL6VlzOPF98plq0_u5r7ltmL9Jl5vFA8eyp_IL4WkqjC3adtajg03ro2XGfb5xDYW01pGdBmNdoBpx3frO2ztPPGZ4IjtYvaDKMyhlobz9dud2PwDh1s3QHX0XthvyrZMOqJTOylmdoZmgX18o2mwzNbJ63wdGuxx2qS7NmwbhJNPb23w3RmU9jZEFgamCSMpqjhcpWSOJSllwYY93wj30QXjfKw-WhLaqorlweSviUpsQV28rnep2Q1iAPIVnAhgLpDDjF6UM-RX0tbTOoG9HL72deA6OVxC0JZiPj3Vd3Qomgjp4PNPrMTNjq5Ckk-M8S3c08kK1fSdUe2NuGy6s9T1EDsvRV3jlti9i65AQikXqYRSSsKLliOi6-MPg6hfLeTr-t_ibewCbnaStau_9T0A8i",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=01af033451160000cf60e86f_0&from=BCN&lang=en&passengers=1&to=STR&booking_token=HGMN5IF2SqMM90Y4azZuGRG5p50eYODwLKfSZsD2OwtfztcPYVreI8_5jd1G9ApJ6ELJBkHd9XcugaCiu1zTcv_Spb_9wJplgUjCD3UboIwhJz84FSOJo2lBmgKWYPUYCxnDox3KmgByGKLDdscPRKDq6lmX-_mtoaTNXRggiOkJvebC2ZpzudT6ZcyfoA9OiKUhgu1vB3PkrTw4pLZA-2eMI03ZuukXpfGxarEV4eq7U9dnM5Q2b9la8AxojjOUnTqeOTnq2oH_c428EbjPk5rrgNtZ-CDakAgo30TGmovWEa9-cp3jv1sgdFT64cEvDR1xcUjJ4Tjh1BVFvhziA1TQZCTLvL_f1VLwp9WzwvE-IZcTDaFT7mZsbxs3sJIRBYkGQkD1aeV_F6b6v_kWz4CWJKsVRBeLOiMuyIkuat2MQSS2pCKYVCo2Ta7Z3uxbS0c-0P8NMA3tLmcZAqXQjjvH035-5Zh8llN6X85Uqfyfynlc1JH2JpDKf8CbQohEyHMKHRt3b9VJdOMRFVGdw7QPAzLyiQdP0pEkGWOL6VlzOPF98plq0_u5r7ltmL9Jl5vFA8eyp_IL4WkqjC3adtajg03ro2XGfb5xDYW01pGdBmNdoBpx3frO2ztPPGZ4IjtYvaDKMyhlobz9dud2PwDh1s3QHX0XthvyrZMOqJTOylmdoZmgX18o2mwzNbJ63wdGuxx2qS7NmwbhJNPb23w3RmU9jZEFgamCSMpqjhcpWSOJSllwYY93wj30QXjfKw-WhLaqorlweSviUpsQV28rnep2Q1iAPIVnAhgLpDDjF6UM-RX0tbTOoG9HL72deA6OVxC0JZiPj3Vd3Qomgjp4PNPrMTNjq5Ckk-M8S3c08kK1fSdUe2NuGy6s9T1EDsvRV3jlti9i65AQikXqYRSSsKLliOi6-MPg6hfLeTr-t_ibewCbnaStau_9T0A8i",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "01af126251160000185a3cda_0",
+      "flyFrom": "BCN",
+      "flyTo": "DUS",
+      "cityFrom": "Barcelona",
+      "cityCodeFrom": "BCN",
+      "cityTo": "Düsseldorf",
+      "cityCodeTo": "DUS",
+      "countryFrom": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "countryTo": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "local_departure": "2028-11-01T06:30:00.000Z",
+      "utc_departure": "2028-11-01T05:30:00.000Z",
+      "local_arrival": "2028-11-01T08:45:00.000Z",
+      "utc_arrival": "2028-11-01T07:45:00.000Z",
+      "nightsInDest": null,
+      "quality": 163,
+      "distance": 1168.73,
+      "duration": {
+        "departure": 8100,
+        "return": 0,
+        "total": 8100
+      },
+      "price": 145,
+      "conversion": {
+        "EUR": 145
+      },
+      "fare": {
+        "adults": 145,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 14.5,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 345,
+            "itinerary_price_remaining": 145,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 85
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 85
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 115,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 20,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 25,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "VY"
+      ],
+      "route": [
+        {
+          "id": "01af126251160000185a3cda_0",
+          "combination_id": "01af126251160000185a3cda",
+          "flyFrom": "BCN",
+          "flyTo": "DUS",
+          "cityFrom": "Barcelona",
+          "cityCodeFrom": "BCN",
+          "cityTo": "Düsseldorf",
+          "cityCodeTo": "DUS",
+          "local_departure": "2028-11-01T06:30:00.000Z",
+          "utc_departure": "2028-11-01T05:30:00.000Z",
+          "local_arrival": "2028-11-01T08:45:00.000Z",
+          "utc_arrival": "2028-11-01T07:45:00.000Z",
+          "airline": "VY",
+          "flight_no": 1094,
+          "operating_carrier": "VY",
+          "operating_flight_no": "1094",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "L",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HctaN6zZMErNeQai52nej8E6zQLeTJxRAwzZk94mEg6GskA-Qlggs85roRPscfXcgvQLAdjKdvk610-WFZuTYM7-0dOAM-ZivjVak2E8ghX2aUyBsTLg8G0m-K1o8pt3wJr-_PvDJr29lG_BxuCCbJ7AVgPHF8E98zPskWmy9CK2QUwkkKK8KtbCWZPmxmK6GC5A0QMagrW5bSNn77Kfr6sBJGpUUluHuGlxl1y9hN3rrEHxVcwgzAocgBypzohDSO8uVeGU6d-UNIglt2mmm4TM22p3NpM4JXWO1gMYNGnX9u3tJhUcnN_83DqIQYkLotxfrnCelIkDB9l2e98pVoj7OMaoScvou2MDStbmEXKgROAucgyEKxdzPw9xXQXLxcFEYLGdyTopFrz-Vh3Sv0LyBoNydGXkCpTlZtjCeX_ejTZ-MLd-d7iWYeUdYMR9xSLvneTDdWtF-vJGn51cGY07Qg227DCr6aGtQsd04UvKsHqJ4VMgSOhlvccIjDhn3xGn7apAD51fgW57Qvs7Ya8PnObWK2pcMIySav-Qk7FTGF1p_-fA3kpBAJNvTXz67Xkm7RWdyKr3frP-EY7Tz0MLd7jKGkxquvyDsUTsX9mWC5Xn3VKbEAwXCcI6i9-plW9__3uvZGxUnScn1H-IhUALLG6qi3OezfyfEL-BiMt7d7tKxaQ8J37meU2yAIgdj0kIZ4DfcGwc1giRl0hIIyycV4mUagmUWvERc_OFkKSvMXfeHXEdC6MKPME8Pe_wq1l-xIp_jQ-dEP63dQBOIS9p0kyIzdTz45-Q1UcY1pkNkCX1ZIVLZy228z4le0gB-g9V5KkPch0jjagMHX6nSX-ccv0Qa5PZO2nxxwJiMuyKrVgIbytIgWN4ZYM4P8jsUrj-t_m_om5rwTBI-d6d9XQZAd4Asxye02tM2_OWHzoo=",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=01af126251160000185a3cda_0&from=BCN&lang=en&passengers=1&to=DUS&booking_token=HctaN6zZMErNeQai52nej8E6zQLeTJxRAwzZk94mEg6GskA-Qlggs85roRPscfXcgvQLAdjKdvk610-WFZuTYM7-0dOAM-ZivjVak2E8ghX2aUyBsTLg8G0m-K1o8pt3wJr-_PvDJr29lG_BxuCCbJ7AVgPHF8E98zPskWmy9CK2QUwkkKK8KtbCWZPmxmK6GC5A0QMagrW5bSNn77Kfr6sBJGpUUluHuGlxl1y9hN3rrEHxVcwgzAocgBypzohDSO8uVeGU6d-UNIglt2mmm4TM22p3NpM4JXWO1gMYNGnX9u3tJhUcnN_83DqIQYkLotxfrnCelIkDB9l2e98pVoj7OMaoScvou2MDStbmEXKgROAucgyEKxdzPw9xXQXLxcFEYLGdyTopFrz-Vh3Sv0LyBoNydGXkCpTlZtjCeX_ejTZ-MLd-d7iWYeUdYMR9xSLvneTDdWtF-vJGn51cGY07Qg227DCr6aGtQsd04UvKsHqJ4VMgSOhlvccIjDhn3xGn7apAD51fgW57Qvs7Ya8PnObWK2pcMIySav-Qk7FTGF1p_-fA3kpBAJNvTXz67Xkm7RWdyKr3frP-EY7Tz0MLd7jKGkxquvyDsUTsX9mWC5Xn3VKbEAwXCcI6i9-plW9__3uvZGxUnScn1H-IhUALLG6qi3OezfyfEL-BiMt7d7tKxaQ8J37meU2yAIgdj0kIZ4DfcGwc1giRl0hIIyycV4mUagmUWvERc_OFkKSvMXfeHXEdC6MKPME8Pe_wq1l-xIp_jQ-dEP63dQBOIS9p0kyIzdTz45-Q1UcY1pkNkCX1ZIVLZy228z4le0gB-g9V5KkPch0jjagMHX6nSX-ccv0Qa5PZO2nxxwJiMuyKrVgIbytIgWN4ZYM4P8jsUrj-t_m_om5rwTBI-d6d9XQZAd4Asxye02tM2_OWHzoo=",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "01af033451160000d8a0511c_0",
+      "flyFrom": "BCN",
+      "flyTo": "STR",
+      "cityFrom": "Barcelona",
+      "cityCodeFrom": "BCN",
+      "cityTo": "Stuttgart",
+      "cityCodeTo": "STR",
+      "countryFrom": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "countryTo": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "local_departure": "2028-11-01T19:25:00.000Z",
+      "utc_departure": "2028-11-01T18:25:00.000Z",
+      "local_arrival": "2028-11-01T21:20:00.000Z",
+      "utc_arrival": "2028-11-01T20:20:00.000Z",
+      "nightsInDest": null,
+      "quality": 161.3333330154419,
+      "distance": 995.8,
+      "duration": {
+        "departure": 6900,
+        "return": 0,
+        "total": 6900
+      },
+      "price": 146,
+      "conversion": {
+        "EUR": 146
+      },
+      "fare": {
+        "adults": 146,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 14.6,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 346,
+            "itinerary_price_remaining": 146,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 85
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 85
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 115,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 20,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 15,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "VY"
+      ],
+      "route": [
+        {
+          "id": "01af033451160000d8a0511c_0",
+          "combination_id": "01af033451160000d8a0511c",
+          "flyFrom": "BCN",
+          "flyTo": "STR",
+          "cityFrom": "Barcelona",
+          "cityCodeFrom": "BCN",
+          "cityTo": "Stuttgart",
+          "cityCodeTo": "STR",
+          "local_departure": "2028-11-01T19:25:00.000Z",
+          "utc_departure": "2028-11-01T18:25:00.000Z",
+          "local_arrival": "2028-11-01T21:20:00.000Z",
+          "utc_arrival": "2028-11-01T20:20:00.000Z",
+          "airline": "VY",
+          "flight_no": 1210,
+          "operating_carrier": "VY",
+          "operating_flight_no": "1210",
+          "fare_basis": "",
+          "fare_category": "M",
+          "fare_classes": "H",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HShLnV7UdNtU3bfT2uYNQTsoCODlT_7NERmlCSxqhZqv0gZV8Ui_Vu8rEcBURexsB7_C5-VRcDT4y4lffw8te1yPA_Tvr23oeiKyh6BE9GBhewcIxLVYIzglYaG_1Fjc82Tulq-Smo4Lz6dSOepYCetU1frpt9POiV8Znu-jrfBgyvhhzb5PEVHac_cb0ZriFlf6JauwsK2jHqM1VIseYpgSrSNtD2BMLbOoHenlm2Pgh0kAoorc1ZjjVpurwAmiMqq3yqsMWc9HdXH9R4q7pz538-sT0qA_2znFAlN7OVKTdxJllPajnjUjqATG5dnYtjqj1cjujuYU_-q8aaiN8YzKWDMDkq2otbT-cglpb_QQWWia_3Jfrg_kSEIARx6WltToCWJEHcNNMPEMzamJ1t3ARsaMrxb6e3C8Y4xTDwojiN2kPvCoP8cJ1ddpsZ24NIEPLYQQMZ3aZQElH3R1On5yQkiG4BJ4ZMw6rpS5uWgEnqFopU6-flFZXtSxwzoCfsnSs1h26yNVS49zQe94nFMSY7EyHXLL1VpVVSlqNQw0J9EnxPdTnOrMLFo2QJ-_MvmZqUxi_Fdb4t1ri-sVQH8XZJs3i41j_rUkIhw_6fzrYKPktjHuCKuf_8ci4qqti_Ig4LhTKhkva-3NHj9uwKDGb6WDJtXAA8OlV_wUkK0zv0wRvi5VaslyOyzjfIUahsqO7GcvBZfkZSBGkVeUfwVN6WunMEK8ZJzG8pqLI_NJyw2u1eavQusGLRf08umz056o_Ii2lL8LcZn53xGE7NMrxi_uRxh7VKb60qJ6Qbxtg3XZR8_i4gn7yguhQQcWshbScRmGxqzUd0Y82JCtryn-KRAbyjlNNzGh1pCo7Mwz_B34PYUoL7ubGPveMNFAiQDnSuw86z7IKXKm70Q6GhhewND8sRyXO_6ZTK123g9z3kfIOct80oPnt6nE4L3lH",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=01af033451160000d8a0511c_0&from=BCN&lang=en&passengers=1&to=STR&booking_token=HShLnV7UdNtU3bfT2uYNQTsoCODlT_7NERmlCSxqhZqv0gZV8Ui_Vu8rEcBURexsB7_C5-VRcDT4y4lffw8te1yPA_Tvr23oeiKyh6BE9GBhewcIxLVYIzglYaG_1Fjc82Tulq-Smo4Lz6dSOepYCetU1frpt9POiV8Znu-jrfBgyvhhzb5PEVHac_cb0ZriFlf6JauwsK2jHqM1VIseYpgSrSNtD2BMLbOoHenlm2Pgh0kAoorc1ZjjVpurwAmiMqq3yqsMWc9HdXH9R4q7pz538-sT0qA_2znFAlN7OVKTdxJllPajnjUjqATG5dnYtjqj1cjujuYU_-q8aaiN8YzKWDMDkq2otbT-cglpb_QQWWia_3Jfrg_kSEIARx6WltToCWJEHcNNMPEMzamJ1t3ARsaMrxb6e3C8Y4xTDwojiN2kPvCoP8cJ1ddpsZ24NIEPLYQQMZ3aZQElH3R1On5yQkiG4BJ4ZMw6rpS5uWgEnqFopU6-flFZXtSxwzoCfsnSs1h26yNVS49zQe94nFMSY7EyHXLL1VpVVSlqNQw0J9EnxPdTnOrMLFo2QJ-_MvmZqUxi_Fdb4t1ri-sVQH8XZJs3i41j_rUkIhw_6fzrYKPktjHuCKuf_8ci4qqti_Ig4LhTKhkva-3NHj9uwKDGb6WDJtXAA8OlV_wUkK0zv0wRvi5VaslyOyzjfIUahsqO7GcvBZfkZSBGkVeUfwVN6WunMEK8ZJzG8pqLI_NJyw2u1eavQusGLRf08umz056o_Ii2lL8LcZn53xGE7NMrxi_uRxh7VKb60qJ6Qbxtg3XZR8_i4gn7yguhQQcWshbScRmGxqzUd0Y82JCtryn-KRAbyjlNNzGh1pCo7Mwz_B34PYUoL7ubGPveMNFAiQDnSuw86z7IKXKm70Q6GhhewND8sRyXO_6ZTK123g9z3kfIOct80oPnt6nE4L3lH",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "01af12545116000035fd2734_0|01af12545116000035fd2734_1",
+      "flyFrom": "BCN",
+      "flyTo": "NUE",
+      "cityFrom": "Barcelona",
+      "cityCodeFrom": "BCN",
+      "cityTo": "Nuremberg",
+      "cityCodeTo": "NUE",
+      "countryFrom": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "countryTo": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "local_departure": "2028-11-01T05:55:00.000Z",
+      "utc_departure": "2028-11-01T04:55:00.000Z",
+      "local_arrival": "2028-11-01T09:45:00.000Z",
+      "utc_arrival": "2028-11-01T08:45:00.000Z",
+      "nightsInDest": null,
+      "quality": 200.6666660308838,
+      "distance": 1150.34,
+      "duration": {
+        "departure": 13800,
+        "return": 0,
+        "total": 13800
+      },
+      "price": 150,
+      "conversion": {
+        "EUR": 150
+      },
+      "fare": {
+        "adults": 150,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 15,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 350,
+            "itinerary_price_remaining": 150,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 51,
+        "2": 156
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 51,
+          "2": 156
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 118,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 8,
+        "hand_width": 23,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 23,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 85,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 4,
+        "personal_item_width": 15
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "LH"
+      ],
+      "route": [
+        {
+          "id": "01af12545116000035fd2734_0",
+          "combination_id": "01af12545116000035fd2734",
+          "flyFrom": "BCN",
+          "flyTo": "FRA",
+          "cityFrom": "Barcelona",
+          "cityCodeFrom": "BCN",
+          "cityTo": "Frankfurt",
+          "cityCodeTo": "FRA",
+          "local_departure": "2028-11-01T05:55:00.000Z",
+          "utc_departure": "2028-11-01T04:55:00.000Z",
+          "local_arrival": "2028-11-01T08:05:00.000Z",
+          "utc_arrival": "2028-11-01T07:05:00.000Z",
+          "airline": "LH",
+          "flight_no": 1137,
+          "operating_carrier": "LH",
+          "operating_flight_no": "1137",
+          "fare_basis": "L20LGTU9",
+          "fare_category": "M",
+          "fare_classes": "L",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        },
+        {
+          "id": "01af12545116000035fd2734_1",
+          "combination_id": "01af12545116000035fd2734",
+          "flyFrom": "FRA",
+          "flyTo": "NUE",
+          "cityFrom": "Frankfurt",
+          "cityCodeFrom": "FRA",
+          "cityTo": "Nuremberg",
+          "cityCodeTo": "NUE",
+          "local_departure": "2028-11-01T09:00:00.000Z",
+          "utc_departure": "2028-11-01T08:00:00.000Z",
+          "local_arrival": "2028-11-01T09:45:00.000Z",
+          "utc_arrival": "2028-11-01T08:45:00.000Z",
+          "airline": "LH",
+          "flight_no": 142,
+          "operating_carrier": "LH",
+          "operating_flight_no": "142",
+          "fare_basis": "L20LGTU9",
+          "fare_category": "M",
+          "fare_classes": "L",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "Hfz6xQXFvzIIqLKBFmqWrPTR9b2S4235l7Tuv9DqeGcjeouYQrJLycdUX9xDfPlaGUjGgmGuXq_KNef1n0FzTOH0zhoU_Zspux1C3bFtO4e_QE5MARkbYLTq1zxWj82T2U0pv9FpRgZ75Tb-97h44gVgeXo6MgaYDuUpT_ITVEZ-KxfF4M-Qe-BKmqkYSALRvkZDySBMfm1C43vi-JUZvKjBHkSHJKoakH2Juya7___g_L5cDrKAAz5cy3LSWZ60rsCiMl6gAopkWuSEW7yHiKbaRGI6UTvA-WpGmG9BlVDG1jz8FyzlvL_ETRMaM406D6zvUzRFZMzREhYCpBDEJdRJkjwYq0nFSU5NsKKnctC9Grlx8HPxFdktTmlJwcwIZAu_pFXxesVrgphVTaOHK5ozITMcs2u9Zed1Zc2ISdHvBTVu48EHJU4DzQPbF5duzjSUjJhr5zaLXG9Lv-FDDc4NDw3Rn5nkJU8ISW4NWbdnA3tAcF8o8pf13ms9w6TvZ_xsjv0MbpnO6YRaxYvscM-shS6AyHZJ6DyWxPiQ9ZFX5pqouQcl412FJMjbEj-TGPI00kH_MHlnhFCT9pGBLUmIkGpycKL3XmocDQ5SFof0nxtVxEYJpUF2J5YJqLadMgJZ-CHxx0qKZcv-b_Yr06LgCKq9NL1cEsCMPkit_T-mXRM92Deoqt-0lAJAlC0y9JrdlXDSOSX0NY3vCBliFLYQLD8Ey0_GBcPyxqwpVvEUfqWd4t5eTQ6ScNkiiQ3FHer2oo-Pi_PJXIU80OdW3X4WnRbYrduARL78TjA49-AepEuCHM4wLelXFVTm2mzY0YWlgcA_qJEoBfxuqLNgQoSnoVh-8uD1L_4z9TvB0hjIPtBV_ljuDXb5nJLX1eFqzUTQTnDORBXvTnkLu0bW_JrB3eI3ogKW3u2-DcQzM57wqlDZAurJE_Is6F_o77U6Qro7Q-hZqKABl2oykgETLOMPPJINB0B4QSCBKC-CnwEEU5NHGJhs_6w-Oeueca3uEqPNvN6lObgxZ7khnFqL4M-X5Fb8vSGQtN_3hPJe-_AtQ026uXMb9LYrkczl-E3xHkRh25X9H6KL6UJvWSVoHqVljLhcZdCMy-PUr1XEu0Ih07nKGsjDULQJ0a8P2SlA9",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=01af12545116000035fd2734_0%7C01af12545116000035fd2734_1&from=BCN&lang=en&passengers=1&to=NUE&booking_token=Hfz6xQXFvzIIqLKBFmqWrPTR9b2S4235l7Tuv9DqeGcjeouYQrJLycdUX9xDfPlaGUjGgmGuXq_KNef1n0FzTOH0zhoU_Zspux1C3bFtO4e_QE5MARkbYLTq1zxWj82T2U0pv9FpRgZ75Tb-97h44gVgeXo6MgaYDuUpT_ITVEZ-KxfF4M-Qe-BKmqkYSALRvkZDySBMfm1C43vi-JUZvKjBHkSHJKoakH2Juya7___g_L5cDrKAAz5cy3LSWZ60rsCiMl6gAopkWuSEW7yHiKbaRGI6UTvA-WpGmG9BlVDG1jz8FyzlvL_ETRMaM406D6zvUzRFZMzREhYCpBDEJdRJkjwYq0nFSU5NsKKnctC9Grlx8HPxFdktTmlJwcwIZAu_pFXxesVrgphVTaOHK5ozITMcs2u9Zed1Zc2ISdHvBTVu48EHJU4DzQPbF5duzjSUjJhr5zaLXG9Lv-FDDc4NDw3Rn5nkJU8ISW4NWbdnA3tAcF8o8pf13ms9w6TvZ_xsjv0MbpnO6YRaxYvscM-shS6AyHZJ6DyWxPiQ9ZFX5pqouQcl412FJMjbEj-TGPI00kH_MHlnhFCT9pGBLUmIkGpycKL3XmocDQ5SFof0nxtVxEYJpUF2J5YJqLadMgJZ-CHxx0qKZcv-b_Yr06LgCKq9NL1cEsCMPkit_T-mXRM92Deoqt-0lAJAlC0y9JrdlXDSOSX0NY3vCBliFLYQLD8Ey0_GBcPyxqwpVvEUfqWd4t5eTQ6ScNkiiQ3FHer2oo-Pi_PJXIU80OdW3X4WnRbYrduARL78TjA49-AepEuCHM4wLelXFVTm2mzY0YWlgcA_qJEoBfxuqLNgQoSnoVh-8uD1L_4z9TvB0hjIPtBV_ljuDXb5nJLX1eFqzUTQTnDORBXvTnkLu0bW_JrB3eI3ogKW3u2-DcQzM57wqlDZAurJE_Is6F_o77U6Qro7Q-hZqKABl2oykgETLOMPPJINB0B4QSCBKC-CnwEEU5NHGJhs_6w-Oeueca3uEqPNvN6lObgxZ7khnFqL4M-X5Fb8vSGQtN_3hPJe-_AtQ026uXMb9LYrkczl-E3xHkRh25X9H6KL6UJvWSVoHqVljLhcZdCMy-PUr1XEu0Ih07nKGsjDULQJ0a8P2SlA9",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "01af1dde51160000764f8fa5_0",
+      "flyFrom": "BCN",
+      "flyTo": "MUC",
+      "cityFrom": "Barcelona",
+      "cityCodeFrom": "BCN",
+      "cityTo": "Munich",
+      "cityCodeTo": "MUC",
+      "countryFrom": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "countryTo": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "local_departure": "2028-11-01T18:10:00.000Z",
+      "utc_departure": "2028-11-01T17:10:00.000Z",
+      "local_arrival": "2028-11-01T20:15:00.000Z",
+      "utc_arrival": "2028-11-01T19:15:00.000Z",
+      "nightsInDest": null,
+      "quality": 170.6666660308838,
+      "distance": 1095.88,
+      "duration": {
+        "departure": 7500,
+        "return": 0,
+        "total": 7500
+      },
+      "price": 154,
+      "conversion": {
+        "EUR": 154
+      },
+      "fare": {
+        "adults": 154,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 15.4,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 354,
+            "itinerary_price_remaining": 154,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 71.4
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 71.4
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 115,
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 10,
+        "hand_width": 20,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 25,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 90,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 10,
+        "personal_item_width": 20
+      },
+      "availability": {
+        "seats": 9
+      },
+      "airlines": [
+        "VY"
+      ],
+      "route": [
+        {
+          "id": "01af1dde51160000764f8fa5_0",
+          "combination_id": "01af1dde51160000764f8fa5",
+          "flyFrom": "BCN",
+          "flyTo": "MUC",
+          "cityFrom": "Barcelona",
+          "cityCodeFrom": "BCN",
+          "cityTo": "Munich",
+          "cityCodeTo": "MUC",
+          "local_departure": "2028-11-01T18:10:00.000Z",
+          "utc_departure": "2028-11-01T17:10:00.000Z",
+          "local_arrival": "2028-11-01T20:15:00.000Z",
+          "utc_arrival": "2028-11-01T19:15:00.000Z",
+          "airline": "VY",
+          "flight_no": 1164,
+          "operating_carrier": "VY",
+          "operating_flight_no": "1164",
+          "fare_basis": "KBAHCVY",
+          "fare_category": "M",
+          "fare_classes": "",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HFmK-ex8TyXHI91mKBx77Bs71WP_Zy3GbMUqJJf67UgSsp2_w9tvm0ogklbFJ9bp8CqT4GwmflAeTmLp0_VI03nLUUo2L933VafUPHjXU3Ae6EwKg2x9hHWme1B_LWgRgSFsGkYfpoYvr14_jDmzj6Vsay_KX79GFS7730-ZySPQ5yZot_gPzMYnNMAOvIcFpDn2N77ck4D4_BL-GVAi9M6LjcUVNq1NeK2DCb1yUW_S0lNZ2Q-rE31hEA-KOENQ1suBWQqWj9025pZuKX3Zvpdhh2zqdusrtLBBqmeKjanbVsqatjgHaiZpSHmE0Megjep9l4u1qY-tPCCGzfwFQPT0wcMcrlLJ9AiMVDmNg_7IpDpbMRSlQ4L-epwSwuGLWWs61_dVd3l4_6TIMTWJMmLYZfcwcp3IY1iz8hXkmD-tzYBbRcNC0kJFzQgVjqcfCx29IEk-5WB80xolgk82t5fHQ4EReo9EqylSozfyFesf6ASAkZlT_q1cklIqrZx7FnPAlAh27ktl9w6q9ibbSrmiARGb_DmuDMBjJN-iW-0E7KQykYJsGhfeW_EekInW8jAVOanmjP6JLM3r44hcm1oNilB9v5BsUQCIdx5GnxyT-YVnFHitC5japEnEWyLR47AJzBmUo1KebEz27FVrlhlel0JPw2-_-IAVa2lShapgxGtCPtZ3eN_ZpbGBjSpmlmYROyQKXBQWzOjtVay--9pTAff_F9rO4vunq703ti5kMAm5GHixknyAZpPyGlxai8O9xglBW0fymUfN8BLqks7LCEspd9qG29U3YhE3GO37UoaRTTwWK6q4Tg27ifTTm4BtWl757xLRBHpYLGkJcHNECbYFILF2a_E0DzlLHGplVOBkZJ6eIzzQQHVsHk4ycRCqO6xIz6VGTlOeY2W3eyqPBxZihXOF1n7pWqaxyeRL9-2gD5YD_BnvLl_NJt1wU",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=01af1dde51160000764f8fa5_0&from=BCN&lang=en&passengers=1&to=MUC&booking_token=HFmK-ex8TyXHI91mKBx77Bs71WP_Zy3GbMUqJJf67UgSsp2_w9tvm0ogklbFJ9bp8CqT4GwmflAeTmLp0_VI03nLUUo2L933VafUPHjXU3Ae6EwKg2x9hHWme1B_LWgRgSFsGkYfpoYvr14_jDmzj6Vsay_KX79GFS7730-ZySPQ5yZot_gPzMYnNMAOvIcFpDn2N77ck4D4_BL-GVAi9M6LjcUVNq1NeK2DCb1yUW_S0lNZ2Q-rE31hEA-KOENQ1suBWQqWj9025pZuKX3Zvpdhh2zqdusrtLBBqmeKjanbVsqatjgHaiZpSHmE0Megjep9l4u1qY-tPCCGzfwFQPT0wcMcrlLJ9AiMVDmNg_7IpDpbMRSlQ4L-epwSwuGLWWs61_dVd3l4_6TIMTWJMmLYZfcwcp3IY1iz8hXkmD-tzYBbRcNC0kJFzQgVjqcfCx29IEk-5WB80xolgk82t5fHQ4EReo9EqylSozfyFesf6ASAkZlT_q1cklIqrZx7FnPAlAh27ktl9w6q9ibbSrmiARGb_DmuDMBjJN-iW-0E7KQykYJsGhfeW_EekInW8jAVOanmjP6JLM3r44hcm1oNilB9v5BsUQCIdx5GnxyT-YVnFHitC5japEnEWyLR47AJzBmUo1KebEz27FVrlhlel0JPw2-_-IAVa2lShapgxGtCPtZ3eN_ZpbGBjSpmlmYROyQKXBQWzOjtVay--9pTAff_F9rO4vunq703ti5kMAm5GHixknyAZpPyGlxai8O9xglBW0fymUfN8BLqks7LCEspd9qG29U3YhE3GO37UoaRTTwWK6q4Tg27ifTTm4BtWl757xLRBHpYLGkJcHNECbYFILF2a_E0DzlLHGplVOBkZJ6eIzzQQHVsHk4ycRCqO6xIz6VGTlOeY2W3eyqPBxZihXOF1n7pWqaxyeRL9-2gD5YD_BnvLl_NJt1wU",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    },
+    {
+      "id": "01af03345116000028bd7431_0",
+      "flyFrom": "BCN",
+      "flyTo": "STR",
+      "cityFrom": "Barcelona",
+      "cityCodeFrom": "BCN",
+      "cityTo": "Stuttgart",
+      "cityCodeTo": "STR",
+      "countryFrom": {
+        "code": "ES",
+        "name": "Spain"
+      },
+      "countryTo": {
+        "code": "DE",
+        "name": "Germany"
+      },
+      "local_departure": "2028-11-01T19:25:00.000Z",
+      "utc_departure": "2028-11-01T18:25:00.000Z",
+      "local_arrival": "2028-11-01T21:20:00.000Z",
+      "utc_arrival": "2028-11-01T20:20:00.000Z",
+      "nightsInDest": null,
+      "quality": 239.3333330154419,
+      "distance": 995.8,
+      "duration": {
+        "departure": 6900,
+        "return": 0,
+        "total": 6900
+      },
+      "price": 224,
+      "conversion": {
+        "EUR": 224
+      },
+      "fare": {
+        "adults": 224,
+        "children": 0,
+        "infants": 0
+      },
+      "fare_locks": {
+        "EUR": [
+          {
+            "price": 22.4,
+            "default": true,
+            "duration": "P3D",
+            "itinerary_price_limit": 424,
+            "itinerary_price_remaining": 224,
+            "fare_lock_kind": "fee",
+            "rule_instance_id": 26748,
+            "version": "v1"
+          }
+        ]
+      },
+      "bags_price": {
+        "1": 47.6,
+        "2": 95.2
+      },
+      "bags_conversion": {
+        "EUR": {
+          "1": 47.6,
+          "2": 95.2
+        }
+      },
+      "baglimit": {
+        "hand_dimensions_sum": 121,
+        "hand_height": 40,
+        "hand_length": 56,
+        "hand_weight": 10,
+        "hand_width": 25,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 15,
+        "hold_width": 28,
+        "personal_item_dimensions_sum": 85,
+        "personal_item_height": 30,
+        "personal_item_length": 40,
+        "personal_item_weight": 3,
+        "personal_item_width": 15
+      },
+      "availability": {
+        "seats": 4
+      },
+      "airlines": [
+        "IB"
+      ],
+      "route": [
+        {
+          "id": "01af03345116000028bd7431_0",
+          "combination_id": "01af03345116000028bd7431",
+          "flyFrom": "BCN",
+          "flyTo": "STR",
+          "cityFrom": "Barcelona",
+          "cityCodeFrom": "BCN",
+          "cityTo": "Stuttgart",
+          "cityCodeTo": "STR",
+          "local_departure": "2028-11-01T19:25:00.000Z",
+          "utc_departure": "2028-11-01T18:25:00.000Z",
+          "local_arrival": "2028-11-01T21:20:00.000Z",
+          "utc_arrival": "2028-11-01T20:20:00.000Z",
+          "airline": "IB",
+          "flight_no": 5398,
+          "operating_carrier": "VY",
+          "operating_flight_no": "1210",
+          "fare_basis": "HOHMVY",
+          "fare_category": "M",
+          "fare_classes": "H",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft"
+        }
+      ],
+      "booking_token": "HmHQmOUKHSeGKRBQ4b8q8Yqr5JYzibpLWcJ4Mtnv66rtUZW6aFjxNsBxp5wclAnQmvwkhCpjIRwlDXWZgmCPoY4i6FW-dDgzCPExiPSuEKH2YmEkLXurOsXNP6fbfxsEGIdLMpR0A3LhPCSSoI4DvYNJfUObwgNS0RdvX4o6KUUe9ZxQo89tp0-tx0wIjFaBeppiEu2U07ptP1Asal1GnFDsfNRsq5m0Dr3ZMJOi14c4tlmh-rw64QSlVsfFyc91gtYfSR9X9rWv3vsi5gkDaPvheC8XJjBlBuMkBDRsCP7u7r3Wh827W79xNWuS5GLXaQz381kV05Y3Wb3KuUERG10xix5jjKqeDMp2EiXz_aeOyxaNpZ4g7oEGx34fohDmLvdGzZxV6p1FbAHoevf96RaGk0n-D0_b_-EJ5BvpIPBV4_LcK2VT5xYCH86TtSE3dIfiFmr2BfaTap0s-nI_e5ak2m0IvcOxAK0Xaqyo-n5jAtyR9w0a-__gjNxcntY1BLXxkMDo6Ye6fafvM85IMlnrsUJGlxYI5NQyX5GRFAbTvjcWPv0YqiE30Ap7Qos_2oVedTaLlayFcxjIOf68zgrYYIqOiDCuQEuzkfQlvLOOdwloG8HoJyvvjo3GRheTsXarrkxT45sBg669wg2CKMbdcmPNeG476s-QeHT233LY_Rg3VPXSKV-KmbUeE8gIujsH_YDYsXMdoWNy_VANYkDH7_8NR5w8Nhz4Y7Jivflwb4ViyBDBjmYighlJZ9vmxMdUUZJIyaJrpTz3HVbktrTOQ6n6ZqeRiiwOFTnXP76xK09g9AIilZpZOgYZqrP4b98JbrImioPjf0nawC6lYO3crhJrw9_gaIObbVapy5gXsW-y0wQ_IZTlWzA4K-Tz7iOp4n6SCXTi_xJYjjqk-4JeqKwiFCPD1nClGyxV7hkVFopyyOpWueYamGnrivu9uFPCkYKKgFAssP5Z4DmG5rEI4j5py7uFFwW-xlE-98no=",
+      "deep_link": "https://www.kiwi.com/deep?affilid=apayasabcde&currency=EUR&flightsId=01af03345116000028bd7431_0&from=BCN&lang=en&passengers=1&to=STR&booking_token=HmHQmOUKHSeGKRBQ4b8q8Yqr5JYzibpLWcJ4Mtnv66rtUZW6aFjxNsBxp5wclAnQmvwkhCpjIRwlDXWZgmCPoY4i6FW-dDgzCPExiPSuEKH2YmEkLXurOsXNP6fbfxsEGIdLMpR0A3LhPCSSoI4DvYNJfUObwgNS0RdvX4o6KUUe9ZxQo89tp0-tx0wIjFaBeppiEu2U07ptP1Asal1GnFDsfNRsq5m0Dr3ZMJOi14c4tlmh-rw64QSlVsfFyc91gtYfSR9X9rWv3vsi5gkDaPvheC8XJjBlBuMkBDRsCP7u7r3Wh827W79xNWuS5GLXaQz381kV05Y3Wb3KuUERG10xix5jjKqeDMp2EiXz_aeOyxaNpZ4g7oEGx34fohDmLvdGzZxV6p1FbAHoevf96RaGk0n-D0_b_-EJ5BvpIPBV4_LcK2VT5xYCH86TtSE3dIfiFmr2BfaTap0s-nI_e5ak2m0IvcOxAK0Xaqyo-n5jAtyR9w0a-__gjNxcntY1BLXxkMDo6Ye6fafvM85IMlnrsUJGlxYI5NQyX5GRFAbTvjcWPv0YqiE30Ap7Qos_2oVedTaLlayFcxjIOf68zgrYYIqOiDCuQEuzkfQlvLOOdwloG8HoJyvvjo3GRheTsXarrkxT45sBg669wg2CKMbdcmPNeG476s-QeHT233LY_Rg3VPXSKV-KmbUeE8gIujsH_YDYsXMdoWNy_VANYkDH7_8NR5w8Nhz4Y7Jivflwb4ViyBDBjmYighlJZ9vmxMdUUZJIyaJrpTz3HVbktrTOQ6n6ZqeRiiwOFTnXP76xK09g9AIilZpZOgYZqrP4b98JbrImioPjf0nawC6lYO3crhJrw9_gaIObbVapy5gXsW-y0wQ_IZTlWzA4K-Tz7iOp4n6SCXTi_xJYjjqk-4JeqKwiFCPD1nClGyxV7hkVFopyyOpWueYamGnrivu9uFPCkYKKgFAssP5Z4DmG5rEI4j5py7uFFwW-xlE-98no=",
+      "facilitated_booking_available": true,
+      "pnr_count": 1,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": false
+    }
+  ],
+  "_results": 10
+}
