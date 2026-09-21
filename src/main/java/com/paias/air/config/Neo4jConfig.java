@@ -5,7 +5,6 @@ import ac.simons.neo4j.migrations.core.MigrationsConfig;
 import com.paias.air.model.n4j.heuristics.Route;
 import com.paias.air.n4j.YearMonthReadConverter;
 import com.paias.air.n4j.YearMonthWriteConverter;
-import jakarta.annotation.Nullable;
 import org.neo4j.driver.AuthTokens;
 import org.neo4j.driver.Driver;
 import org.neo4j.driver.GraphDatabase;
@@ -37,11 +36,15 @@ public class Neo4jConfig extends AbstractNeo4jConfig {
     private String port;
     @Value("${neo4j.url}")
     private String url;
+    @Value("${neo4j.username}")
+    private String username;
+    @Value("${neo4j.password}")
+    private String password;
 
     @Override
     @Bean
     public Driver driver() {
-        return GraphDatabase.driver(url +":" + port, AuthTokens.basic("neo4j", "password"));
+        return GraphDatabase.driver(url +":" + port, AuthTokens.basic(username, password));
     }
 
     @Override

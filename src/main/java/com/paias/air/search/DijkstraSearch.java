@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
 @Slf4j
 public class DijkstraSearch {
     public static final int SEARCH_WINDOW_MONTHS = 36;
-    public static final int DESTINATION_STAY = 10 * 86400;
+    public static final int DEFAULT_DESTINATION_STAY = 10 * 86400;
     public static final int MAX_LAYOVER = 6 * 86400;
     public static final int MIN_LAYOVER = 4 * 3600;
     private static final Comparator<State> BY_COST =
@@ -30,18 +30,21 @@ public class DijkstraSearch {
     private final List<Set<Integer>> intermediaryDestinations = new ArrayList<>();
     private final List<Integer> intermediaryCountryIds = new ArrayList<>();
     private final StateKey tempKey = new StateKey(0, 0, 0);
+    private int edgeCount = 0;
 
     private CostCalculator costCalculator;
     private final int minLayover;
     private final int maxLayover;
+    private final int destinationStay;
 
     public DijkstraSearch(List<Flight> flights, LocationCodeMapper locationCodeMapper,
-                          AirportConnectionFinder airportConnectionFinder, Integer minLayover, Integer maxLayover) {
+                          AirportConnectionFinder airportConnectionFinder, Integer minLayover, Integer maxLayover, Integer destinationStay) {
         this.locationCodeMapper = locationCodeMapper;
         this.flightsByAirport = flightsByDepartureAirport(flights);
         this.airportConnectionFinder = airportConnectionFinder;
         this.minLayover = minLayover != null ? minLayover * 3600 : MIN_LAYOVER;
         this.maxLayover = maxLayover != null ? maxLayover * 3600 : MAX_LAYOVER;
+        this.destinationStay = destinationStay != null ? Math.max(0, destinationStay * 86400 - this.minLayover) : DEFAULT_DESTINATION_STAY;
         bestCost = new HashMap<>(flights.size() * 2);
     }
 
@@ -111,6 +114,7 @@ public class DijkstraSearch {
         while (!queue.isEmpty() && !found) {
             processNode();
         }
+        log.info("Processed {} edges of a graph", edgeCount);
         return shortestPath;
     }
 
@@ -152,18 +156,10 @@ public class DijkstraSearch {
     private void advancePhase(State state) {
         Integer countryId = intermediaryCountryIds.get(state.key.phase);
         if (countryId != null) {
-            StateKey transitionKey =
-                    new StateKey(countryId,
-                            state.key.time + DESTINATION_STAY,
-                            state.key.phase + 1);
-            updateIfBetter(state, countryId, state.key.time + DESTINATION_STAY, state.key.phase + 1, state.cost, null);
+            updateIfBetter(state, countryId, state.key.time + destinationStay, state.key.phase + 1, state.cost, null);
         } else {
             for (Integer airportId : intermediaryDestinations.get(state.key.phase)) {
-                StateKey transitionKey =
-                        new StateKey(airportId,
-                                state.key.time + DESTINATION_STAY,
-                                state.key.phase + 1);
-                updateIfBetter(state, airportId, state.key.time + DESTINATION_STAY, state.key.phase + 1, state.cost, null);
+                updateIfBetter(state, airportId, state.key.time + destinationStay, state.key.phase + 1, state.cost, null);
             }
         }
     }
@@ -182,6 +178,7 @@ public class DijkstraSearch {
         }
         SFlight flight = flights.get(i);
         while (flight.fromTime < toTime) {
+            edgeCount++;
             int newCost = costCalculator.calculate(state, flight);
 
             updateIfBetter(state, flight.toAirport, flight.toTime, state.key.phase, newCost, flight);
@@ -289,5 +286,6 @@ public class DijkstraSearch {
         intermediaryDestinations.clear();
         intermediaryCountryIds.clear();
         found = false;
+        edgeCount = 0;
     }
 }

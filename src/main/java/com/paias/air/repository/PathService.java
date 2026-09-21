@@ -29,7 +29,7 @@ public class PathService {
     public static final String GET_PROJECTION_LIST = FileUtils.readString("neo4j/queries/get_projection_list.cypher");
     public static final String COUNTRY_COST_GRAPH_PREFIX = "country-cost-graph-";
     public static final String PATH_SEARCH_GRAPH_PREFIX = "path-search-graph-";
-    public static final int MAX_PATH_PROJECTION_SIZE = 30;
+    public static final int MAX_PATH_PROJECTION_SIZE = 8;
 
     private final Neo4jClient neo4jClient;
     private final ObjectMapper objectMapper;

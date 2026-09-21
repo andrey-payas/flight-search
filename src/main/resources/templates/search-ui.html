@@ -51,6 +51,15 @@
             </div>
 
             <div>
+                <label class="block text-sm font-medium">Stay duration (days)</label>
+                <input id="stayDuration"
+                       type="number"
+                       min="0"
+                       placeholder="10"
+                       class="mt-1 w-full border rounded p-2">
+            </div>
+
+            <div>
                 <label class="flex items-center gap-2 mt-6">
                     <input
                             id="roundtrip"
@@ -148,6 +157,7 @@
         const optional = [
             ["min_layover", "minLayover"],
             ["max_layover", "maxLayover"],
+            ["stay_duration", "stayDuration"],
             ["hop_penalty", "hopPenalty"],
             ["layover_penalty", "layoverPenalty"],
             ["flight_time_penalty", "flightTimePenalty"],

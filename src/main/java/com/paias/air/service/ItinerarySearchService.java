@@ -60,6 +60,7 @@ public class ItinerarySearchService {
                                               Location to,
                                               LocalDate fromDate,
                                               LocalDate toDate,
+                                              Integer stayDuration,
                                               Boolean roundTrip,
                                               boolean returnKiwiLinks,
                                               @Nullable Integer minLayover,
@@ -74,7 +75,8 @@ public class ItinerarySearchService {
         CostWeights weights = createWeights(hopPenalty, layoverPenaltyPerHour, shortLayoverPenalty, flightTimePenaltyPerHour);
 
         log.info("Finding paths between {} and {} for dates from {} to {}", fromCountry, toCountry, fromDate, toDate);
-        Set<String> countryCodes = getRelevantCountryCodes(fromCountry, toCountry, fromDate, toDate, roundTrip);
+        Map<String, Set<String>> routeMap = getRelevantCountryRoutes(fromCountry, toCountry, fromDate, toDate, roundTrip);
+        Set<String> countryCodes = getRelevantCountryCodes(routeMap);
         log.info("Loading country data for countries {}", countryCodes);
         List<Country> countries =
                 countryRepository.findByIdIn(countryCodes.stream().toList())
@@ -84,33 +86,49 @@ public class ItinerarySearchService {
         Instant loadStart = Instant.now();
         log.info("Loading flights for countries {} for dates from {} to {}",
                 countryCodes, fromDate, toDate);
-        Set<String> airports = countries
-                .stream()
-                .flatMap(country -> country.getAirports().stream())
-                .map(Airport::getId)
-                .collect(Collectors.toSet());
-        List<Flight> flights = flightSearchRepository.findSearchFlights(
-                airports.stream().toList(),
-                fromDate.toString(),
-                toDate.toString());
+        List<Flight> flights = loadFlights(fromDate, toDate, countries, routeMap);
         log.info("Loaded {} flights to search in {} ms", flights.size(), Duration.between(loadStart, Instant.now()).toMillis());
         Instant searchStart = Instant.now();
         List<Flight> shortestPath;
         if (roundTrip) {
             log.info("Searching for shortest round trip between {} and {}", from, to);
             shortestPath =
-                    new DijkstraSearch(flights, locationCodeMapper, airportConnectionFinder, minLayover, maxLayover)
+                    new DijkstraSearch(flights, locationCodeMapper, airportConnectionFinder, minLayover, maxLayover, stayDuration)
                             .findShortestPath(from, from, List.of(to), weights);
             log.info("Found shortest round trip between {} and {}", from, to);
         } else {
             log.info("Searching for shortest one way trip between {} and {}", from, to);
             shortestPath =
-                    new DijkstraSearch(flights, locationCodeMapper, airportConnectionFinder, minLayover, maxLayover)
+                    new DijkstraSearch(flights, locationCodeMapper, airportConnectionFinder, minLayover, maxLayover, stayDuration)
                             .findShortestPath(from, to, List.of(), weights);
             log.info("Found shortest one way trip between {} and {}", from, to);
         }
         log.info("Finished search in {} ms", Duration.between(searchStart, Instant.now()).toMillis());
         return convertToFlightViewList(shortestPath, countries, returnKiwiLinks);
+    }
+
+    private List<Flight> loadFlights(LocalDate fromDate, LocalDate toDate, List<Country> countries, Map<String, Set<String>> routeMap) {
+        Set<String> airports = countries
+                .stream()
+                .flatMap(country -> country.getAirports().stream())
+                .map(Airport::getId)
+                .collect(Collectors.toSet());
+
+        List<Map<String, Object>> countryRoutes = new ArrayList<>();
+
+        routeMap.forEach((from, destinations) -> {
+            for (String to : destinations) {
+                countryRoutes.add(Map.of(
+                        "from", from,
+                        "to", to
+                ));
+            }
+        });
+
+        return flightSearchRepository.findSearchFlights(
+                countryRoutes,
+                fromDate.toString(),
+                toDate.toString());
     }
 
     private static CostWeights createWeights(Integer hopPenalty, Integer layoverPenaltyPerHour, Integer shortLayoverPenalty, Integer flightTimePenaltyPerHour) {
@@ -167,7 +185,19 @@ public class ItinerarySearchService {
                 countryRepository.findCountryByAirport(location.getAirportCodes().getFirst()).getId();
     }
 
-    private Set<String> getRelevantCountryCodes(String from, String to, LocalDate fromDate, LocalDate toDate, Boolean roundTrip) {
+    private Set<String> getRelevantCountryCodes(Map<String, Set<String>> routeMap) {
+        Set<String> countryCodes = new HashSet<>(routeMap.keySet());
+        routeMap.values().forEach(countryCodes::addAll);
+        return countryCodes;
+    }
+
+    private Map<String, Set<String>> getRelevantCountryRoutes(
+            String from,
+            String to,
+            LocalDate fromDate,
+            LocalDate toDate,
+            Boolean roundTrip) {
+
         List<ShortestPath> paths = new ArrayList<>();
         YearMonth current = YearMonth.from(fromDate);
         YearMonth toMonth = YearMonth.from(toDate);
@@ -178,7 +208,24 @@ public class ItinerarySearchService {
             }
             current = current.plusMonths(1);
         }
-        return paths.stream().flatMap(path -> path.route().stream()).collect(Collectors.toSet());
+
+        Map<String, Set<String>> routeMap = new HashMap<>();
+        for (ShortestPath path : paths) {
+            List<String> route = path.route();
+
+            for (int i = 0; i < route.size() - 1; i++) {
+                addRouteToMap(routeMap, route.get(i), route.get(i + 1));
+                addRouteToMap(routeMap, route.get(i), route.getLast());
+            }
+        }
+
+        return routeMap;
+    }
+
+    private static void addRouteToMap(Map<String, Set<String>> routeMap, String from, String to) {
+        routeMap
+                .computeIfAbsent(from, ignored -> new HashSet<>())
+                .add(to);
     }
 
     private String loadKiwiLink(Flight flight) {

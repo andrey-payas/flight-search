@@ -46,7 +46,7 @@ public class HeuristicsServiceTest extends TestBaseWiremock {
         searchPreparationService.loadFlightsForPaths("GB", "DE", month, 1000);
 
         List<FlightView> flights = itinerarySearchService.searchItineraries(new Location("GB"), new Location("DE"), month.atDay(1), month.atEndOfMonth(),
-                false, false, null, null, null, null, null, null);
+                10, false, false, null, null, null, null, null, null);
         assertFalse(flights.isEmpty());
     }
 

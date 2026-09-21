@@ -14,10 +14,18 @@ CREATE INDEX searchrecord_searchType_idx IF NOT EXISTS
 FOR (s:SearchRecord)
 ON (s.searchType);
 
-CREATE INDEX flight_toAirport_toTime IF NOT EXISTS
-FOR (f:Flight)
-ON (f.toAirport, f.toTime);
-
 CREATE INDEX flight_fromAirport IF NOT EXISTS
 FOR (f:Flight)
 ON (f.fromAirport);
+
+CREATE INDEX flight_toAirport IF NOT EXISTS
+FOR (f:Flight)
+ON (f.toAirport);
+
+CREATE INDEX flight_toTime IF NOT EXISTS
+FOR (f:Flight)
+ON (f.toTime);
+
+CREATE INDEX flight_from_to_country_time IF NOT EXISTS
+FOR (f:Flight)
+ON (f.fromCountry, f.toCountry, f.toTime);

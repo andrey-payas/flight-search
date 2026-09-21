@@ -14,8 +14,10 @@ public class Flight {
     String id;
 
     private String fromAirport;
+    private String fromCountry;
     private LocalDateTime fromTime;
     private String toAirport;
+    private String toCountry;
     private LocalDateTime toTime;
     private Long price;
     private int legCount;
@@ -24,13 +26,11 @@ public class Flight {
     private List<Leg> legs;
 
     @Transient
-    private String toCountryCode;
-    @Transient
     private String kiwiLink;
     public Flight() {
     }
 
-    public Flight(String id, String fromAirport, LocalDateTime fromTime, String toAirport, LocalDateTime toTime, Long price, List<Leg> legs, String toCountryCode, String kiwiLink, int legCount) {
+    public Flight(String id, String fromAirport, LocalDateTime fromTime, String toAirport, LocalDateTime toTime, Long price, List<Leg> legs, String kiwiLink, int legCount) {
         this.id = id;
         this.fromAirport = fromAirport;
         this.fromTime = fromTime;
@@ -38,7 +38,6 @@ public class Flight {
         this.toTime = toTime;
         this.price = price;
         this.legs = legs;
-        this.toCountryCode = toCountryCode;
         this.kiwiLink = kiwiLink;
         this.legCount = legCount;
     }

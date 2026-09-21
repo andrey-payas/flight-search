@@ -76,7 +76,8 @@ public class HeuristicsService {
                 .findAllFromCountry(from, month.toString())
                 .stream().map(
                         row ->
-                                new AbstractMap.SimpleEntry<>(keyExtractor.apply(row), convertToRoute(row))).collect(Collectors.groupingBy(Map.Entry::getKey, Collectors.mapping(Map.Entry::getValue, Collectors.toList())));
+                                new AbstractMap.SimpleEntry<>(keyExtractor.apply(row), convertToRoute(row)))
+                .collect(Collectors.groupingBy(Map.Entry::getKey, Collectors.mapping(Map.Entry::getValue, Collectors.toList())));
     }
 
     private List<Country> findAllCountries() {

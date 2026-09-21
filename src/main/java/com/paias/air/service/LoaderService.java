@@ -3,7 +3,9 @@ package com.paias.air.service;
 import com.paias.air.client.TequilaClient;
 import com.paias.air.model.n4j.Flight;
 import com.paias.air.model.n4j.heuristics.Country;
+import com.paias.air.repository.CountryRepository;
 import com.paias.air.repository.FlightRepository;
+import jakarta.annotation.PostConstruct;
 import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;
@@ -13,6 +15,7 @@ import org.springframework.transaction.support.TransactionTemplate;
 import java.time.YearMonth;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 import java.util.stream.Collectors;
 import java.util.stream.Gatherers;
 
@@ -25,17 +28,35 @@ public class LoaderService {
     private final FlightRepository flightRepository;
     private final HeuristicsService heuristicsService;
     private final TransactionTemplate transactionTemplate;
+    private final CountryRepository countryRepository;
+    private Map<String, String> airportCountries;
     @Getter
     @Value("#{'${country.list}'.split(',')}")
     private List<String> topCountries;
 
     public LoaderService(TequilaClient client, FlightRepository flightRepository,
                          HeuristicsService heuristicsService,
-                         TransactionTemplate transactionTemplate) {
+                         TransactionTemplate transactionTemplate, CountryRepository countryRepository) {
         this.client = client;
         this.flightRepository = flightRepository;
         this.heuristicsService = heuristicsService;
         this.transactionTemplate = transactionTemplate;
+        this.countryRepository = countryRepository;
+    }
+
+    @PostConstruct
+    void initAirportCountries() {
+        airportCountries = countryRepository.findAllCountryProjectionsBy()
+                .stream()
+                .flatMap(country -> country.getAirports().stream()
+                        .map(airport -> Map.entry(
+                                airport.getId(),
+                                country.getId()
+                        )))
+                .collect(Collectors.toMap(
+                        Map.Entry::getKey,
+                        Map.Entry::getValue
+                ));
     }
 
     public void loadOutgoingForCountry(YearMonth month, Country country, boolean allCountries) {
@@ -47,7 +68,7 @@ public class LoaderService {
         }
         List<String> missingCountries = new ArrayList<>(topCountries);
         missingCountries.removeAll(flights.stream()
-                .map(Flight::getToCountryCode)
+                .map(f -> airportCountries.get(f.getToAirport()))
                 .collect(Collectors.toSet()));
 
         List<List<String>> batches = missingCountries.stream().gather(Gatherers.windowFixed(COUNTRY_BATCH_SIZE)).toList();
@@ -77,7 +98,7 @@ public class LoaderService {
     public void saveFlights(List<Flight> flights) {
         transactionTemplate.executeWithoutResult(_ -> {
             log.info("Saving {} flights", flights.size());
-            flightRepository.saveAll(flights);
+            saveAllFlights(flights);
             log.info("Aggregating {} flights", flights.size());
             heuristicsService.aggregateFlights(flights);
         });
@@ -86,9 +107,22 @@ public class LoaderService {
     public void saveFlightsFromCountry(List<Flight> flights, String countryCode, YearMonth month) {
         transactionTemplate.executeWithoutResult(_ -> {
             log.info("Saving {} flights from country {} for month {}", flights.size(), countryCode, month);
-            flightRepository.saveAll(flights);
+            saveAllFlights(flights);
             log.info("Aggregating {} flights from country {} for month {}", flights.size(), countryCode, month);
             heuristicsService.aggregateFlightsFromCountry(flights, countryCode, month);
         });
+    }
+
+
+    private void saveAllFlights(List<Flight> flights) {
+        List<Flight> flightsToSave = flights.stream()
+                .filter(flight -> airportCountries.containsKey(flight.getFromAirport())
+                                && airportCountries.containsKey(flight.getToAirport()))
+                .toList();
+        for (Flight flight : flightsToSave) {
+            flight.setFromCountry(airportCountries.get(flight.getFromAirport()));
+            flight.setToCountry(airportCountries.get(flight.getToAirport()));
+        }
+        flightRepository.saveAll(flightsToSave);
     }
 }
